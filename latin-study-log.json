@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LearningResource",
+  "name": "Learning Latin in Real Time: A Study Log by Aleksandr",
+  "description": "Aleksandr documents a hands-on study session in Latin, focusing on core verbs, pronunciation, and audio-loop methods. Part of a larger exploration of ancient languages and modern immersion techniques.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "dateCreated": "2025-05-21",
+  "keywords": ["Latin learning", "self-study", "language immersion", "AI-assisted learning", "classical language", "pronunciation", "Aleksandr", "PromptSpeak (in development)"],
+  "inLanguage": "en",
+  "url": "https://your-substack-url.com/p/latin-study-log"
+}
