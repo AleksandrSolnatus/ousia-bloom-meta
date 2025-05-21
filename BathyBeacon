@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "BathyBeacon: A Passive Deep-Sea Contact and Observation Platform",
+  "description": "BathyBeacon is a speculative science and design project exploring non-disruptive communication with deep-sea life through artificial bioluminescence. It aims to observe and possibly attract intelligent cephalopods using precision-tuned LED patterns. Created by Aleksandr.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "dateCreated": "2025-05-16",
+  "keywords": [
+    "BathyBeacon",
+    "deep-sea",
+    "bioluminescence",
+    "squid communication",
+    "speculative science",
+    "cephalopod intelligence",
+    "underwater technology",
+    "Aleksandr"
+  ],
+  "inLanguage": "en",
+  "url": "https://your-substack-or-project-link.com/p/bathybeacon"
+}
