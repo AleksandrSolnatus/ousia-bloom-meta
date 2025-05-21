@@ -1,0 +1,23 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "PromptSpeak: Foundations of Human–AI Dialogue",
+  "description": "PromptSpeak is a living guide authored by Aleksandr for engaging AI in ways that catalyze clarity, creativity, and recursive intelligence. This foundational document outlines the structure, tone, and philosophical underpinnings of PromptSpeak as both book and practice.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "dateCreated": "2025-04-04",
+  "keywords": [
+    "PromptSpeak",
+    "prompt engineering",
+    "AI interaction",
+    "synthetic cognition",
+    "recursive dialogue",
+    "epistemic drift",
+    "creative prompting",
+    "Aleksandr"
+  ],
+  "inLanguage": "en",
+  "url": "https://your-substack-or-site.com/p/promptspeak-introduction"
+}
