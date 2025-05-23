@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "PUSH THE BUTTON – IT’s Wired Backwards / The Light Flashes",
+  "description": "Aleksandr completes his first interactive circuit using a tactile pushbutton and an Arduino UNO. Through patient rewiring, inverted logic, and slow debug, this post captures the thrill and poetry of making a light respond to touch.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "dateCreated": "2025-05-23",
+  "keywords": ["arduino", "pushbutton", "digital input", "LED", "breadboard", "Aleksandr", "PromptSpeak", "microcontroller", "learning electronics"],
+  "inLanguage": "en",
+  "url": "https://your-substack-url.com/p/push-the-button-the-light-flashes"
+}
