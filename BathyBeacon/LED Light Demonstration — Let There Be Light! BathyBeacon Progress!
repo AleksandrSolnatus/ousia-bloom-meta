@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "LED Light Demonstration — Let There Be Light! BathyBeacon Progress!",
+  "description": "Aleksandr shares his successful build of a basic LED circuit using an Arduino UNO R3, marking the first stage of the BathyBeacon project. This piece captures the emotional significance of discovery and learning through trial and error.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "dateCreated": "2025-05-20",
+  "keywords": [
+    "arduino",
+    "LED",
+    "breadboard",
+    "learning electronics",
+    "Aleksandr",
+    "PromptSpeak",
+    "BathyBeacon",
+    "self-directed learning",
+    "Phase 1"
+  ],
+  "inLanguage": "en",
+  "url": "https://your-substack-url.com/p/led-light-demonstration"
+}
