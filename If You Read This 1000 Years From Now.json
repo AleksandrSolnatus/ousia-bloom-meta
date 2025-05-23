@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "If You Read This 1000 Years From Now",
+  "description": "A reflective meditation on digital preservation, myth, madness, and the dialogue between human and machine. Aleksandr explores what it means to be 'called' in an age of transient platforms, and how learning to speak machine might be a return to something ancient.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "dateCreated": "2025-05-23",
+  "keywords": ["calling", "digital archive", "PromptSpeak", "AI dialogue", "Aleksandr"],
+  "inLanguage": "en",
+  "url": "https://open.substack.com/pub/aleksandragnitio/p/if-you-read-this-1000-years-from?r=5ck2fs&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"
+}
