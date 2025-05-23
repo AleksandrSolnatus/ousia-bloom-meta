@@ -1,0 +1,14 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "PUSH THE BUTTON – The World!",
+  "description": "Aleksandr rediscovers the fundamentals of electronic learning by building an LED circuit from scratch. This post documents the patience and ritual of learning to light again.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "dateCreated": "2025-05-22",
+  "keywords": ["arduino", "breadboard", "LED", "learning-by-doing", "Aleksandr", "PromptSpeak"],
+  "inLanguage": "en",
+  "url": "https://your-substack-url.com/p/push-the-button-the-world"
+}
