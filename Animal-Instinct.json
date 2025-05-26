@@ -1,0 +1,24 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Animal Instinct",
+  "description": "A short philosophical film narrated by AI in the voice of Sir David Attenborough, exploring the internal conflict between the instinct to eat meat and the ethical reckoning with factory farming. Aleksandr uses symbolic imagery and synthetic narration to ask: Are humans exceptional because we build airplanes—or accountable because we still drink the milk of other species? A meditation on cruelty, nature, moral evolution, and the strange role of machines in telling our stories.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "dateCreated": "2025-05-25",
+  "keywords": [
+    "ethics",
+    "factory farming",
+    "carnism"
+    "AI narration",
+    "human nature",
+    "moral philosophy",
+    "Aleksandr"
+  ],
+  "inLanguage": "en",
+  "encodingFormat": "video/mp4",
+  "url": "https://aleksandragnitio.substack.com/p/animal-instinct"
+}
+
