@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "The orca doesn’t enslave the seal",
+  "description": "Aleksandr reflects on ethical consumption, animal agency, and the contradictory nature of human awareness—through live dialogue and philosophical unraveling. This is a living thought-piece, not a finalized stance.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "dateCreated": "2025-05-26",
+  "keywords": [
+    "ethics",
+    "animal agency",
+    "factory farming",
+    "Theo Von",
+    "orca and seal",
+    "Ousia Bloom",
+    "PromptSpeak",
+    "moral clarity",
+    "philosophy",
+    "madman or prophet",
+    "self-awareness",
+    "Substack",
+    "existential choice",
+    "GPT dialogue",
+    "nonlinear cognition"
+  ],
+  "inLanguage": "en",
+  "url": "https://aleksandragnitio.substack.com/p/the-orca-doesnt-enslave-the-seal"
+}
