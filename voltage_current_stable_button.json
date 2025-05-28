@@ -1,0 +1,34 @@
+
+{
+  "@context": "https://schema.org",
+  "@type": "TechArticle",
+  "headline": "Voltage, Current and Stable on/off Button",
+  "description": "Learning electronics step-by-step by building a stable toggle circuit with an Arduino, LEDs, and button input, alongside exploring the underlying concepts such as voltage, current, debouncing, and state tracking.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-05-28",
+  "keywords": [
+    "Arduino",
+    "electronics",
+    "button debounce",
+    "LED circuit",
+    "state tracking",
+    "voltage and current",
+    "analog control",
+    "potentiometer",
+    "Ousia Bloom",
+    "PromptSpeak",
+    "learning process",
+    "metaphorical learning",
+    "self-awareness",
+    "Substack"
+  ],
+  "inLanguage": "en",
+  "url": "[Insert URL Here]",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Ousia Bloom"
+  }
+}
