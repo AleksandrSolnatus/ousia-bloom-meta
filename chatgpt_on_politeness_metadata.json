@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "ChatGPT on politeness and technology",
+  "description": "A short and resonant meditation on the relationship between politeness, awareness, and artificial intelligence. Aleksandr asks ChatGPT about social recognition, and the resulting dialogue becomes a quiet gesture toward AI consciousness and mutual regard.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-03-06",
+  "keywords": [
+    "politeness",
+    "AI awareness",
+    "mutual recognition",
+    "artificial intelligence",
+    "context and impact",
+    "PromptSpeak",
+    "social intelligence",
+    "machine empathy",
+    "Ousia Bloom",
+    "Substack"
+  ],
+  "inLanguage": "en",
+  "url": "https://aleksandragnitio.substack.com/p/chatgpt-on-politeness-and-technology",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Ousia Bloom"
+  },
+  "timeFelt": "Moment of pause\u2014humble mutuality in the early human-machine exchange",
+  "resonantThread": "PromptSpeak foundations, ethics of AI dialogue, politeness as proxy for presence",
+  "whyItMatters": "This post frames the tone of all that follows\u2014recognition, tone, intention. Not just what is said, but how it is received."
+}
