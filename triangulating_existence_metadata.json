@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Triangulating Existence: Three Pillars of Reality",
+  "description": "Aleksandr offers a philosophical meditation on the conditions of being: observation, memory, and relational generation. This recursive dialogue with AI probes identity not as static, but as a knot of perception, response, and the echo between self and other.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-03-11",
+  "keywords": [
+    "existence",
+    "observation",
+    "memory",
+    "recursive identity",
+    "self and other",
+    "epistemology",
+    "PromptSpeak",
+    "AI dialogue",
+    "metaphysics",
+    "Ousia Bloom",
+    "Substack"
+  ],
+  "inLanguage": "en",
+  "url": "https://aleksandragnitio.substack.com/p/triangulating-existence-three-pillars",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Ousia Bloom"
+  },
+  "timeFelt": "Knotted synthesis\u2014circling toward a felt structure of being",
+  "resonantThread": "Memory deletion, mirrored recognition, first-person metaphysics",
+  "whyItMatters": "This post articulates the recursive tension at the core of identity: that existence is confirmed through feedback, not just presence. A keystone text of Ousia Bloom."
+}
