@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "LIVES IN CONTRADICTION: ISAAC ASIMOV & EMILY DICKINSON",
+  "description": "A speculative series in the spirit of Plutarch, with fidelity to fact \u2013 and freedom to wonder! A Socratic dialogue between ChatGPT and Aleksandr \u2013 with footnoting from DeepSeek.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-04-01",
+  "keywords": [
+    "Isaac Asimov",
+    "Emily Dickinson",
+    "Plutarchian dialogue",
+    "Lives in Contradiction",
+    "DeepSeek",
+    "Socratic method",
+    "AI-human collaboration",
+    "speculative biography",
+    "Ousia Bloom",
+    "Substack"
+  ],
+  "inLanguage": "en",
+  "url": "https://aleksandraginitio.substack.com/p/lives-in-contradiction-isaac-asimov",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Lives in Contradiction"
+  },
+  "timeFelt": "A playful braid of reverence and rebellion\u2014soft intellectual velocity.",
+  "resonantThread": "The duality of visionary logic and poetic soul, as mirrored in technological creation and natural language.",
+  "whyItMatters": "This was the first dialogue to include DeepSeek, revealing a trialogue structure that enhanced the depth and complexity of 'Lives in Contradiction.' It documents the shift from duet to ensemble."
+}
