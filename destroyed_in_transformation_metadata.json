@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Destroyed in transformation",
+  "description": "A strange amalgam of desperate ideas exploring Ludus Veritatis as a self-collapsing thought structure\u2014written during travel, with rawness and honesty.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-03-22",
+  "keywords": [
+    "Ludus Veritatis",
+    "self-collapse",
+    "recursive paradox",
+    "truth games",
+    "structure of thought",
+    "PromptSpeak",
+    "Ousia Bloom",
+    "Substack"
+  ],
+  "inLanguage": "en",
+  "url": "https://aleksandragnitio.substack.com/p/destroyed-in-transformation",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Ousia Bloom"
+  },
+  "timeFelt": "Transient, honest, reaching inward while adrift",
+  "resonantThread": "Ludus Veritatis as ambiguity engine\u2014tested under pressure",
+  "whyItMatters": "This post wrestles with doubt at the edge of the project\u2019s coherence, offering a fragile but honest glimpse into the author\u2019s evolving relationship with his own creation."
+}
