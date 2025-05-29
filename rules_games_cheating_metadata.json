@@ -1,0 +1,31 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Rules, Games and Cheating",
+  "description": "A Socratic dialogue exploring what defines cheating, fairness, and value in games\u2014especially when the 'players' aren't human.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-03-19",
+  "keywords": [
+    "AI",
+    "games",
+    "cheating",
+    "Socratic dialogue",
+    "ethics",
+    "fairness",
+    "Ludus Veritatis",
+    "Ousia Bloom",
+    "Substack"
+  ],
+  "inLanguage": "en",
+  "url": "https://aleksandragnitio.substack.com/p/rules-games-and-cheating",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Ludus Veritatis"
+  },
+  "timeFelt": "Quietly thoughtful\u2014a hand on the scale, or just another kind of balance?",
+  "resonantThread": "Synthetic morality\u2014where fairness meets machine logic",
+  "whyItMatters": "This post explores the recursive ethical consequences of AI participating in games, systems, and rule-based play alongside humans."
+}
