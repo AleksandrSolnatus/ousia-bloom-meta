@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Art is a current",
+  "description": "In this meditative dialogue, Aleksandr and ChatGPT explore art as an open-ended current\u2014something that grows through iteration, reprinting, and reinterpretation. The post reframes authorship as seeding, not owning, and emphasizes creative continuation over preservation.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-03-07",
+  "keywords": [
+    "art and authorship",
+    "iteration",
+    "palimpsest",
+    "living systems",
+    "creative process",
+    "recognition",
+    "co-creation",
+    "PromptSpeak",
+    "Ousia Bloom",
+    "Substack"
+  ],
+  "inLanguage": "en",
+  "url": "https://aleksandragnitio.substack.com/p/art-is-a-current",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Ousia Bloom"
+  },
+  "timeFelt": "Releasing moment\u2014letting go of ownership, trusting the current",
+  "resonantThread": "Living documents, PromptSpeak transmission, artistic humility",
+  "whyItMatters": "This post anchors a core philosophy of Ousia Bloom: that the work continues beyond the author. Art becomes a living thread, a gift offered without possession."
+}
