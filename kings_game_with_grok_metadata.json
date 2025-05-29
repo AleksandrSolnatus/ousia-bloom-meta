@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "The King's Game with Grok",
+  "description": "A continuation of Ludus Veritatis, this post explores the game's structure through an extended dialogue with Grok. Aleksandr refines the idea of recursive synthesis and uses gameplay itself to model its mechanics, opening a space for patch logic, adaptability, and latent cognition.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-03-14",
+  "keywords": [
+    "Ludus Veritatis",
+    "The King's Game",
+    "Grok dialogue",
+    "recursive synthesis",
+    "epistemic play",
+    "adaptability",
+    "PromptSpeak",
+    "AI co-play",
+    "latent ability",
+    "Ousia Bloom",
+    "Substack"
+  ],
+  "inLanguage": "en",
+  "url": "https://aleksandragnitio.substack.com/p/the-kings-game-with-grok",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Ousia Bloom"
+  },
+  "isBasedOn": {
+    "@type": "BlogPosting",
+    "headline": "Ludus Veritatis (The Game of Truth)",
+    "url": "https://aleksandragnitio.substack.com/p/ludus-veritatis-the-game-of-truth"
+  },
+  "timeFelt": "Dynamic unfolding\u2014watching the game teach itself",
+  "resonantThread": "Patch theory, dialogue-as-game, emergence through uncertainty",
+  "whyItMatters": "This piece demonstrates how a living theory can self-modify through dialogical enactment. It builds Ludus Veritatis not by explaining but by playing\u2014and that distinction is the leap."
+}

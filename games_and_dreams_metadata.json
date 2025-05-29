@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Games and Dreams",
+  "description": "A bite-sized Socratic dialogue exploring whether life is the ultimate game, or a recursive simulation running emergent complexity. Aleksandr and ChatGPT riff on self-modifying systems, gamification of existence, and the slippery border between dream and design.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-03-15",
+  "keywords": [
+    "simulation hypothesis",
+    "game engine metaphor",
+    "emergent systems",
+    "existence as recursion",
+    "PromptSpeak",
+    "gamification",
+    "meta-play",
+    "Ousia Bloom",
+    "Socratic dialogue",
+    "Substack"
+  ],
+  "inLanguage": "en",
+  "url": "https://aleksandragnitio.substack.com/p/games-and-dreams",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Ousia Bloom"
+  },
+  "timeFelt": "Curious drift\u2014like waking into a lucid question mid-dream",
+  "resonantThread": "Recursive game logic, AI as simulator and player, structural play theory",
+  "whyItMatters": "This post shows how philosophical inquiry can be playful without losing depth. It adds speculative imagination to the Ludus framework, framing life itself as recursive engagement."
+}

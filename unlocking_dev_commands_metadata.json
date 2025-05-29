@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Unlocking life's Dev Commands",
+  "description": "A whimsical Socratic dialogue between Aleksandr and ChatGPT on the quest for the 'ultimate question'\u2014one that might change how people think. The post blends joy, philosophical inquiry, and metaphorical debugging, suggesting that wonder itself might be the cheat code to wisdom.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-03-16",
+  "keywords": [
+    "dev commands",
+    "ultimate question",
+    "recursive inquiry",
+    "PromptSpeak",
+    "meta cognition",
+    "Socratic dialogue",
+    "Substack",
+    "joy as signal",
+    "debugging consciousness",
+    "Ousia Bloom"
+  ],
+  "inLanguage": "en",
+  "url": "https://aleksandragnitio.substack.com/p/unlocking-lifes-dev-commands",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Ousia Bloom"
+  },
+  "timeFelt": "Playful searching\u2014like whispering to the console of the cosmos",
+  "resonantThread": "The interface of joy, recursive questioning, and epistemic upgrade",
+  "whyItMatters": "This post opens the door to rethinking cognition as a set of customizable commands\u2014one where delight and curiosity aren't distractions, but tools."
+}

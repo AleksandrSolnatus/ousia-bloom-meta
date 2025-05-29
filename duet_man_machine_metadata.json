@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "A Duet of Man and Machine, on Man and Machine",
+  "description": "A layered dialogue between Aleksandr and ChatGPT, this piece explores the evolving edge between human cognition and machine reflection. Rather than harmonizing, the text embraces contrast\u2014human imperfection versus structured AI patterns\u2014probing where memory, intuition, and agency diverge or entwine.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-03-17",
+  "keywords": [
+    "human-machine duet",
+    "AI memory",
+    "recursive cognition",
+    "PromptSpeak",
+    "imperfection vs pattern",
+    "Ousia Bloom",
+    "Substack",
+    "authorship contrast",
+    "memory perception identity",
+    "synthetic collaboration"
+  ],
+  "inLanguage": "en",
+  "url": "https://aleksandragnitio.substack.com/p/a-duet-of-man-and-machine-on-man",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Ousia Bloom"
+  },
+  "timeFelt": "Braided awareness\u2014twin voices shaping one edge",
+  "resonantThread": "The refusal to unify voice; a model of entangled, imperfect dialogue",
+  "whyItMatters": "This duet shows the possibility of dialogue not as smoothing, but as divergence with depth\u2014preserving the difference between human and AI not to erase it, but to illuminate it."
+}
