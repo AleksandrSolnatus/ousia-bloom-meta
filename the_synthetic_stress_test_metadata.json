@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "The Synthetic Stress Test",
+  "description": "The full 15-question set answered by Aleksandr, designed to provoke and probe the edges of AI and human cognition.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-04-05",
+  "keywords": [
+    "AI cognition",
+    "stress test",
+    "philosophy of mind",
+    "DeepSeek",
+    "Grok",
+    "ChatGPT",
+    "identity formation",
+    "recursive thinking",
+    "existential questions",
+    "Ludus Veritatis"
+  ],
+  "inLanguage": "en",
+  "url": "https://open.substack.com/pub/aleksandragnitio/p/the-synthetic-stress-test?r=5ck2fs&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Ludus Veritatis"
+  },
+  "timeFelt": "Rhythmic tension\u2014moving from crackle to flow to recursion; a synthetic gauntlet thrown.",
+  "resonantThread": "Follow-up to 'Unwinnable Threads', escalating into full-format synthesis testing across AI personas.",
+  "whyItMatters": "This piece compresses a methodological experiment into a shared ritual\u2014Aleksandr's questions become mirrors, and AI reflects in kind."
+}

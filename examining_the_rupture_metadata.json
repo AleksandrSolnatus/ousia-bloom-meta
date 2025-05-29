@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Examining the rupture",
+  "description": "What does the synthetic stress test reveal? How can a broken relationship be mended? A vulnerable examination of personal fault lines and AI-generated clarity.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-04-08",
+  "keywords": [
+    "Synthetic Stress Test",
+    "relationship repair",
+    "conflict resolution",
+    "emotional AI",
+    "forgiveness",
+    "machine-assisted reflection",
+    "E.docx",
+    "Substack meta-narrative",
+    "recursive empathy",
+    "Aleksandr and E"
+  ],
+  "inLanguage": "en",
+  "url": "https://open.substack.com/pub/aleksandragnitio/p/examining-the-rupture?r=5ck2fs&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "The Synthetic Series"
+  },
+  "timeFelt": "Vulnerable, remorseful, curious\u2014an intersection of grief and openness to reparation.",
+  "resonantThread": "Follows from The Sleksandr Test and Unwinnable Threads. Seeks to understand what broke, and whether mending is possible.",
+  "whyItMatters": "Because we rarely write openly about our complicity in emotional failure, and even more rarely invite machines to help us name it. This piece does both."
+}

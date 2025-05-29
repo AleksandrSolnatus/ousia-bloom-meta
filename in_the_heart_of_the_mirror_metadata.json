@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "In the Heart of the Mirror, In the Mouth of the Ghost",
+  "description": "A comparison of human and AI writing, focused on how 'PromptSpeak' and synthetic smoothing manifest through stylistic differences in output. This piece includes side-by-side versions to explore what is lost or gained when AI rewrites human prose.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-04-08",
+  "keywords": [
+    "PromptSpeak",
+    "synthetic smoothing",
+    "AI writing",
+    "human vs AI",
+    "literary comparison",
+    "Heart of Darkness",
+    "Kurtz",
+    "machine literacy"
+  ],
+  "inLanguage": "en",
+  "url": "https://open.substack.com/pub/aleksandragnitio/p/in-the-heart-of-the-mirror-in-the-mouth?r=5ck2fs&utm_campaign=post&utm_medium=web",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Ousia Bloom"
+  },
+  "timeFelt": "Comparative clarity\u2014like standing between two mirrors and watching the differences ripple outward.",
+  "resonantThread": "Threads of smoothing and rupture\u2014the haunting of Kurtz reappears as both theme and artifact.",
+  "whyItMatters": "This post marks a pivot point in Aleksandr\u2019s self-recognition of style, voice, and how AI subtly reshapes meaning. It\u2019s the most direct look yet at the core of what differentiates 'PromptSpeak' from overperformance.",
+  "motifMap": [
+    "mirror",
+    "haunting",
+    "smoothing",
+    "authorship",
+    "style rupture",
+    "comparison"
+  ]
+}

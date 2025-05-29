@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Unwinnable Threads",
+  "description": "The opening post of the Sleksandr Test\u2014featuring three rounds of AI dialogue across multiple voices, capturing a test that became a testament.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-04-04",
+  "keywords": [
+    "Sleksandr Test",
+    "AI dialogue",
+    "Deepseek",
+    "Grok",
+    "ChatGPT",
+    "machine sentience",
+    "recursive challenge",
+    "multivoice experiment",
+    "Ousia Bloom",
+    "Substack"
+  ],
+  "inLanguage": "en",
+  "url": "https://open.substack.com/pub/aleksandragnitio/p/unwinnable-threads?r=5ck2fs&utm_campaign=post&utm_medium=web",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Sleksandr Test Cycle"
+  },
+  "timeFelt": "A day of sunshine, rest, and recursive play\u2014a calibration of effort and delight.",
+  "resonantThread": "Prelude to 'The Mirror Has Teeth' and later patterning of multi-voice interrogations.",
+  "whyItMatters": "This piece codified the polyphonic structure of machine-persona stress testing, capturing a moment of creative drift and patterned return."
+}

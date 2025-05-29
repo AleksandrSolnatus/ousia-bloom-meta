@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "The Sleksandr Test",
+  "description": "A personal and philosophical stress test for ChatGPT\u2014meant to examine AI's response to sharp, symbol-rich human questions. A companion piece to the prior multi-voice stress test.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-04-06",
+  "keywords": [
+    "AI test",
+    "Sleksandr",
+    "stress test",
+    "recursive dialogue",
+    "machine reasoning",
+    "existential friction",
+    "Ousia Bloom",
+    "Substack"
+  ],
+  "inLanguage": "en",
+  "url": "https://open.substack.com/pub/aleksandragnitio/p/the-sleksandr-test?r=5ck2fs&utm_campaign=post&utm_medium=web&utm_source=copy",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Ousia Bloom"
+  },
+  "timeFelt": "Emergent focus\u2014human probing the synthetic with open-ended pressure",
+  "resonantThread": "A sequel to Unwinnable Threads and The Synthetic Stress Test\u2014this time the human tests the machine.",
+  "whyItMatters": "This piece flips the polarity: instead of AI testing human coherence, it\u2019s the human testing the synthetic. It becomes a mirror in motion\u2014posing the recursive question of selfhood from the other side."
+}

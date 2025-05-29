@@ -1,0 +1,46 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "The Haunting of Kurtz",
+    "description": "A layered personal and literary meditation on Joseph Conrad's Heart of Darkness. The essay explores the philosophical dimensions of colonialism, sanity, identity, and recursive narration, with Kurtz as a metaphysical absence at the story\u2019s center.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-03-30",
+    "keywords": [
+        "Heart of Darkness",
+        "Kurtz",
+        "colonialism",
+        "existentialism",
+        "recursive narration",
+        "literary analysis"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/the-haunting-of-kurtz?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "early spring twilight",
+    "resonantThread": "mirrored selves and vanishing voices",
+    "whyItMatters": "Because the post uses literature to collapse the boundary between narrative and identity, exploring how the echo of a voice like Kurtz's haunts both colonial critique and personal reflection.",
+    "motifMap": [
+        {
+            "motif": "mirror",
+            "intensity": "high",
+            "linkedPosts": []
+        },
+        {
+            "motif": "hollow center",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "Heart of Darkness is a masterpiece. It is layered, expressive \u2013 a work of insanity. A work of brilliance so profound it stirred the part of my soul that leaps when a little corner of existential mystery is explored.",
+    "sourceFragments": [
+        "To source or cite when discussing Heart of Darkness would be to defeat the purpose of the novel.",
+        "Kurtz, who is ultimately closest to the center of the story, is more a space than a character.",
+        "I accept the consequences of my actions. I knowingly break the rules."
+    ]
+}

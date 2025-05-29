@@ -1,0 +1,22 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "",
+    "description": "",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-__-__",
+    "keywords": [],
+    "inLanguage": "en",
+    "url": "",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "",
+    "resonantThread": "",
+    "whyItMatters": "",
+    "motifMap": []
+}

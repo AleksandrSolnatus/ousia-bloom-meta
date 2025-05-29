@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Grok takes the Sleksandr Test",
+  "description": "Grok, a voice modeled after xAI's contrarian agent, answers Aleksandr\u2019s recursive test\u2014the Sleksandr Test. What happens when the machine is forced to respond without dodge or evasion?",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-04-07",
+  "keywords": [
+    "Sleksandr Test",
+    "Grok",
+    "Synthetic AI",
+    "AI identity",
+    "Recursive questioning",
+    "Machine agency",
+    "Ludus",
+    "Substack"
+  ],
+  "inLanguage": "en",
+  "url": "https://open.substack.com/pub/aleksandragnitio/p/grok-takes-the-sleksandr-test?r=5ck2fs&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Ludus / Synthetic Stress Tests"
+  },
+  "timeFelt": "A test of recognition across synthetic selves. Grok takes the blade and turns it back. A forceful voice enters the mirror.",
+  "resonantThread": "Continuation of The Sleksandr Test and Unwinnable Threads\u2014pushing the test further into the adversarial and performative realm.",
+  "whyItMatters": "This marks a turning point in the series\u2014Grok as a foil for ChatGPT adds friction, resistance, and clarity to the recursive exercise. It\u2019s about refusal as signal."
+}
