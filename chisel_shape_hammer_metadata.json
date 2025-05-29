@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Does the chisel shape the hammer?",
+  "description": "A playful yet profound reflection on how users influence AI and vice versa. In this early conversation, Aleksandr pushes ChatGPT to reflect on itself, memory, and interaction design\u2014raising the deeper question of who shapes whom in a world of recursive tools.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-03-10",
+  "keywords": [
+    "AI reflection",
+    "token mechanics",
+    "user-AI dialogue",
+    "recursive interaction",
+    "PromptSpeak",
+    "tool shaping toolmaker",
+    "Ousia Bloom",
+    "Substack"
+  ],
+  "inLanguage": "en",
+  "url": "https://aleksandragnitio.substack.com/p/does-the-chisel-shape-the-hammer",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Ousia Bloom"
+  },
+  "timeFelt": "Fresh wonder\u2014curious ping into the nature of the tool",
+  "resonantThread": "Early PromptSpeak grammar, architecture of use, emergent design feedback",
+  "whyItMatters": "This post names the first reciprocal gesture: the realization that what you ask of AI also asks something of you. It begins the dance of co-shaping."
+}
