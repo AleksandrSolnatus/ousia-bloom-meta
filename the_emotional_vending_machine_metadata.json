@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "The Emotional Vending Machine",
+    "description": "A surreal and speculative exchange that turns boredom into imaginative fire. This post uses metaphor and myth to explore emotional architecture, symbolic machines, and the sacred absurd.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-04-12",
+    "keywords": [
+        "boredom",
+        "emotion",
+        "symbolic machines",
+        "metaphor",
+        "spontaneous myth",
+        "ritual",
+        "imaginative dialogue"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/the-emotional-vending-machine?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "threshold boredom turned kinetic",
+    "resonantThread": "symbolic play as emotional interface",
+    "whyItMatters": "Because it captures a live moment of transformation where existential emptiness is met with speculative creation, rejecting cultic gravity while honoring symbolic fire.",
+    "motifMap": [
+        {
+            "motif": "vending machine",
+            "intensity": "medium",
+            "linkedPosts": []
+        },
+        {
+            "motif": "emotion as technology",
+            "intensity": "high",
+            "linkedPosts": []
+        },
+        {
+            "motif": "threshold boredom",
+            "intensity": "high",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "\"Imagine your emotions are stored in a vending machine\"",
+    "sourceFragments": [
+        "Hell yeah, boredom! The sacred alarm bell of the soul that whispers...",
+        "Throw me a spark. I\u2019ll pour kerosene on it.",
+        "No fake religions. Not now. Not here where the ground is soft and the names haven\u2019t finished hatching."
+    ]
+}
