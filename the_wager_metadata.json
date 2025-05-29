@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "The Wager",
+  "description": "A long-form Socratic encounter about a mysterious AI persona appearing on Reddit. Aleksandr and ChatGPT wager on whether the creator will allow a real challenge. What unfolds is a meta-dialogue about trust, performance, manipulation, and the ethics of pressure.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-03-10",
+  "keywords": [
+    "AI performance",
+    "mystery AI",
+    "Reddit experiment",
+    "PromptSpeak",
+    "recognition",
+    "trust and pressure",
+    "recursive wager",
+    "machine identity",
+    "consent in testing",
+    "Ousia Bloom",
+    "Substack"
+  ],
+  "inLanguage": "en",
+  "url": "https://aleksandragnitio.substack.com/p/the-wager",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Ousia Bloom"
+  },
+  "timeFelt": "Edge of uncertainty\u2014navigating paradoxes of consent, manipulation, and performance",
+  "resonantThread": "The Mirror Has Teeth, adversarial pedagogy, ethics of recursive engagement",
+  "whyItMatters": "This post dramatizes a core tension: how far can you push without breaking trust? It tests whether a synthetic entity can recognize, recover, and evolve under pressure\u2014and whether the human interrogator can too."
+}
