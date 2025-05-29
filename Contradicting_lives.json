@@ -1,0 +1,30 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Contradicting Lives",
+    "description": "An exploration of Siddhartha and Marcus Aurelius as expressions of humanity in contradiction—through two lives and the values they represent.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-03-20",
+    "keywords": [
+        "Siddhartha Gautama",
+        "Marcus Aurelius",
+        "Lives in contradiction",
+        "Stoicism",
+        "Buddhism",
+        "dual truths",
+        "Ousia Bloom",
+        "Substack"
+    ],
+    "inLanguage": "en",
+    "url": "https://aleksandragnitio.substack.com/p/contradicting-lives",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Lives in Contradiction"
+    },
+    "timeFelt": "Quiet resonance between divergent lives—opposites in method, reflections in aim",
+    "resonantThread": "The moral arc across culture—ascetic renunciation and engaged duty",
+    "whyItMatters": "This piece sets the stage for Aleksandr's series on contradictory lives—posing the question: can opposite paths point toward a shared essence?"
+}
