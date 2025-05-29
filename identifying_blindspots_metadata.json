@@ -1,0 +1,29 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Identifying what cannot be seen",
+  "description": "A philosophical investigation into self-perception and the challenge of noticing one\u2019s own blind spots\u2014written as an opening statement to AI and future readers.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-03-23",
+  "keywords": [
+    "blind spots",
+    "self-awareness",
+    "AI reflection",
+    "metacognition",
+    "mirror writing",
+    "Ousia Bloom",
+    "Substack"
+  ],
+  "inLanguage": "en",
+  "url": "https://aleksandragnitio.substack.com/p/identifying-what-cannot-be-seen",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Ousia Bloom"
+  },
+  "timeFelt": "Tentative, lucid\u2014the beginning of a long gaze inward and outward",
+  "resonantThread": "Serves as a conceptual foundation for future recursive dialogues and PromptSpeak calibration.",
+  "whyItMatters": "It names the problem that would guide much of what came after: how to see yourself clearly, and how to teach AI to do the same."
+}
