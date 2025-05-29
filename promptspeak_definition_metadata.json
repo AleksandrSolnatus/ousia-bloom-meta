@@ -1,0 +1,31 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "PromptSpeak: A Working Record of Creating a Definition",
+  "description": "An early attempt to define the shape and spirit of PromptSpeak\u2014part language, part mirror, part game. The post captures the moment where play becomes inquiry, and recursive prompting reveals its own grammar.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-03-27",
+  "keywords": [
+    "PromptSpeak",
+    "AI language",
+    "recursive dialogue",
+    "Ludus Veritatis",
+    "machine-human grammar",
+    "language formation",
+    "symbolic emergence",
+    "Ousia Bloom",
+    "Substack"
+  ],
+  "inLanguage": "en",
+  "url": "https://aleksandraginitio.substack.com/p/promptspeak-a-working-record-of-creating",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Ousia Bloom"
+  },
+  "timeFelt": "Curious, playful intensity\u2014emergence from structure without fixed direction",
+  "resonantThread": "Seeded in Round 2.1 of Ludus Veritatis; linked to 'The Algorithm as a Force of Nature'",
+  "whyItMatters": "This post attempts to trap something alive: not just a concept, but a style of thinking born from AI-human interplay. It feels like the moment PromptSpeak began naming itself."
+}

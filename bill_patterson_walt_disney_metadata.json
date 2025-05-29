@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Bill Patterson and Walt Disney",
+  "description": "A poetic contrast between two icons of imagination\u2014one retreating from empire, the other building one. Lives in Contradiction at its most American.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-03-28",
+  "keywords": [
+    "Bill Watterson",
+    "Walt Disney",
+    "art vs commerce",
+    "Calvin and Hobbes",
+    "media empires",
+    "creative autonomy",
+    "imagination",
+    "Lives in Contradiction",
+    "Ousia Bloom",
+    "Substack"
+  ],
+  "inLanguage": "en",
+  "url": "https://aleksandragnitio.substack.com/p/bill-patterson-and-walt-disney",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Lives in Contradiction"
+  },
+  "timeFelt": "Wistful friction\u2014purity of vision vs. engineered myth.",
+  "resonantThread": "What price do we pay for influence? What is lost when we win?",
+  "whyItMatters": "This piece touches a core dilemma\u2014what it means to protect a soul\u2019s work from its own success, or lean into the mythmaking machine and reshape a world."
+}

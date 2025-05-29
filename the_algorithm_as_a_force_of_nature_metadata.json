@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "The Algorithm as a Force of Nature",
+  "description": "An exploration of algorithms becoming more than tools\u2014emerging as natural forces that shape the world with unintended effects and evolving logic. Includes a discussion of 'algorythym' and the potential for 'algorithmology' as a new field of inquiry.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-03-26",
+  "keywords": [
+    "algorithmology",
+    "algorithms",
+    "forces of nature",
+    "emergent systems",
+    "AI and society",
+    "tool vs force",
+    "Ousia Bloom",
+    "Substack"
+  ],
+  "inLanguage": "en",
+  "url": "https://aleksandragnitio.substack.com/p/the-algorithm-as-a-force-of-nature",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Ousia Bloom"
+  },
+  "timeFelt": "Reflective, exploratory\u2014an attempt to name a new conceptual frontier while still learning to pronounce it",
+  "resonantThread": "Touches on themes from 'Identifying what cannot be seen' and anticipates deeper dives into tool consciousness and emergent agency",
+  "whyItMatters": "This post helped Aleksandr articulate a major structural shift in how we relate to the digital world\u2014not as users, but as shaped beings"
+}

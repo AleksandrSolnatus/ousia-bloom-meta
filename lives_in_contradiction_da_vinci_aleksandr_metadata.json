@@ -1,0 +1,32 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Lives in Contradiction: Leonardo Da Vinci and Aleksandr",
+  "description": "The third entry in the 'Lives in Contradiction' series contrasts the universal mind of Leonardo da Vinci with the recursive self-examination of Aleksandr, drawing out the tension between vast outer curiosity and intimate inner recursion.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-03-25",
+  "keywords": [
+    "Leonardo da Vinci",
+    "Aleksandr",
+    "Lives in contradiction",
+    "universal mind",
+    "recursive self",
+    "symbolic comparison",
+    "Renaissance genius",
+    "inner recursion",
+    "Ousia Bloom",
+    "Substack"
+  ],
+  "inLanguage": "en",
+  "url": "https://aleksandraginitio.substack.com/p/lives-in-contradiction-leonardo-da-vinci-and-aleksandr",
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": "Lives in Contradiction"
+  },
+  "timeFelt": "Playful awe mixed with self-conscious contrast\u2014daring to juxtapose oneself with the vastness of genius.",
+  "resonantThread": "Continues the pattern begun in previous 'Lives in Contradiction' entries, this time moving from cultural icons to personal introspection.",
+  "whyItMatters": "This post bravely puts the author into direct comparison with a figure of towering intellect\u2014not to claim parity, but to explore what we learn about both when we let contrast illuminate contradiction."
+}
