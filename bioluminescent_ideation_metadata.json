@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Bioluminescent Ideation",
+    "description": "A speculative design proposal for a deep-sea observation beacon that uses artificial bioluminescence instead of invasive lighting. This post marks the beginning of the BathyBeacon project.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-05-09",
+    "keywords": [
+        "bioluminescence",
+        "deep sea",
+        "exploration",
+        "squid",
+        "BathyBeacon",
+        "design fiction",
+        "non-invasive observation",
+        "marine technology"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/bioluminescent-ideation?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "applied wonder",
+    "resonantThread": "designing for encounter without intrusion",
+    "whyItMatters": "This post proposes a viable, respectful alternative for interacting with the deep ocean. It honors the unknowable not by avoiding it, but by approaching in silence, light, and minimal disruption. A beginning of synthesis between ethics and exploration.",
+    "motifMap": [
+        {
+            "motif": "signal without sound",
+            "intensity": "high",
+            "linkedPosts": [
+                "Squid Signal",
+                "The Shape Beneath the Surface"
+            ]
+        },
+        {
+            "motif": "experimental humility",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "Could a longterm observation platform be developed for the Deep Sea?",
+    "sourceFragments": [
+        "Could cultures of bioluminescent plants or bacteria be grown to illuminate the ROVs?",
+        "The light is the message.",
+        "This keeps the experiment clean, testable, and respectful of the environment, while vastly reducing the complexity and cost of the bioengineering path."
+    ],
+    "associatedMedia": {
+        "@type": "ImageObject",
+        "contentUrl": "Screenshot 2025-05-30 at 12.25.56\u202fPM.png",
+        "description": "A glowing blue beacon on the ocean floor, softly illuminating squid in the deep. A symbol of invitation, not conquest."
+    }
+}
