@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "BathyBeacon Design Document V2",
+    "description": "A formalized design document for the BathyBeacon project \u2014 a passive, non-disruptive deep-sea observational platform. This version articulates the mission\u2019s ethics, method, and technical scope.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-05-16",
+    "keywords": [
+        "BathyBeacon",
+        "deep sea",
+        "design document",
+        "non-invasive observation",
+        "bioluminescence",
+        "marine biology",
+        "ethics of contact",
+        "scientific protocol"
+    ],
+    "inLanguage": "en",
+    "url": "https://aleksandragnitio.substack.com/p/bathybeacon-design-document-v2",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "clarity of purpose",
+    "resonantThread": "design as ethical lens",
+    "whyItMatters": "This document reframes what it means to reach out across an ecological boundary. It trades control for invitation, and maps the technical with humility. Science becomes ritual.",
+    "motifMap": [
+        {
+            "motif": "ritualized observation",
+            "intensity": "high",
+            "linkedPosts": [
+                "BathyBeacon Prototype",
+                "Bioluminescent Ideation"
+            ]
+        },
+        {
+            "motif": "ethical design",
+            "intensity": "high",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "The BathyBeacon Project aims to explore deep-sea biological environments through a novel, non-disruptive passive beacon system...",
+    "sourceFragments": [
+        "Utilize precision-tuned artificial bioluminescence to attract and observe deep-sea life.",
+        "Gathering invaluable behavioral data, including the significance of silence (non-responsiveness).",
+        "Minimizing ecological disruption.",
+        "Scientific instrument or philosophical invocation?"
+    ]
+}

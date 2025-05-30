@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Flow like water",
+    "description": "A poetic template for reflecting on tennis practice, focusing not on stats or technique but on emotional resonance, embodied insight, and play as beauty. Designed to guide awareness and deepen the joy of practice.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-05-19",
+    "keywords": [
+        "tennis",
+        "practice journal",
+        "flow state",
+        "embodied learning",
+        "sports philosophy",
+        "art in motion"
+    ],
+    "inLanguage": "en",
+    "url": "https://aleksandragnitio.substack.com/p/flow-like-water",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "graceful concentration",
+    "resonantThread": "attention through movement",
+    "whyItMatters": "The post offers a ritual for transformation, using tennis as a medium for reflective presence and aesthetic experience. It reframes training into poetic inquiry.",
+    "motifMap": [
+        {
+            "motif": "ritualized practice",
+            "intensity": "high",
+            "linkedPosts": [
+                "More Tennis, and personal drills",
+                "Today is a placeholder"
+            ]
+        },
+        {
+            "motif": "body as compass",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "Most Beautiful Moment Today:\n(Describe the single shot, rally, or movement that felt most artful, regardless of outcome.)",
+    "sourceFragments": [
+        "Move like a question unanswered.",
+        "Would you like me to create a printable or digital version of this?",
+        "What did I learn or notice about my body?"
+    ]
+}

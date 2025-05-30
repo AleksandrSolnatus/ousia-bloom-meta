@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Lived History: A Message Across Time",
+    "description": "A meditation on digital memory and the strange intimacy of mundane records. This post explores hyperlink decay, AI usage, and how we imagine future readers encountering our lives.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-05-19",
+    "keywords": [
+        "digital memory",
+        "hyperlink decay",
+        "archival",
+        "AI usage",
+        "time capsule",
+        "future reader",
+        "Lauren",
+        "machine-preserved history"
+    ],
+    "inLanguage": "en",
+    "url": "https://aleksandragnitio.substack.com/p/lived-history-a-message-across-time",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "future-facing quiet",
+    "resonantThread": "how the ordinary becomes the record",
+    "whyItMatters": "This post suggests that even dry, transactional digital moments might outlive their authors. It leans into the idea that preservation is not about importance \u2014 it\u2019s about presence, timing, and curiosity.",
+    "motifMap": [
+        {
+            "motif": "archival reflexivity",
+            "intensity": "high",
+            "linkedPosts": [
+                "Questions of Pedagogy",
+                "Today is a placeholder"
+            ]
+        },
+        {
+            "motif": "time as context engine",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "It makes writing more fun when you imagine your work being stumbled on a thousand years from now.",
+    "sourceFragments": [
+        "Anything is historical data after a long enough time.",
+        "I wonder if the google doc link is more likely to survive long periods of time?",
+        "Is just putting it at the end better? That way it is complete?",
+        "This is Lauren\u2019s use of ChatGPT"
+    ]
+}

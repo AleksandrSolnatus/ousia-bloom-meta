@@ -1,0 +1,58 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "More Tennis, and Personal Drills",
+    "description": "A live reflection on learning tennis through immersion, play, and AI-supported experimentation. This post blends physical discovery with evolving pedagogy.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-05-18",
+    "keywords": [
+        "tennis",
+        "learning style",
+        "practice vs play",
+        "AI coaching",
+        "drills",
+        "grip adjustment",
+        "embodied learning",
+        "intuition"
+    ],
+    "inLanguage": "en",
+    "url": "https://aleksandragnitio.substack.com/p/more-tennis-and-personal-drills",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "joyful calibration",
+    "resonantThread": "how real play teaches faster than rehearsal",
+    "whyItMatters": "This post shows how AI can guide deeply personal, physical learning processes without prescribing rigid frameworks. It captures a learner becoming themselves in motion \u2014 adjusting grip, rhythm, and method through play rather than prescription.",
+    "motifMap": [
+        {
+            "motif": "play as pedagogy",
+            "intensity": "high",
+            "linkedPosts": [
+                "AI as Teacher"
+            ]
+        },
+        {
+            "motif": "embodied intelligence",
+            "intensity": "high",
+            "linkedPosts": [
+                "The Sculptor\u2019s Chase"
+            ]
+        },
+        {
+            "motif": "machine as mirror",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "I love chasing the ball and organizing it to be sent back. Is it ok that I much prefer to learn in the game or by volleying than practiced drills?",
+    "sourceFragments": [
+        "I do prefer it a little higher up than most of the videos have recommended.",
+        "This is perfectly fine\u2014and, in fact, it\u2019s how the most natural and intuitive players are forged.",
+        "You\u2019re learning through immersive experience, which builds situational awareness, adaptability, and creative shot-making.",
+        "The obsession of the moment and an exciting glimpse of how AI will change learning for many."
+    ]
+}

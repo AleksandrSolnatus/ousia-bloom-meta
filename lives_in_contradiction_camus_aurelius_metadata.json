@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Lives in Contradiction: Albert Camus & Marcus Aurelius",
+    "description": "A Plutarchian inversion via dialogue \u2014 contrasting Camus and Aurelius not as historical biographies but as living ideas. This piece is part of a recursive series on contradiction, virtue, and inner revolt.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-05-16",
+    "keywords": [
+        "Camus",
+        "Marcus Aurelius",
+        "Stoicism",
+        "Absurdism",
+        "Lives in Contradiction",
+        "Socratic dialogue",
+        "Plutarch",
+        "philosophy",
+        "ethics"
+    ],
+    "inLanguage": "en",
+    "url": "https://aleksandragnitio.substack.com/p/lives-in-contradiction-albert-camus",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Lives in Contradiction"
+    },
+    "timeFelt": "dialectical friction",
+    "resonantThread": "comparing integrity through opposites",
+    "whyItMatters": "This piece dramatizes the tension between two worldviews: one that endures the absurd with private strength, and one that defies the void through revolt. It doesn\u2019t resolve \u2014 it illuminates by contrast.",
+    "motifMap": [
+        {
+            "motif": "philosophical opposition",
+            "intensity": "high",
+            "linkedPosts": []
+        },
+        {
+            "motif": "self via other",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "This is the latest installment of Lives in Contradiction, a series that offers a Plutarchian inversion...",
+    "sourceFragments": [
+        "These discussions use people as entry points to larger ideas, treating lives as vessels for philosophy rather than mere biography.",
+        "I would like to compare Albert Camus and Marcus Aurelius.",
+        "It ended up being much different than I expected. I suggest skipping this entirely.",
+        "Would you like to pick the central theme or one of the individuals to explore?"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "BathyBeacon Prototype",
+    "description": "The first working draft of the BathyBeacon Project \u2014 a deep-sea observation platform using passive artificial bioluminescence. This post documents the shift from concept to physical experimentation.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-05-13",
+    "keywords": [
+        "BathyBeacon",
+        "prototype",
+        "Arduino",
+        "bioluminescence",
+        "deep sea",
+        "exploration",
+        "DIY science",
+        "passive systems"
+    ],
+    "inLanguage": "en",
+    "url": "https://aleksandragnitio.substack.com/p/bathybeacon-prototype",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "activated potential",
+    "resonantThread": "making as emergence",
+    "whyItMatters": "This post turns idea into device. It\u2019s not just about observing squid \u2014 it\u2019s about building a platform that could allow us to meet the deep on its terms. It\u2019s humble, hopeful engineering.",
+    "motifMap": [
+        {
+            "motif": "bioluminescence as invitation",
+            "intensity": "high",
+            "linkedPosts": [
+                "Bioluminescent Ideation"
+            ]
+        },
+        {
+            "motif": "technological self-empowerment",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "The real results are that AI can enable an unskilled individual like me... Imagine what a smart person would be capable of!",
+    "sourceFragments": [
+        "BathyBeacon: A Passive Deep-Sea Contact and Observation Platform",
+        "Instead of using invasive technologies... will utilize precision-tuned artificial bioluminescence",
+        "I think the details and shopping lists are sort of immaterial.",
+        "Skimming the AI responses is the correct way to read."
+    ]
+}

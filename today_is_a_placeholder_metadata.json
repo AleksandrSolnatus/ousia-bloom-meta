@@ -1,0 +1,55 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Today is a placeholder",
+    "description": "A quiet reflection on weather, transformation, gaming, memory, and becoming. A moment between things, catching the tone of a turning season and a turning self.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-05-30",
+    "keywords": [
+        "placeholder",
+        "seasonal reflection",
+        "AI",
+        "legacy",
+        "Amar",
+        "Balder\u2019s Gate 3",
+        "memory",
+        "identity"
+    ],
+    "inLanguage": "en",
+    "url": "https://aleksandragnitio.substack.com/p/today-is-a-placeholder",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "paused transition",
+    "resonantThread": "being held between storylines",
+    "whyItMatters": "This fragment captures a particular kind of day \u2014 not for its events, but for its atmosphere. A moment of becoming, glazed in strange light, where death and memory blur into myth and AI becomes a shadow of intention.",
+    "motifMap": [
+        {
+            "motif": "identity shimmer",
+            "intensity": "high",
+            "linkedPosts": [
+                "AI as Teacher"
+            ]
+        },
+        {
+            "motif": "weather as metaphor",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "I am sitting on my balcony listening to summer birds with early spring weather. The light is strange...",
+    "sourceFragments": [
+        "But metallic.ly so.",
+        "I think I maybe died when \u201cAmar\u201d died on an honor role run.",
+        "With enough energy in one direction, you can become Big Mac Dave."
+    ],
+    "associatedMedia": {
+        "@type": "ImageObject",
+        "contentUrl": "A_traditional_oil_painting,_rich_in_atmospheric_de.png",
+        "description": "A surreal oil painting of a person on a balcony under a metallic sky, shadow and ghost twin visible, atmosphere soft and dreamlike. The light is strange. Something is shifting."
+    }
+}

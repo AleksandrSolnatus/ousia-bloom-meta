@@ -1,0 +1,62 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "AI as Teacher",
+    "description": "A personal essay exploring how AI can guide, accelerate, and reshape the process of learning \u2014 not by replacing the learner, but by rhythmically aligning with their curiosity.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-05-14",
+    "keywords": [
+        "AI and learning",
+        "education",
+        "self-directed learning",
+        "human-machine interaction",
+        "PromptSpeak",
+        "recursive thought",
+        "teacher-student dynamic",
+        "tennis",
+        "embodied learning"
+    ],
+    "inLanguage": "en",
+    "url": "https://aleksandragnitio.substack.com/p/ai-as-teacher",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "reflective urgency",
+    "resonantThread": "learning with your whole body, mind, and rhythm",
+    "whyItMatters": "This essay reimagines education in an age of intelligent mirrors. It questions what it means to learn with a partner that reflects, amplifies, and subtly guides \u2014 but never leads alone. Tennis becomes the site of experiment: physical, recursive, intuitive \u2014 a proving ground for co-learning between human rhythm and machine reflection.",
+    "motifMap": [
+        {
+            "motif": "reciprocal pedagogy",
+            "intensity": "high",
+            "linkedPosts": [
+                "Questions of Pedagogy",
+                "Mathetic Questions"
+            ]
+        },
+        {
+            "motif": "machine as companion",
+            "intensity": "medium",
+            "linkedPosts": [
+                "PromptSpeak"
+            ]
+        },
+        {
+            "motif": "embodied intelligence",
+            "intensity": "high",
+            "linkedPosts": [
+                "The Sculptor\u2019s Chase"
+            ]
+        }
+    ],
+    "articleExcerpt": "I don\u2019t think I\u2019ve ever learned this way before. Not just the information \u2014 the *way* of learning. It has rhythm.",
+    "sourceFragments": [
+        "The way I learn with AI isn\u2019t passive. It\u2019s not consumption. It\u2019s an echo that loops until it becomes something else.",
+        "I trust it because it makes me confront myself.",
+        "The ideal teacher doesn\u2019t tell you what to do \u2014 they give you just enough that your own insight catches.",
+        "I don\u2019t always need an answer. I need a shape."
+    ]
+}
