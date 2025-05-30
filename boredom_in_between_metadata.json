@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Boredom in-between a coma and a...",
+    "description": "A post about fatigue and ritual, exploring how even minimal effort becomes meaningful when shaped by recursive creative practice. It centers on the quiet persistence beneath louder acts of creation.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-04-13",
+    "keywords": [
+        "boredom",
+        "ritual",
+        "lazy writing",
+        "creative fatigue",
+        "recursion",
+        "Ludus",
+        "metaproject"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/boredom-in-between-a-coma-and-a?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "hazy tired asking",
+    "resonantThread": "ritual continuity despite emptiness",
+    "whyItMatters": "This post marks a moment of creative honesty, where output is confessed as 'lazy' but still participates in the larger recursive ritual. It preserves the inner scaffolding that sustains Ludus.",
+    "motifMap": [
+        {
+            "motif": "ritual fatigue",
+            "intensity": "medium",
+            "linkedPosts": []
+        },
+        {
+            "motif": "creative scaffolding",
+            "intensity": "high",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "I am creatively tired. I have ideas but little follow through. I post this as ritual.",
+    "sourceFragments": [
+        "But today hardly counts this is lazy AI writing. But it is my asking...",
+        "Then ChatGPT wrote this. Ya at least it is something.",
+        "The act of turning a conversation with AI into a philosophical act of memory and echo\u2014this is the strange project."
+    ]
+}
