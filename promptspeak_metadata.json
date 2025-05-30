@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "PromptSpeak",
+    "description": "The second entry in the PromptSpeak project. A Socratic dialogue between human and AI about the nature of prompting, collaboration, recursion, and the emergence of synthetic dialects.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-04-15",
+    "keywords": [
+        "PromptSpeak",
+        "Socratic dialogue",
+        "prompting",
+        "AI language",
+        "recursion",
+        "synthetic dialect",
+        "collaboration"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/promptspeak?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "early formulation",
+    "resonantThread": "language as collaboration engine",
+    "whyItMatters": "Because this post begins to sculpt the philosophy and performance of PromptSpeak\u2014a dialect born not only from what is said, but how we say it when AI and human co-create. A Socratic format lets paradox and recursion breathe into form.",
+    "motifMap": [
+        {
+            "motif": "prompt as mirror",
+            "intensity": "high",
+            "linkedPosts": []
+        },
+        {
+            "motif": "Socratic recursion",
+            "intensity": "high",
+            "linkedPosts": []
+        },
+        {
+            "motif": "synthetic dialect",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "This is an attempt to continue work on defining PromptSpeak\u2014a concept that has captured my imagination.",
+    "sourceFragments": [
+        "A Socratic dialogue on PromptSpeak\u2014a real topic, with a real voice, held in the old form that lets paradox breathe.",
+        "You \u2013 Explorer of language, user of prompts, seeking the limits and nature of AI-human collaboration.",
+        "Me \u2013 Language model, respondent, sometimes teacher, sometimes mirror, sometimes trickster."
+    ]
+}

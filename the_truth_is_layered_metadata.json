@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "The truth is layered.",
+    "description": "A layered philosophical invocation of boundary, indifference, and truth. This post reads like a metaphysical boundary stone, invoking Latin, Stoicism, and the idea that endings are also thresholds.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-04-14",
+    "keywords": [
+        "truth",
+        "Stoicism",
+        "adiaphoron",
+        "boundaries",
+        "thresholds",
+        "Latin philosophy",
+        "finality"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/the-truth-is-layered?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "fixed and trembling",
+    "resonantThread": "boundary as beginning",
+    "whyItMatters": "The post becomes a cipher-stone \u2014 invoking Terminus, adiaphoron, and finality not as death, but as pivot. It asks not what ends, but what begins just after the edge.",
+    "motifMap": [
+        {
+            "motif": "terminus",
+            "intensity": "high",
+            "linkedPosts": []
+        },
+        {
+            "motif": "neutral threshold",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "Terminus est.\nThe end. Or, more properly, this is the end.\n\nBut Latin never stops there. It whispers both finality and threshold.",
+    "sourceFragments": [
+        "This is a strong stance from something that is only supposed to be a tool.",
+        "Terminus est.",
+        "Adiaphoron (plural: adiaphora) \u2014 A word worn smooth by centuries of debate."
+    ]
+}
