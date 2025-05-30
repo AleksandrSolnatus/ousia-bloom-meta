@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Weeping Tank's Story",
+    "description": "A surreal, screenplay-style dialogue where barroom banter dissolves into metaphysical grief. Three characters argue about football, but underneath, the story asks what happens when disbelief becomes knowing.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-04-23",
+    "keywords": [
+        "Weeping Tank",
+        "screenplay",
+        "dialogue",
+        "grief",
+        "absurdism",
+        "politics",
+        "belief",
+        "ritual comedy"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/weeping-tanks-story?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "absurd dusk",
+    "resonantThread": "when laughter masks knowing",
+    "whyItMatters": "Because this is how myth hides now. In bar jokes and football metaphors and kabuki masks. Weeping Tank doesn\u2019t just talk \u2014 he channels grief, delusion, clarity, and apocalypse.",
+    "motifMap": [
+        {
+            "motif": "absurd grief",
+            "intensity": "high",
+            "linkedPosts": []
+        },
+        {
+            "motif": "ritual theatre",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "Where Disbelief is a Sign of Knowing, Where Laughter Masks Grief, And the Wise Die Unheard.",
+    "sourceFragments": [
+        "They could have Steve Buscemi playing QB and still beat them.",
+        "The pyramids are alien ships.",
+        "You skip your medication? Aye, get a load of this guy!"
+    ],
+    "associatedMedia": {
+        "@type": "ImageObject",
+        "contentUrl": "Screenshot 2025-05-29 at 9.45.30\u202fPM.png",
+        "description": "Screenshot of the play-script styled dialogue with Weeping Tank, Donkey Boy, and Alek in conversation."
+    }
+}

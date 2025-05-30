@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "The Shape Beneath the Surface",
+    "description": "A final field report (for now) from the deep sea inquiry into squid gesture, symbolic motion, and communicative shape. This post draws parallels between tentacle motion, language loops, and waveform patterning.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-04-27",
+    "keywords": [
+        "squid communication",
+        "gesture",
+        "symbolism",
+        "Ancient Greek",
+        "biological language",
+        "nonverbal cognition",
+        "deep sea"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/the-shape-beneath-the-surface?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "reflective pause",
+    "resonantThread": "motion as syntax",
+    "whyItMatters": "This piece threads together language, gesture, and speculative perception \u2014 leaving open a portal between sonic structure and somatic shape. It\u2019s the final breath of a deep-sea inquiry before resurfacing.",
+    "motifMap": [
+        {
+            "motif": "gesture as grammar",
+            "intensity": "high",
+            "linkedPosts": [
+                "Squid Signal",
+                "Phase Change"
+            ]
+        },
+        {
+            "motif": "liminal exit",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "When I saw the colossal squid footage the first time I thought it very odd. The squid seemed to be investigating.",
+    "sourceFragments": [
+        "This silly DIY visualizer and how it bounced, and twisted reminded me of my language lessons.",
+        "Wouldn't it be the same with a squid and tentacles?",
+        "Some random noise, some dedicated speech. To a human it is easy to tell the difference... Wouldn\u2019t it be the same beneath the surface?"
+    ]
+}

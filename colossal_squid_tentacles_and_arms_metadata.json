@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Colossal Squid: Tentacles and Arms",
+    "description": "A speculative exploration into the anatomical differences between arms and tentacles in the colossal squid, and how these structures might relate to signaling and symbolic expression.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-04-26",
+    "keywords": [
+        "colossal squid",
+        "tentacles",
+        "arms",
+        "symbolic signaling",
+        "marine biology",
+        "anatomy",
+        "speculative communication"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/colossal-squid-tentacles-and-arms?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "tactile inference",
+    "resonantThread": "limb as language",
+    "whyItMatters": "This post introduces a vital anatomical distinction that may underlie the mechanics of squid-based symbolic interaction. It balances emerging scientific understanding with intuitive speculation.",
+    "motifMap": [
+        {
+            "motif": "limb differentiation",
+            "intensity": "high",
+            "linkedPosts": [
+                "Giant Squid and Signaling"
+            ]
+        },
+        {
+            "motif": "gesture theory",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "Continuing my fascination with Squid! And Tentacles as communication. This is exploratory science based only off of scant video footage.",
+    "sourceFragments": [
+        "They have eight arms. Shorter, thicker, lined with rows of suckers.",
+        "They have two tentacles. Much longer... used for quickly striking out to seize prey.",
+        "Trying to get my arms around it."
+    ]
+}

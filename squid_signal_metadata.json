@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Squid Signal",
+    "description": "A speculative scientific proposal about possible communication behavior observed in a juvenile colossal squid. This post blends observation, poetic intuition, and biological grounding to propose a non-verbal, visual language in the deep.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-04-24",
+    "keywords": [
+        "squid",
+        "cephalopod intelligence",
+        "bioluminescence",
+        "speculative science",
+        "non-verbal language",
+        "deep sea",
+        "Mesonychoteuthis hamiltoni"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/squid-signal?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "tentative wonder",
+    "resonantThread": "emergent language beyond sound",
+    "whyItMatters": "This piece dares to point at the edge of known biology with serious play. By treating behavior as symbol, it opens a door to a new form of language rooted in movement, posture, and gaze \u2014 and invites science to dream responsibly.",
+    "motifMap": [
+        {
+            "motif": "bioluminescent gesture",
+            "intensity": "high",
+            "linkedPosts": []
+        },
+        {
+            "motif": "deep seeing",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "This is an emergent idea, one that you feel more before you know how you know it.",
+    "sourceFragments": [
+        "This is far from traditional science but I promise it isn\u2019t above it\u2014just written my way.",
+        "This juvenile squid showed real signs of attempting to 'talk'.",
+        "My first attempt at speculative science based on observation and very basic anatomical/biological fact checking."
+    ]
+}

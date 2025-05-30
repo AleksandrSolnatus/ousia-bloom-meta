@@ -1,0 +1,48 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Dangerous Honesty",
+    "description": "A personal and imperfect reckoning with ideological nuance, moral framing, and the difficulty of representing arguments fairly without disclaiming the obvious. Aesthetic analysis collapses into an existential stance.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-04-22",
+    "keywords": [
+        "honesty",
+        "media analysis",
+        "film grading",
+        "color grading",
+        "political nuance",
+        "intellectual courage",
+        "ethical writing"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/dangerous-honesty?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "unfiltered vulnerability",
+    "resonantThread": "truth without pre-apology",
+    "whyItMatters": "Because it refuses to disclaim the obvious for safety. It acknowledges contradiction but reclaims moral clarity through sincerity, not hedging.",
+    "motifMap": [
+        {
+            "motif": "uncouched speech",
+            "intensity": "high",
+            "linkedPosts": []
+        },
+        {
+            "motif": "moral framing",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "I will not couch this in the speak of fear. I mean what I say.",
+    "sourceFragments": [
+        "Ignoscere humanum Est",
+        "This piece is surely imperfect.",
+        "I should have been more vociferous in my denouncement but even this note makes me wonder, why it is needed?",
+        "Wouldn\u2019t you assume that to be the case? SO I take it back."
+    ]
+}

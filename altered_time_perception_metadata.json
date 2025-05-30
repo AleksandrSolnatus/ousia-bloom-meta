@@ -1,0 +1,46 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Humanity, Technology, and the Inevitable Alteration of Time Perception",
+    "description": "A raw first exploration of how digital memory, streaming, and symbolic permanence are changing our relationship with time. A fragmentary reflection on attention, presence, and the recursive imprint of technology.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-04-18",
+    "keywords": [
+        "time perception",
+        "technology",
+        "memory",
+        "digital permanence",
+        "symbolic time",
+        "media recursion"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/humanity-technology-and-the-inevitable-alteration-of-time-perception?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "incipient",
+    "resonantThread": "symbolic memory and digital permanence",
+    "whyItMatters": "This is the seed of a larger exploration: how our tools alter not just attention, but *temporal being*. Even as a rough cut, it surfaces how humans now live as echoes across searchable time.",
+    "motifMap": [
+        {
+            "motif": "altered time",
+            "intensity": "high",
+            "linkedPosts": []
+        },
+        {
+            "motif": "recorded self",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "There\u2019s a reason we capture video. It isn\u2019t just to document; it\u2019s to take a moment, what you see, and hold it forever.",
+    "sourceFragments": [
+        "Streaming. YouTube. Instagram. Twitter. The Internet Archive.",
+        "The way we communicate is less and less bound to the present.",
+        "The moment something exists digitally, it is accessible at any time."
+    ]
+}

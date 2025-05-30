@@ -1,0 +1,47 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "The Catilinarian Conspiracy",
+    "description": "A historical inquiry into the Catilinarian Conspiracy that becomes a meditation on authorship, truth, and the limits of historical knowledge. This post questions how we judge a man known only through his enemy\u2019s voice.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-04-21",
+    "keywords": [
+        "Catiline",
+        "Cicero",
+        "Roman Republic",
+        "historiography",
+        "historical method",
+        "primary sources",
+        "epistemology"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/the-catilinarian-conspiracy?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "skeptical inquiry",
+    "resonantThread": "the silence of the accused",
+    "whyItMatters": "Because it exposes the fissure in historical certainty. When the only record is from the victors, what room remains for the vanished voice? This piece honors the historian's true task: not proof, but doubt.",
+    "motifMap": [
+        {
+            "motif": "absent voice",
+            "intensity": "high",
+            "linkedPosts": []
+        },
+        {
+            "motif": "narrative authority",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "That was the thing in all my reading \u2014 there is nary a scrap of Catiline\u2019s voice left. Only echoes from his enemies.",
+    "sourceFragments": [
+        "Cicero was a schemer, a plotter and fond of power, but he also deeply cared about the republic.",
+        "If all this is true, why does it feel incomplete?",
+        "What does it mean for the historical record to have its principal actor only known through the words of those who cast him as villain?"
+    ]
+}
