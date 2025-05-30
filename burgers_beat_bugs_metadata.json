@@ -1,0 +1,51 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Burgers Beat Bugs",
+    "description": "A layered reflection on colonialism, cultural hegemony, and symbolic consumption. This post explores how narratives of power are embedded in seemingly mundane choices \u2014 like food \u2014 and asks who gets to define history's taste.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-05-06",
+    "keywords": [
+        "colonialism",
+        "cultural narrative",
+        "decolonization",
+        "power",
+        "imperialism",
+        "Western ideas",
+        "food symbolism",
+        "hegemony"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/burgers-beat-bugs?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "sardonic truth",
+    "resonantThread": "the myth of meat and meaning",
+    "whyItMatters": "This piece reframes a dietary joke as a cultural lever, exposing how the personal is political even in the simplest tastes. It asks us to reconsider what is preference and what is programming.",
+    "motifMap": [
+        {
+            "motif": "food as power",
+            "intensity": "high",
+            "linkedPosts": [
+                "The Shape of What We _______ to Hear"
+            ]
+        },
+        {
+            "motif": "cultural recursion",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "Colonialism is not one thing. It is an idea...",
+    "sourceFragments": [
+        "Colonialism is not one thing. It is an idea while not credited to one person.",
+        "They evaluated the movement of nations and did so while evaluating the boot of imperialism from the underside.",
+        "Burgers beat bugs is a culture war joke, but it\u2019s also a symbolic claim.",
+        "What do you do when the myth you build was never only yours to hold?"
+    ]
+}

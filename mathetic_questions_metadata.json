@@ -1,0 +1,51 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Mathetic Questions",
+    "description": "Sixteen open-ended questions for learners. This post flips the traditional test format into a curiosity engine \u2014 blending humor, reflection, and informal truth-seeking.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-05-05",
+    "keywords": [
+        "learning",
+        "student reflection",
+        "mathetic inquiry",
+        "self-education",
+        "pedagogy",
+        "humor",
+        "epistemology"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/mathetic-questions?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "curious recursion",
+    "resonantThread": "how we learn by reflecting on how we learn",
+    "whyItMatters": "These questions resist the standardization of the learner. They ask not for answers, but for presence. A small, funny, sincere invitation into what makes someone become a student of the world.",
+    "motifMap": [
+        {
+            "motif": "learner as mirror",
+            "intensity": "high",
+            "linkedPosts": [
+                "Questions of Pedagogy"
+            ]
+        },
+        {
+            "motif": "epistemic personality",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "16 free range questions for learners",
+    "sourceFragments": [
+        "How do you take ownership of your own learning?",
+        "Star Wars or Star Trek or Dune and why?",
+        "Are you smarter than average?",
+        "Would you rather\u2026 take mushrooms and go to the planetarium?",
+        "What is one thing all teachers could do, to improve learning for all?"
+    ]
+}

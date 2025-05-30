@@ -1,0 +1,51 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Questions of Pedagogy",
+    "description": "A sixteen-question prompt for educators and thinkers, designed to spark unguarded reflection about teaching, learning, ethics, and intellectual engagement. Equal parts diagnostic and philosophical mirror.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-05-03",
+    "keywords": [
+        "education",
+        "teaching",
+        "pedagogy",
+        "questions",
+        "ethics",
+        "learning styles",
+        "intellectual honesty",
+        "philosophical prompt"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/questions-of-pedagogy?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "didactic openness",
+    "resonantThread": "the mirror of teaching",
+    "whyItMatters": "This post distills the heart of your educational inquiry into a flexible, open form. It asks not for compliance, but awareness. The questions are seeds \u2014 for the reader, for the teacher, and for yourself.",
+    "motifMap": [
+        {
+            "motif": "recursive questioning",
+            "intensity": "high",
+            "linkedPosts": [
+                "PromptSpeak"
+            ]
+        },
+        {
+            "motif": "pedagogical ethics",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "16 free-range questions. Take the answers wherever it goes.",
+    "sourceFragments": [
+        "Do you think specific learning has to occur? For learning to occur?",
+        "How do you respect competing truths?",
+        "Is there a reason you do/don\u2019t do presentations?",
+        "What is one thing all learners can do better?"
+    ]
+}

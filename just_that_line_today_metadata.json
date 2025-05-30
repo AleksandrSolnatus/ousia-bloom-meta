@@ -1,0 +1,54 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Just that Line today",
+    "description": "A minimalist post presenting a visual provocation about power, money, and knowledge. Designed as an open prompt for reader response.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-05-07",
+    "keywords": [
+        "aphorism",
+        "power",
+        "money",
+        "knowledge",
+        "symbolism",
+        "visual philosophy",
+        "reader interaction"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/just-that-line-today?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "stripped provocation",
+    "resonantThread": "price of awareness",
+    "whyItMatters": "This post distills a worldview into three bold fragments. It uses silence, symbolism, and stark imagery to spark interpretation rather than provide one.",
+    "motifMap": [
+        {
+            "motif": "power as trap",
+            "intensity": "high",
+            "linkedPosts": [
+                "Burgers Beat Bugs"
+            ]
+        },
+        {
+            "motif": "symbolic cost",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "Just that line today",
+    "sourceFragments": [
+        "MONEY IS POWER",
+        "POWER IS A TRAP",
+        "KNOWLEDGE HAS A PRICE WORTH THE BLOOD"
+    ],
+    "associatedMedia": {
+        "@type": "ImageObject",
+        "contentUrl": "Screenshot 2025-05-30 at 12.03.50\u202fPM.png",
+        "description": "A triptych poster with bold graphics and warnings: Money is Power. Power is a Trap. Knowledge has a price worth the blood. Uses skulls, mousetraps, and symbols."
+    }
+}
