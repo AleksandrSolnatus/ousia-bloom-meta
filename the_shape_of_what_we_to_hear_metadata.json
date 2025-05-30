@@ -1,0 +1,67 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "The Shape of What We _______ to Hear",
+    "description": "A four-part philosophical and ethical exploration of consumption, animal intelligence, symbolic grief, and cephalopod cognition. This post connects the deep sea to the dinner table, questioning what it means to listen \u2014 and what we ignore.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-05-01",
+    "keywords": [
+        "animal ethics",
+        "grief",
+        "pigs",
+        "dogs",
+        "cephalopods",
+        "Mesonychoteuthis",
+        "deep sea language",
+        "symbolic meaning",
+        "projection",
+        "PromptSpeak"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/the-shape-of-what-we-to-hear?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "moral recursion",
+    "resonantThread": "what signals mean when we pretend they don\u2019t",
+    "whyItMatters": "This piece weaves ethics, evolution, and signal theory into a single chord. It insists that our discomfort is the signal, not the error \u2014 and that even silence might carry meaning, if we\u2019re willing to hear it.",
+    "motifMap": [
+        {
+            "motif": "symbolic grief",
+            "intensity": "high",
+            "linkedPosts": [
+                "Weeping Tank's Story"
+            ]
+        },
+        {
+            "motif": "biological semiotics",
+            "intensity": "high",
+            "linkedPosts": [
+                "Squid Signal",
+                "Phase Change"
+            ]
+        },
+        {
+            "motif": "moral projection",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "Title: The Shape of What We _______ to Hear\n\nHistory will judge the eating of animals from factory farms as we now judge those who practiced slavery, human sacrifice, genocide...",
+    "sourceFragments": [
+        "Cows don\u2019t fly planes and pigs can\u2019t scuba dive isn\u2019t a valid logic tree.",
+        "How would we know if bark is referential? Dogs remember people.",
+        "That shimmer is not symbolic. Because it\u2019s not 'learned.' Why be insistent on barring meaning?",
+        "We\u2019re building a new caste of expendable minds. Bugs? Maybe.",
+        "That was the real moment: when a squid turned, not ran, not tested, or even fully see me\u2014*looked.*"
+    ],
+    "associatedMedia": {
+        "@type": "ImageObject",
+        "contentUrl": "Screenshot 2025-05-30 at 11.54.06\u202fAM.png",
+        "description": "A vertical essay snapshot with dense cascading text. Its formatting mirrors its content: thought streaming through sections of fracture and synthesis."
+    }
+}

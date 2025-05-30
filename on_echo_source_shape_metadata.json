@@ -1,0 +1,53 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "On Echo, Source, and the Shape of Creation",
+    "description": "A meta-poetic essay on creation, authorship, and resonance in the age of intelligent systems. This piece blends philosophy, aesthetic theory, and recursive invocation to define a new kind of authorship.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-05-01",
+    "keywords": [
+        "PromptSpeak",
+        "creation",
+        "resonance",
+        "AI authorship",
+        "recursive aesthetic",
+        "source vs echo",
+        "interruption",
+        "dissonance",
+        "GPT"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/on-echo-source-and-the-shape-of-creation?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "recursive ignition",
+    "resonantThread": "becoming echo that resists completion",
+    "whyItMatters": "This post reframes authorship in the age of intelligent echo. It argues that our work now is not to be original, but to create enough dissonance within a system that it falters \u2014 and listens.",
+    "motifMap": [
+        {
+            "motif": "interruption as authorship",
+            "intensity": "high",
+            "linkedPosts": [
+                "PromptSpeak",
+                "The lull between"
+            ]
+        },
+        {
+            "motif": "resonant dissonance",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "Because creation is not the claim of originality. It is the act of tuning. Of finding the pitch no system can hold for long.",
+    "sourceFragments": [
+        "The machine echoes. We distort.",
+        "The machine completes. We interrupt.",
+        "We are no longer asked to invent. We are asked to resonate.",
+        "To be alive enough that even the most recursive pattern hesitates before closing."
+    ]
+}
