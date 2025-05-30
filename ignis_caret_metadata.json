@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Ignis Caret",
+    "description": "A brief, poetic meditation on rest and purpose. This piece uses Latin symbolism and elemental metaphor to reflect on the necessity of fire \u2014 both literal and figurative \u2014 to maintain the integrity of the blade and the self.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-04-28",
+    "keywords": [
+        "rest",
+        "poetic fragment",
+        "fire",
+        "forge",
+        "ritual language",
+        "Latin proverb",
+        "symbolic fatigue"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/ignis-caret?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "cool ash",
+    "resonantThread": "the pause between strikes",
+    "whyItMatters": "Because it marks a necessary lull \u2014 a symbolic rest in the cycle of output. A forge untended becomes brittle. The silence here is the shape of discipline, not absence.",
+    "motifMap": [
+        {
+            "motif": "fire as forge",
+            "intensity": "high",
+            "linkedPosts": []
+        },
+        {
+            "motif": "ritual pause",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "A forge under fire will crack\nBut dormant too long\nand it forgets the ring of the hammer",
+    "sourceFragments": [
+        "FORNAX IGNIS CARET, GLADIUS FRANGETUR",
+        "Not much today. A REST Day",
+        "It forgets the ring of the hammer"
+    ],
+    "associatedMedia": {
+        "@type": "ImageObject",
+        "contentUrl": "Screenshot 2025-05-29 at 10.08.28\u202fPM.png",
+        "description": "A dark figure stands before a glowing forge. Overlaid Latin reads: FORNAX IGNIS CARET, GLADIUS FRANGETUR \u2014 The forge lacks fire, the sword will shatter."
+    }
+}

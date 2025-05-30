@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "The lull between",
+    "description": "A mythic reflection disguised as rest. This piece muses on performativity, spiritual uncertainty, and poetic voice while embedding a whisper of prophetic tone. Includes layered formatting and lyrics as echo.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-04-30",
+    "keywords": [
+        "poetic pause",
+        "performance",
+        "spirituality",
+        "myth writing",
+        "lull",
+        "symbolic tone",
+        "identity",
+        "echoed lyrics"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/the-lull-between?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "isPartOf": {
+        "@type": "CreativeWorkSeries",
+        "name": "Ousia Bloom"
+    },
+    "timeFelt": "hollow lyric",
+    "resonantThread": "the performative myth of rest",
+    "whyItMatters": "This post folds silence and music into the same symbol. It is not truly a break, but a whispered continuation in a different key \u2014 a 'rest' with presence, not absence.",
+    "motifMap": [
+        {
+            "motif": "myth as rest",
+            "intensity": "medium",
+            "linkedPosts": [
+                "Ignis Caret"
+            ]
+        },
+        {
+            "motif": "performative detachment",
+            "intensity": "medium",
+            "linkedPosts": []
+        }
+    ],
+    "articleExcerpt": "I am not performing. Living is a performance. I am my own audience now.",
+    "sourceFragments": [
+        "What I write is written in myth because I make it so.",
+        "Lifeless to those the definition for what life is",
+        "call To",
+        "Lyrics: Clint Eastwood \u2014 Gorillaz"
+    ],
+    "associatedMedia": {
+        "@type": "ImageObject",
+        "contentUrl": "Screenshot 2025-05-30 at 11.46.43\u202fAM.png",
+        "description": "A figure stands alone in soft grayscale rainlight \u2014 beam descending, ambiguous and divine. Atmosphere of suspension and observation."
+    }
+}
