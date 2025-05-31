@@ -1,0 +1,51 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "A Dimmer and a Motion Sensor",
+    "description": "A new phase in the BathyBeacon prototype: integrating both analog dimming and a motion sensor to simulate a responsive bioluminescent beacon. Notes, photos, and philosophy in tandem.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-05-30",
+    "keywords": [
+        "BathyBeacon",
+        "Arduino",
+        "dimmer",
+        "motion sensor",
+        "analog input",
+        "bioluminescence",
+        "deep sea technology",
+        "exploration",
+        "responsive systems"
+    ],
+    "url": "https://aleksandragnitio.substack.com/p/a-dimmer-and-a-motion-sensor",
+    "inLanguage": "en",
+    "timeFelt": "Evening workshop clarity; a fusion of precision and poetic reflection",
+    "resonantThread": "BathyBeacon Project",
+    "whyItMatters": "This post marks the beginning of layered interaction in the prototype\u2014where light and sensing converge. A symbol of future living technologies adapting in real time.",
+    "motifMap": [
+        {
+            "motif": "sensing",
+            "intensity": 4
+        },
+        {
+            "motif": "luminescence",
+            "intensity": 3
+        },
+        {
+            "motif": "engineering meets intuition",
+            "intensity": 5
+        },
+        {
+            "motif": "deep sea as metaphor",
+            "intensity": 4
+        }
+    ],
+    "articleExcerpt": "I added a potentiometer and a motion sensor to the LED circuit today. It dimmed exactly as I imagined, but the most magical part was when the sensor caught movement and brought light forth like a creature noticing you...",
+    "sourceFragments": [
+        "Wired the sensor to pin 7 and the dimmer to A0",
+        "Behavior reminds me of anemones or jellyfish pulsing in response to proximity",
+        "This feels like the beginning of interaction, not just automation"
+    ]
+}
