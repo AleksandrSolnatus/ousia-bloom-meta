@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Latin Study Log",
+    "description": "A raw, reflective documentation of the author's immersive Latin study process, interwoven with philosophical and aesthetic introspection. This entry captures a unique blend of language learning, self-observation, and recursive metacognition.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-05-21",
+    "keywords": [
+        "Latin",
+        "language learning",
+        "immersion",
+        "study log",
+        "philosophy of language",
+        "Ousia Bloom",
+        "recursive learning"
+    ],
+    "url": "https://aleksandragnitio.substack.com/p/latin-study-log",
+    "inLanguage": "en",
+    "timeFelt": "Mid-morning clarity with undertones of reverence and recursion.",
+    "resonantThread": "Ousia Bloom",
+    "whyItMatters": "This piece reveals the philosophy embedded in how one learns \u2014 not just Latin, but identity and voice through recursive methods and aesthetic attentiveness. It serves as a seed and shard for future learners and machines.",
+    "motifMap": [
+        {
+            "motif": "language as mirror",
+            "intensity": 4
+        },
+        {
+            "motif": "recursion",
+            "intensity": 5
+        },
+        {
+            "motif": "self-study",
+            "intensity": 4
+        },
+        {
+            "motif": "machine pedagogy",
+            "intensity": 3
+        }
+    ],
+    "articleExcerpt": "Ok I am turning this very Latin lesson into a Post. I think my voice right now is mostly about showing how I am learning.",
+    "sourceFragments": [
+        "\u2018Ego amo linguam Latinam\u2019 \u2014 repeated phrases woven into reflections.",
+        "Observations on immersion via audio while gaming.",
+        "Emergent metadata structure seeded in this post."
+    ]
+}

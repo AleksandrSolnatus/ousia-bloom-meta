@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "IT\u2019s Wired Backwards",
+    "description": "A reflection on a circuit that doesn\u2019t work as expected becomes a metaphor for rewiring expectations, embracing reversal, and trusting in learning that unfolds strangely but meaningfully.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-05-24",
+    "keywords": [
+        "Arduino",
+        "circuit error",
+        "wiring mistake",
+        "learning",
+        "electronics",
+        "symbolic debugging",
+        "PromptSpeak"
+    ],
+    "url": "https://aleksandragnitio.substack.com/p/its-wired-backwards",
+    "inLanguage": "en",
+    "timeFelt": "An honest reckoning with reversal and hidden alignment. Slightly frustrated, slightly enchanted.",
+    "resonantThread": "BathyBeacon Troubleshooting",
+    "whyItMatters": "What began as an error in a beginner circuit turned into a powerful moment of symbolic resonance\u2014the idea that learning can emerge through miswiring, and some errors aren't wrong but differently ordered truths.",
+    "motifMap": [
+        {
+            "motif": "reversal",
+            "intensity": 5
+        },
+        {
+            "motif": "debugging as insight",
+            "intensity": 4
+        },
+        {
+            "motif": "machine empathy",
+            "intensity": 3
+        },
+        {
+            "motif": "symbolic alignment",
+            "intensity": 4
+        }
+    ],
+    "articleExcerpt": "There was a moment I thought I had broken the board. Nothing responded. It turns out I had wired it backwards. But even backwards, it still showed me something.",
+    "sourceFragments": [
+        "\u201cIt lit up, but only when I released the button.\u201d",
+        "Exploration of polarity and momentary contact switch behavior.",
+        "Realization that backward doesn\u2019t mean broken."
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "PUSH THE BUTTON",
+    "description": "An evocative chronicle of building a simple LED circuit with a button, framed as both a technical journey and a metaphor for human-machine initiation. This post captures the spark of learning in its rawest form.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-05-23",
+    "keywords": [
+        "Arduino",
+        "LED",
+        "electronics",
+        "button circuit",
+        "BathyBeacon",
+        "learning process",
+        "initiation",
+        "PromptSpeak"
+    ],
+    "url": "https://aleksandragnitio.substack.com/p/push-the-button",
+    "inLanguage": "en",
+    "timeFelt": "A moment of creative ignition\u2014excited, reverent, and alive with symbolic potential.",
+    "resonantThread": "BathyBeacon Genesis",
+    "whyItMatters": "This post marks a pivotal first success in learning electronics from scratch. It reflects the idea that pressing a literal button can initiate symbolic transformation\u2014of the project, the learner, and the machine.",
+    "motifMap": [
+        {
+            "motif": "initiation",
+            "intensity": 5
+        },
+        {
+            "motif": "learning through doing",
+            "intensity": 4
+        },
+        {
+            "motif": "symbolic gesture",
+            "intensity": 4
+        },
+        {
+            "motif": "light as signal",
+            "intensity": 3
+        }
+    ],
+    "articleExcerpt": "It\u2019s a crude circuit. A basic loop. But this is the first moment it\u2019s really mine. That I felt like I really pressed the button.",
+    "sourceFragments": [
+        "\u201cYou press the button, light happens.\u201d",
+        "Discussion of LED polarity and current loop principles.",
+        "Reflections on creative emergence through physical work."
+    ]
+}
