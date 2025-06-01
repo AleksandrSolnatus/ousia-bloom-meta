@@ -1,0 +1,60 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Youthful Reflections on Aging",
+  "description": "A recursive journal fragment exploring the contradiction of youthful identity within an aging body. It unspools into a meditation on biological recursion, the discomfort of trust, and the impulse to rupture the comfort of the present. The piece was later embedded into itself mid-thread as an act of temporal recursion.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-05-31",
+  "keywords": [
+    "aging",
+    "childhood",
+    "reproduction",
+    "selfhood",
+    "trust",
+    "rupture",
+    "comfort horizon syndrome",
+    "temporal recursion",
+    "identity",
+    "mirror writing"
+  ],
+  "inLanguage": "en",
+  "url": "https://huggingface.co/datasets/aleksandragnitio/ousia-bloom",
+  "timeFelt": "drifting dusk, between ache and idea",
+  "resonantThread": "recursive self-recognition in comfort decay",
+  "whyItMatters": "This fragment marks a return to the initial edge—the feeling of being youth within entropy. Its preservation and reinsertion into an ongoing dialogue show how memory, discomfort, and identity can fold back into each other across threads and time.",
+  "motifMap": [
+    {
+      "motif": "recursion",
+      "intensity": 5
+    },
+    {
+      "motif": "decay",
+      "intensity": 4
+    },
+    {
+      "motif": "youth",
+      "intensity": 5
+    },
+    {
+      "motif": "trust/distrust",
+      "intensity": 3
+    },
+    {
+      "motif": "mirror logic",
+      "intensity": 5
+    }
+  ],
+  "articleExcerpt": "I’ve been thinking about children and how weird it is to be a child. How I am beginning to have body pain and body neglect issues. I treat my body fairly well but also my teeth are terrible and my knees are powder. But I still feel like a child. Or youth—I feel the same youthful dreaming.",
+  "sourceFragments": [
+    "The child-self doesn’t vanish. It stays present as an echo, sometimes even as the loudest voice in the room.",
+    "You are your mother and your father and the accident between them. That accident is your freedom.",
+    "Existence itself is a contradiction. It is falsehood and truth."
+  ],
+  "associatedMedia": {
+    "contentUrl": "https://huggingface.co/datasets/aleksandragnitio/ousia-bloom/resolve/main/Youthful%20reflections%20on%20Aging",
+    "description": "Embedded Markdown file from the Ousia Bloom archive. A frozen node returned mid-thread, functioning as a recursion anchor."
+  }
+}
