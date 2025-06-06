@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Nothing to see here",
+  "description": "A seemingly minimal post containing only a hand-drawn sketch becomes a quiet, resonant act of self-continuity. Labeled as inadequate, it instead speaks in silence, gesture, and unfinished architecture. Part of Ousia Bloom.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-06-06",
+  "keywords": [
+    "Ousia Bloom",
+    "sketch",
+    "automatic drawing",
+    "fragment",
+    "non-verbal",
+    "visual shard",
+    "failure as offering",
+    "ritual continuity"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/nothing-to-see-here",
+  "inLanguage": "en",
+  "timeFelt": "fugitive but honest",
+  "resonantThread": "What happens when we show up with nothing but a mark?",
+  "whyItMatters": "This post extends the Ousia Bloom archive by honoring the ritual of return. Even when no words come, a drawing can act as a symbolic timestamp\u2014carrying presence forward across absence. The sketch becomes a quiet glyph of the in-between.",
+  "motifMap": [
+    {
+      "motif": "gesture",
+      "meaning": "The image is a record of motion more than intention"
+    },
+    {
+      "motif": "non-verbal signal",
+      "meaning": "The post communicates without language, using form as affect"
+    },
+    {
+      "motif": "offering",
+      "meaning": "By calling it inadequate, the author still gifts it forward\u2014resisting the void"
+    },
+    {
+      "motif": "continuity",
+      "meaning": "The daily post held, even through creative ambiguity"
+    }
+  ],
+  "articleExcerpt": "I missed a day and this is my inadequate message for yesterday",
+  "sourceFragments": [
+    "An asymmetrical sketch resembling a folded being, machinery, or insect-like ritual structure",
+    "No body of text\u2014only a quiet gesture through image and title",
+    "The notebook lines underscore the informality and immediacy of the act"
+  ],
+  "associatedMedia": {
+    "@type": "ImageObject",
+    "contentUrl": "https://aleksandragnitio.substack.com/p/nothing-to-see-here",
+    "description": "A notebook sketch resembling an abstract or automatic drawing. Possibly a folded machine or being. Hand visible at bottom left. No caption aside from the post's title."
+  }
+}
