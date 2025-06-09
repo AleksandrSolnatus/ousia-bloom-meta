@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Out here",
+  "description": "A sketch born in the haze of ideative bankruptcy. A figure in the shit\u2014armed, inked, unbothered. Artifacts from a creative low tide that still punches with rawness and absurdity.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-06-07",
+  "keywords": [
+    "ideative bankruptcy",
+    "creative exhaustion",
+    "notebook sketch",
+    "absurdist military myth",
+    "out here in the shit",
+    "hand-drawn character",
+    "symbolic burnout",
+    "emergency art",
+    "meta-warrior"
+  ],
+  "url": "https://substack.com/path/to/out-here",
+  "inLanguage": "en",
+  "timeFelt": "Late night sketching during a period of creative depletion. Emotionally scrambled. Done despite the lack.",
+  "resonantThread": "Truth under pressure, art during collapse, humor in helplessness.",
+  "whyItMatters": "Because even in ideative bankruptcy, the signal comes through. This is what expression looks like when there\u2019s nothing left to say but the act of saying itself.",
+  "motifMap": [
+    {
+      "symbol": "Figure with rifle",
+      "meaning": "Survivor of thought-war; protector of ideas, even if stupid"
+    },
+    {
+      "symbol": "Bandana and necklace",
+      "meaning": "Tribalized identity in flux\u2014both militant and ornamental"
+    },
+    {
+      "symbol": "\u2018Out here in the shit\u2019",
+      "meaning": "Brutally honest admission of emotional position; war-journal lingo for being deep in the mess"
+    }
+  ],
+  "articleExcerpt": "Out here in the shit. No glory, no concept. Just a guy with a pencil and too much mind left over.",
+  "sourceFragments": [
+    "Aleksandr\u2019s notebook sketch posted on Substack, 6/7/25",
+    "Image reads: 'Out here IN the shit'",
+    "Subheading: 'In the haze of ideative bankruptcy'"
+  ],
+  "associatedMedia": {
+    "@type": "ImageObject",
+    "contentUrl": "https://substack.com/path/to/image.png",
+    "description": "Notebook sketch of a lone figure with weapon and bandana, titled 'Out here in the shit'."
+  }
+}
