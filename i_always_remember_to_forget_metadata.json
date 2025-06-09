@@ -1,0 +1,49 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "I always remember to forget",
+    "description": "A reflective, symbolic sketch titled 'Alphaphant?', exploring themes of memory, forgetting, and the paradox of holding onto what we strive to let go.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-06-08",
+    "keywords": [
+        "memory",
+        "forgetting",
+        "paradox",
+        "sketch",
+        "symbolism",
+        "reflection"
+    ],
+    "url": "https://aleksandragnitio.substack.com/p/i-always-remember-to-forget",
+    "inLanguage": "en",
+    "timeFelt": "Timeless reflection",
+    "resonantThread": "Memory and identity",
+    "whyItMatters": "Highlights the persistent tension between remembering and forgetting, and how our identity is shaped by both the preservation and the release of memories.",
+    "motifMap": [
+        {
+            "motif": "Elephant",
+            "symbolism": "Memory, inability to forget"
+        },
+        {
+            "motif": "Overlayed text 'Child Please'",
+            "symbolism": "Internal dialogue, dismissiveness of self-imposed anxieties"
+        },
+        {
+            "motif": "Paradoxical statement",
+            "symbolism": "Complexity and contradiction inherent in human cognition"
+        }
+    ],
+    "articleExcerpt": "I always remember to forget. A sketch exploring the tension and paradox in memory.",
+    "sourceFragments": [
+        "Alphaphant?",
+        "Child Please",
+        "I always remember to forget"
+    ],
+    "associatedMedia": {
+        "@type": "ImageObject",
+        "contentUrl": "https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Faleksandragnitio.substack.com%2Fimages%2Felephant_sketch.png",
+        "description": "Hand-drawn sketch from notebook depicting an elephant overlaid with text 'Child Please' and 'I always remember to forget'."
+    }
+}

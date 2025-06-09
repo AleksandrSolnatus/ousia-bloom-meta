@@ -1,0 +1,61 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Cash Money 4.0: Pirates, Pacts, and Possibility",
+    "description": "A shift from Imskir back to blue-black-green brilliance. Thrasios meets Francisco in this new brew\u2014a tempo-heavy, draw-smart, spell-slinging pirate deck built around Gaea's Cradle value and OTTERBALL trickery. Version 4.0 explores style, story, and shifting identities through gameplay.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-06-09",
+    "keywords": [
+        "Thrasios",
+        "Francisco",
+        "cEDH",
+        "Pirates",
+        "Gaea's Cradle",
+        "Talon Gates",
+        "Rakshasa's Bargain",
+        "Magic deck identity",
+        "Cash Money 4.0",
+        "Commander brewing"
+    ],
+    "inLanguage": "en",
+    "url": "https://open.substack.com/pub/aleksandragnitio/p/cash-money-4?r=5ck2fs&utm_campaign=post&utm_medium=web",
+    "timeFelt": "June dusk, head buzzing with deck tension",
+    "resonantThread": "Changing identities through commander selection and playstyle",
+    "whyItMatters": "Each deck choice becomes a self-portrait. Returning to familiar commanders reaffirms values, while building anew reflects inner evolution.",
+    "motifMap": [
+        {
+            "motif": "Guile and Deceit",
+            "card": "Francisco, Fowl Marauder"
+        },
+        {
+            "motif": "Resource Accrual",
+            "card": "Gaea's Cradle"
+        },
+        {
+            "motif": "Play When You Want",
+            "card": "Emergence Zone"
+        },
+        {
+            "motif": "Stylized Identity",
+            "card": "Cash Money 4.0"
+        },
+        {
+            "motif": "Pirate Tempo",
+            "card": "Malcolm, Alluring Scoundrel"
+        }
+    ],
+    "articleExcerpt": "Played Imskir, felt frustrated and obsessively built Thrasisco (Thrasios/Francisco). It seems cool.",
+    "sourceFragments": [
+        "Borne Upon a Wind, Carpet of Flowers, Valley Floodcaller... a swirl of tempo and answers.",
+        "I now the deck I a best with is Malcolm Tymna but that is pretty boring honestly.",
+        "Magic decks feel like masks\u2014some fit, some transform you. This one? A mirror."
+    ],
+    "associatedMedia": {
+        "@type": "ImageObject",
+        "contentUrl": "https://chat.openai.com/cdn-cgi/imagedelivery/ZM8FVyUugN7w4x3r4AUg7w/file-5MNppT92u1uaxG8abKZfKf/public",
+        "description": "Decklist screenshot of 'Cash Money 4.0'\u2014Francisco & Thrasios Pirate cEDH"
+    }
+}
