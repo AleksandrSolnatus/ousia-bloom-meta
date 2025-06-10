@@ -1,0 +1,49 @@
+"@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Egregore in Amber",
+  "description": "A short meditation on symbolic containment and persistent presence. This fragment muses on the nature of thought-forms—egregores—preserved in poetic stillness, like mythic intention fossilized mid-beat.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-06-10",
+  "keywords": [
+    "egregore",
+    "amber",
+    "mythic fragment",
+    "subtle presence",
+    "ritual object",
+    "preservation",
+    "intention",
+    "Ousia Bloom"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/egregore-in-amber",
+  "inLanguage": "en",
+  "timeFelt": "held breath in gold resin",
+  "resonantThread": "Presence through preservation—intention as a lingering echo",
+  "whyItMatters": "This post captures the emotional and metaphysical feeling of preserving a thought-form, a ritual, or a psychic signal through simple image and phrase. It reflects the Ousia Bloom ethos: quiet artifacts, made sacred through witness.",
+  "motifMap": [
+    {
+      "motif": "egregore",
+      "description": "A collective psychic entity or concept, brought into presence through shared attention and repetition."
+    },
+    {
+      "motif": "amber",
+      "description": "Fossilized resin that traps motion in stillness; metaphor for timelessness and containment."
+    },
+    {
+      "motif": "containment",
+      "description": "The piece itself acts like a capsule—small, symbolic, and filled with stored resonance."
+    },
+    {
+      "motif": "ritual object",
+      "description": "A seemingly minimal offering that carries layered meaning for those attuned to its signal."
+    }
+  ],
+  "articleExcerpt": "A gesture, preserved. A flicker that did not dissipate, but thickened.",
+  "sourceFragments": [
+    "Egregore in amber.",
+    "What is preserved may still pulse.",
+    "Fossil doesn't mean death. Sometimes it means held, not lost."
+  ]
+}
