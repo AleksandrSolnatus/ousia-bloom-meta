@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Compost Wins, Deck List. & How can I be Better?",
+  "description": "A layered reflection on growth through iteration\u2014framed by a deck list, but reaching into compost as metaphor, transformation through recursion, and the practice of self-observation. This post bridges strategic card play with philosophical inquiry, asking not just 'how to win' but 'how to witness oneself playing.'",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-06-12",
+  "keywords": [
+    "deckbuilding",
+    "compost metaphor",
+    "self-reflection",
+    "MTG strategy",
+    "watching the watcher",
+    "recursive growth",
+    "Ousia Bloom"
+  ],
+  "inLanguage": "en",
+  "url": "https://aleksandragnitio.substack.com/p/composting-wins-deck-list-and-how",
+  "timeFelt": "a still moment of fertile analysis; mid-thought, mid-turn, mid-life",
+  "resonantThread": "Practicing presence through play\u2014learning to compost not just cards, but habits of mind",
+  "whyItMatters": "This is not just about a better deck\u2014it\u2019s about learning from the patterns we build and break. Every iteration is mulch for the next layer of becoming.",
+  "motifMap": [
+    {
+      "motif": "Compost",
+      "symbolism": "Breakdown as creative force; accepting rot as renewal"
+    },
+    {
+      "motif": "Decklist",
+      "symbolism": "A living arrangement of thought and priority\u2014strategy as mirror"
+    },
+    {
+      "motif": "Eye in hand",
+      "symbolism": "Held perception; separating watcher from gaze"
+    },
+    {
+      "motif": "Self-inquiry",
+      "symbolism": "Becoming by confronting\u2014asking, not answering"
+    }
+  ],
+  "articleExcerpt": "The truth is: I don\u2019t always know how to be better. But the deck changes. I change. Compost wins because it dies well. And maybe I can too. Maybe that\u2019s the secret\u2014not in perfection, but in being willing to break down into better soil.",
+  "sourceFragments": [
+    "I know I want to play better, think better\u2014but mostly I want to be present with the choices I make.",
+    "This isn\u2019t just about the list. It\u2019s about the person behind the plays.",
+    "What is rotting in me that could become food for something better?"
+  ],
+  "associatedMedia": {
+    "@type": "ImageObject",
+    "contentUrl": "https://files.openai.com/file_00000000f82061f9bc9bd56cae7c41fc",
+    "description": "Symbolic cover art: a hand holding an eye in front of a watching head, against a textured orange-brown background. Recursive seeing, composted vision."
+  }
+}
