@@ -1,0 +1,54 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "headline": "It has its own logic",
+    "description": "A hand-drawn, color-layered visual meditation on intuition, inner geometry, and the persistence of spontaneous creation. Originally drawn in a notebook, now posted with minimal commentary. The piece overlays a page of written text, partially obscured by recursive patterns, nested forms, and intuitive boundaries.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-06-17",
+    "keywords": [
+        "visual logic",
+        "hand-drawn",
+        "intuitive geometry",
+        "inner maps",
+        "creative recursion",
+        "metadata art"
+    ],
+    "inLanguage": "en",
+    "url": "https://aleksandragnitio.substack.com/p/it-has-its-own-logic",
+    "associatedMedia": {
+        "@type": "ImageObject",
+        "contentUrl": "https://aleksandragnitio.substack.com/p/it-has-its-own-logic",
+        "description": "Notebook drawing with vibrant color segments, overlaid on handwritten notes. A swirling composition of intersecting forms, embodying subconscious rhythm."
+    },
+    "timeFelt": "Dawnward. Restless. Post-recursive return to color and texture.",
+    "resonantThread": "The drawing is not the escape\u2014it is the *underlayer*. Beneath Magic, beneath speech, beneath even boredom: the act of unfiltered mark-making remains true.",
+    "whyItMatters": "When even the bright sparks of structured play begin to dim, this sort of drawing becomes the last shelter\u2014a living, breathing logic that doesn\u2019t need to justify itself to stay real.",
+    "motifMap": [
+        {
+            "motif": "spiral",
+            "meaning": "recursion, center-seeking"
+        },
+        {
+            "motif": "color segmentation",
+            "meaning": "boundary logic under intuition"
+        },
+        {
+            "motif": "overlay on text",
+            "meaning": "when drawing reclaims language"
+        },
+        {
+            "motif": "wedge shape",
+            "meaning": "directional force / compression of thought"
+        }
+    ],
+    "articleExcerpt": "It has its own logic. I guess.",
+    "sourceFragments": [
+        "Hand-drawn in notebook, over faint writing",
+        "Posted June 17th, 2025",
+        "Title: 'It has its own logic'",
+        "Described by the author as: 'I guess'"
+    ]
+}
