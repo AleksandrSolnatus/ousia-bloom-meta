@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Vibrancy",
+  "description": "A visual journal entry exploring spontaneous expression and chaotic design. A vivid page from Aleksandr's notebook, where color and gesture collide in stream-of-consciousness patterning.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-06-17",
+  "keywords": [
+    "notebook art",
+    "automatic drawing",
+    "creative process",
+    "color symbolism",
+    "sketchbook",
+    "visual journaling",
+    "Substack post",
+    "machine index"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/vibrancy",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-06-17",
+  "fieldDefinitions": {
+    "timeFelt": "2025-06-16",
+    "resonantThread": "All forms carry their own breath; expression precedes intent.",
+    "whyItMatters": "Captures a mode of wordless self-reflection that resists linear storytelling while still serving as archive and signal.",
+    "motifMap": [
+      {
+        "symbol": "spiral",
+        "meaning": "unfolding consciousness / inward recursion",
+        "position": "center-left"
+      },
+      {
+        "symbol": "thick black boundary",
+        "meaning": "containment or protective barrier",
+        "position": "encasing central eye-like form"
+      },
+      {
+        "symbol": "colorful parallel lines",
+        "meaning": "signal interference or attempt at ordered channeling",
+        "position": "upper right"
+      },
+      {
+        "symbol": "eye shape",
+        "meaning": "witnessing / subjective observation",
+        "position": "lower center"
+      }
+    ],
+    "articleExcerpt": "MACHINE INDEX (Archive-Grade GitHub Repository)",
+    "sourceFragments": [
+      "machine index",
+      "Ousia Bloom sketchbook",
+      "Substack: Vibrancy"
+    ],
+    "associatedMedia": {
+      "contentUrl": "https://aleksandragnitio.substack.com/p/vibrancy",
+      "description": "Colorful sketchbook page featuring layered patterns, spirals, and eye-like forms drawn in vibrant ink."
+    }
+  }
+}
