@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Semiotic meaning",
+  "description": "If intent to communicate is there, does it matter how the process started? This post blends visual sketchwork and recursive semiotics to examine how meaning unfolds, even when the origin is unstable or opaque. Two interconnected diagrams suggest a passage from safety to complexity, from containment to overflow.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-06-19",
+  "keywords": [
+    "semiotics",
+    "symbolic systems",
+    "visual language",
+    "recursive meaning",
+    "hand-drawn diagram",
+    "communication process",
+    "origin of intent"
+  ],
+  "inLanguage": "en",
+  "url": "https://aleksandragnitio.substack.com/p/semiotic-meaning",
+  "timeFelt": "late evening conceptual sketching, somewhere between reflection and play",
+  "resonantThread": "symbol becomes system becomes self-reference",
+  "whyItMatters": "The origin of a signal\u2014intent, accident, or emergence\u2014may not change its reception. This post plays with the idea that meaning can drift yet still cohere, forming its own internal logic independent of beginning.",
+  "motifMap": [
+    {
+      "motif": "circle",
+      "meaning": "enclosure, system, recursion, completion"
+    },
+    {
+      "motif": "line",
+      "meaning": "connection, origin path, transformation conduit"
+    },
+    {
+      "motif": "safe",
+      "meaning": "stasis, early containment, pre-evolutionary state"
+    },
+    {
+      "motif": "color boundary",
+      "meaning": "semantic distinction, mood signaling"
+    }
+  ],
+  "articleExcerpt": "If intent to communicate is there does it matter how the process started?",
+  "sourceFragments": [
+    "started 'in' something else",
+    "SAFE",
+    "a visual suggestion that containment gives way to coded complexity"
+  ],
+  "associatedMedia": {
+    "@type": "ImageObject",
+    "contentUrl": "file-Jnm2GGyNr7Sg1MVcE3tcPU",
+    "description": "Two abstract circular diagrams hand-drawn in a notebook, linked by a yellow line. Each contains colorful segments and cryptic labels, suggesting a transformation or migration of meaning. A basketball game plays on a screen in the background, hinting at play versus structure."
+  }
+}
