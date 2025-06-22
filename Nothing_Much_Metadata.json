@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Nothing Much",
+  "description": "A spontaneous, minimalistic sketch that gestures toward identity, recursion, and presence. The piece offers an intentionally unfinished and found aesthetic, resisting polish in favor of raw gesture.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-06-22",
+  "keywords": [
+    "sketch",
+    "handwriting",
+    "identity",
+    "minimalism",
+    "rawness",
+    "na\u00efve art",
+    "substack",
+    "found art",
+    "notebook drawing"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/nothing-much",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-06-22",
+  "fieldDefinitions": {
+    "timeFelt": "Early morning or late night\u2014an idle hour where identity softened and play took over.",
+    "resonantThread": "The self observed from the side, unconcerned with consistency or appeal.",
+    "whyItMatters": "Resisting artistic improvement reclaims authenticity\u2014this piece stands as a reminder that not everything has to strive for betterment to be worth preserving.",
+    "motifMap": [
+      {
+        "symbol": "eyes",
+        "meaning": "Watching the watcher; self-scrutiny through fragmented vision",
+        "position": "center/top"
+      },
+      {
+        "symbol": "scribbled name",
+        "meaning": "Authorship as artifact; identity as mark, not message",
+        "position": "top left"
+      },
+      {
+        "symbol": "mismatched features",
+        "meaning": "Discontinuity as design; wholeness through fracture",
+        "position": "face"
+      }
+    ],
+    "articleExcerpt": "No disrespect intended. It\u2019s evocative.",
+    "sourceFragments": [
+      "Notebook entry repurposed for digital permanence",
+      "Drawn over ruled lines, a nod to structure being repurposed"
+    ],
+    "associatedMedia": {
+      "contentUrl": "https://aleksandragnitio.substack.com/p/nothing-much",
+      "description": "Photograph of a lined notebook with an abstract face sketched in bold black ink, blue eyes, and scrawled signature"
+    }
+  }
+}
