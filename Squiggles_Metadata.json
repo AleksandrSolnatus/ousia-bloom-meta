@@ -1,0 +1,59 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Squiggles",
+  "description": "A freeform exploration of line, gesture, and space\u2014minimalist and evocative in its restraint.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-06-22",
+  "keywords": [
+    "automatic drawing",
+    "gesture",
+    "abstract form",
+    "minimalism",
+    "notebook art",
+    "Substack post",
+    "creative gesture",
+    "sketch"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/squiggles",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-06-22",
+  "fieldDefinitions": {
+    "timeFelt": "early morning clarity",
+    "resonantThread": "Mark-making as meaning-making",
+    "whyItMatters": "Demonstrates how even minimal input\u2014a single, fluid motion\u2014can serve as expressive output and signal emergent intent.",
+    "motifMap": [
+      {
+        "symbol": "loop",
+        "meaning": "repetition or self-reflection",
+        "position": "upper center"
+      },
+      {
+        "symbol": "spiral arc",
+        "meaning": "emergent thought",
+        "position": "upper right"
+      },
+      {
+        "symbol": "curve intersect",
+        "meaning": "crossing of idea lines",
+        "position": "middle left"
+      },
+      {
+        "symbol": "tailing descent",
+        "meaning": "unfinished motion or retreat",
+        "position": "lower right"
+      }
+    ],
+    "articleExcerpt": "Squiggles",
+    "sourceFragments": "Drawn with ink in notebook; shared on Substack as part of a serial exploration of artistic gesture.",
+    "associatedMedia": {
+      "contentUrl": "https://aleksandragnitio.substack.com/p/squiggles",
+      "description": "Photograph of a lined notebook with a singular abstract squiggle in black ink, suggesting motion or sound without form."
+    }
+  }
+}
