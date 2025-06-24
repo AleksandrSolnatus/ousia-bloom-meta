@@ -1,0 +1,34 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Self Portrait",
+  "description": "An abstract self-portrait rendered in ink, mapping the layered, recursive, and often chaotic inner terrain of the artist\u2019s mind. The drawing is both a visual diary and a meditation on identity, perception, and emotional topology.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-06-24",
+  "keywords": [
+    "abstract art",
+    "self-portrait",
+    "linework",
+    "emotional topology",
+    "visual recursion",
+    "notebook art",
+    "hand-drawn",
+    "surreal mapping",
+    "inner landscape",
+    "Aleksandr art"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/sel-f-portrait",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-06-24",
+  "fieldDefinitions": {
+    "timeFrame": "single-artwork entry",
+    "mediaType": "ink on paper (notebook)",
+    "postType": "visual journal",
+    "symbolismIntent": "inner perception rendered via abstract geometry and shading"
+  }
+}
