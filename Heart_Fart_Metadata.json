@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Heart Fart",
+  "description": "An abstract drawing posted on Substack combining bold shapes, contrasting colors, and anatomical suggestion, exploring emotional containment and structural form.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-06-26",
+  "keywords": [
+    "abstract art",
+    "sketchbook",
+    "emotional processing",
+    "color theory",
+    "Substack visual",
+    "symbolic imagery",
+    "hand-drawn",
+    "self-expression"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/heart-fart",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-06-26",
+  "fieldDefinitions": {
+    "timeFelt": "2025-06-25T22:00:00-05:00",
+    "resonantThread": "The architecture of emotion reveals itself through containment and overflow.",
+    "whyItMatters": "Serves as a visual expression of emotional mapping in abstract form, contributing to a larger body of creative-expressive documentation.",
+    "motifMap": [
+      {
+        "symbol": "curved lines",
+        "meaning": "emotional turbulence",
+        "position": "central structure"
+      },
+      {
+        "symbol": "grid patterns",
+        "meaning": "containment and regulation",
+        "position": "mid-layers"
+      },
+      {
+        "symbol": "red orbitals",
+        "meaning": "residual intent or targeting",
+        "position": "bottom right"
+      },
+      {
+        "symbol": "black bands",
+        "meaning": "emotional repression or weight",
+        "position": "upper middle"
+      },
+      {
+        "symbol": "blue edge shapes",
+        "meaning": "supportive scaffolding",
+        "position": "lower border"
+      }
+    ],
+    "articleExcerpt": "This is a heart, but not a romantic one. It's something that lets off pressure in strange, structured ways.",
+    "sourceFragments": [
+      "Visual style echoes previous post 'Self Portrait'",
+      "Possibly influenced by intuitive drawing practice"
+    ],
+    "associatedMedia": {
+      "contentUrl": "https://aleksandragnitio.substack.com/p/heart-fart",
+      "description": "Photograph of a hand-drawn abstract piece featuring black, magenta, red, and cyan geometric patterning."
+    }
+  }
+}
