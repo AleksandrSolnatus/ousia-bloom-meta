@@ -1,0 +1,68 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Out of Tune But Right On Time",
+  "description": "A hand-drawn visual composition exploring dissonance, timing, and expressive rhythm through text, figure, and color play.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-06-29",
+  "keywords": [
+    "timing",
+    "dissonance",
+    "visual language",
+    "hand-drawn art",
+    "symbolic expression",
+    "music and rhythm",
+    "creative process",
+    "experimental typography"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/ya-that-i-was-out-of-touch",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-06-29",
+  "fieldDefinitions": {
+    "timeFelt": "2025-06-27T18:00:00-05:00",
+    "resonantThread": "Misalignment is not failure when aligned with inner rhythm.",
+    "whyItMatters": "This work foregrounds how perceived errors or dissonance can still achieve harmony within a personal or expressive timeline, challenging normative standards of 'correctness' in creative output.",
+    "motifMap": [
+      {
+        "symbol": "Musical notes",
+        "meaning": "Represents the concept of being out of tune or off-key",
+        "position": "Top-center above the word 'BUT'"
+      },
+      {
+        "symbol": "Character in yellow suit",
+        "meaning": "Stylized performer embodying confidence despite dissonance",
+        "position": "Left-center"
+      },
+      {
+        "symbol": "Multi-colored letters",
+        "meaning": "Emphasizes irregularity and expressive variation",
+        "position": "Center, across the phrase 'BUT RIGHT ON'"
+      },
+      {
+        "symbol": "Large yellow 'TIME'",
+        "meaning": "Anchors the piece thematically; the final word reinforces structure",
+        "position": "Bottom"
+      },
+      {
+        "symbol": "Black background field",
+        "meaning": "Creates contrast and stage-like framing for spotlighted elements",
+        "position": "Surrounding text and figure"
+      }
+    ],
+    "articleExcerpt": "\"out of tune BUT right ON TIME\"",
+    "sourceFragments": [
+      "Notebook-style lined paper as canvas",
+      "Handwriting variations indicating layered authorship or tonal shifts",
+      "Possible reference to musical or performative themes"
+    ],
+    "associatedMedia": {
+      "contentUrl": "https://aleksandragnitio.substack.com/p/ya-that-i-was-out-of-touch/image.jpeg",
+      "description": "Hand-drawn art featuring the phrase 'out of tune BUT right ON TIME' with a stylized figure and musical notes"
+    }
+  }
+}
