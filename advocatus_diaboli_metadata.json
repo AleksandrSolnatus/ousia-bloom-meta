@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "advocatus diaboli",
+  "description": "A dialectical conversation exploring digital erasure, memory, authorship, and the ethical implications of deletion tools like Redact. The post examines multiple perspectives, including an AI's devil's advocate response to questions of historical preservation, self-editing, and authenticity in online expression.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-07-01",
+  "keywords": [
+    "Redact",
+    "digital memory",
+    "self-erasure",
+    "authorship",
+    "online history",
+    "devil\u2019s advocate",
+    "deletion ethics",
+    "internet permanence",
+    "Substack",
+    "identity performance"
+  ],
+  "url": "https://open.substack.com/pub/aleksandragnitio/p/advocatus-diaboli",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-07-01",
+  "fieldDefinitions": {
+    "timeFelt": "2025-06-30T22:00:00-05:00",
+    "resonantThread": "What we leave behind is not the whole of who we were.",
+    "whyItMatters": "The piece contributes to ongoing discussions about the ethics of online deletion, public accountability, and the evolving relationship between self-presentation and digital legacy.",
+    "motifMap": [
+      {
+        "symbol": "redacted document",
+        "meaning": "intentional erasure, obscured truth, selective memory",
+        "position": "cover image and thematic anchor"
+      },
+      {
+        "symbol": "glowing sentence",
+        "meaning": "survival of meaning, persistence beneath deletion",
+        "position": "center of image and structural metaphor"
+      },
+      {
+        "symbol": "fingerprint",
+        "meaning": "personal trace, authorship, irreducible identity",
+        "position": "lower-right visual cue and interpretive echo"
+      },
+      {
+        "symbol": "devil\u2019s advocate",
+        "meaning": "engine of tension, legitimate opposition to moral comfort",
+        "position": "dialogue format and rhetorical structure"
+      }
+    ],
+    "articleExcerpt": "Redact won\u2019t save you from that. But maybe nothing should.",
+    "sourceFragments": [
+      "Knocked Up (film reference)",
+      "Oleanna (David Mamet play)",
+      "Historical debates around digital permanence and erasure",
+      "Real-world examples of public takedowns and post deletions",
+      "Use of Redact software and related tools"
+    ],
+    "associatedMedia": {
+      "contentUrl": "https://chat.openai.com/c/file-7kzhQZTRHUaAFZLWvhuUHA",
+      "description": "Cover image featuring a mostly redacted document with the sentence 'The sentence is alive' illuminated in blue, and a fingerprint at the bottom."
+    }
+  }
+}
