@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Glind, Gloob and Garn",
+  "description": "A trio of whimsical doodles\u2014Glind the scaled coil, Gloob the squishy watcher, and Garn the glyph-locked enigma\u2014brought to life in bright color and absurd form.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-07-04",
+  "keywords": [
+    "doodles",
+    "sketchbook",
+    "art creatures",
+    "creative journaling",
+    "character design",
+    "whimsical art",
+    "monster trio",
+    "illustration",
+    "weird fiction",
+    "visual storytelling"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/glind-gloob-and-garn",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-07-04",
+  "fieldDefinitions": {
+    "timeFelt": "Subjective timestamp reflecting when the post was emotionally or conceptually formed",
+    "resonantThread": "One-line thematic continuity statement across works",
+    "whyItMatters": "Functional summary of the post\u2019s relevance to broader discourse",
+    "motifMap": "Array of symbolic or conceptual motifs, each with a 'symbol', 'meaning', and 'position' field",
+    "articleExcerpt": "Direct quote or passage from the content",
+    "sourceFragments": "Any cited sources, inspirations, or embedded internal references",
+    "associatedMedia": "Optional: image or media metadata including `contentUrl` and `description`"
+  },
+  "timeFelt": "2025-07-03T22:45:00-05:00",
+  "resonantThread": "A light-hearted taxonomy of imagined beings and their encoded visual logic.",
+  "whyItMatters": "Demonstrates the blending of casual sketching with structured archiving, showing how even spontaneous artwork can be meaningfully preserved and described.",
+  "motifMap": [
+    {
+      "symbol": "serpent coil",
+      "meaning": "Chaotic intelligence and aggressive design language",
+      "position": "top left"
+    },
+    {
+      "symbol": "eyestalk blob",
+      "meaning": "Playful observer, rooted in absurd innocence",
+      "position": "bottom center"
+    },
+    {
+      "symbol": "circular glyph",
+      "meaning": "Constructed logic or mechanical ritual, evoking containment or boundaries",
+      "position": "right side"
+    }
+  ],
+  "articleExcerpt": "\"The three dumb doodles\" \u2014 captioned with endearment, the page presents Glind, Gloob, and Garn as a visual in-joke made tangible.",
+  "sourceFragments": [
+    "Doodle practice in lined notebook",
+    "Playful naming conventions for invented entities",
+    "Possibly inspired by visual motifs from underground comics, math diagrams, or fantasy glyphs"
+  ],
+  "associatedMedia": {
+    "contentUrl": "https://aleksandragnitio.substack.com/p/glind-gloob-and-garn",
+    "description": "Photograph of notebook sketches featuring three named creatures: Glind (a coiled serpent), Gloob (an eye-stalked blob), and Garn (a circular glyph entity)"
+  }
+}
