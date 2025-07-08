@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Ejubilation",
+  "description": "A comparative visual study between a hand-drawn abstract artwork and its AI-generated recreation, exploring questions of authorship, precision, and expressive fidelity.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-07-08",
+  "keywords": [
+    "AI art",
+    "human vs machine",
+    "abstract drawing",
+    "creative comparison",
+    "generative art",
+    "notebook sketches",
+    "marker rendering",
+    "Substack artwork",
+    "visual mimicry",
+    "artificial interpretation"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/ejubilation",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-07-08",
+  "fieldDefinitions": {
+    "timeFelt": "2025-07-07T21:00:00-05:00",
+    "resonantThread": "Testing the boundaries of fidelity between organic creation and synthetic mimicry",
+    "whyItMatters": "This post contributes to ongoing discourse around authorship, artistic agency, and the role of AI as either replicator, collaborator, or interpreter.",
+    "motifMap": [
+      {
+        "symbol": "barred lines",
+        "meaning": "structural repetition and constraint",
+        "position": "background across the entire composition"
+      },
+      {
+        "symbol": "mirrored organic shapes",
+        "meaning": "duality of forms and creator/copy dynamic",
+        "position": "top and bottom center"
+      },
+      {
+        "symbol": "red 'X'",
+        "meaning": "symbolic marker of finality, rejection, or identity",
+        "position": "lower shape, center-right"
+      },
+      {
+        "symbol": "vivid color swaths",
+        "meaning": "emotional signal or expressive gesture",
+        "position": "interlaced within both primary figures"
+      }
+    ],
+    "articleExcerpt": "Rendered in pen, marker and ink by myself and re-done by AI. Whose was superior?",
+    "sourceFragments": [
+      "Original drawing completed in personal notebook",
+      "AI generation by ChatGPT-4o using uploaded references",
+      "Comparison images from Substack post dated July 8, 2025"
+    ],
+    "associatedMedia": [
+      {
+        "contentUrl": "https://aleksandragnitio.substack.com/p/ejubilation",
+        "description": "Side-by-side display of original drawing and AI reconstruction from Substack post 'Ejubilation'"
+      }
+    ]
+  }
+}
