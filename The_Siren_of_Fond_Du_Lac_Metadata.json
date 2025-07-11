@@ -1,0 +1,64 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "The Siren of Fond Du Lac",
+  "description": "A personal reflection on a turbulent love story marked by obsession, sorrow, mythic symbolism, and emotional reckoning.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-07-11",
+  "keywords": [
+    "toxic love",
+    "mythic symbolism",
+    "emotional abuse",
+    "personal reckoning",
+    "siren archetype",
+    "relationships",
+    "fond du lac",
+    "obsession and grief",
+    "transformation"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/the-siren-of-fond-du-lac",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-07-11",
+  "fieldDefinitions": {
+    "timeFelt": "Late spring, 2025",
+    "resonantThread": "Some loves leave more myth than memory.",
+    "whyItMatters": "Documents the psychological and symbolic weight of a formative romantic relationship, shedding light on the interplay between trauma, projection, and mythic narrative.",
+    "motifMap": [
+      {
+        "symbol": "siren",
+        "meaning": "an irresistible but dangerous figure representing temptation and emotional depth",
+        "position": "central metaphor"
+      },
+      {
+        "symbol": "underwater breathing",
+        "meaning": "adaptation to emotional trauma and transformation through survival",
+        "position": "final lines"
+      },
+      {
+        "symbol": "fire and storms",
+        "meaning": "emotional intensity, chaos, and destructive passion",
+        "position": "midsection"
+      },
+      {
+        "symbol": "surveillance",
+        "meaning": "the illusion of control through obsessive monitoring",
+        "position": "opening confession"
+      }
+    ],
+    "articleExcerpt": "That’s the blessing and the curse of loving a siren: You know she’ll pull you under. You go anyway. And when the sea spits you back out, you’re not sure if you’re a survivor or just something new that learned to breathe underwater.",
+    "sourceFragments": [
+      "Shaggy – 'It Wasn't Me' (referenced obliquely)",
+      "Myth of the Sirens",
+      "Personal lived experience in Fond du Lac"
+    ],
+    "associatedMedia": {
+      "contentUrl": "https://files.chatgpt.com/file_00000000c0f061f98b818943b542f3e7",
+      "description": "A digital painting of a red-haired siren in twilight lake waters, surrounded by lost objects and emotional atmosphere."
+    }
+  }
+}
