@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "The Vow",
+  "description": "A personal vow of healing and self-love, paired with symbolic visual art of rebirth and growth. The post reflects on inner renewal after emotional collapse.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-07-17",
+  "keywords": [
+    "rebirth",
+    "phoenix",
+    "self-love",
+    "healing",
+    "vow",
+    "renewal",
+    "personal growth",
+    "Ousia Bloom"
+  ],
+  "url": "https://[insert-your-substack-domain]/p/the-vow",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-07-17",
+  "fieldDefinitions": {
+    "timeFelt": "Mid-July 2025, during a period of personal clarity and resolve",
+    "resonantThread": "From destruction emerges sacred transformation",
+    "whyItMatters": "Documents a turning point of intentional healing, asserting the importance of internal restoration before seeking relational affirmation",
+    "motifMap": [
+      {
+        "symbol": "phoenix",
+        "meaning": "spiritual rebirth from emotional ruin",
+        "position": "central metaphor in both text and imagery"
+      },
+      {
+        "symbol": "ash and wreckage",
+        "meaning": "the remains of past pain and collapse",
+        "position": "source material for transformation"
+      },
+      {
+        "symbol": "bloom",
+        "meaning": "growth through self-love",
+        "position": "final stage of metamorphosis"
+      },
+      {
+        "symbol": "light and mist",
+        "meaning": "the fragile clarity of new beginnings",
+        "position": "visual tone of the image"
+      }
+    ],
+    "articleExcerpt": "I will not give up my trust and heart. But I will not seek another to love me until I love myself...",
+    "sourceFragments": [
+      "Written by Aleksandr, drawing on personal emotional experience",
+      "Visual prompt based on 'The True Beginning of the Ousia Bloom' imagery style"
+    ],
+    "associatedMedia": {
+      "contentUrl": "https://[your-media-hosting-url]/phoenix_rising_ousia_bloom_cover.png",
+      "description": "A minimalistic cover image depicting a phoenix rising from gray-white ash, with wings formed from petals and light. Muted tones convey solemnity and renewal."
+    }
+  }
+}
