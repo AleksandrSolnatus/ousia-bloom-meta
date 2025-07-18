@@ -1,0 +1,60 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Sean Strickland",
+  "description": "An exploration of UFC fighter Sean Strickland as a cultural and psychological figure—part provocateur, part mirror—analyzing his contradictions, public persona, and symbolic resonance in a hyper-curated media age.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-07-17",
+  "keywords": [
+    "Sean Strickland",
+    "provocation",
+    "authenticity",
+    "trauma and identity",
+    "masculinity",
+    "UFC",
+    "public persona",
+    "clown sage",
+    "fighter psychology"
+  ],
+  "url": "https://aleksandragnito.substack.com/p/sean-strickland",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-07-18",
+  "fieldDefinitions": {
+    "timeFelt": "2025-07-17T19:15:00-05:00",
+    "resonantThread": "Unvarnished identities in curated times",
+    "whyItMatters": "This piece dissects a controversial figure not for endorsement or condemnation but as a case study in contemporary authenticity, exploring how rawness and self-performance challenge mainstream norms of communication and decorum.",
+    "motifMap": [
+      {
+        "symbol": "🥊",
+        "meaning": "Combat as expression of identity",
+        "position": "Title and first paragraph"
+      },
+      {
+        "symbol": "🃏",
+        "meaning": "Clown-sage archetype",
+        "position": "Comparative analysis with Theo Von and commentary on self-aware misfits"
+      },
+      {
+        "symbol": "🧩",
+        "meaning": "Brokenness as honesty",
+        "position": "Final two sections discussing contradiction and paradox"
+      }
+    ],
+    "articleExcerpt": "He is a walking talking menace. One hell of a fighter and a real picture of what it means to be a person. Not easily digestible. He is the anti Lauren.",
+    "sourceFragments": [
+      "https://en.wikipedia.org/wiki/Sean_Strickland_(fighter)",
+      "https://www.espn.com/mma/story/_/id/37836758/sean-strickland-provokes-fans-opponents-alike",
+      "YouTube video of post-fight cage incident",
+      "Theo Von podcast references"
+    ],
+    "associatedMedia": {
+      "contentUrl": "https://aleksandragnito.substack.com/p/sean-strickland",
+      "description": "Substack post screenshot featuring the article 'Sean Strickland' by Aleksandr"
+    }
+  }
+}
