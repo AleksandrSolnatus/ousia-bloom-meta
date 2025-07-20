@@ -1,0 +1,64 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "The Sacred Rocks",
+  "description": "A poetic invocation to remember ancient truths, to heed the call of spirit amid distraction, and to honor what endures beneath modern forgetfulness.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-07-19",
+  "keywords": [
+    "sacred",
+    "memory",
+    "calling",
+    "poetry",
+    "mythic symbol",
+    "ancestral knowledge",
+    "spirit",
+    "technology",
+    "blue screen glow"
+  ],
+  "url": "https://aleksandrnagitio.substack.com/p/the-sacred-rocks",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-07-20",
+  "fieldDefinitions": {
+    "timeFelt": "2025-07-17",
+    "resonantThread": "Sacred memory resists forgetting.",
+    "whyItMatters": "This piece emphasizes the importance of honoring enduring spiritual truths amid modern distractions and technological forgetting.",
+    "motifMap": [
+      {
+        "symbol": "sacred rock",
+        "meaning": "memory, spiritual inheritance, and foundational truth",
+        "position": "image centerpiece and title anchor"
+      },
+      {
+        "symbol": "spiral",
+        "meaning": "cyclical time, ancient knowledge, and continuity of spirit",
+        "position": "etched into the rock"
+      },
+      {
+        "symbol": "moon",
+        "meaning": "intuition, the unconscious, and divine timing",
+        "position": "above the stone"
+      },
+      {
+        "symbol": "blue screen glow",
+        "meaning": "modern digital distraction and the risk of forgetting",
+        "position": "referenced in closing line"
+      }
+    ],
+    "articleExcerpt": "I see the slippage. / I can trace where the sacred rocks used to lay... / Don’t forget the sacred rock / For the blue screen glow.",
+    "sourceFragments": [
+      "Dream recollection",
+      "Mythic memory",
+      "Critique of technological detachment"
+    ],
+    "associatedMedia": {
+      "contentUrl": "https://chat.openai.com/c/file/C2K6t66dw4RPJbygMq8e19",
+      "description": "An illustration of a large standing stone with spiral carvings under a pale moon, titled 'The Sacred Rocks'—symbolizing memory, ritual, and continuity amidst forgetfulness."
+    }
+  }
+}

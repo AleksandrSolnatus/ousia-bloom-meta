@@ -1,0 +1,69 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Love is not a straight river",
+  "description": "A poetic meditation on love's aftermath—on breaking, growth, and the bittersweet promise that pain can yield transformation.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-07-20",
+  "keywords": [
+    "love",
+    "letting go",
+    "healing",
+    "brokenness",
+    "growth",
+    "transformation",
+    "grief",
+    "emotional maturity",
+    "poetry"
+  ],
+  "url": "https://aleksandrnagitio.substack.com/p/love-is-not-a-straight-river",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-07-20",
+  "fieldDefinitions": {
+    "timeFelt": "2025-07-18",
+    "resonantThread": "From ruin, something sacred may grow.",
+    "whyItMatters": "This piece speaks to the emotional honesty required to acknowledge damage done in a relationship, while holding space for the possibility of renewal without reconciliation.",
+    "motifMap": [
+      {
+        "symbol": "blooming tree",
+        "meaning": "resilience and growth after separation",
+        "position": "center of image, between figures"
+      },
+      {
+        "symbol": "lantern",
+        "meaning": "guidance and inner clarity",
+        "position": "held by the woman, walking away"
+      },
+      {
+        "symbol": "red object / heart",
+        "meaning": "offering of truth or emotional vulnerability",
+        "position": "held by the man"
+      },
+      {
+        "symbol": "ash",
+        "meaning": "destruction giving way to rebirth",
+        "position": "symbolic in poem, tied to parting"
+      },
+      {
+        "symbol": "cache",
+        "meaning": "sacred emotional reserve left behind",
+        "position": "conceptual, implied by final lines"
+      }
+    ],
+    "articleExcerpt": "I loved her so much / I had to let her go / I broke her / she broke me / And apart both shall grow...",
+    "sourceFragments": [
+      "Post-breakup reflections",
+      "Symbolism from nature and spiritual renewal",
+      "Mythic structure of sacrifice and healing"
+    ],
+    "associatedMedia": {
+      "contentUrl": "https://chat.openai.com/c/file/00000000357861f690cc184000310a16",
+      "description": "A symbolic illustration of two figures parting by a tree at twilight—each carrying light or offering—set beneath a golden sky, representing emotional transformation after loss."
+    }
+  }
+}

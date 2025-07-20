@@ -1,0 +1,69 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "But I Loved Her Still",
+  "description": "A poetic reflection on the complexity of love, parting, and the tenderness that remains beyond betrayal.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-07-20",
+  "keywords": [
+    "love",
+    "betrayal",
+    "healing",
+    "parting",
+    "truth",
+    "romantic memory",
+    "poetry",
+    "forgiveness",
+    "emotional growth"
+  ],
+  "url": "https://aleksandrnagitio.substack.com/p/but-i-loved-you-still",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-07-20",
+  "fieldDefinitions": {
+    "timeFelt": "2025-07-19",
+    "resonantThread": "Even in parting, the heart remembers with tenderness.",
+    "whyItMatters": "This post serves as a testament to emotional maturity and the nuanced understanding that true love can persist without possession or reconciliation.",
+    "motifMap": [
+      {
+        "symbol": "lantern",
+        "meaning": "clarity amidst uncertainty",
+        "position": "central metaphor in both poem and image"
+      },
+      {
+        "symbol": "note",
+        "meaning": "unspoken truth and emotional confession",
+        "position": "in the man’s hand, signifying unresolved expression"
+      },
+      {
+        "symbol": "reflection",
+        "meaning": "connection that remains despite physical separation",
+        "position": "pool of water beneath the figures"
+      },
+      {
+        "symbol": "fig sapling",
+        "meaning": "new growth and masculine vulnerability",
+        "position": "behind the male figure"
+      },
+      {
+        "symbol": "broken heart",
+        "meaning": "acceptance of pain without blame",
+        "position": "border of image"
+      }
+    ],
+    "articleExcerpt": "I do not know what was true.\nI only know what I felt.\n...\nYou are not the enemy.\nMy great love.",
+    "sourceFragments": [
+      "Personal memory",
+      "Emotional closure conversations",
+      "Folkloric symbolism in modern myth"
+    ],
+    "associatedMedia": {
+      "contentUrl": "https://chat.openai.com/c/file/00000000357861f690cc184000310a16",
+      "description": "A mythic-style illustration depicting two lovers parting under a crescent moon, with their reflections holding hands across a still pool."
+    }
+  }
+}
