@@ -1,0 +1,59 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Money and Me",
+  "description": "A poetic reflection on the tension between financial comfort and spiritual longing, framed through biblical symbolism and personal confession.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-07-28",
+  "keywords": [
+    "money",
+    "freedom",
+    "spirituality",
+    "biblical metaphor",
+    "materialism",
+    "poverty",
+    "generosity",
+    "poetry",
+    "self-reflection"
+  ],
+  "url": "https://aleksandraginitio.substack.com/p/money-and-me",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-07-28",
+  "fieldDefinitions": {
+    "timeFelt": "During a period of financial questioning and spiritual inventory, post-reflection on material blessings",
+    "resonantThread": "The battle between abundance and asceticism",
+    "whyItMatters": "Articulates a common but rarely confessed inner conflict: how to live meaningfully without idolizing or rejecting wealth",
+    "motifMap": [
+      {
+        "symbol": "camel and needle",
+        "meaning": "The spiritual barrier wealth may create between the self and salvation",
+        "position": "Closing lines"
+      },
+      {
+        "symbol": "meager dragon",
+        "meaning": "The small-scale hoarder, guarding treasure regardless of size",
+        "position": "Mid-section metaphor"
+      },
+      {
+        "symbol": "no cloak (Luke 9:3)",
+        "meaning": "Spiritual readiness for a life stripped of possessions",
+        "position": "Opening stanza"
+      }
+    ],
+    "articleExcerpt": "Money makes people forget their hearts. It isn\u2019t the root of evil to me, but it can be the water and the fertilizer.",
+    "sourceFragments": [
+      "Luke 9:3",
+      "Matthew 19:24 (eye of the needle)",
+      "Personal testimony and financial inventory"
+    ],
+    "associatedMedia": {
+      "contentUrl": "https://chat.openai.com/c/file-00000000120061fd9d92dcb4e0202be8",
+      "description": "Black and white illustration of a camel passing through the eye of a needle, symbolic of the post's core biblical metaphor"
+    }
+  }
+}
