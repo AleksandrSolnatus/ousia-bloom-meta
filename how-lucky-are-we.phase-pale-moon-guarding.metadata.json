@@ -1,0 +1,77 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "How Lucky are We",
+  "description": "A reflective poetic meditation on resilience, gratitude, and the simple act of being. Through brief yet potent lines, the piece honors endurance through trials, the quiet victory of awakening, and the clarity that what matters is existence itself. Accompanied by an abstract artwork blending flowing forms, vibrant colors, and a central cross, the post weaves together faith, perseverance, and the beauty of continuing on.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-14",
+  "keywords": [
+    "poetry",
+    "resilience",
+    "gratitude",
+    "faith",
+    "awakening",
+    "perseverance",
+    "pale moon guarding",
+    "spiritual reflection",
+    "abstract art"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/how-lucky-are-we",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-08-14",
+  "timeFelt": {
+    "timestamp": "2025-08-14T00:00:00-05:00",
+    "phase": "Pale Moon Guarding"
+  },
+  "motifMap": [
+    {
+      "symbol": "cross",
+      "meaning": "faith and endurance through trials",
+      "position": "center"
+    },
+    {
+      "symbol": "flowing abstract shapes",
+      "meaning": "the shifting nature of life and emotion",
+      "position": "surrounding the cross"
+    },
+    {
+      "symbol": "blue and green palette",
+      "meaning": "spiritual calm, balance, and perseverance",
+      "position": "background"
+    },
+    {
+      "symbol": "golden accents",
+      "meaning": "illumination, divine guidance",
+      "position": "highlights and edges"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Abstract artwork with swirling blue, green, and gold forms surrounding a central cross, accompanying the poem 'How Lucky are We'.",
+      "contentUrl": ""
+    }
+  ],
+  "fieldDefinitions": {
+    "@context": "Schema.org context for semantic metadata",
+    "@type": "Content type descriptor",
+    "headline": "The title of the work",
+    "description": "A concise, plain-language summary of the content and purpose",
+    "author": "Author details in schema.org Person format",
+    "datePublished": "ISO date of publication",
+    "keywords": "List of thematic keywords",
+    "url": "Canonical link to the Substack post",
+    "inLanguage": "Language of the work",
+    "metadataFormatVersion": "Version control for metadata schema",
+    "encoding": "Character encoding standard",
+    "generatedBy": "Tool and date of metadata generation",
+    "timeFelt": "Phase and timestamp when the work was felt or created",
+    "motifMap": "Symbolic elements with meanings and positions",
+    "associatedMedia": "Images or media related to the post",
+    "fieldDefinitions": "Legend explaining the purpose of each field"
+  }
+}
