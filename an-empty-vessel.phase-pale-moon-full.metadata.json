@@ -1,0 +1,69 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "An Empty Vessel",
+  "description": "A combined work of poetry and illustration, presented as a plea and a reflection on endurance, redemption, and the refusal to abandon love. Through two complementary pieces—one a hand-drawn, text-integrated image and the other a written exhortation—the post speaks to pain’s inevitability and the spiritual imperative to face it, reject falsehood, and remain steadfast in hope. It sits within the Pale Moon Full phase, bearing the hallmarks of mournful clarity and compassionate resolve.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-13",
+  "keywords": [
+    "redemption",
+    "endurance",
+    "love",
+    "forgiveness",
+    "poetry",
+    "illustration",
+    "spiritual exhortation",
+    "personal mythology",
+    "Pale Moon Full"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/an-empty-vessel",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-08-13",
+  "fieldDefinitions": {
+    "timeFelt": "Subjective timestamp reflecting when the post was emotionally or conceptually formed, including the current archetypal phase",
+    "resonantThread": "One-line thematic continuity statement across works",
+    "whyItMatters": "Functional summary of the post’s relevance to broader discourse",
+    "motifMap": "Array of symbolic or conceptual motifs, each with a 'symbol', 'meaning', and 'position' field",
+    "articleExcerpt": "Direct quote or passage from the content",
+    "sourceFragments": "Any cited sources, inspirations, or embedded internal references",
+    "associatedMedia": "Optional: image or media metadata including `contentUrl` and `description`"
+  },
+  "timeFelt": {
+    "timestamp": "2025-08-13T00:00:00-05:00",
+    "phase": "Pale Moon Full"
+  },
+  "resonantThread": "Affirming love’s endurance even in the presence of deep wounds, calling the reader toward redemption.",
+  "whyItMatters": "Frames pain as both unavoidable and transformative, urging the embrace of suffering as a path to truth, love, and ultimate redemption. Speaks to anyone grappling with betrayal or estrangement while holding to hope.",
+  "motifMap": [
+    {
+      "symbol": "Outlined vessel form",
+      "meaning": "Represents the self as a container in need of filling with love and truth",
+      "position": "first illustration"
+    },
+    {
+      "symbol": "Red halo",
+      "meaning": "Divine presence or sanctifying fire surrounding the vessel",
+      "position": "first illustration, upper section"
+    },
+    {
+      "symbol": "Yellow text field within abstract form",
+      "meaning": "Illuminated scripture-like call to action and perseverance",
+      "position": "second illustration, left section"
+    }
+  ],
+  "articleExcerpt": "\"YOU ARE HIS and a small step away great goodness\"",
+  "sourceFragments": [
+    "Two original notebook illustrations with handwritten text; accompanying poetic exhortation by the author."
+  ],
+  "associatedMedia": [
+    {
+      "contentUrl": "",
+      "description": "Two-page composite of photographed notebook drawings paired with poetic exhortations, rendered in colored pen and marker."
+    }
+  ]
+}

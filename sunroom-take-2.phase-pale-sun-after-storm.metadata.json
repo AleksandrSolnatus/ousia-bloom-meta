@@ -1,0 +1,66 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Sunroom Take 2",
+  "description": "A reflective artistic work embodying the 'Pale Sun After Storm' phase, capturing the softened light and calm that follows emotional upheaval. The piece holds warmth tempered by the memory of rain, framed within a structured interior view.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-12",
+  "keywords": [
+    "Pale Sun After Storm",
+    "emotional phases",
+    "symbolic art",
+    "resilience",
+    "quiet strength",
+    "post-storm clarity",
+    "healing imagery",
+    "reflective state"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/sunroom-take-2",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-08-13",
+  "fieldDefinitions": {
+    "timeFelt": "Subjective timestamp reflecting when the post was emotionally or conceptually formed",
+    "resonantThread": "One-line thematic continuity statement across works",
+    "whyItMatters": "Functional summary of the post’s relevance to broader discourse",
+    "motifMap": "Array of symbolic or conceptual motifs, each with a 'symbol', 'meaning', and 'position' field",
+    "articleExcerpt": "Direct quote or passage from the content",
+    "sourceFragments": "Any cited sources, inspirations, or embedded internal references",
+    "associatedMedia": "Optional: image or media metadata including `contentUrl` and `description`"
+  },
+  "timeFelt": {
+    "timestamp": "2025-08-12T00:00:00Z",
+    "phase": "Pale Sun After Storm"
+  },
+  "resonantThread": "The quiet resilience found in rebuilding light after the storm has passed.",
+  "whyItMatters": "Documents the emergence of calm and clarity as part of an ongoing record of emotional phases, offering a model for reflective endurance.",
+  "motifMap": [
+    {
+      "symbol": "window frame",
+      "meaning": "structure and boundaries maintained after change",
+      "position": "foreground"
+    },
+    {
+      "symbol": "burst of orange sun",
+      "meaning": "warmth and renewal returning with caution",
+      "position": "upper right"
+    },
+    {
+      "symbol": "blue lower panes",
+      "meaning": "residual calm and cooling influence after emotional rain",
+      "position": "lower center"
+    }
+  ],
+  "articleExcerpt": "My light is not fierce, but it is steady. I walk on ground still damp with what has been.",
+  "sourceFragments": "Draws from the defined phase 'Pale Sun After Storm' in the ongoing emotional cartography project.",
+  "associatedMedia": [
+    {
+      "description": "Illustration of a divided window lit by a soft burst of sunlight, representing tempered hope after a storm.",
+      "contentUrl": ""
+    }
+  ]
+}
