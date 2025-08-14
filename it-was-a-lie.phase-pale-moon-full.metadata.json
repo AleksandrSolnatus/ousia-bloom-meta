@@ -1,0 +1,69 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "It was a lie",
+  "description": "A multi-panel illustrated piece combining handwritten text and symbolic imagery. Across several pages, fragmented phrases and drawings form a single, unified expression of betrayal, mistrust, and the stripping away of illusions. The work sits firmly in the Pale Moon Full phase, carrying mournful clarity and emotional precision.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-13",
+  "keywords": [
+    "betrayal",
+    "truth",
+    "emotional clarity",
+    "multi-panel art",
+    "handwritten text",
+    "symbolism",
+    "personal mythology",
+    "Pale Moon Full",
+    "illustration"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/it-was-a-lie",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-08-13",
+  "fieldDefinitions": {
+    "timeFelt": "Subjective timestamp reflecting when the post was emotionally or conceptually formed, including the current archetypal phase",
+    "resonantThread": "One-line thematic continuity statement across works",
+    "whyItMatters": "Functional summary of the post’s relevance to broader discourse",
+    "motifMap": "Array of symbolic or conceptual motifs, each with a 'symbol', 'meaning', and 'position' field",
+    "articleExcerpt": "Direct quote or passage from the content",
+    "sourceFragments": "Any cited sources, inspirations, or embedded internal references",
+    "associatedMedia": "Optional: image or media metadata including `contentUrl` and `description`"
+  },
+  "timeFelt": {
+    "timestamp": "2025-08-13T00:00:00-05:00",
+    "phase": "Pale Moon Full"
+  },
+  "resonantThread": "Examining betrayal with unflinching honesty, revealing both the emotional wound and the clarity that follows.",
+  "whyItMatters": "Encapsulates the act of naming harm plainly while preserving a reflective tone, offering both personal catharsis and a broader lens on trust.",
+  "motifMap": [
+    {
+      "symbol": "Handwritten accusation",
+      "meaning": "Direct naming of perceived betrayal",
+      "position": "various panels"
+    },
+    {
+      "symbol": "Bird illustration",
+      "meaning": "Messenger figure delivering difficult truths",
+      "position": "left panel"
+    },
+    {
+      "symbol": "Block letter text",
+      "meaning": "Visual emphasis on the central harm",
+      "position": "center spread"
+    }
+  ],
+  "articleExcerpt": "\"She only wanted my name and to break my spirit\"",
+  "sourceFragments": [
+    "Multi-panel notebook illustrations with handwritten annotations; original work by the author."
+  ],
+  "associatedMedia": [
+    {
+      "contentUrl": "",
+      "description": "Composite of several photographed notebook pages forming a single illustrated work with handwritten text and drawings."
+    }
+  ]
+}

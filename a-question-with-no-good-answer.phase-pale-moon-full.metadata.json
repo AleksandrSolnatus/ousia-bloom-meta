@@ -1,0 +1,80 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "A question with no good answer",
+  "description": "An abstract drawing interrogating forgiveness, featuring the phrases 'How to forgive?', 'ENDLESS', and 'Betrayal' against a dark field.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-11",
+  "keywords": [
+    "forgiveness",
+    "betrayal",
+    "endlessness",
+    "moral conflict",
+    "reflection",
+    "pale moon full",
+    "abstract art",
+    "personal mythology",
+    "illustration",
+    "ethics"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/a-question-with-no-good-answer",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-08-13",
+  "fieldDefinitions": {
+    "timeFelt": "Subjective timestamp reflecting when the post was emotionally or conceptually formed, including the current archetypal phase",
+    "resonantThread": "One-line thematic continuity statement across works",
+    "whyItMatters": "Functional summary of the post’s relevance to broader discourse",
+    "motifMap": "Array of symbolic or conceptual motifs, each with a 'symbol', 'meaning', and 'position' field",
+    "articleExcerpt": "Direct quote or passage from the content",
+    "sourceFragments": "Any cited sources, inspirations, or embedded internal references",
+    "associatedMedia": "Optional: image or media metadata including `contentUrl` and `description`"
+  },
+  "timeFelt": {
+    "timestamp": "2025-08-11T00:00:00-05:00",
+    "phase": "Pale Moon Full"
+  },
+  "resonantThread": "Clarifying the limits and costs of forgiveness in the wake of betrayal.",
+  "whyItMatters": "Frames forgiveness as a lived ethical dilemma rather than an abstract virtue, inviting readers to weigh sincerity, boundaries, and truth.",
+  "motifMap": [
+    {
+      "symbol": "Question phrase",
+      "meaning": "The central problem stated plainly",
+      "position": "left-center: 'How to forgive?'"
+    },
+    {
+      "symbol": "Yellow vertical form with 'ENDLESS'",
+      "meaning": "The feeling of unending struggle or recurrence",
+      "position": "upper-right vertical shape"
+    },
+    {
+      "symbol": "Red circles labeled 'Betrayal'",
+      "meaning": "Wounds that anchor the dilemma",
+      "position": "lower-left and upper-right circles"
+    },
+    {
+      "symbol": "Purple-cream amoebic forms",
+      "meaning": "Emotional flux and ambiguity",
+      "position": "center and lower section"
+    },
+    {
+      "symbol": "Black field",
+      "meaning": "Background gravity of the problem; the night in which the question persists",
+      "position": "full background"
+    }
+  ],
+  "articleExcerpt": "“How to forgive?”",
+  "sourceFragments": [
+    "Original drawing and caption by the author; no external references."
+  ],
+  "associatedMedia": [
+    {
+      "contentUrl": "",
+      "description": "Abstract notebook drawing with the words 'How to forgive?', 'ENDLESS', and 'Betrayal' on a dark background with purple and cream forms."
+    }
+  ]
+}

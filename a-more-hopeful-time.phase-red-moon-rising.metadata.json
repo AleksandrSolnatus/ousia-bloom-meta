@@ -1,0 +1,65 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "A more hopeful Time",
+    "description": "A vibrant, abstract artwork paired with a brief, uplifting note — a visual and textual meditation on hope, renewal, and playful persistence.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-08-12",
+    "keywords": [
+        "Red Moon Rising",
+        "hope",
+        "abstract art",
+        "personal reflection",
+        "visual meditation",
+        "color symbolism",
+        "emotional renewal",
+        "Substack",
+        "creative expression"
+    ],
+    "url": "https://aleksandragnitio.substack.com/p/a-more-hopeful-time",
+    "inLanguage": "en",
+    "metadataFormatVersion": "1.0",
+    "encoding": "UTF-8",
+    "generatedBy": "ChatGPT-4o, 2025-08-13",
+    "timeFelt": {
+        "timestamp": "2025-08-12T00:00:00-05:00",
+        "phase": "Red Moon Rising"
+    },
+    "resonantThread": "Tracking the ascent from concealed potential to visible strength.",
+    "whyItMatters": "Documents a transitional moment of optimism and emergence, both personally and within the evolving thematic arc of the Ousia Bloom project.",
+    "motifMap": [
+        {
+            "symbol": "frog",
+            "meaning": "Playful resilience and transformation",
+            "position": "implied in text"
+        },
+        {
+            "symbol": "vivid colors",
+            "meaning": "Emotional renewal and dynamic life force",
+            "position": "background and figure fill"
+        },
+        {
+            "symbol": "abstract figure",
+            "meaning": "Fluid identity in flux",
+            "position": "central composition"
+        }
+    ],
+    "articleExcerpt": "A well spring of Hope. Ribbit",
+    "sourceFragments": "Original drawing and brief caption posted by Aleksandr on Substack.",
+    "associatedMedia": {
+        "description": "A highly detailed, multicolored abstract drawing in a notebook, blending organic shapes and bold patterns.",
+        "contentUrl": ""
+    },
+    "fieldDefinitions": {
+        "timeFelt": "Subjective timestamp reflecting when the post was emotionally or conceptually formed",
+        "resonantThread": "One-line thematic continuity statement across works",
+        "whyItMatters": "Functional summary of the post’s relevance to broader discourse",
+        "motifMap": "Array of symbolic or conceptual motifs, each with a 'symbol', 'meaning', and 'position' field",
+        "articleExcerpt": "Direct quote or passage from the content",
+        "sourceFragments": "Any cited sources, inspirations, or embedded internal references",
+        "associatedMedia": "Optional: image or media metadata including `contentUrl` and `description`"
+    }
+}

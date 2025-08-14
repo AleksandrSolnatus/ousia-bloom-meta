@@ -1,0 +1,85 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "The Shape of the Truth",
+  "description": "An abstract illustration and short text posing a direct ethical question about whether love can be genuine when sustained by dishonesty.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-09",
+  "keywords": [
+    "truth",
+    "lies",
+    "honesty",
+    "trust",
+    "relationships",
+    "confession",
+    "self-examination",
+    "ethics",
+    "abstract art",
+    "illustration"
+  ],
+  "url": "https://aleksandragniitio.substack.com/p/the-shape-of-the-truth",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-08-13",
+  "fieldDefinitions": {
+    "timeFelt": "Subjective timestamp reflecting when the post was emotionally or conceptually formed, including the current archetypal phase",
+    "resonantThread": "One-line thematic continuity statement across works",
+    "whyItMatters": "Functional summary of the post’s relevance to broader discourse",
+    "motifMap": "Array of symbolic or conceptual motifs, each with a 'symbol', 'meaning', and 'position' field",
+    "articleExcerpt": "Direct quote or passage from the content",
+    "sourceFragments": "Any cited sources, inspirations, or embedded internal references",
+    "associatedMedia": "Optional: image or media metadata including `contentUrl` and `description`"
+  },
+  "timeFelt": {
+    "timestamp": "2025-08-09T00:00:00-05:00",
+    "phase": "Pale Moon Full"
+  },
+  "resonantThread": "Truth as the precondition for durable love; deception fractures intimacy at its foundation.",
+  "whyItMatters": "Surfaces a universal dilemma about authenticity and care, inviting readers to evaluate how honesty shapes the possibility of real relationship.",
+  "motifMap": [
+    {
+      "symbol": "Eye",
+      "meaning": "Witnessing and self-scrutiny",
+      "position": "left-center, inside green oval"
+    },
+    {
+      "symbol": "Intersecting beams",
+      "meaning": "Lines of speech or intent colliding in conflict",
+      "position": "center, projecting rightward"
+    },
+    {
+      "symbol": "Toothed orb/mouth",
+      "meaning": "Language with power to wound or guard",
+      "position": "upper-right circular form"
+    },
+    {
+      "symbol": "Speech bubble",
+      "meaning": "The thesis framed as a question",
+      "position": "lower-center cloud shape"
+    },
+    {
+      "symbol": "Red crosshatch field",
+      "meaning": "Background tension and moral hazard",
+      "position": "full background layer"
+    },
+    {
+      "symbol": "Geometric wedge",
+      "meaning": "Rigid belief structures confronting organic feeling",
+      "position": "right edge near beams"
+    }
+  ],
+  "articleExcerpt": "“Can I really love if I only tell lies?”",
+  "sourceFragments": [
+    "Original drawing and phrasing by the author; no external citations."
+  ],
+  "associatedMedia": [
+    {
+      "contentUrl": "",
+      "description": "Abstract hand-drawn image with an eye, intersecting beams, toothed orb, and a speech bubble set against a red crosshatched background."
+    }
+  ]
+}

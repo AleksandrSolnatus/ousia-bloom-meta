@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "My brain of fire",
+  "description": "A vivid, chaotic self-portrait rendered in colored ink, depicting the mind as a blazing, manic engine of thought and sensation. Captures a phase of heightened energy and creative combustion, balancing between brilliance and overload.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-12",
+  "keywords": [
+    "Aleksandr",
+    "Ousia Bloom",
+    "Red Moon Rising (Wildfire Mind)",
+    "art",
+    "self-portrait",
+    "manic energy",
+    "fire imagery",
+    "mental states",
+    "creative process"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/my-brain-of-fire",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-08-13",
+  "timeFelt": {
+    "timestamp": "2025-08-12T00:00:00-05:00",
+    "phase": "Red Moon Rising (Wildfire Mind)"
+  },
+  "motifMap": [
+    {
+      "symbol": "flames",
+      "meaning": "mental overdrive and manic energy",
+      "position": "surrounding the figure"
+    },
+    {
+      "symbol": "wide eyes",
+      "meaning": "heightened alertness, overstimulation",
+      "position": "central focus of the face"
+    },
+    {
+      "symbol": "multicolored outlines",
+      "meaning": "layers of thought and sensory input",
+      "position": "around the head and face"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Hand-drawn colored ink self-portrait of a manic, fiery mental state",
+      "contentUrl": ""
+    }
+  ],
+  "fieldDefinitions": {
+    "headline": "Title of the work or post",
+    "description": "A concise summary of the work's intent or theme",
+    "author": "Creator of the work",
+    "datePublished": "Date of original publication",
+    "keywords": "Relevant thematic and topical terms",
+    "url": "Direct link to the work",
+    "inLanguage": "Language code",
+    "metadataFormatVersion": "Schema version used",
+    "encoding": "Character encoding standard",
+    "generatedBy": "Tool and date of metadata creation",
+    "timeFelt": "Timestamp and emotional/archetypal phase at time of creation",
+    "motifMap": "Key symbolic elements with meaning and position in work",
+    "associatedMedia": "Linked or embedded media elements",
+    "fieldDefinitions": "Legend explaining each field in this file"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "The Face of Mother",
+  "description": "A deliberately rough sketch confronting an 'ugly face of motherhood' with candid annotations; part satire, part grief, part truth-telling.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-11",
+  "keywords": [
+    "motherhood",
+    "satire",
+    "anger",
+    "truth-telling",
+    "raw sketch",
+    "self-reflection",
+    "pale moon full",
+    "illustration",
+    "personal mythology"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/the-face-of-mother",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-08-13",
+  "fieldDefinitions": {
+    "timeFelt": "Subjective timestamp reflecting when the post was emotionally or conceptually formed, including the current archetypal phase",
+    "resonantThread": "One-line thematic continuity statement across works",
+    "whyItMatters": "Functional summary of the post’s relevance to broader discourse",
+    "motifMap": "Array of symbolic or conceptual motifs, each with a 'symbol', 'meaning', and 'position' field",
+    "articleExcerpt": "Direct quote or passage from the content",
+    "sourceFragments": "Any cited sources, inspirations, or embedded internal references",
+    "associatedMedia": "Optional: image or media metadata including `contentUrl` and `description`"
+  },
+  "timeFelt": {
+    "timestamp": "2025-08-11T00:00:00-05:00",
+    "phase": "Pale Moon Full"
+  },
+  "resonantThread": "Using abrasive honesty to puncture idealized images and surface complicated feelings around motherhood.",
+  "whyItMatters": "Interrogates cultural expectations by presenting an intentionally unflattering, emotionally charged depiction that invites discussion about ambivalence and truth.",
+  "motifMap": [
+    {
+      "symbol": "Crude facial outline",
+      "meaning": "Rejection of idealized iconography; embracing discomfort",
+      "position": "center"
+    },
+    {
+      "symbol": "Speech bubbles",
+      "meaning": "Internal commentary breaking the fourth wall",
+      "position": "left and right of face"
+    },
+    {
+      "symbol": "Heavy black border",
+      "meaning": "Oppressive frame or social constraint",
+      "position": "top edge"
+    }
+  ],
+  "articleExcerpt": "\"the ugly FACE of motherhood\"",
+  "sourceFragments": [
+    "Notebook sketch annotated by the author; no external sources."
+  ],
+  "associatedMedia": [
+    {
+      "contentUrl": "",
+      "description": "Photo of hand-drawn notebook sketch labeled 'the ugly face of motherhood' with speech bubbles."
+    }
+  ]
+}
