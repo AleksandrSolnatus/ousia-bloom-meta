@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "A moment of Suicidal Ideation",
+  "description": "A raw and unfiltered entry capturing a moment of suicidal ideation through both words and a stark drawing. The post reflects the 'Pale Moon Full' phase—marked by mournful clarity and an unflinching awareness of emotional weight. It documents the confrontation with hopelessness while holding a distant, reflective stance, translating inner pain into symbolic imagery.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-14",
+  "keywords": [
+    "Pale Moon Full",
+    "suicidal ideation",
+    "emotional clarity",
+    "reflection",
+    "mental health",
+    "symbolic art",
+    "mourning",
+    "introspection",
+    "personal writing"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/a-moment-of-suicidal-ideation",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-08-14",
+  "motifMap": [
+    {
+      "symbol": "stick figure with crossed-out eyes",
+      "meaning": "self-negation and emotional exhaustion",
+      "position": "center foreground"
+    },
+    {
+      "symbol": "scribbled face/monster",
+      "meaning": "chaotic mental torment or intrusive thoughts",
+      "position": "upper right"
+    },
+    {
+      "symbol": "slanted ground line",
+      "meaning": "imbalance and instability",
+      "position": "bottom of drawing"
+    },
+    {
+      "symbol": "handwritten text",
+      "meaning": "direct transmission of internal voice",
+      "position": "various"
+    }
+  ],
+  "associatedMedia": {
+    "description": "A photograph of a notebook page featuring a stick-figure drawing confronting a chaotic, scribbled face, with fragmented handwritten text expressing hopelessness.",
+    "contentUrl": ""
+  },
+  "timeFelt": {
+    "timestamp": "2025-08-14T19:06:00-05:00",
+    "phase": "Pale Moon Full"
+  }
+}
