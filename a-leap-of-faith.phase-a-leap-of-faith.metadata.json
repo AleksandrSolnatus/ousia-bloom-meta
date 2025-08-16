@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "A leap of faith",
+  "description": "A reflective poem exploring trust, vulnerability, and the uncertain motives behind taking emotional risks. Through questions and imagery, the author considers whether an act of faith is a genuine step forward or a dangerous surrender, ending with a fleeting glimpse of goodness.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-15",
+  "keywords": [
+    "poetry",
+    "trust",
+    "vulnerability",
+    "faith",
+    "risk",
+    "truth",
+    "emotional surrender",
+    "reflection",
+    "A leap of faith"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/a-leap-of-faith",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-08-15",
+  "timeFelt": {
+    "timestamp": "2025-08-15T00:00:00Z",
+    "phase": "A leap of faith"
+  },
+  "motifMap": [
+    {
+      "symbol": "snake in grass",
+      "meaning": "Deception and hidden motives within trust",
+      "position": "mid-stanza imagery"
+    },
+    {
+      "symbol": "reach into the dark",
+      "meaning": "Entering the unknown with risk and uncertainty",
+      "position": "penultimate question"
+    },
+    {
+      "symbol": "glimpse of goodness",
+      "meaning": "A fleeting reassurance amid doubt",
+      "position": "closing line"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Abstract hand-drawn illustration featuring intertwined forms and text, symbolizing trust, doubt, and hidden truths.",
+    "contentUrl": ""
+  },
+  "fieldDefinitions": {
+    "@context": "Schema.org context identifier for linked data",
+    "@type": "Schema.org type of the creative work",
+    "headline": "Title of the Substack post",
+    "description": "Plain summary of the post's content and purpose",
+    "author": "Author information object with name",
+    "datePublished": "Publication date in ISO format",
+    "keywords": "Array of relevant keywords for indexing",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language code of the content",
+    "metadataFormatVersion": "Version identifier for the metadata format",
+    "encoding": "Character encoding",
+    "generatedBy": "Tool and date of metadata generation",
+    "timeFelt": "Object with timestamp and phase name",
+    "motifMap": "Array of symbolic elements with meaning and location",
+    "associatedMedia": "Object describing attached images or media",
+    "fieldDefinitions": "Legend explaining each metadata field"
+  }
+}

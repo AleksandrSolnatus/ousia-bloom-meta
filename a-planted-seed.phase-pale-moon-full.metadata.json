@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "A Planted Seed",
+  "description": "A deeply personal reflection on loss, faith, and transformation. Written in the Pale Moon Full phase, this piece weaves together mourning for a marriage, the desire for a life of spiritual devotion, and the commitment to pursue good despite sorrow. The work is accompanied by a hand-drawn image rich with symbolic detail and biblical exhortations toward sincere love.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-15",
+  "keywords": [
+    "Pale Moon Full",
+    "faith",
+    "mourning",
+    "loss",
+    "spiritual yearning",
+    "asceticism",
+    "commitment to good",
+    "hope in God",
+    "self-reflection"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/a-planted-seed",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-08-15",
+  "timeFelt": {
+    "timestamp": "2025-08-15T19:15:00-05:00",
+    "phase": "Pale Moon Full"
+  },
+  "motifMap": [
+    {
+      "symbol": "seed",
+      "meaning": "Potential for renewal and growth amid darkness",
+      "position": "central image and title"
+    },
+    {
+      "symbol": "concentric paths",
+      "meaning": "Layers of spiritual and emotional journey",
+      "position": "border and inner design"
+    },
+    {
+      "symbol": "biblical text",
+      "meaning": "Guidance toward sincere love and moral clarity",
+      "position": "inner spiral"
+    },
+    {
+      "symbol": "geometric patterns",
+      "meaning": "Order within chaos, divine structure in human life",
+      "position": "core design"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Hand-drawn symbolic image featuring a seed-shaped form with concentric patterns, biblical verses, and vibrant colors against a dark background.",
+    "contentUrl": ""
+  }
+}
