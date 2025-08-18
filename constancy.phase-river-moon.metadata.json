@@ -1,0 +1,59 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Fidelity is not the shame",
+  "description": "A reflective poem on the enduring nature of true love and constancy, contrasting fidelity with betrayal and the emptiness of the fickle heart.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-18",
+  "keywords": [
+    "constancy",
+    "fidelity",
+    "true love",
+    "betrayal",
+    "honour",
+    "poetry",
+    "River Moon phase"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/constancy",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-5, 2025-08-18",
+  "timeFelt": {
+    "timestamp": "2025-08-18T12:38:00-05:00",
+    "phase": "River Moon"
+  },
+  "motifMap": [
+    {
+      "symbol": "jewel",
+      "meaning": "Constancy as the most precious and enduring virtue",
+      "position": "final stanza"
+    },
+    {
+      "symbol": "dry eye",
+      "meaning": "Emotional detachment of the unfaithful heart",
+      "position": "middle stanza"
+    },
+    {
+      "symbol": "fickle",
+      "meaning": "Those who wander and depart, contrasted with fidelity",
+      "position": "closing stanza"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Screenshot of Substack poem 'Fidelity is not the shame' by Aleksandr",
+    "contentUrl": ""
+  },
+  "fieldDefinitions": {
+    "headline": "Title of the poem",
+    "description": "Plain-language summary of the piece",
+    "keywords": "Thematic keywords for search and indexing",
+    "url": "Direct Substack link to the poem",
+    "timeFelt": "Timestamp and symbolic phase when experienced",
+    "motifMap": "Symbols, meanings, and their location within the work",
+    "associatedMedia": "Reference to related image or screenshot"
+  }
+}

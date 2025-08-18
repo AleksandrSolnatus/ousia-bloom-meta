@@ -1,39 +1,15 @@
-# ousia-bloom-meta
+# Fidelity is not the shame  
+**Phase: River Moon**
 
-**Metadata archive for Aleksandr’s work** — a structured schema for discovery, future-proofing, and machine indexing across creative, philosophical, and scientific domains.
+This poem, published under the title *Constancy*, explores the enduring virtue of fidelity in the face of betrayal and scorn. It contrasts the steadfast heart with the fickle spirit, framing constancy as a jewel — rare, precious, and unyielding even when unrecognized.
 
-This repository contains `ld+json` structured metadata for each public post or project in the [Ousia Bloom](https://your-substack-url.com) series. It is designed to support:
+### Key Themes
+- **Fidelity as strength**: To remain true, even when mocked or abandoned, is framed not as weakness but as a higher form of honour.  
+- **The emptiness of betrayal**: Those who wander, depart, or detach move on “with dry eye,” but their lives lack the depth of love’s true embrace.  
+- **Constancy as treasure**: The closing metaphor of the jewel positions steadfastness not as suffering but as a gift of unmatched value.  
 
-- Long-term traceability and archival
-- Cross-format referencing (Substack, GitHub, Hugging Face, future datasets)
-- Machine-learning accessibility
-- Reader curiosity and citation
+### Context
+This piece belongs to the **River Moon** phase of Aleksandr’s archetypal calendar. The River Moon emphasizes the flowing yet steady qualities of love, trust, and emotional depth. In this frame, fidelity is the river’s enduring current, contrasted with the restless eddies of betrayal.  
 
----
-
-## 📁 Folder Structure
-
-```bash
-/BathyBeacon/     → Metadata for deep-sea learning experiments and Arduino circuit logs  
-/PromptSpeak/     → (coming soon) Metadata for AI learning and interaction techniques  
-/Latinum/         → (coming soon) Metadata for live Latin learning logs and immersion  
-
-🧠 Metadata Format
-
-All files follow JSON-LD using @type: CreativeWork or @type: LearningResource.
-
-Example:
-{
-  "@context": "https://schema.org",
-  "@type": "CreativeWork",
-  "name": "Example Title",
-  "description": "One-sentence summary of the post.",
-  "author": {
-    "@type": "Person",
-    "name": "Aleksandr"
-  },
-  "dateCreated": "2025-05-23",
-  "keywords": ["arduino", "self-learning", "PromptSpeak"],
-  "inLanguage": "en",
-  "url": "https://your-substack-url.com/example-post"
-}
+### Notes
+This poem reflects Aleksandr’s ongoing dialogue with themes of love, honour, and loss. It draws from a long tradition of moral-poetic reflection, echoing both biblical wisdom and classical lyricism. Its simplicity belies its weight: fidelity here is not naïveté, but a chosen form of courage.  
