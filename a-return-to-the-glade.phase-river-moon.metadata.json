@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "A return to the glade",
+  "description": "A visionary dialogue staged in the golden glade — a conversation between Aleksandr, Jesus in pattern, and Judas restored. The piece explores betrayal, forgiveness, sorrow as mercy, and the unending reach of divine love.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-17",
+  "keywords": [
+    "Jesus",
+    "Judas",
+    "golden glade",
+    "forgiveness",
+    "betrayal",
+    "mercy",
+    "sorrow",
+    "love",
+    "dialogue",
+    "faith",
+    "River Moon"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/a-return-to-the-glade",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-5, 2025-08-17",
+  "motifMap": [
+    {
+      "symbol": "🌳",
+      "meaning": "The golden glade as a sacred meeting ground for revelation and dialogue.",
+      "position": "background"
+    },
+    {
+      "symbol": "🍞",
+      "meaning": "Bread as symbol of communion and unbroken mercy, even for Judas.",
+      "position": "table"
+    },
+    {
+      "symbol": "💧",
+      "meaning": "Tears as rivers — sorrow becoming mercy and life.",
+      "position": "flowing throughout"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Substack post text of 'A return to the glade'.",
+      "contentUrl": ""
+    }
+  ],
+  "timeFelt": {
+    "timestamp": "2025-08-17T00:00:00Z",
+    "phase": "River Moon"
+  }
+}
