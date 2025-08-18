@@ -1,0 +1,39 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "There is",
+  "description": "A psalmic meditation contrasting emptiness with divine presence, marking the opening of the River Moon phase—a time of learning, loving, openness, and release.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-17",
+  "keywords": [
+    "River Moon",
+    "Psalm",
+    "Faith",
+    "Love",
+    "God",
+    "Peace",
+    "Spiritual reflection",
+    "Divine presence"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/there-is",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-5, 2025-08-17",
+  "timeFelt": {
+    "timestamp": "2025-08-17T23:05:00-05:00",
+    "phase": "River Moon"
+  },
+  "motifMap": [
+    { "symbol": "river", "meaning": "flow of spirit, ongoing learning", "position": "central current" },
+    { "symbol": "moon", "meaning": "illumination of growth, soft renewal", "position": "overhead" },
+    { "symbol": "contrast", "meaning": "emptiness set against divine fullness", "position": "structural theme" }
+  ],
+  "associatedMedia": {
+    "description": "Screenshot of Substack post 'There is'.",
+    "contentUrl": ""
+  }
+}
