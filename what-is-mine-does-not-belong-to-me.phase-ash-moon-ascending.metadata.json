@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "What is mine, does not belong to me",
+  "description": "A psalm-like declaration of sovereignty and surrender. The piece affirms ownership of art, faith, life, and spirit, only to release them into belonging with God. It is a meditation on shield, word, and peace through relinquishment.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-18",
+  "keywords": [
+    "Psalm",
+    "faith",
+    "sovereignty",
+    "shield",
+    "belonging",
+    "writing",
+    "life",
+    "God",
+    "peace",
+    "phase"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/what-is-mine-does-not-belong-to-me",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-08-19",
+  "timeFelt": {
+    "timestamp": "2025-08-18T00:00:00Z",
+    "phase": "Ash Moon Ascending"
+  },
+  "motifMap": [
+    {
+      "symbol": "shield",
+      "meaning": "Defense without aggression; a quiet protection.",
+      "position": "closing stanza"
+    },
+    {
+      "symbol": "word",
+      "meaning": "Sacred authority, scripture, and self-expression.",
+      "position": "closing stanza"
+    },
+    {
+      "symbol": "belonging",
+      "meaning": "The paradox of possession and surrender.",
+      "position": "title and refrain"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Screenshot of the Substack post titled 'What is mine, does not belong to me', showing the psalm-like structure and verses.",
+    "contentUrl": ""
+  },
+  "fieldDefinitions": {
+    "@context": "Schema.org standard context.",
+    "@type": "Defines the type of creative work, here a BlogPosting.",
+    "headline": "Title of the work.",
+    "description": "Plain summary of the purpose and theme.",
+    "author": "Author information object with type and name.",
+    "datePublished": "ISO 8601 date of publication.",
+    "keywords": "Array of 5–10 topical keywords related to the piece.",
+    "url": "Direct link to the Substack post.",
+    "inLanguage": "Language of the post.",
+    "metadataFormatVersion": "Version number for metadata schema.",
+    "encoding": "Character encoding standard.",
+    "generatedBy": "Indicates ChatGPT version and date of metadata generation.",
+    "timeFelt": "Object with timestamp and symbolic phase name.",
+    "motifMap": "Array mapping symbols in the work with meanings and their textual positions.",
+    "associatedMedia": "Object with description and optional content URL for images/media tied to the post.",
+    "fieldDefinitions": "Legend explaining the meaning of each metadata field."
+  }
+}
