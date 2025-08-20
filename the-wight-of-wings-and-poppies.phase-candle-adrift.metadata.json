@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "The Wight of Wings and Poppies",
+  "description": "A shard-like meditation of memory and burden. The weight of wings carries fragile poppies—symbols of death, beauty, and remembrance. This piece belongs to the phase Candle Adrift, where light persists upon uncertain waters.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-20",
+  "keywords": [
+    "Ousia Bloom",
+    "The Wight of Wings and Poppies",
+    "Candle Adrift",
+    "shard",
+    "memory",
+    "remembrance",
+    "wight",
+    "poppies",
+    "wing",
+    "burden"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/the-wight-of-wings-and-poppies",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-5, 2025-08-20",
+  "timeFelt": {
+    "timestamp": "2025-08-20T00:00:00Z",
+    "phase": "Candle Adrift"
+  },
+  "motifMap": [
+    {
+      "symbol": "wing",
+      "meaning": "burdened spirit, the heavy possibility of flight",
+      "position": "central, shadowed"
+    },
+    {
+      "symbol": "poppies",
+      "meaning": "memory, sacrifice, fragile beauty in grief",
+      "position": "resting upon the wing"
+    },
+    {
+      "symbol": "wight",
+      "meaning": "spirit-being, both ghost and weight of existence",
+      "position": "title, conceptual anchor"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "A black-and-white image of a dark wing, heavy with form, carrying bright red poppies. Symbol of remembrance, burden, and ghostly presence.",
+      "contentUrl": ""
+    }
+  ],
+  "fieldDefinitions": {
+    "headline": "Title of the piece",
+    "description": "Plain summary of the content’s purpose",
+    "author": "Author information",
+    "datePublished": "Date of publication",
+    "keywords": "Array of topical keywords, including the phase",
+    "url": "Link to the Substack post",
+    "inLanguage": "Language of the work",
+    "metadataFormatVersion": "Schema version used",
+    "encoding": "Character encoding standard",
+    "generatedBy": "Model and date of generation",
+    "timeFelt": "Timestamp and named phase associated with the work",
+    "motifMap": "Symbols, their meanings, and their positions",
+    "associatedMedia": "Images or media linked to the piece",
+    "fieldDefinitions": "Legend explaining the fields"
+  }
+}
