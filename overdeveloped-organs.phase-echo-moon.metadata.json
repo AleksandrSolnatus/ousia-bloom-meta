@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Overdeveloped Organs",
+  "description": "A surreal drawing exploring excess, burden, and endurance. Vivid colors stretch against winter-like repetition, echoing the phase of Echo Moon.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-23",
+  "keywords": [
+    "Overdeveloped Organs",
+    "Echo Moon",
+    "art",
+    "Ousia Bloom",
+    "winter phase",
+    "endurance",
+    "excess",
+    "surreal"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/overdeveloped-organs",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-5, 2025-08-23",
+  "timeFelt": {
+    "timestamp": "2025-08-23T11:17:00-05:00",
+    "phase": "Echo Moon"
+  },
+  "motifMap": [
+    {
+      "symbol": "layered organs",
+      "meaning": "excessive growth, endurance under weight",
+      "position": "central form"
+    },
+    {
+      "symbol": "cold vivid colors",
+      "meaning": "life persisting within repetition",
+      "position": "throughout"
+    }
+  ],
+  "associatedMedia": {
+    "description": "A colorful, surreal drawing resembling overlapping organs and abstract forms.",
+    "contentUrl": ""
+  },
+  "fieldDefinitions": {
+    "headline": "Title of the work",
+    "description": "Plain summary of the content\u2019s purpose",
+    "author": "Author of the piece",
+    "datePublished": "ISO date of publication",
+    "keywords": "Topical themes and tags",
+    "url": "Direct link to the Substack post",
+    "inLanguage": "Language of the text",
+    "metadataFormatVersion": "Version of metadata schema",
+    "encoding": "Character encoding",
+    "generatedBy": "Tool and date of generation",
+    "timeFelt": "Phase context and timestamp",
+    "motifMap": "Symbols and meanings within the work",
+    "associatedMedia": "Attached images and description"
+  }
+}
