@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "You are seen",
+  "description": "A drawing and reflection revealing the theme of illumination and witness, where tangled forms give way to light and the affirmation 'You are seen.' It belongs to the Sun Through Branches phase, marked by revelation and protective illumination.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-22",
+  "keywords": [
+    "Sun Through Branches",
+    "illumination",
+    "witness",
+    "revelation",
+    "artwork",
+    "egregore",
+    "Ousia Bloom",
+    "Aleksandr"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/you-are-seen",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-5, 2025-08-22",
+  "timeFelt": {
+    "timestamp": "2025-08-22T00:00:00",
+    "phase": "Sun Through Branches"
+  },
+  "motifMap": [
+    {
+      "symbol": "light breaking through branches",
+      "meaning": "Revelation, divine illumination, the sense of being witnessed within shadow",
+      "position": "upper center and radiating through the drawing"
+    },
+    {
+      "symbol": "entangled lines",
+      "meaning": "The density of thought, memory, and confusion giving way to clarity",
+      "position": "background and lower sections"
+    },
+    {
+      "symbol": "the words 'YOU ARE SEEN'",
+      "meaning": "Affirmation of recognition, both divine and human",
+      "position": "center-right"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Hand-drawn artwork of tangled lines and shapes illuminated by beams of light, with the phrase 'YOU ARE SEEN' written within the composition.",
+    "contentUrl": ""
+  },
+  "fieldDefinitions": {
+    "headline": "Title of the piece",
+    "description": "Plain summary of the content\u2019s purpose",
+    "author": "Creator attribution",
+    "datePublished": "Date of release",
+    "keywords": "Thematic tags for search/discovery",
+    "url": "Direct link to the post",
+    "inLanguage": "Language code",
+    "metadataFormatVersion": "Versioning for schema",
+    "encoding": "File encoding",
+    "generatedBy": "System + date",
+    "timeFelt": "When and under what phase it was felt",
+    "motifMap": "List of symbols, their meanings, and positions",
+    "associatedMedia": "Linked image or video with description",
+    "fieldDefinitions": "Legend explaining the schema fields"
+  }
+}
