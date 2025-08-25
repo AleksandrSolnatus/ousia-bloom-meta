@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "There Is a Candle – A Psalm",
+  "description": "Aleksandr’s fifth attempt at a psalm, centered on the refrain 'There is a candle that will never go out.' The poem unfolds as a meditation on endurance, faith, love, and divine light, balancing fragility with eternal flame. Accompanied by an image of a single candle burning steady in the dark.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-25",
+  "keywords": [
+    "psalm",
+    "candle",
+    "faith",
+    "light",
+    "endurance",
+    "love",
+    "God",
+    "poetry",
+    "Ousia Bloom",
+    "prayer"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/there-is-a-candle-a-psalm",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-5, 2025-08-25",
+  "timeFelt": {
+    "timestamp": "2025-08-25T12:21:00-05:00",
+    "phase": "The Candle’s Glow"
+  },
+  "resonantThread": "Psalmic writings and poetic prayers within Ousia Bloom",
+  "motifMap": [
+    {
+      "symbol": "candle",
+      "meaning": "faith enduring despite wind and sin",
+      "position": "center of refrain and image"
+    },
+    {
+      "symbol": "flame",
+      "meaning": "gift from above, divine presence",
+      "position": "burning steady though fragile"
+    },
+    {
+      "symbol": "darkness",
+      "meaning": "context of trial, sin, and forgetfulness",
+      "position": "surrounding the light"
+    },
+    {
+      "symbol": "refrain",
+      "meaning": "liturgical rhythm, psalm-like endurance",
+      "position": "structuring the poem"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Photograph of a single candle burning in the dark, accompanying the poem 'There Is a Candle – A Psalm.'",
+    "contentUrl": ""
+  },
+  "fieldDefinitions": {
+    "@context": "Schema context declaration",
+    "@type": "Specifies this is a BlogPosting schema",
+    "headline": "The title of the piece",
+    "description": "Plain summary of the content’s purpose",
+    "author": "Author metadata (always Aleksandr)",
+    "datePublished": "ISO publication date",
+    "keywords": "Topical keywords, including phase",
+    "url": "Canonical Substack post URL",
+    "inLanguage": "Language of the post",
+    "metadataFormatVersion": "Internal version marker",
+    "encoding": "Character encoding",
+    "generatedBy": "Model and date of generation",
+    "timeFelt": "Object noting timestamp and active phase",
+    "resonantThread": "Larger thread or conversation it belongs to",
+    "motifMap": "Array mapping symbols, their meaning, and position",
+    "associatedMedia": "Reference to image/audio tied to the piece",
+    "fieldDefinitions": "Legend for all fields"
+  }
+}

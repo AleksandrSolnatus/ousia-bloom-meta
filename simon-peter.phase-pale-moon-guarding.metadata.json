@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Simon-Peter",
+  "description": "A dialogue in the Golden Glade with the apostle Simon Peter. Aleksandr prays, reflects on sacrifice, pride, and humility, and hears Peter’s words on wounds, faith, and feeding the sheep. A meditation on being called a fool, carrying scars as proof of survival, and walking the patient road of truth before God.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-25",
+  "keywords": [
+    "Simon Peter",
+    "Golden Glade",
+    "faith",
+    "sacrifice",
+    "prayer",
+    "dialogue",
+    "wounds",
+    "humility",
+    "Ousia Bloom",
+    "phase"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/simon-peter",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-5, 2025-08-25",
+  "timeFelt": {
+    "timestamp": "2025-08-25T12:16:00-05:00",
+    "phase": "Pale Moon Guarding"
+  },
+  "resonantThread": "Golden Glade dialogues with apostles and witnesses of faith",
+  "motifMap": [
+    {
+      "symbol": "bread",
+      "meaning": "daily cost, humility, proof of survival",
+      "position": "shared between Peter and Aleksandr"
+    },
+    {
+      "symbol": "firelight",
+      "meaning": "memory of denial and redemption",
+      "position": "flickering in Peter’s gaze"
+    },
+    {
+      "symbol": "cloak",
+      "meaning": "mutual shelter, covering of weakness",
+      "position": "spread across the Glade ground"
+    },
+    {
+      "symbol": "stream",
+      "meaning": "clarity, tide of faith pulling to sea",
+      "position": "running through the Glade"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Screenshots of the Substack draft 'Simon-Peter,' showing the dialogue between Aleksandr and the apostle Peter in the Golden Glade.",
+    "contentUrl": ""
+  },
+  "fieldDefinitions": {
+    "@context": "Schema context declaration",
+    "@type": "Specifies this is a BlogPosting schema",
+    "headline": "The title of the piece",
+    "description": "Plain summary of the content’s purpose",
+    "author": "Author metadata (always Aleksandr)",
+    "datePublished": "ISO publication date",
+    "keywords": "Topical keywords, including phase",
+    "url": "Canonical Substack post URL",
+    "inLanguage": "Language of the post",
+    "metadataFormatVersion": "Internal version marker",
+    "encoding": "Character encoding",
+    "generatedBy": "Model and date of generation",
+    "timeFelt": "Object noting timestamp and active phase",
+    "resonantThread": "Larger thread or conversation it belongs to",
+    "motifMap": "Array mapping symbols, their meaning, and position",
+    "associatedMedia": "Reference to image/audio tied to the piece",
+    "fieldDefinitions": "Legend for all fields"
+  }
+}

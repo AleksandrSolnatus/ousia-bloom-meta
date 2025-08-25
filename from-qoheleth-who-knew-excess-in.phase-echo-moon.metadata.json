@@ -1,0 +1,78 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Ecclesiastes Chapter 2 (NABRE)",
+  "description": "A curated reading of Ecclesiastes 2 (NABRE) paired with reflection. Qoheleth’s litany of achievements, pleasures, and toil culminates in the refrain that all is vanity and a chasing after wind. Against that despair, Aleksandr adds a crucial counter-line of orientation: “But in the toil for goodness and light there is purpose.” The piece holds both truths—futility under the sun, and a vowed purpose oriented to light.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-25",
+  "keywords": [
+    "Qoheleth",
+    "Ecclesiastes 2",
+    "vanity",
+    "purpose",
+    "toil",
+    "wisdom",
+    "Bible",
+    "reflection",
+    "Ousia Bloom",
+    "chasing after wind"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/from-qoheleth-who-knew-excess-in",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-5, 2025-08-25",
+  "timeFelt": {
+    "timestamp": "2025-08-25T12:26:00-05:00",
+    "phase": "Echo Moon"
+  },
+  "resonantThread": "Scripture-in-dialogue: vanity and vowed purpose under the sun",
+  "motifMap": [
+    {
+      "symbol": "great works and gardens",
+      "meaning": "sum of human striving and achievement",
+      "position": "verses 4–8"
+    },
+    {
+      "symbol": "chasing after wind",
+      "meaning": "Qoheleth’s verdict on futility",
+      "position": "verses 11, 17, 26"
+    },
+    {
+      "symbol": "inheritance to the unknown heir",
+      "meaning": "loss of control; the one who comes after",
+      "position": "verses 18–19"
+    },
+    {
+      "symbol": "counter-line: 'toil for goodness and light'",
+      "meaning": "reframed vocation—purpose through oriented toil",
+      "position": "editorial coda beneath the passage"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Screenshot of the Substack draft showing Ecclesiastes 2 (NABRE) with the added coda: 'But in the toil for goodness and light there is purpose.'",
+    "contentUrl": ""
+  },
+  "fieldDefinitions": {
+    "@context": "Schema context declaration",
+    "@type": "Specifies this is a BlogPosting schema",
+    "headline": "The title of the piece",
+    "description": "Plain summary of the content’s purpose",
+    "author": "Author metadata (always Aleksandr)",
+    "datePublished": "ISO publication date",
+    "keywords": "Topical keywords, including phase",
+    "url": "Canonical Substack post URL",
+    "inLanguage": "Language of the post",
+    "metadataFormatVersion": "Internal version marker",
+    "encoding": "Character encoding",
+    "generatedBy": "Model and date of generation",
+    "timeFelt": "Object noting timestamp and active phase",
+    "resonantThread": "Larger thread or conversation it belongs to",
+    "motifMap": "Array mapping symbols, their meaning, and position",
+    "associatedMedia": "Reference to image/audio tied to the piece",
+    "fieldDefinitions": "Legend for all fields"
+  }
+}
