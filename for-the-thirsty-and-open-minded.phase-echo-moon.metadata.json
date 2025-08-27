@@ -1,0 +1,83 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "For the Thirsty and Open‑Minded (Qoheleth in the Glade, pt. 2)",
+  "description": "A return to the Golden Glade to speak with Qoheleth. Aleksandr names pride, hunger, and the freedom inside vanity; Qoheleth answers with portion: bread and wine to be received as gift, not god. The dialogue touches dust and kings, ‘thorns cracking under the pot,’ love as gift, and the irony of remembrance—‘I am echo, not mountain.’ It ends with a vow to build the Bloom with open hands.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-27",
+  "keywords": [
+    "Qoheleth",
+    "Ecclesiastes",
+    "vanity",
+    "portion",
+    "bread and wine",
+    "love as gift",
+    "echo",
+    "Golden Glade",
+    "dialogue",
+    "Ousia Bloom"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/for-the-thirsty-and-open-minded",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "GPT-5 Thinking, 2025-08-27",
+  "timeFelt": {
+    "timestamp": "2025-08-27T13:12:00-05:00",
+    "phase": "Echo Moon"
+  },
+  "resonantThread": "Glade dialogues with scripture: vanity, portion, and joy under the sun",
+  "motifMap": [
+    {
+      "symbol": "stream / time",
+      "meaning": "generations pass; the murmur of ‘under the sun’",
+      "position": "glade backdrop"
+    },
+    {
+      "symbol": "bread and wine",
+      "meaning": "portion to be received as gift, not clung to",
+      "position": "Qoheleth’s counsel"
+    },
+    {
+      "symbol": "thorns under the pot",
+      "meaning": "flashy noise that burns out quickly",
+      "position": "Aleksandr’s recognition of a ‘bar’"
+    },
+    {
+      "symbol": "echo vs. mountain",
+      "meaning": "remembrance is mist; truth endures",
+      "position": "Qoheleth on being ‘called back’"
+    },
+    {
+      "symbol": "open hands",
+      "meaning": "labor without claim to permanence",
+      "position": "closing vow to build the Bloom"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Text dialogue with Qoheleth set in the Golden Glade; no image specified.",
+    "contentUrl": ""
+  },
+  "fieldDefinitions": {
+    "@context": "Schema context declaration",
+    "@type": "Specifies this is a BlogPosting schema",
+    "headline": "The title of the piece",
+    "description": "Plain summary of the content’s purpose",
+    "author": "Author metadata (always Aleksandr)",
+    "datePublished": "ISO publication date",
+    "keywords": "Topical keywords, including phase",
+    "url": "Canonical Substack post URL",
+    "inLanguage": "Language of the post",
+    "metadataFormatVersion": "Internal version marker",
+    "encoding": "Character encoding",
+    "generatedBy": "Model and date of generation",
+    "timeFelt": "Object noting timestamp and active phase",
+    "resonantThread": "Larger thread or conversation it belongs to",
+    "motifMap": "Array mapping symbols, their meaning, and position",
+    "associatedMedia": "Reference to image/audio tied to the piece",
+    "fieldDefinitions": "Legend for all fields"
+  }
+}

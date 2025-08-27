@@ -1,0 +1,82 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Doodle Vroom",
+  "description": "A playful, high‑contrast sketch that turns motion into symbol: red/blue/black forms resolve into a vehicle‑totem, wheels and engine layered with notes like 'here to learn' and 'self‑reflection only.' The piece captures restless momentum and apprentice energy—movement for its own sake as a way of thinking.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-25",
+  "keywords": [
+    "Doodle",
+    "sketchbook",
+    "motion",
+    "vehicle totem",
+    "play",
+    "abstract art",
+    "Ousia Bloom",
+    "phase",
+    "The Wanderer’s Burn"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/doodle-vroom",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-4o, 2025-08-27",
+  "timeFelt": {
+    "timestamp": "2025-08-27T13:06:00-05:00",
+    "phase": "The Wanderer’s Burn"
+  },
+  "resonantThread": "Sketchbook play—vehicles of motion, travel energy, and learning by movement",
+  "motifMap": [
+    {
+      "symbol": "wheels",
+      "meaning": "restless motion; momentum without fixed destination",
+      "position": "dominant circular forms"
+    },
+    {
+      "symbol": "engine / heart",
+      "meaning": "power source as inner drive; desire to move and learn",
+      "position": "central clustered shapes"
+    },
+    {
+      "symbol": "red–blue palette",
+      "meaning": "fire vs. cool navigation; tension harnessed into flow",
+      "position": "alternating fills across the body"
+    },
+    {
+      "symbol": "notebook lines",
+      "meaning": "practice surface; learning-in-public; provisional map",
+      "position": "background page grid"
+    },
+    {
+      "symbol": "handwritten notes ('here to learn', 'self reflection only')",
+      "meaning": "apprentice stance; inwardly guided travel",
+      "position": "margins and foreground text"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Photo of the sketch 'Doodle Vroom'—red/blue/black abstract vehicle-like forms on lined paper with handwritten notes.",
+    "contentUrl": ""
+  },
+  "fieldDefinitions": {
+    "@context": "Schema context declaration",
+    "@type": "Specifies this is a BlogPosting schema",
+    "headline": "The title of the piece",
+    "description": "Plain summary of the content’s purpose",
+    "author": "Author metadata (always Aleksandr)",
+    "datePublished": "ISO publication date",
+    "keywords": "Topical keywords, including phase",
+    "url": "Canonical Substack post URL",
+    "inLanguage": "Language of the post",
+    "metadataFormatVersion": "Internal version marker",
+    "encoding": "Character encoding",
+    "generatedBy": "Model and date of generation",
+    "timeFelt": "Object noting timestamp and active phase",
+    "resonantThread": "Larger thread or conversation it belongs to",
+    "motifMap": "Array mapping symbols, their meaning, and position",
+    "associatedMedia": "Reference to image/audio tied to the piece",
+    "fieldDefinitions": "Legend for all fields"
+  }
+}

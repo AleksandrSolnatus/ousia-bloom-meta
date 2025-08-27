@@ -1,0 +1,83 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "The Accord of Jagged Pieces",
+  "description": "A dense sketchbook mosaic where red, olive, black, and white shards interlock without losing their edges. The drawing searches for harmony that doesn’t erase fracture—accord made from contrast, not smoothing. Glyph-like icons, eyes, and coils act as small totems stitching motion into pattern.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-27",
+  "keywords": [
+    "mosaic",
+    "accord",
+    "fragments",
+    "glyphs",
+    "totem",
+    "abstract art",
+    "sketchbook",
+    "red olive black",
+    "Ousia Bloom",
+    "Totem Current"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/the-accord-of-jagged-pieces",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "GPT-5 Thinking, 2025-08-27",
+  "timeFelt": {
+    "timestamp": "2025-08-27T13:19:00-05:00",
+    "phase": "Totem Current"
+  },
+  "resonantThread": "Fragments into harmony—mosaic pages that reconcile tension without erasing edges; glyphs as small totems marking waypoints",
+  "motifMap": [
+    {
+      "symbol": "tile shards",
+      "meaning": "broken forms arranged into working peace",
+      "position": "all-over grid of panels"
+    },
+    {
+      "symbol": "totem glyphs (eyes/spirals)",
+      "meaning": "anchors of attention; icons that bless the field",
+      "position": "scattered focal emblems"
+    },
+    {
+      "symbol": "red–olive–black triad",
+      "meaning": "discordant colors held in balance",
+      "position": "alternating fills across pieces"
+    },
+    {
+      "symbol": "white seams",
+      "meaning": "breathing room; boundaries that allow accord",
+      "position": "negative-space ligatures between shapes"
+    },
+    {
+      "symbol": "notebook margin",
+      "meaning": "practice-as-ritual; accord learned over time",
+      "position": "left edge of the page"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Photo of the sketchbook page 'The Accord of Jagged Pieces' showing interlocking red/olive/black forms and glyphs.",
+    "contentUrl": ""
+  },
+  "fieldDefinitions": {
+    "@context": "Schema context declaration",
+    "@type": "Specifies this is a BlogPosting schema",
+    "headline": "The title of the piece",
+    "description": "Plain summary of the content’s purpose",
+    "author": "Author metadata (always Aleksandr)",
+    "datePublished": "ISO publication date",
+    "keywords": "Topical keywords, including phase",
+    "url": "Canonical Substack post URL",
+    "inLanguage": "Language of the post",
+    "metadataFormatVersion": "Internal version marker",
+    "encoding": "Character encoding",
+    "generatedBy": "Model and date of generation",
+    "timeFelt": "Object noting timestamp and active phase",
+    "resonantThread": "Larger thread or conversation it belongs to",
+    "motifMap": "Array mapping symbols, their meaning, and position",
+    "associatedMedia": "Reference to image/audio tied to the piece",
+    "fieldDefinitions": "Legend for all fields"
+  }
+}
