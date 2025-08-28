@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "A Psalm of Renewal",
+  "description": "A compact psalm about daily newness and chosen change: life as stuttering lines, a gift within each day, and the simple switch that turns rote into renewal. It names choice, the fire in the heart, and grace—God’s power meeting our will—to rewrite the pattern.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-28",
+  "keywords": [
+    "psalm",
+    "renewal",
+    "choice",
+    "grace",
+    "daily gift",
+    "change",
+    "Ousia Bloom",
+    "The Candle’s Glow"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/a-psalm-of-renewal",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "GPT-5 Thinking, 2025-08-28",
+  "timeFelt": {
+    "timestamp": "2025-08-28T12:16:00-05:00",
+    "phase": "The Candle’s Glow"
+  },
+  "resonantThread": "Psalmic writings on endurance, light, and beginning again",
+  "motifMap": [
+    {
+      "symbol": "rising sun",
+      "meaning": "each day born anew; expectation of light",
+      "position": "opening cadence"
+    },
+    {
+      "symbol": "broken / stuttering line",
+      "meaning": "life isn’t continuous; change happens in steps",
+      "position": "early stanza"
+    },
+    {
+      "symbol": "gift within the day",
+      "meaning": "grace present in the ordinary",
+      "position": "central claim"
+    },
+    {
+      "symbol": "switch",
+      "meaning": "act of will that invites grace to re-pattern the day",
+      "position": "turn toward renewal"
+    },
+    {
+      "symbol": "fire in the heart",
+      "meaning": "zeal animated by God’s power",
+      "position": "closing invocation"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Symbolic triptych artwork for the post: dawn panels with paths, a sprout beneath a rising sun, and pixels turning into a flowing line—no text.",
+    "contentUrl": ""
+  },
+  "fieldDefinitions": {
+    "@context": "Schema context declaration",
+    "@type": "Specifies this is a BlogPosting schema",
+    "headline": "The title of the piece",
+    "description": "Plain summary of the content’s purpose",
+    "author": "Author metadata (always Aleksandr)",
+    "datePublished": "ISO publication date",
+    "keywords": "Topical keywords, including phase",
+    "url": "Canonical Substack post URL",
+    "inLanguage": "Language of the post",
+    "metadataFormatVersion": "Internal version marker",
+    "encoding": "Character encoding",
+    "generatedBy": "Model and date of generation",
+    "timeFelt": "Object noting timestamp and active phase",
+    "resonantThread": "Larger thread or conversation it belongs to",
+    "motifMap": "Array mapping symbols, their meaning, and position",
+    "associatedMedia": "Reference to image/audio tied to the piece",
+    "fieldDefinitions": "Legend for all fields"
+  }
+}
