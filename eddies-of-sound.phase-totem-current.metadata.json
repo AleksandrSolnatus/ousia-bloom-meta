@@ -1,0 +1,89 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Eddies of Sound",
+  "description": "A synesthetic totem: a bird-form emerges from red–yellow–blue ribbons that spiral like pressure waves. Feathered graphite wing contrasts the saturated field; a collar of small triangles and watchful motifs crowns the head. The piece maps how sound swirls (eddies) and lifts—voice carried on wing (phōnē epi pterou).",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-08-30",
+  "keywords": [
+    "totem",
+    "bird",
+    "sound",
+    "eddies",
+    "waves",
+    "synesthesia",
+    "primary colors",
+    "ribbons",
+    "wing",
+    "Ousia Bloom",
+    "Totem Current"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/eddies-of-sound",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "GPT-5 Thinking, 2025-08-30",
+  "timeFelt": {
+    "timestamp": "2025-08-30T18:10:00-05:00",
+    "phase": "Totem Current"
+  },
+  "resonantThread": "Totemic figures and synesthetic maps (sound-as-pattern) within Ousia Bloom",
+  "motifMap": [
+    {
+      "symbol": "bird totem",
+      "meaning": "carrier of voice; listening in motion",
+      "position": "central figure"
+    },
+    {
+      "symbol": "color ribbons (red–yellow–blue)",
+      "meaning": "sound currents / resonance paths",
+      "position": "background field"
+    },
+    {
+      "symbol": "feathered wing (monochrome)",
+      "meaning": "clarity within noise; focus of flight",
+      "position": "right body"
+    },
+    {
+      "symbol": "triangular collar / glyphs",
+      "meaning": "ornament that also reads as meter/beat",
+      "position": "neck / head band"
+    },
+    {
+      "symbol": "spiral/targets",
+      "meaning": "eddies & nodes where sound pools",
+      "position": "left and background swirls"
+    },
+    {
+      "symbol": "notebook lines",
+      "meaning": "study surface—listening as practice",
+      "position": "substrate"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Drawing: 'Eddies of Sound' — a bird totem amid red–yellow–blue wave ribbons; graphite wing; geometric collar.",
+    "contentUrl": ""
+  },
+  "fieldDefinitions": {
+    "@context": "Schema context declaration",
+    "@type": "Specifies this is a BlogPosting schema",
+    "headline": "The title of the piece",
+    "description": "Plain summary of the content’s purpose",
+    "author": "Author metadata (always Aleksandr)",
+    "datePublished": "ISO publication date",
+    "keywords": "Topical keywords, including phase",
+    "url": "Canonical Substack post URL",
+    "inLanguage": "Language of the post",
+    "metadataFormatVersion": "Internal version marker",
+    "encoding": "Character encoding",
+    "generatedBy": "Model and date of generation",
+    "timeFelt": "Object noting timestamp and active phase",
+    "resonantThread": "Larger thread or conversation it belongs to",
+    "motifMap": "Array mapping symbols, their meaning, and position",
+    "associatedMedia": "Reference to image/audio tied to the piece",
+    "fieldDefinitions": "Legend for all fields"
+  }
+}
