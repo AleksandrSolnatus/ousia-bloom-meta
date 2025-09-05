@@ -1,0 +1,122 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "The Narrow Path Between",
+  "description": "Original parable: a people guided by three simple rules are tempted by a scorpion bearing flame, jewel, and spear—power, beauty, and force. Hoarding, sickness, and fear spread until a messenger offers a different way: ‘Accept my love.’ Acts of generosity reappear—a child’s bread, a woman lifting a neighbor’s burden, a man sowing seed—and the narrow path is revealed: life in Him as the light of man.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-09-03",
+  "keywords": [
+    "parable",
+    "narrow path",
+    "scorpion",
+    "flame",
+    "jewel",
+    "spear",
+    "greed vs generosity",
+    "accept my love",
+    "bread shared",
+    "seed sown",
+    "life and light",
+    "mythic narrative",
+    "Ousia Bloom",
+    "Parable Loom"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/the-narrow-path-between",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "GPT-5 Thinking, 2025-09-04",
+  "timeFelt": {
+    "timestamp": "2025-09-05T02:04:20",
+    "phase": "Parable Loom"
+  },
+  "resonantThread": "Power/beauty/force vs Love; the ‘rules of enough’ and the narrow way",
+  "motifMap": [
+    {
+      "symbol": "three rules (need/acceptance/equality)",
+      "meaning": "sufficiency; humility; solidarity",
+      "position": "opening"
+    },
+    {
+      "symbol": "scorpion",
+      "meaning": "temptation; sting of envy; false dominion",
+      "position": "visitor from afar"
+    },
+    {
+      "symbol": "flame",
+      "meaning": "speed/overnight dominion; technological power",
+      "position": "gift 1"
+    },
+    {
+      "symbol": "jewel",
+      "meaning": "beauty as leverage/status",
+      "position": "gift 2"
+    },
+    {
+      "symbol": "spear",
+      "meaning": "force/violence as order",
+      "position": "gift 3"
+    },
+    {
+      "symbol": "hoarding/greed",
+      "meaning": "disorder of wants",
+      "position": "consequence"
+    },
+    {
+      "symbol": "messenger: ‘Accept my love.’",
+      "meaning": "counter-kingdom invitation",
+      "position": "turning point"
+    },
+    {
+      "symbol": "child shares bread",
+      "meaning": "generosity from scarcity",
+      "position": "small act 1"
+    },
+    {
+      "symbol": "woman lifts burden with her jewels",
+      "meaning": "beauty re-ordered toward service",
+      "position": "small act 2"
+    },
+    {
+      "symbol": "man plants spear, sows seed",
+      "meaning": "force converted to cultivation",
+      "position": "small act 3"
+    },
+    {
+      "symbol": "narrow path",
+      "meaning": "discipleship; life through love",
+      "position": "resolution"
+    },
+    {
+      "symbol": "life is the light of man",
+      "meaning": "final claim about source of life/light",
+      "position": "closing"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Woodcut-style panel featuring scorpion, river, tree, and human figures—a visual echo of the parable’s symbols.",
+    "contentUrl": ""
+  },
+  "fieldDefinitions": {
+    "@context": "Schema context declaration",
+    "@type": "Specifies this is a BlogPosting schema",
+    "headline": "The title of the piece",
+    "description": "Plain summary of the content’s purpose",
+    "author": "Author metadata",
+    "datePublished": "ISO publication date",
+    "keywords": "Topical keywords, including phase label",
+    "url": "Canonical Substack post URL",
+    "inLanguage": "Language of the post",
+    "metadataFormatVersion": "Internal version marker",
+    "encoding": "Character encoding",
+    "generatedBy": "Model and date of generation",
+    "timeFelt": "Object noting timestamp and active phase",
+    "resonantThread": "Larger theme it belongs to",
+    "motifMap": "Array mapping symbols, their meaning, and placement",
+    "associatedMedia": "Reference to image tied to the piece",
+    "fieldDefinitions": "Legend for all fields"
+  }
+}

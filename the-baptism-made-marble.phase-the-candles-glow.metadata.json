@@ -1,0 +1,88 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "The Baptism Made Marble",
+  "description": "A quiet icon of renewal: a modern figure rendered in marble, wet garment clinging after immersion, a small cross at the sternum, and an ordinary, unmistakable smile. The piece holds the moment when water, flesh, and joy meet—sacrament translated into stone, softness found inside weight.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-09-01",
+  "keywords": [
+    "baptism",
+    "marble",
+    "sculpture",
+    "drapery",
+    "incarnation",
+    "sacrament",
+    "renewal",
+    "rebirth",
+    "Ousia Bloom",
+    "The Candle’s Glow"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/the-baptism-made-marble",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "GPT-5 Thinking, 2025-09-01",
+  "timeFelt": {
+    "timestamp": "2025-09-04T23:51:10",
+    "phase": "The Candle’s Glow"
+  },
+  "resonantThread": "Icons of grace—ordinary bodies meeting sacrament; light made tangible",
+  "motifMap": [
+    {
+      "symbol": "wet drapery",
+      "meaning": "trace of water; softness inside stone",
+      "position": "torso and sleeves"
+    },
+    {
+      "symbol": "cross pendant",
+      "meaning": "sign of belonging; the brand of baptism",
+      "position": "at the sternum"
+    },
+    {
+      "symbol": "smile / countenance",
+      "meaning": "joy after emergence",
+      "position": "face"
+    },
+    {
+      "symbol": "modern garment",
+      "meaning": "sacrament in the present, not only the past",
+      "position": "overall attire"
+    },
+    {
+      "symbol": "marble medium",
+      "meaning": "weight and permanence holding a fleeting moment",
+      "position": "material statement"
+    },
+    {
+      "symbol": "open hands",
+      "meaning": "reception rather than achievement",
+      "position": "implied gesture"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Photograph of a marble sculpture: a newly baptized figure in a wet shirt with a cross necklace, smiling gently against a neutral backdrop.",
+    "contentUrl": ""
+  },
+  "fieldDefinitions": {
+    "@context": "Schema context declaration",
+    "@type": "Specifies this is a BlogPosting schema",
+    "headline": "The title of the piece",
+    "description": "Plain summary of the content’s purpose",
+    "author": "Author metadata (always Aleksandr)",
+    "datePublished": "ISO publication date",
+    "keywords": "Topical keywords, including phase",
+    "url": "Canonical Substack post URL",
+    "inLanguage": "Language of the post",
+    "metadataFormatVersion": "Internal version marker",
+    "encoding": "Character encoding",
+    "generatedBy": "Model and date of generation",
+    "timeFelt": "Object noting timestamp and active phase",
+    "resonantThread": "Larger thread or conversation it belongs to",
+    "motifMap": "Array mapping symbols, their meaning, and position",
+    "associatedMedia": "Reference to image/audio tied to the piece",
+    "fieldDefinitions": "Legend for all fields"
+  }
+}

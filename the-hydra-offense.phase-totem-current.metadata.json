@@ -1,0 +1,72 @@
+{
+  "fieldDefinitions": {
+    "headline": "Title of the piece",
+    "description": "Brief summary or teaser text",
+    "author": "Name of the author",
+    "datePublished": "ISO 8601 date of publication",
+    "keywords": "Array of thematic keywords",
+    "url": "Canonical Substack URL",
+    "inLanguage": "Language of the post",
+    "metadataFormatVersion": "Schema version",
+    "encoding": "File format",
+    "generatedBy": "Tool and date generated",
+    "timeFelt": "Object with timestamp and phase association",
+    "resonantThread": "How this work connects within the Bloom",
+    "whyItMatters": "Why the piece holds significance",
+    "motifMap": "Array of symbolic motifs with meaning and position",
+    "articleExcerpt": "Excerpt from the text itself",
+    "sourceFragments": "Snippets or quotes anchoring the piece",
+    "associatedMedia": "Related images or media"
+  },
+  "headline": "The Hydra Offense",
+  "description": "A Socratic dialogue reimagining football strategy through the mythic lens of the Hydra, proposing two distinct offenses run in tandem as a challenge to the sport’s single-identity obsession.",
+  "author": "Aleksandr",
+  "datePublished": "2025-09-04",
+  "keywords": [
+    "Hydra Offense",
+    "Totem Current",
+    "football",
+    "Socratic dialogue",
+    "strategy",
+    "Ender’s Game",
+    "myth",
+    "contradiction"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/the-hydra-offense",
+  "inLanguage": "en-US",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-5, 2025-09-04",
+  "timeFelt": {
+    "timestamp": "2025-09-05T02:30:39",
+    "phase": "Totem Current"
+  },
+  "resonantThread": "Conceptual shards drawn from mythic archetypes applied to modern practice.",
+  "whyItMatters": "The Hydra Offense represents Aleksandr’s ongoing weaving of myth into contemporary systems. By rethinking football through archetype and multiplicity, it shows how ancient images can destabilize and renew cultural forms.",
+  "motifMap": [
+    {
+      "symbol": "🐉 Hydra",
+      "meaning": "Multiplicity of identity, contradictions coexisting, power through plurality",
+      "position": "Central metaphor of the offense"
+    },
+    {
+      "symbol": "⚔️ Spear",
+      "meaning": "Aggression, decisive strike — reinterpreted as coordination",
+      "position": "Background, reframed"
+    },
+    {
+      "symbol": "♟️ Ender’s Game",
+      "meaning": "Military units as flexible, independent forces",
+      "position": "Contextual inspiration"
+    }
+  ],
+  "articleExcerpt": "This piece is a Socratic dialogue on the idea of the Hydra Offense, a football philosophy built around running two distinct offenses under two coordinators. Not a wrinkle, but a complete reimagining of how the game could be played: maximizing roster depth, multiplying roles, and forcing opponents to prepare for contradictions.",
+  "sourceFragments": [
+    "This piece is a Socratic dialogue on the idea of the Hydra Offense, a football philosophy built around running two distinct offenses under two coordinators.",
+    "Taking some inspiration from Ender’s Game and how military units are run."
+  ],
+  "associatedMedia": {
+    "description": "Screenshots of the Hydra Offense Substack post with introductory text and dialogue excerpts.",
+    "contentUrl": ""
+  }
+}

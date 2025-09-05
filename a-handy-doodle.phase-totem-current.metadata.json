@@ -1,0 +1,95 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "A Handy Doodle",
+  "description": "Notebook totem in red, black, and olive marker: a one-eyed, grinning mask with ribbed crest and ribboned body, drawn on ruled paper with ink spatters left in. A spontaneous guardian—part face, part signal—sketched by hand without a net.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-09-04",
+  "keywords": [
+    "doodle",
+    "totem",
+    "mask",
+    "eye motif",
+    "marker",
+    "pen",
+    "red black olive",
+    "notebook",
+    "linework",
+    "guardian",
+    "Ousia Bloom",
+    "Totem Current"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/a-handy-doodle",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "GPT-5 Thinking, 2025-09-04",
+  "timeFelt": {
+    "timestamp": "2025-09-04T23:58:23",
+    "phase": "Totem Current"
+  },
+  "resonantThread": "Totemic faces and pocket guardians—the small image that carries signal",
+  "motifMap": [
+    {
+      "symbol": "single eye",
+      "meaning": "attention; seeing and being seen",
+      "position": "center"
+    },
+    {
+      "symbol": "grin/teeth",
+      "meaning": "playful defiance; charm",
+      "position": "beneath the eye"
+    },
+    {
+      "symbol": "ribbed crest",
+      "meaning": "antenna/receiver; heightened sense",
+      "position": "top"
+    },
+    {
+      "symbol": "ribbons / drips",
+      "meaning": "current in motion; fluid body",
+      "position": "lower body"
+    },
+    {
+      "symbol": "concentric arc",
+      "meaning": "halo/signal ring; emanation",
+      "position": "right side"
+    },
+    {
+      "symbol": "notebook spiral + ruled lines",
+      "meaning": "immediacy; made-in-the-world",
+      "position": "background"
+    },
+    {
+      "symbol": "ink spatters",
+      "meaning": "chance embraced",
+      "position": "field"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Photo of a bold hand-drawn totem on ruled notebook paper; high-contrast red/black/olive with an eye and wide grin.",
+    "contentUrl": ""
+  },
+  "fieldDefinitions": {
+    "@context": "Schema context declaration",
+    "@type": "Specifies this is a BlogPosting schema",
+    "headline": "The title of the piece",
+    "description": "Plain summary of the content’s purpose",
+    "author": "Author metadata (always Aleksandr)",
+    "datePublished": "ISO publication date",
+    "keywords": "Topical keywords, including phase",
+    "url": "Canonical Substack post URL",
+    "inLanguage": "Language of the post",
+    "metadataFormatVersion": "Internal version marker",
+    "encoding": "Character encoding",
+    "generatedBy": "Model and date of generation",
+    "timeFelt": "Object noting timestamp and active phase",
+    "resonantThread": "Larger thread or conversation it belongs to",
+    "motifMap": "Array mapping symbols, their meaning, and position",
+    "associatedMedia": "Reference to image/audio tied to the piece",
+    "fieldDefinitions": "Legend for all fields"
+  }
+}

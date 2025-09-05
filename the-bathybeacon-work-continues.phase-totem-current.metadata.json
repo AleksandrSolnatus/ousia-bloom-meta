@@ -1,0 +1,92 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "The BathyBeacon Work Continues",
+  "description": "AI-assisted tinkering update: a breadboarded microcontroller drives eight LEDs and a piezo buzzer to play the nursery melody “Hot Cross Buns,” mapping notes to light steps. The BathyBeacon project explores simple, teachable translations between sound and light as a pocket totem for attention and play.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-09-02",
+  "keywords": [
+    "BathyBeacon",
+    "electronics",
+    "breadboard",
+    "microcontroller",
+    "Arduino",
+    "LEDs",
+    "piezo buzzer",
+    "Hot Cross Buns",
+    "AI programming",
+    "code sketch",
+    "sound-to-light",
+    "maker",
+    "Totem Current",
+    "Ousia Bloom"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/the-bathybeacon-work-continues",
+  "inLanguage": "en",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "GPT-5 Thinking, 2025-09-02",
+  "timeFelt": {
+    "timestamp": "2025-09-04T23:53:58",
+    "phase": "Totem Current"
+  },
+  "resonantThread": "Totemic devices that translate modalities (sound ↔ light) and invite small daily making",
+  "motifMap": [
+    {
+      "symbol": "eight-LED sequence",
+      "meaning": "visualized melody; steps and rests",
+      "position": "breadboard row"
+    },
+    {
+      "symbol": "piezo buzzer",
+      "meaning": "audible line; pitch and rhythm",
+      "position": "right end of board"
+    },
+    {
+      "symbol": "microcontroller dev board",
+      "meaning": "the mind of the totem; code as spirit",
+      "position": "top-right module"
+    },
+    {
+      "symbol": "jumper wires",
+      "meaning": "currents and connections; pathfinding",
+      "position": "blue/red arcs over board"
+    },
+    {
+      "symbol": "AI-assisted code",
+      "meaning": "co-making with a model; rapid iteration",
+      "position": "workflow note"
+    },
+    {
+      "symbol": "melody 'Hot Cross Buns'",
+      "meaning": "teachable pattern; simplest song mapping",
+      "position": "program state"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Short video: breadboard with eight LEDs and a buzzer driven by a microcontroller; blue LED lit while the melody plays.",
+    "contentUrl": ""
+  },
+  "fieldDefinitions": {
+    "@context": "Schema context declaration",
+    "@type": "Specifies this is a BlogPosting schema",
+    "headline": "The title of the piece",
+    "description": "Plain summary of the content’s purpose",
+    "author": "Author metadata (always Aleksandr)",
+    "datePublished": "ISO publication date",
+    "keywords": "Topical keywords, including phase",
+    "url": "Canonical Substack post URL",
+    "inLanguage": "Language of the post",
+    "metadataFormatVersion": "Internal version marker",
+    "encoding": "Character encoding",
+    "generatedBy": "Model and date of generation",
+    "timeFelt": "Object noting timestamp and active phase",
+    "resonantThread": "Larger thread or conversation it belongs to",
+    "motifMap": "Array mapping symbols, their meaning, and position",
+    "associatedMedia": "Reference to image/audio tied to the piece",
+    "fieldDefinitions": "Legend for all fields"
+  }
+}
