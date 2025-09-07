@@ -1,0 +1,105 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format (YYYY-MM-DD)",
+    "keywords": "Tags and concepts associated with the work; INCLUDE the phase",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work (e.g., 'en-US')",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Why this piece matters in your larger Bloom",
+    "motifMap": "Array of {symbol, meaning, position} objects",
+    "articleExcerpt": "Short excerpt for quick reference/search",
+    "sourceFragments": "Quoted lines/notes that anchor the piece",
+    "associatedMedia": "Array of media objects with description and optional contentUrl",
+    "generatedBy": "Tool and date that generated this metadata"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Psalm 7",
+  "description": "At the water’s edge, a walk of sorrow becomes a baptismal crossing. The ache is named holy; the crossing is chosen; love is promised. A River Moon psalm.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-09-05",
+  "keywords": [
+    "psalm",
+    "baptism",
+    "mercy",
+    "repentance",
+    "ache as holy",
+    "crossing",
+    "Jesus",
+    "River imagery",
+    "phase: river-moon"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/psalm-7",
+  "inLanguage": "en-US",
+  "timeFelt": {
+    "timestamp": "2025-09-05T00:00:00-05:00",
+    "phase": "River Moon"
+  },
+  "resonantThread": "Psalms cycle; Ousia Bloom phases",
+  "whyItMatters": "Marks a turn from private ache to chosen movement—sorrow flowing outward into compassion. It articulates a theology of effortful grace: the path to Him is harder, yet love meets you on the far bank.",
+  "motifMap": [
+    {
+      "symbol": "Footprints on an old path",
+      "meaning": "Repetition and return; the cycle of trial",
+      "position": "opening image"
+    },
+    {
+      "symbol": "The water’s edge / brook",
+      "meaning": "Threshold; baptismal crossing; purification and courage",
+      "position": "turn to action"
+    },
+    {
+      "symbol": "The ache named holy",
+      "meaning": "Sanctified suffering; pain as proof of a living heart",
+      "position": "revelation statement"
+    },
+    {
+      "symbol": "He could walk on water",
+      "meaning": "Divine ability contrasted with human responsibility",
+      "position": "mid-piece contrast"
+    },
+    {
+      "symbol": "‘You are already clean’",
+      "meaning": "Assurance of grace and belovedness",
+      "position": "closing benediction"
+    }
+  ],
+  "articleExcerpt": "He said the ache was holy—that the pain of the wound proved the goodness of my heart. He could walk on water, but the path to him is harder. So I crossed.",
+  "sourceFragments": [
+    {
+      "quote": "Walking an old path, the same footprints fit my feet,",
+      "note": "Recurrent struggle; a returning journey"
+    },
+    {
+      "quote": "He said the ache was holy—",
+      "note": "Naming of pain as sacred"
+    },
+    {
+      "quote": "He could walk on water. He could take it away. But the path to him is harder.",
+      "note": "Agency and discipline alongside grace"
+    },
+    {
+      "quote": "So I crossed. I dunked myself in his water.",
+      "note": "Chosen immersion; self-baptismal movement"
+    },
+    {
+      "quote": "He said: “You are already clean.”",
+      "note": "Final assurance; identity sealed in love"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Classical painting of Christ with a penitent at a riverbank (illustration used in the post).",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-4o, 2025-09-07"
+}

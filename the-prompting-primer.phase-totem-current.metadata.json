@@ -1,0 +1,58 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "The Prompting Primer and the Conversation that got it",
+  "description": "An exploration of prompting as a literacy and collaborative art, framed through the Prompting Triad (Ground, Frame, Cut) and a Socratic dialogue. Written as part of Totem Current \u2014 experiments and tools that push the edges of practice.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-09-07",
+  "url": "https://aleksandragnitio.substack.com/p/the-prompting-primer-and-the-conversation",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-07T00:00:00-05:00",
+    "phase": "Totem Current"
+  },
+  "keywords": [
+    "prompting",
+    "AI literacy",
+    "Socratic dialogue",
+    "Ground Frame Cut",
+    "meta-prompting",
+    "Totem Current",
+    "Ousia Bloom"
+  ],
+  "resonantThread": "PROMPTSPEAK",
+  "whyItMatters": "This post codifies prompting as more than a trick or hack\u2014it frames it as a literacy that will define human-AI collaboration, showing how process can be shaped as much as content. It belongs to Totem Current because it embodies tool-making and experiment in living practice.",
+  "motifMap": [
+    {
+      "symbol": "\ud83e\udeb6",
+      "meaning": "Language as shaping tool",
+      "position": "center"
+    },
+    {
+      "symbol": "\u2696\ufe0f",
+      "meaning": "Balance between over/under direction",
+      "position": "left"
+    },
+    {
+      "symbol": "\ud83c\udf00",
+      "meaning": "Emergence from dialogue",
+      "position": "right"
+    }
+  ],
+  "articleExcerpt": "Prompting isn\u2019t just about better answers\u2014it\u2019s about designing conditions where insight can emerge. The Prompting Triad (Ground, Frame, Cut) and the idea of meta-prompting frame this as a literacy of the future.",
+  "sourceFragments": [
+    "The Prompting Triad: Ground (corpus awareness), Frame (transformer awareness), Cut (token awareness).",
+    "Prompting as literacy: not trickery, but design.",
+    "Meta-prompting: shaping not just content, but the process itself."
+  ],
+  "associatedMedia": {
+    "description": "Screenshots of the Substack article 'The Prompting Primer and the Conversation that got it'",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5, 2025-09-07",
+  "metadataFormatVersion": "1.0",
+  "fieldDefinitions": "https://schema.org/Article schema plus custom fields: timeFelt, resonantThread, whyItMatters, motifMap, articleExcerpt, sourceFragments, associatedMedia, generatedBy, metadataFormatVersion"
+}

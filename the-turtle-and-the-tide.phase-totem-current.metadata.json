@@ -1,0 +1,92 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format (YYYY-MM-DD)",
+    "keywords": "Tags and concepts associated with the work; INCLUDE the phase",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work (e.g., 'en-US')",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Why this piece matters in your larger Bloom",
+    "motifMap": "Array of {symbol, meaning, position} objects",
+    "articleExcerpt": "Short excerpt for quick reference/search",
+    "sourceFragments": "Quoted lines/notes that anchor the piece",
+    "associatedMedia": "Array of media objects with description and optional contentUrl",
+    "generatedBy": "Tool and date that generated this metadata"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "The Turtle and the Tide",
+  "description": "Ink-dense seascape where a turtle stands against the push of patterns and currents. A totemic emergence from the subconscious—what the ocean brings to shore.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-09-07",
+  "keywords": [
+    "totem",
+    "turtle",
+    "tide",
+    "ocean",
+    "unconscious",
+    "ink drawing",
+    "linework",
+    "phase: totem-current"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/the-turtle-and-the-tide",
+  "inLanguage": "en-US",
+  "timeFelt": {
+    "timestamp": "2025-09-07T00:00:00-05:00",
+    "phase": "Totem Current"
+  },
+  "resonantThread": "Emergent Totems; Ocean motifs; Ousia Bloom phases",
+  "whyItMatters": "Totem Current marks the surfacing of archetypes with minimal translation. The turtle becomes a carrier of endurance and shelter while the tide delivers the world’s noise—showing how forms rise intact from the deep.",
+  "motifMap": [
+    {
+      "symbol": "Turtle (central, circled)",
+      "meaning": "Endurance; portable sanctuary; patient witness",
+      "position": "central figure with halo/outline"
+    },
+    {
+      "symbol": "Tide / Currents",
+      "meaning": "Forces of change; the world’s incoming data",
+      "position": "rightward flow of dense linework"
+    },
+    {
+      "symbol": "Yellow halo & cyan field",
+      "meaning": "Consecrated space; protected clarity amid chaos",
+      "position": "around the turtle"
+    },
+    {
+      "symbol": "Red eye",
+      "meaning": "Vigilance; life-spark of the totem",
+      "position": "turtle head"
+    },
+    {
+      "symbol": "Interlocking fragments",
+      "meaning": "Memory shards and signals washing ashore",
+      "position": "background mesh"
+    }
+  ],
+  "articleExcerpt": "A turtle faces the tide—the world’s noise rushes in, but the totem holds.",
+  "sourceFragments": [
+    {
+      "quote": "What the Ocean Brings",
+      "note": "Subtitle and thesis"
+    },
+    {
+      "quote": "The Turtle and the Tide",
+      "note": "Title as dyad: endurance vs. force"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Ink drawing with dense oceanic linework; central turtle outlined in yellow with cyan interior field.",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-4o, 2025-09-07"
+}
