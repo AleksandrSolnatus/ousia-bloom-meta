@@ -1,0 +1,108 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format (YYYY-MM-DD)",
+    "keywords": "Tags and concepts associated with the work; INCLUDE the phase",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work (e.g., 'en-US')",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Why this piece matters in your larger Bloom",
+    "motifMap": "Array of {symbol, meaning, position} objects",
+    "articleExcerpt": "Short excerpt for quick reference/search",
+    "sourceFragments": "Quoted lines/notes that anchor the piece",
+    "associatedMedia": "Array of media objects with description and optional contentUrl",
+    "generatedBy": "Tool and date that generated this metadata"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "The Thirsty Man and the Flower",
+  "description": "A parable woven on the loom: a wanderer seeks water, finds a radiant flower, drinks its soothing nectar, and learns the cost of comfort that consumes. The lesson is threaded back into the cloth.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-09-08",
+  "keywords": [
+    "parable",
+    "desert",
+    "dependency",
+    "discernment",
+    "false refuge",
+    "loom",
+    "phase: parable-loom"
+  ],
+  "url": "https://wanderersburn.substack.com/p/the-thirsty-man-and-the-flower",
+  "inLanguage": "en-US",
+  "timeFelt": {
+    "timestamp": "2025-09-08T00:00:00-05:00",
+    "phase": "Parable Loom"
+  },
+  "resonantThread": "Parable Loom; Wanderer parables; Ousia Bloom phases",
+  "whyItMatters": "Parable Loom is where lessons are spun into pattern. This tale warns how nectar can numb and bind, and stitches the counter-principle: thirst must be met from the inner well.",
+  "motifMap": [
+    {
+      "symbol": "Desert/Wilderness",
+      "meaning": "Long deprivation; trial of thirst",
+      "position": "opening setting"
+    },
+    {
+      "symbol": "Radiant Flower",
+      "meaning": "Seductive refuge; parasitic comfort",
+      "position": "central figure"
+    },
+    {
+      "symbol": "Nectar",
+      "meaning": "Soothing dependency that erodes agency",
+      "position": "repeating act"
+    },
+    {
+      "symbol": "Mark of blood",
+      "meaning": "Bond forged in harm; mutually wounding tie",
+      "position": "turning point"
+    },
+    {
+      "symbol": "Magical sleep",
+      "meaning": "Loss of vigilance; dream-trap of denial",
+      "position": "mid-parable"
+    },
+    {
+      "symbol": "Return to desert",
+      "meaning": "Facing lack honestly; beginning of inner well",
+      "position": "resolution"
+    }
+  ],
+  "articleExcerpt": "He learned the loom’s lesson: nothing outside would end his thirst. Only from within might he draw a drink to heal his aching throat.",
+  "sourceFragments": [
+    {
+      "quote": "For 40 years he wandered searching for clean, cool water—",
+      "note": "The long thirst"
+    },
+    {
+      "quote": "In the garden he found a flower of radiance…",
+      "note": "Entrance into false sanctuary"
+    },
+    {
+      "quote": "A deep, magical sleep would overcome him;",
+      "note": "Vigilance suspended"
+    },
+    {
+      "quote": "He cursed the flower’s name.",
+      "note": "Breaking the spell"
+    },
+    {
+      "quote": "Only from within might he find a drink to heal his aching throat.",
+      "note": "True lesson"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "No image specified for this parable.",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-4o, 2025-09-08"
+}
