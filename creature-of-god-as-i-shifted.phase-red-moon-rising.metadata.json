@@ -1,0 +1,94 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format (YYYY-MM-DD)",
+    "keywords": "Tags and concepts associated with the work; INCLUDE the phase",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work (e.g., 'en-US')",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Why this piece matters in your larger Bloom",
+    "motifMap": "Array of {symbol, meaning, position} objects",
+    "articleExcerpt": "Short excerpt for quick reference/search",
+    "sourceFragments": "Quoted lines/notes that anchor the piece",
+    "associatedMedia": "Array of media objects with description and optional contentUrl",
+    "generatedBy": "Tool and date that generated this metadata"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Creature of God. As I Shifted.",
+  "description": "A locust-vision encounter rendered in sudden poetic clarity: plague and beauty collide, revealing even the swarm as a creature of God.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-09-09",
+  "keywords": [
+    "locust",
+    "plague",
+    "vision",
+    "creature of God",
+    "encounter",
+    "phase: red-moon-rising"
+  ],
+  "url": "https://wanderersburn.substack.com/p/creature-of-god-as-i-shifted",
+  "inLanguage": "en-US",
+  "timeFelt": {
+    "timestamp": "2025-09-09T00:00:00-05:00",
+    "phase": "Red Moon Rising"
+  },
+  "resonantThread": "Encounters; Ousia Bloom phases",
+  "whyItMatters": "This poem distills a fleeting encounter into revelation: even terror and swarm are bound in God’s making. Red Moon Rising captures the molten emergence of vision—plague, ruckus, beauty, divinity—compressed into one frame.",
+  "motifMap": [
+    {
+      "symbol": "Two locusts",
+      "meaning": "Duality of plague and witness",
+      "position": "opening image"
+    },
+    {
+      "symbol": "Sudden ruckus",
+      "meaning": "Disruption; intrusion of the divine in noise",
+      "position": "incipient shift"
+    },
+    {
+      "symbol": "Clicking wings / rush of flight",
+      "meaning": "Nature’s mechanical beauty; swarm in motion",
+      "position": "mid-image"
+    },
+    {
+      "symbol": "Plague took to air",
+      "meaning": "Ominous biblical undertone",
+      "position": "escalation"
+    },
+    {
+      "symbol": "Creature of God",
+      "meaning": "Recognition of divine authorship even in dread",
+      "position": "closing revelation"
+    }
+  ],
+  "articleExcerpt": "Shuddering, I looked upon their beauty: a creature of God.",
+  "sourceFragments": [
+    {
+      "quote": "Today I saw two locust shaking their wings—",
+      "note": "Opening line; encounter begins"
+    },
+    {
+      "quote": "Plague took to air.",
+      "note": "Transformation of natural event into biblical imagery"
+    },
+    {
+      "quote": "Shuddering, I looked upon their beauty: a creature of God.",
+      "note": "Final revelation"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "No image specified in post (text-only poem).",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-4o, 2025-09-09"
+}
