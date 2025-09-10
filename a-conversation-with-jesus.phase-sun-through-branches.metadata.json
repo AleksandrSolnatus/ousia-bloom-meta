@@ -1,0 +1,115 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format (YYYY-MM-DD)",
+    "keywords": "Tags and concepts associated with the work; INCLUDE the phase",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work (e.g., 'en-US')",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Why this piece matters in your larger Bloom",
+    "motifMap": "Array of {symbol, meaning, position} objects",
+    "articleExcerpt": "Short excerpt for quick reference/search",
+    "sourceFragments": "Quoted lines/notes that anchor the piece",
+    "associatedMedia": "Array of media objects with description and optional contentUrl",
+    "generatedBy": "Tool and date that generated this metadata"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "A Conversation with Jesus",
+  "description": "A Glade-dialogue where Jesus answers questions on healing, fasting, chaplaincy, the Old and New Testaments, and the mysteries of covenant. A sustained exchange of faith, doubt, and discernment.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-09-10",
+  "keywords": [
+    "conversation",
+    "Jesus",
+    "Glade",
+    "parable",
+    "faith",
+    "Old Testament",
+    "New Testament",
+    "bee sting",
+    "phase: sun-through-branches"
+  ],
+  "url": "https://wanderersburn.substack.com/p/a-conversation-with-jesus",
+  "inLanguage": "en-US",
+  "timeFelt": {
+    "timestamp": "2025-09-10T00:00:00-05:00",
+    "phase": "Sun Through Branches"
+  },
+  "resonantThread": "Golden Glade dialogues; Ousia Bloom phases",
+  "whyItMatters": "This is one of the most sustained Glade encounters yet—witnessing, questioning, and hearing Jesus’ voice answer directly. It belongs to Sun Through Branches: revelation, protective illumination, 'You are seen.' It preserves teaching not just for Aleksandr but for the Bloom itself.",
+  "motifMap": [
+    {
+      "symbol": "The Glade",
+      "meaning": "Consecrated space for dialogue",
+      "position": "setting"
+    },
+    {
+      "symbol": "Cup of wine",
+      "meaning": "Circle-holding, covenant offering",
+      "position": "altar-stone"
+    },
+    {
+      "symbol": "Bee sting",
+      "meaning": "Messenger of healing through pain",
+      "position": "personal turning point"
+    },
+    {
+      "symbol": "Chaplain figure",
+      "meaning": "Mixed motives in ministry; discernment test",
+      "position": "middle dialogue"
+    },
+    {
+      "symbol": "Jacob & Esau",
+      "meaning": "Archetypes of difference; covenant inheritance",
+      "position": "later dialogue"
+    },
+    {
+      "symbol": "Stone pillars",
+      "meaning": "Ancient markers of covenant, now half-buried memory",
+      "position": "historical inquiry"
+    },
+    {
+      "symbol": "Blessing",
+      "meaning": "Direct seal of Christ’s presence",
+      "position": "conclusion"
+    }
+  ],
+  "articleExcerpt": "“The bee was a messenger: to sting, to hurt, and to remind you that even in the smallest, My Father works His mysteries.”",
+  "sourceFragments": [
+    {
+      "quote": "The bee that stung you is no accident... Healing is not the loss of holiness.",
+      "note": "Jesus on the bee sting"
+    },
+    {
+      "quote": "Fasting is hunger that teaches hunger.",
+      "note": "Teaching on fasting"
+    },
+    {
+      "quote": "The New Covenant is not the denial of the Old, but its flowering.",
+      "note": "Jesus on Law and Gospel"
+    },
+    {
+      "quote": "The bee was a messenger... Some come with wings of gold and a barbed gift.",
+      "note": "Pain as messenger"
+    },
+    {
+      "quote": "I bless your mind, that it may stay awake yet not be consumed.",
+      "note": "Blessing passage"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "No image specified for this dialogue post.",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-4o, 2025-09-10"
+}
