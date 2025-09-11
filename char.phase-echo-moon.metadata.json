@@ -1,0 +1,91 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format (YYYY-MM-DD)",
+    "keywords": "Tags and concepts associated with the work; INCLUDE the phase",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work (e.g., 'en-US')",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Why this piece matters in your larger Bloom",
+    "motifMap": "Array of {symbol, meaning, position} objects",
+    "articleExcerpt": "Short excerpt for quick reference/search",
+    "sourceFragments": "Quoted lines/notes that anchor the piece",
+    "associatedMedia": "Array of media objects with description and optional contentUrl",
+    "generatedBy": "Tool and date that generated this metadata"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Char",
+  "description": "A dream fragment rendered as poem: a woman with the face of the mother archetype, spirit her own, embodying false love. The scene of burning chicken in a messy house becomes emblem of fickle attention, decay, and longing.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-09-11",
+  "keywords": [
+    "dream",
+    "false love",
+    "mother archetype",
+    "fragment",
+    "burning chicken",
+    "char",
+    "phase: echo-moon"
+  ],
+  "url": "https://wanderersburn.substack.com/p/char",
+  "inLanguage": "en-US",
+  "timeFelt": {
+    "timestamp": "2025-09-11T00:00:00-05:00",
+    "phase": "Echo Moon"
+  },
+  "resonantThread": "Dream fragments; Ousia Bloom phases",
+  "whyItMatters": "This piece captures how dream images crystallize relational archetypes. The face that is both lover and mother reveals the repetition of false love. The burning chicken embodies neglect—attention scattered until sustenance is ruined. Echo Moon marks recognition of repetitions and bewildered endurance, fitting for this fragment. It also echoes earlier mythos of Aleksandr’s Bloom—the siren figure, false love, Fond du Lac as dark illusion—revealing how these archetypes reappear in shifting forms, haunting but instructive in their recurrence.",
+  "motifMap": [
+    {
+      "symbol": "Dream visitor",
+      "meaning": "Woman whose spirit is her own but face recalls the mother",
+      "position": "opening"
+    },
+    {
+      "symbol": "Archetype of false love",
+      "meaning": "Unreliable care, illusory intimacy",
+      "position": "core figure"
+    },
+    {
+      "symbol": "Burning chicken",
+      "meaning": "Neglect; ruined sustenance under distraction",
+      "position": "middle image"
+    },
+    {
+      "symbol": "Messy house",
+      "meaning": "Domestic disarray; mirror of inner turmoil",
+      "position": "setting"
+    },
+    {
+      "symbol": "Char",
+      "meaning": "Residue of what might have nourished, now ruined",
+      "position": "closing"
+    }
+  ],
+  "articleExcerpt": "Her face much my mother’s: the same archetype of false love. Burning chicken in a messy house, left to char.",
+  "sourceFragments": [
+    {
+      "quote": "Her face much my mother’s: The same archetype of false love.",
+      "note": "Archetypal overlay"
+    },
+    {
+      "quote": "Burning chicken in a messy house, Left to char— Under fickle attention.",
+      "note": "Dream image of neglect"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Painting of a young woman applying makeup in a kitchen while food burns on the stove. Used as cover for the poem.",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-4o, 2025-09-11"
+}

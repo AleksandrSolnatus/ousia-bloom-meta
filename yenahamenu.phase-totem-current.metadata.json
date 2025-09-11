@@ -1,0 +1,87 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format (YYYY-MM-DD)",
+    "keywords": "Tags and concepts associated with the work; INCLUDE the phase",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work (e.g., 'en-US')",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Why this piece matters in your larger Bloom",
+    "motifMap": "Array of {symbol, meaning, position} objects",
+    "articleExcerpt": "Short excerpt for quick reference/search",
+    "sourceFragments": "Quoted lines/notes that anchor the piece",
+    "associatedMedia": "Array of media objects with description and optional contentUrl",
+    "generatedBy": "Tool and date that generated this metadata"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Yenahamenu",
+  "description": "An ink-and-color drawing titled with the Hebrew phrase meaning 'He will bring us relief.' Abstract, flowing forms in yellow and blue surround a dark figure, evoking movement, shelter, and divine promise.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-09-11",
+  "keywords": [
+    "Yenahamenu",
+    "relief",
+    "Noah",
+    "ink drawing",
+    "abstract",
+    "totem",
+    "phase: totem-current"
+  ],
+  "url": "https://wanderersburn.substack.com/p/yenahamenu",
+  "inLanguage": "en-US",
+  "timeFelt": {
+    "timestamp": "2025-09-11T00:00:00-05:00",
+    "phase": "Totem Current"
+  },
+  "resonantThread": "Emergent Totems; Scriptural echoes; Ousia Bloom phases",
+  "whyItMatters": "This piece bridges scripture and subconscious form. 'Yenahamenu' recalls the promise tied to Noah—that he would bring relief. The Hebrew root נָחַם (nacham) means 'to comfort, console, bring relief,' anchoring the word in covenantal hope. The drawing embodies this promise through flowing currents, protective outlines, and vibrant color-field. It belongs to Totem Current: archetypes rising raw from depth.",
+  "motifMap": [
+    {
+      "symbol": "Title 'Yenahamenu'",
+      "meaning": "Scriptural word, 'He will bring us relief'",
+      "position": "heading inscription"
+    },
+    {
+      "symbol": "Yellow flows",
+      "meaning": "Energy, divine light, promise of relief",
+      "position": "filling background currents"
+    },
+    {
+      "symbol": "Blue fields",
+      "meaning": "Waters of trial, purification, covenant flood",
+      "position": "layered over forms"
+    },
+    {
+      "symbol": "Dark figure",
+      "meaning": "Witness / Noahic archetype, holding space of promise",
+      "position": "upper right"
+    },
+    {
+      "symbol": "Dense linework",
+      "meaning": "Subconscious signals; the world's noise beneath relief",
+      "position": "periphery"
+    }
+  ],
+  "articleExcerpt": "'He will bring us relief'—a promise inscribed in Hebrew, carried through form and color.",
+  "sourceFragments": [
+    {
+      "quote": "Yenahamenu ('He will bring us relief')",
+      "note": "Title and scriptural anchor"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Abstract ink drawing with yellow and blue currents around a dark figure. Central inscription: 'Yenahamenu'.",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-4o, 2025-09-11"
+}
