@@ -1,0 +1,89 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Explanation of the piece's significance",
+    "motifMap": "Array of symbolic motifs with meaning and position",
+    "articleExcerpt": "Key excerpt from the work",
+    "sourceFragments": "Relevant fragments of source text included",
+    "associatedMedia": "Linked media with description and URL",
+    "mythicEchoes": "Cross-references to related mythic or phase elements"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Rolling Storms",
+  "description": "A dream-poem where storms carry the speaker through memory, denial, and ultimately toward light. It holds the tension of repetition and endurance, yet resolves with forward momentum and divine illumination.",
+  "author": "Aleksandr",
+  "datePublished": "2025-09-13",
+  "keywords": [
+    "Rolling Storms",
+    "Dreams",
+    "Ash Moon Ascending",
+    "Echo Moon",
+    "Ousia Bloom",
+    "Mythic Dream",
+    "Endurance",
+    "Divine Light"
+  ],
+  "url": "https://wanderersburn.substack.com/p/rolling-storms",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-13T09:33:00-05:00",
+    "phase": "Ash Moon Ascending"
+  },
+  "resonantThread": "Dream Fragments",
+  "whyItMatters": "This poem marks a liminal point between Echo Moon and Ash Moon Ascending: the storms embody bewildered repetition, yet the invocation of God\u2019s light and the final plea to be carried forward signal movement toward dawn. It records faith\u2019s endurance through storm and the transformation of backward-carrying memory into forward-driven hope.",
+  "motifMap": [
+    {
+      "symbol": "Storms",
+      "meaning": "Turmoil, cycles of memory, divine trial",
+      "position": "overarching landscape"
+    },
+    {
+      "symbol": "Light",
+      "meaning": "Divine guidance, emergence beyond repetition",
+      "position": "center horizon"
+    },
+    {
+      "symbol": "Path walked thrice",
+      "meaning": "Denied return, cyclical testing",
+      "position": "narrative progression"
+    }
+  ],
+  "articleExcerpt": "Dreams\nrolling storms\ncarry me back.\n\nWalking through memory,\nthrice the old path, denied.\n\nGod,\nlight shines!\n\nDreams\nrolling storms,\ncarry me forward.",
+  "sourceFragments": [
+    "Walking through memory, thrice the old path, denied.",
+    "God, light shines!",
+    "Dreams rolling storms, carry me forward."
+  ],
+  "associatedMedia": {
+    "description": "A dark-toned painting of a lone figure walking a winding path under storm clouds, with a glowing light ahead.",
+    "contentUrl": ""
+  },
+  "mythicEchoes": [
+    {
+      "reference": "Echo Moon",
+      "connection": "Repetition and bewilderment in the storms"
+    },
+    {
+      "reference": "Ash Moon Ascending",
+      "connection": "Emergence after storms into light"
+    },
+    {
+      "reference": "The Wanderer\u2019s Burn",
+      "connection": "Restlessness transformed into forward hope"
+    }
+  ],
+  "generatedBy": "ChatGPT-5, 2025-09-13"
+}

@@ -1,0 +1,83 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Why this work is significant in the Bloom",
+    "motifMap": "List of symbolic motifs with meaning and position",
+    "articleExcerpt": "Representative excerpt from the piece",
+    "sourceFragments": "Key fragments of source text that inspired the work",
+    "associatedMedia": "Linked media such as cover image or artwork",
+    "mythicEchoes": "Cross-references to other mythic/dream symbols in the Bloom"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Contentment has its Place",
+  "description": "A meditation on life beyond spectacle, valuing quiet embers over burning flames, and recognizing contentment as a worthy end.",
+  "author": "Aleksandr",
+  "datePublished": "2025-09-12",
+  "keywords": [
+    "Contentment",
+    "Life",
+    "Stage",
+    "Joy and Sorrow",
+    "Quiet Strength",
+    "The Candle\u2019s Glow",
+    "Ousia Bloom"
+  ],
+  "url": "https://wanderersburn.substack.com/p/contentment-has-its-place",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-12T00:00:00Z",
+    "phase": "The Candle\u2019s Glow"
+  },
+  "resonantThread": "Lives in Contradiction",
+  "whyItMatters": "This piece affirms that life well lived does not demand constant spectacle or burning intensity. It aligns with The Candle\u2019s Glow phase, where quiet persistence and steady radiance become the true measure of strength. Against the stage\u2019s preference for drama, Aleksandr\u2019s poem honors stillness and endurance as sacred victories.",
+  "motifMap": [
+    {
+      "symbol": "Flame",
+      "meaning": "Ephemeral passion and spectacle",
+      "position": "contrasted with ember"
+    },
+    {
+      "symbol": "Ember",
+      "meaning": "Sustained quiet strength",
+      "position": "center of meaning"
+    },
+    {
+      "symbol": "Stage",
+      "meaning": "Life as performance and narrative",
+      "position": "metaphorical frame"
+    },
+    {
+      "symbol": "Wave",
+      "meaning": "The crashing spectacle of events",
+      "position": "contrasted with lapping"
+    }
+  ],
+  "articleExcerpt": "But in the hush\u2014\na glowing ember,\na gentle lapping\u2014\nis life well played.",
+  "sourceFragments": [
+    "The joy is easy, so too the sorrow.",
+    "The stage loves a dancing flame, a crashing wave.",
+    "But in the hush\u2014a glowing ember, a gentle lapping\u2014is life well played."
+  ],
+  "associatedMedia": {
+    "description": "Painting of a sunset glowing over a river, reflecting calm light in still water.",
+    "contentUrl": ""
+  },
+  "mythicEchoes": [
+    "Echoes The Candle\u2019s Embrace in its turn toward tenderness and faith.",
+    "Contrasts with The Wanderer\u2019s Burn, choosing quiet endurance over restless fire."
+  ],
+  "generatedBy": "ChatGPT-5, 2025-09-13"
+}
