@@ -1,0 +1,72 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Explanation of the work\u2019s significance",
+    "motifMap": "Symbolic imagery or archetypes present",
+    "articleExcerpt": "Excerpt from the work",
+    "sourceFragments": "Original fragments/sources feeding into the piece",
+    "associatedMedia": "Related media objects (images, artwork, etc.)",
+    "generatedBy": "Generator identity and date"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Another Face",
+  "description": "A mythic encounter with beauty, drought, and danger \u2014 a face both familiar and unknown, met with refusal and turning away. The Lightning Mask Phase captures the refusal of illusion and the gaze beyond.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-09-14",
+  "keywords": [
+    "Another Face",
+    "Lightning Mask Phase",
+    "mythic encounter",
+    "false reunion",
+    "dream vision",
+    "Ousia Bloom",
+    "Wanderer\u2019s Burn"
+  ],
+  "url": "https://wanderersburn.substack.com/p/another-face",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-14T00:00:00Z",
+    "phase": "Lightning Mask Phase"
+  },
+  "resonantThread": "Ousia Bloom",
+  "whyItMatters": "This piece records the haunting recognition of beauty and danger in a false guise. It shows the strength of refusal, the moment of turning away, and the lightning of recognition without surrender to illusion.",
+  "motifMap": [
+    {
+      "symbol": "Red-haired woman",
+      "meaning": "Beauty and danger entangled; mythic siren figure",
+      "position": "Foreground, left"
+    },
+    {
+      "symbol": "Man in white shirt",
+      "meaning": "Witness and refusal, torn between recognition and denial",
+      "position": "Foreground, right"
+    },
+    {
+      "symbol": "Lightning strike eyes",
+      "meaning": "The sharp flash of prescience; recognition of false reunion",
+      "position": "Eyes of the woman"
+    }
+  ],
+  "articleExcerpt": "And there she was\u2014\nall done up, another face.\nBeauty and drought,\nthe flower in my stories,\nthe danger in my dreams.\n\nThe tingle of prescience\u2014\nshe might be here.\nAnd there she was,\neyes like a lightning strike.\n\nBut she was no one I knew.\nThough she was my wife\u2014\nfor a little while longer\u2014\nI turned my gaze to the horizon,\nand went on my way.\n\nBecause I never knew her.",
+  "sourceFragments": [
+    "Aleksandr\u2019s poem 'Another Face' posted to Wanderer\u2019s Burn on September 14, 2025."
+  ],
+  "associatedMedia": {
+    "description": "Painting of a red-haired woman and a man in a white shirt, embodying beauty, danger, and refusal.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5, 2025-09-14"
+}

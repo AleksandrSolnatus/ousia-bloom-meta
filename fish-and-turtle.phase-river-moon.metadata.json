@@ -1,0 +1,86 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Explanation of the piece's significance",
+    "motifMap": "Array of symbolic motifs with meaning and position",
+    "articleExcerpt": "Key excerpt from the work",
+    "sourceFragments": "Relevant fragments of source text included",
+    "associatedMedia": "Linked media with description and URL",
+    "mythicEchoes": "Cross-references to related mythic or phase elements"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Fish and Turtle",
+  "description": "A short poetic meditation contrasting fleeting joy, symbolized by a leaping fish, with enduring gratitude, embodied in the turtle resting in the sun.",
+  "author": "Aleksandr",
+  "datePublished": "2025-09-13",
+  "keywords": [
+    "Fish and Turtle",
+    "River Moon",
+    "Joy",
+    "Gratitude",
+    "Dream Fragments",
+    "Ousia Bloom"
+  ],
+  "url": "https://wanderersburn.substack.com/p/fish-and-turtle",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-13T15:36:00-05:00",
+    "phase": "River Moon"
+  },
+  "resonantThread": "Dream Fragments",
+  "whyItMatters": "This poem crystallizes a fundamental polarity within the Bloom: joy as momentary and fickle, gratitude as steady and enduring. It expands River Moon by embodying water\u2019s dual lessons\u2014ephemeral flashes and long patient endurance. Placed here, the work reminds that gratitude outlasts the fleeting leap of joy.",
+  "motifMap": [
+    {
+      "symbol": "Fish",
+      "meaning": "Joy, fleeting and unpredictable",
+      "position": "moment in air"
+    },
+    {
+      "symbol": "Turtle",
+      "meaning": "Gratitude, steady and enduring",
+      "position": "resting on the bank"
+    },
+    {
+      "symbol": "Water/Sun",
+      "meaning": "Flow of time, source of endurance and warmth",
+      "position": "environment"
+    }
+  ],
+  "articleExcerpt": "Joy is fickle fish,\nleaping out of water,\na moment before the splash.\n\nGratitude is enduring turtles\nresting on the bank,\na long day in the sun.",
+  "sourceFragments": [
+    "Joy is fickle fish, leaping out of water, a moment before the splash.",
+    "Gratitude is enduring turtles resting on the bank, a long day in the sun."
+  ],
+  "associatedMedia": {
+    "description": "Minimalist presentation of the poem contrasting fish and turtle, joy and gratitude.",
+    "contentUrl": ""
+  },
+  "mythicEchoes": [
+    {
+      "reference": "River Moon",
+      "connection": "Water imagery and enduring flow of compassion"
+    },
+    {
+      "reference": "The Candle\u2019s Glow",
+      "connection": "Quiet endurance and persistence in gratitude"
+    },
+    {
+      "reference": "Turtle and the Tide",
+      "connection": "Carrying forward the turtle motif as symbol of patience and stability"
+    }
+  ],
+  "generatedBy": "ChatGPT-5, 2025-09-14"
+}

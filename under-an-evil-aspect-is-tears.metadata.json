@@ -1,0 +1,67 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Reason the work matters to the Bloom",
+    "motifMap": "Symbolic motifs mapped with meaning and position",
+    "articleExcerpt": "Excerpt or fragment of the article",
+    "sourceFragments": "Supporting fragments or references",
+    "associatedMedia": "Media associated with the work",
+    "generatedBy": "System and date of generation"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Under an evil aspect is tears",
+  "description": "A symbolic drawing of a mask-like face, grinning while turquoise tears fall beneath fiery and patterned designs. The work explores danger, beauty, and sorrow intertwined in archetypal form.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-09-13",
+  "keywords": [
+    "Ousia Bloom",
+    "totem",
+    "drawing",
+    "mask",
+    "tears",
+    "symbolism"
+  ],
+  "url": "https://wanderersburn.substack.com/p/under-an-evil-aspect-is-tears",
+  "inLanguage": "en",
+  "resonantThread": "Totem Current",
+  "whyItMatters": "Captures an emergent Totem image, visually embodying sorrow and danger. Its archetypal resonance deepens the symbolic record of masks and tears in Bloom.",
+  "motifMap": [
+    {
+      "symbol": "Mask",
+      "meaning": "A consuming face that hides true form",
+      "position": "Center"
+    },
+    {
+      "symbol": "Turquoise Tears",
+      "meaning": "Sorrow emerging under an evil guise",
+      "position": "Beneath mask"
+    },
+    {
+      "symbol": "Flames/Patterns",
+      "meaning": "Intensity of passion and danger woven into identity",
+      "position": "Upper mask"
+    }
+  ],
+  "articleExcerpt": "It is a mask that eats the face.",
+  "sourceFragments": [
+    "Drawing: Grinning mask, red-black outlines, turquoise tears, and flame patterns."
+  ],
+  "associatedMedia": {
+    "description": "Photograph of hand-drawn Totem artwork with mask imagery and tears",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5, 2025-09-14"
+}
