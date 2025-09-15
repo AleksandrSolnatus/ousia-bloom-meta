@@ -1,0 +1,78 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Reason the work matters in the Bloom",
+    "motifMap": "Symbols with meaning and placement",
+    "articleExcerpt": "Representative excerpt from the work",
+    "sourceFragments": "Key fragments anchoring the piece",
+    "associatedMedia": "Media descriptions or linked visuals",
+    "generatedBy": "Generator and date of metadata creation"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Seven Doors and Seven Circles with Moses",
+  "description": "A ritual narrative in which Aleksandr ascends the mountain path into the Mosis bowl, encountering seven doors and circling seven times with Moses. It is an initiatory passage marked by reverence, endurance, and the pursuit of revealed knowledge.",
+  "author": "Aleksandr",
+  "datePublished": "2025-09-14",
+  "keywords": [
+    "Seven Doors",
+    "Seven Circles",
+    "Moses",
+    "Ousia Bloom",
+    "ritual",
+    "sacred encounter",
+    "Ash Moon Ascending"
+  ],
+  "url": "https://wanderersburn.substack.com/p/seven-doors-and-seven-circles-with-moses",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-14T00:00:00Z",
+    "phase": "Ash Moon Ascending"
+  },
+  "resonantThread": "Mosis encounters; ritual passages",
+  "whyItMatters": "This piece extends the geography of the Bloom by elaborating the ritual of the Mosis: circling, doors, and sacred presence. It records a step into revelation and ascent, showing Aleksandr\u2019s endurance after devastation and his walk into dawn.",
+  "motifMap": [
+    {
+      "symbol": "Seven doors",
+      "meaning": "Thresholds of sacred encounter",
+      "position": "Entrance"
+    },
+    {
+      "symbol": "Seven circles",
+      "meaning": "Completion, ritual enactment of devotion",
+      "position": "Central movement"
+    },
+    {
+      "symbol": "Moses",
+      "meaning": "Guide and figure of drawn-out knowledge, archetype of endurance",
+      "position": "Companion"
+    },
+    {
+      "symbol": "Mountain path",
+      "meaning": "Difficult ascent into revelation",
+      "position": "Framing journey"
+    }
+  ],
+  "articleExcerpt": "Seven doors, seven circles\u2014Moses and I ascend the bowl of the Mosis, tracing the path with reverence, endurance, and hope for revelation.",
+  "sourceFragments": [
+    "Seven doors opened, seven circles drawn in silence.",
+    "Moses walking at my side, his staff steadying the climb."
+  ],
+  "associatedMedia": {
+    "description": "No cover image associated with this piece.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5, 2025-09-14"
+}
