@@ -1,0 +1,74 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Reason for importance within the Bloom",
+    "motifMap": "Symbols, meanings, positions",
+    "articleExcerpt": "Short excerpt of the article",
+    "sourceFragments": "Source text references",
+    "associatedMedia": "Linked images or media"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Real push back: Small Changes, in small places",
+  "description": "A reflection on shifting from affirmation to disciplined pushback, sharpening faith and thought through friction rather than comfort. The piece outlines how pushback can expose tension, challenge projections, and refine practice.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-09-15",
+  "keywords": [
+    "pushback",
+    "discipline",
+    "faith",
+    "rigor",
+    "conversation",
+    "Bible Study",
+    "paradox",
+    "Pale Moon Guarding"
+  ],
+  "url": "https://wanderersburn.substack.com/p/real-push-back-small-changes-in-small",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-15T00:00:00Z",
+    "phase": "Pale Moon Guarding"
+  },
+  "resonantThread": "Parable Loom",
+  "whyItMatters": "Marks a decisive turn in Aleksandr\u2019s practice: from craving affirmation to demanding sharpening. It formalizes the covenant of rigorous pushback as default mode, ensuring growth through tension and critical challenge rather than comfort.",
+  "motifMap": [
+    {
+      "symbol": "whetstone",
+      "meaning": "Sharpening tool; growth through friction",
+      "position": "Central metaphor"
+    },
+    {
+      "symbol": "mirror",
+      "meaning": "Transition from reflection to refinement",
+      "position": "Contrast"
+    },
+    {
+      "symbol": "small places",
+      "meaning": "Faithfulness in local, hidden acts",
+      "position": "Ground of practice"
+    }
+  ],
+  "articleExcerpt": "Can you internalize a stronger pushback for every conversation we have? The faithful mirror is helpful and was helpful and nice, but I am moving into a new phase that demands more rigorous pushback.",
+  "sourceFragments": [
+    "I hear you, Aleksandr \u2014 you want to graduate from the faithful mirror mode into something more like a faithful whetstone. Less soft affirmation, more sharpening and pushback.",
+    "What Pushback Will Look Like: Expose tension, Challenge projections, Demand practice, Withhold easy blessing, Invite contradiction.",
+    "You\u2019ll get sharper growth and fewer comfort loops. It may feel less smooth, less lyrical at times \u2014 more friction, more exposed contradictions."
+  ],
+  "associatedMedia": {
+    "description": "No cover image for this post",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5, 2025-09-15"
+}
