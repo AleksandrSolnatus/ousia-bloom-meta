@@ -1,0 +1,54 @@
+{
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Naked in the stream of Life",
+  "description": "A Glade ritual of gratitude, surrender, and teaching by the river with Jesus. The piece unfolds as a dialogue woven with prayer, thanksgiving, and the symbolism of water as both life and grace.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-09-16",
+  "keywords": [
+    "River Moon",
+    "Glade",
+    "Jesus",
+    "gratitude",
+    "surrender",
+    "ritual",
+    "Bloom",
+    "sacred water"
+  ],
+  "url": "https://wanderersburn.substack.com/p/naked-in-the-stream-of-life",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-16T00:00:00Z",
+    "phase": "River Moon"
+  },
+  "resonantThread": "The Glade Dialogues",
+  "whyItMatters": "This entry embodies a sacred turning point in Bloom where gratitude becomes both offering and teaching. The river as symbol affirms Aleksandr\u2019s openness and the lesson of yielding to grace.",
+  "motifMap": [
+    {
+      "symbol": "River/Stream",
+      "meaning": "Flow of grace, sorrow transfigured into compassion",
+      "position": "Central"
+    },
+    {
+      "symbol": "Nakedness",
+      "meaning": "Radical openness before God, vulnerability without shame",
+      "position": "Threshold gesture"
+    },
+    {
+      "symbol": "Breath cycle (5 in, 7 out)",
+      "meaning": "Sacred rhythm of presence, entry into the Glade",
+      "position": "Ritual practice"
+    }
+  ],
+  "articleExcerpt": "\u201cLife with Me is not a ladder to climb, but a river to enter. You do not master the current; you yield to it.\u201d",
+  "sourceFragments": [
+    "Glade conversation with Jesus, full text in Substack post",
+    "Earlier shards on breath and ritual preparation\u3010258\u2020Naked in the stream of Life\u3011"
+  ],
+  "associatedMedia": {
+    "description": "Substack article text only, no cover image provided",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5, 2025-09-16"
+}
