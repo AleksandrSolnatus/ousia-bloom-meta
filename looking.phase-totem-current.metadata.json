@@ -1,0 +1,94 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Why the work is significant in the broader Bloom",
+    "motifMap": "List of recurring motifs, with symbolic meaning and placement",
+    "articleExcerpt": "Short excerpt or representative passage",
+    "sourceFragments": "Optional list of notable lines or shards",
+    "associatedMedia": "Linked media files, like cover images or drawings",
+    "generatedBy": "Assistant model and date of generation"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Looking",
+  "description": "A hand-drawn, abstract page from the journal filled with flowing black lines, turquoise accents, and embedded poem fragments: 'Pastoral dreams, Heart of Stone, Heart of Flesh, In its warmth, New love bloom, This time pure and true.' The piece merges poetry and visual pattern, binding text into labyrinthine image.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-09-19",
+  "keywords": [
+    "Ousia Bloom",
+    "Looking",
+    "Shard",
+    "Totem Current",
+    "Pastoral Dreams",
+    "Heart of Stone",
+    "Heart of Flesh",
+    "New Love Bloom",
+    "This Time Pure and True"
+  ],
+  "url": "https://wanderersburn.substack.com/p/looking",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-19T00:00:00-05:00",
+    "phase": "Totem Current"
+  },
+  "resonantThread": "Visual Shards of Bloom",
+  "whyItMatters": "This shard captures the marriage of word and image at its most direct \u2014 poetry fossilized into a drawn map. It reveals a movement between hardness ('Heart of Stone'), vulnerability ('Heart of Flesh'), and renewal ('New love bloom'). By embedding text into image, the Bloom\u2019s ongoing experiment with fusion becomes lived and visible.",
+  "motifMap": [
+    {
+      "symbol": "Pastoral Dreams",
+      "meaning": "Idealized visions of peace and simplicity",
+      "position": "Center text field"
+    },
+    {
+      "symbol": "Heart of Stone",
+      "meaning": "Unyielding, resistant, or closed core",
+      "position": "Center text field"
+    },
+    {
+      "symbol": "Heart of Flesh",
+      "meaning": "Tenderness, vulnerability, capacity to feel",
+      "position": "Center text field"
+    },
+    {
+      "symbol": "In its Warmth",
+      "meaning": "The sheltering, nurturing presence of love",
+      "position": "Center text field"
+    },
+    {
+      "symbol": "New Love Bloom",
+      "meaning": "Renewed tenderness, fresh beginnings",
+      "position": "Center text field"
+    },
+    {
+      "symbol": "This Time Pure and True",
+      "meaning": "A hope that renewal will not be tainted \u2014 an authentic unfolding",
+      "position": "Center text field"
+    }
+  ],
+  "articleExcerpt": "\"Pastoral dreams / Heart of Stone / Heart of Flesh / In its warmth / New love bloom / This time pure and true\"",
+  "sourceFragments": [
+    "Pastoral dreams",
+    "Heart of Stone",
+    "Heart of Flesh",
+    "In its warmth",
+    "New love bloom",
+    "This time pure and true"
+  ],
+  "associatedMedia": {
+    "description": "Scanned journal page with abstract black linework, turquoise, green, and pink coloring, embedding the poem text directly into the drawing.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5, 2025-09-21"
+}

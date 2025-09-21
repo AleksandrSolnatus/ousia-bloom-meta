@@ -1,0 +1,73 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Explanation of the significance of this work",
+    "motifMap": "Symbols and their meaning within the work",
+    "articleExcerpt": "A short excerpt or quote from the work",
+    "sourceFragments": "Selected fragments directly drawn from the text",
+    "associatedMedia": "Linked media such as cover image"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Sticks and Stones",
+  "description": "A parable exploring the power of words \u2014 how they wound, heal, and shape the soul. From womb to childhood taunts, to brokenness and restoration, the tale traces a man\u2019s journey from curse to blessing, reminding that words are not noise but builders of worlds.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-09-20",
+  "keywords": [
+    "parable",
+    "words",
+    "healing",
+    "curse",
+    "blessing",
+    "faith",
+    "Sticks and Stones",
+    "Ash Moon Ascending"
+  ],
+  "url": "https://wanderersburn.substack.com/p/sticks-and-stones",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-20T00:00:00-05:00",
+    "phase": "Ash Moon Ascending"
+  },
+  "resonantThread": "Parable Loom",
+  "whyItMatters": "This story underscores the weight of words. It reframes the childhood rhyme 'sticks and stones may break my bones' into a deeper truth: that words wound as much as they heal, carrying the power to define a life. By healing, by reclaiming blessing, the protagonist shows that mastery of one\u2019s words restores not just speech but light itself.",
+  "motifMap": [
+    {
+      "symbol": "Sticks and Stones",
+      "meaning": "Childhood rhyme turned into a parable of wounding words and resilience",
+      "position": "Core metaphor anchoring the story"
+    },
+    {
+      "symbol": "Light",
+      "meaning": "The inner gift and voice that can be rekindled after loss",
+      "position": "Conclusion, restoration of the soul"
+    },
+    {
+      "symbol": "Broken leg",
+      "meaning": "Moment of pain and clarity; catalyst for healing",
+      "position": "Turning point"
+    }
+  ],
+  "articleExcerpt": "\"Now a man, he saw what words truly were: not noise in the air, but the builders of worlds.\"",
+  "sourceFragments": [
+    "One day the boy came home crying. A classmate had called him stupid and slow. His parents gave him the rhyme they themselves had been taught: 'Sticks and stones may break my bones, but words will never hurt me.'",
+    "The light once spoken into him was forgotten. The care his parents had for each other, devoured.",
+    "Now a man, he saw what words truly were: not noise in the air, but the builders of worlds."
+  ],
+  "associatedMedia": {
+    "description": "Classical-style painting of figures: a man exhaling light, a woman cradling glowing words, and others burdened by stones labeled with curses.",
+    "contentUrl": ""
+  }
+}

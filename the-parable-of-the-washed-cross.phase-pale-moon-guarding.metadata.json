@@ -1,0 +1,75 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Reason the piece matters within the Bloom",
+    "motifMap": "List of symbolic motifs with meanings and positions",
+    "articleExcerpt": "Selected excerpt of the article",
+    "sourceFragments": "Key fragments of text that illuminate the work",
+    "associatedMedia": "Related images or media connected to the piece",
+    "generatedBy": "System and date that produced this metadata"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "The Parable of the Washed Cross",
+  "description": "A short parable about a small wooden cross, changed by washing, that becomes a symbol of how faith matures \u2014 rougher, truer, and weathered by life. It reflects on how God is sometimes felt as smooth and easy at first encounter, but becomes demanding, steadfast, and real in the long walk of belief.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-09-21",
+  "keywords": [
+    "parable",
+    "washed cross",
+    "faith",
+    "Ousia Bloom",
+    "Pale Moon Guarding",
+    "spirituality",
+    "resilience",
+    "Christianity"
+  ],
+  "url": "https://wanderersburn.substack.com/p/the-parable-of-the-washed-cross",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-21T00:00:00-05:00",
+    "phase": "Pale Moon Guarding"
+  },
+  "resonantThread": "Parable Loom",
+  "whyItMatters": "This parable captures the quiet endurance of faith beyond its first sweetness \u2014 the shift from smooth beginnings to rough, lived truth. It becomes an emblem of how Aleksandr frames God as not only peace but also demand, not only presence but also change.",
+  "motifMap": [
+    {
+      "symbol": "Washed Cross",
+      "meaning": "Faith altered by experience, stripped of polish but truer for it",
+      "position": "Central object"
+    },
+    {
+      "symbol": "Pocket",
+      "meaning": "Unexpected place where faith is rediscovered",
+      "position": "Narrative container"
+    },
+    {
+      "symbol": "Rough Wood",
+      "meaning": "The demand and reality of God\u2019s way",
+      "position": "Texture/metaphor"
+    }
+  ],
+  "articleExcerpt": "And like my little cross, real faith in God is a little rougher when it is true \u2014 weathered by the washing of our old ways.",
+  "sourceFragments": [
+    "I was given a small cross that was smooth and lacquered so one could rub their thumb along its length.",
+    "It was not the same cross. It had been changed. Gone was the smooth outside; left behind was something more bare, a little rougher.",
+    "And like my little cross, real faith in God is a little rougher when it is true \u2014 weathered by the washing of our old ways."
+  ],
+  "associatedMedia": {
+    "description": "Photograph of the small wooden cross resting on fabric background.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5, 2025-09-21"
+}

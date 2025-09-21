@@ -1,0 +1,80 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Reason this work is important within the Bloom",
+    "motifMap": "Symbolic motifs present, with meaning and position",
+    "articleExcerpt": "Direct excerpt of the work",
+    "sourceFragments": "Original text fragments that inspired or anchor the piece",
+    "associatedMedia": "Related images, videos, or files"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "The Psalm of the Boy and the Man",
+  "description": "A psalmic meditation tracing the raw ache of longing, loss, and burden, juxtaposed with the steadiness of manhood and faith. The piece moves through boyhood vulnerability and into a fragile but determined maturity rooted in God.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-09-20",
+  "keywords": [
+    "Psalm",
+    "Boy and Man",
+    "Faith",
+    "Longing",
+    "Burden",
+    "Duality",
+    "Ousia Bloom",
+    "Echo Moon"
+  ],
+  "url": "https://wanderersburn.substack.com/p/the-psalm-of-the-boy-and-the-man",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-20T00:00:00Z",
+    "phase": "Echo Moon"
+  },
+  "resonantThread": "Lives in Contradiction",
+  "whyItMatters": "This psalm captures Aleksandr\u2019s direct confrontation with inner fracture \u2014 the longing boy and the disciplined man. It records the weight of desire, grief, and responsibility in a liturgical form, embodying a deep oscillation between collapse and faith. It matters because it inscribes not resolution, but endurance, into the Bloom.",
+  "motifMap": [
+    {
+      "symbol": "Boy",
+      "meaning": "The vulnerable, longing, wounded self",
+      "position": "Opening stanzas"
+    },
+    {
+      "symbol": "Man",
+      "meaning": "The self that endures, picks up pieces, and holds faith",
+      "position": "Closing stanzas"
+    },
+    {
+      "symbol": "Duality",
+      "meaning": "The tension between despair and endurance, weakness and faith",
+      "position": "Throughout"
+    },
+    {
+      "symbol": "God",
+      "meaning": "The anchor of hope and trust beyond self",
+      "position": "Final line"
+    }
+  ],
+  "articleExcerpt": "Today I long for a mother.\nToday I long for a wife.\nToday I long for a past not mine.\n...\nBut a man picks up the pieces.\nBut a man carries on as best he knows.\nBut a man puts his faith in God.",
+  "sourceFragments": [
+    "Today I long for a mother. Today I long for a wife. Today I long for a past not mine.",
+    "Today the boy is small. Today the boy is crying. Today the boy is lost.",
+    "But a man picks up the pieces. But a man carries on as best he knows.",
+    "And a man puts his faith in God."
+  ],
+  "associatedMedia": {
+    "description": "Artwork of a cracked vessel lit by divine light, symbolizing brokenness and endurance.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5, 2025-09-21"
+}
