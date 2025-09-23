@@ -1,0 +1,66 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Explanation of significance in Aleksandr’s Bloom",
+    "motifMap": "List of motifs, their meanings, and positions",
+    "articleExcerpt": "Quoted excerpt or fragment from the work",
+    "sourceFragments": "Referenced sections from the original piece",
+    "associatedMedia": "Linked images, videos, or artwork connected to the work",
+    "generatedBy": "Tool and date of metadata generation"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "The Lord's Love",
+  "description": "A two-panel juxtaposition in journal form—one side an explosion of color with a cross at the center, the other a childlike sketch of God’s voice breaking through despair. It captures both the cosmic fire of divine presence and the intimate, tender reminder that love saves even when faith falters.",
+  "author": "Aleksandr",
+  "datePublished": "2025-09-22",
+  "keywords": ["Lord's Love", "faith", "two-panel juxtaposition", "cross", "God’s voice", "redemption", "Ousia Bloom"],
+  "url": "https://wanderersburn.substack.com/p/the-lords-love",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-22T00:00:00-05:00",
+    "phase": "The Candle’s Flame"
+  },
+  "resonantThread": "Wanderer’s Burn – Psalms & Parables",
+  "whyItMatters": "This piece stands at the intersection of raw journaling and sacred revelation. The juxtaposition of a radiant cross with a sketch of God’s protective words shows Aleksandr’s dual way of seeing—sacred fire and fragile human longing woven together. It anchors the experience of faith not in certainty, but in being continually drawn back by divine love.",
+  "motifMap": [
+    {
+      "symbol": "Black cross in flames",
+      "meaning": "Endurance of faith through fire; divine presence amid chaos",
+      "position": "Left page"
+    },
+    {
+      "symbol": "God figure with words 'My love will save you'",
+      "meaning": "Voice of reassurance breaking through despair",
+      "position": "Right page, upper"
+    },
+    {
+      "symbol": "Childlike figure saying 'I can’t do it Dad'",
+      "meaning": "Aleksandr’s cry of inadequacy met with paternal divine response",
+      "position": "Right page, lower"
+    }
+  ],
+  "articleExcerpt": "I just can’t imagine not point to anywhere or nothing sometimes, but His love will always reel me back in.",
+  "sourceFragments": [
+    "But you can’t 4 you will forsake MOI. My child, my love will save you."
+  ],
+  "associatedMedia": {
+    "description": "Photograph of Aleksandr’s two-panel journal drawing: a cross in flame-colors on the left, a sketch of God speaking to a childlike figure on the right.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5, 2025-09-23"
+}
+
+}

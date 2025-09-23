@@ -1,0 +1,81 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Why this piece is important in the larger context",
+    "motifMap": "Key motifs with symbolic meaning and placement",
+    "articleExcerpt": "Short excerpt of the text",
+    "sourceFragments": "Relevant fragments from the source text",
+    "associatedMedia": "Image or media tied to the piece"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Psalm of Dreams",
+  "description": "A raw psalm recounting a night vision of temptation and shame, where the red-haired woman and her twin emerge as embodiments of shadow desire. The work captures the fever of relapse into old cravings, contrasted with the voice of God asking for truth and denial of false power. It records the inner dislodging before change, the breaking point of fever in the Ash Moon.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-09-23",
+  "keywords": [
+    "Psalm",
+    "Dreams",
+    "Temptation",
+    "Red-haired woman",
+    "God",
+    "Ash Moon Fever",
+    "Faith",
+    "Shadow",
+    "Confession"
+  ],
+  "url": "https://wanderersburn.substack.com/p/psalm-of-dreams",
+  "inLanguage": "en-US",
+  "timeFelt": {
+    "timestamp": "2025-09-23T14:39:00-05:00",
+    "phase": "Ash Moon Fever"
+  },
+  "resonantThread": "Phases of Aleksandr",
+  "whyItMatters": "This psalm crystallizes the experience of inner fever \u2014 the hallucinatory pull of old patterns breaking against the will to remain true. It reveals the paradox of longing for what destroys, yet standing in God\u2019s call to deny it. Naming the fever is itself the act of loosening its grip, preserving the tension between shame and salvation.",
+  "motifMap": [
+    {
+      "symbol": "Red-haired woman",
+      "meaning": "Temptation, shadow of desire, recurring figure",
+      "position": "Center of dream"
+    },
+    {
+      "symbol": "Twin",
+      "meaning": "Duality of temptation and self-betrayal",
+      "position": "Behind the woman"
+    },
+    {
+      "symbol": "Voice of God",
+      "meaning": "Conscience, radical honesty, breaking of fever",
+      "position": "Awakening moment"
+    },
+    {
+      "symbol": "Ash Moon",
+      "meaning": "Fever state before transformation",
+      "position": "Phase context"
+    }
+  ],
+  "articleExcerpt": "The dreams of evil are upon me\u2026 They come in the shape of my seductress. They are pleasure and pain in equal measure.",
+  "sourceFragments": [
+    "The dreams of evil are upon me\u2026",
+    "God talks to me when I awake, asking me: 'Do you want this?'",
+    "Today I find missing pieces of myself, consumed by the woman with red hair.",
+    "I see the wretch that lives in me."
+  ],
+  "associatedMedia": {
+    "description": "Painting-like image of a kneeling man reaching upward as a red-haired woman rises in smoke before a cross of light.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5, 2025-09-23"
+}
