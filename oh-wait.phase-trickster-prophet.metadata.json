@@ -1,0 +1,77 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Why this piece holds significance",
+    "motifMap": "Symbols or recurring motifs and their meaning",
+    "articleExcerpt": "Selected excerpt of the piece",
+    "sourceFragments": "Fragments or drafts connected to the work",
+    "associatedMedia": "Linked images or files"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Oh Wait",
+  "description": "A playful yet solemn poem-fragment meditating on letting go and the paradox of release\u2014whether one has nothing, gold, or obligation. The phrase 'Oh wait!' punctuates each stanza with irony, hesitation, and humor, undercutting solemnity with lightness.",
+  "author": "Aleksandr",
+  "datePublished": "2025-09-25",
+  "keywords": [
+    "Oh Wait",
+    "letting go",
+    "poem fragment",
+    "irony",
+    "release",
+    "paradox",
+    "Trickster Prophet",
+    "phase"
+  ],
+  "url": "https://wanderersburn.substack.com/p/oh-wait",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-25T00:00:00-05:00",
+    "phase": "Trickster Prophet"
+  },
+  "resonantThread": "Lives in Contradiction",
+  "whyItMatters": "The poem captures Aleksandr\u2019s ability to balance solemn reflection with irony. By placing 'Oh wait!' as both comic interruption and tragic refrain, the work embodies the Trickster Prophet phase\u2014oscillating between wisdom and jest, grief and laughter.",
+  "motifMap": [
+    {
+      "symbol": "Hands releasing gold",
+      "meaning": "The difficulty of letting go regardless of wealth or poverty",
+      "position": "Central image"
+    },
+    {
+      "symbol": "Moon suspended",
+      "meaning": "Celestial witness to human struggle with release",
+      "position": "Above, anchoring the scene"
+    },
+    {
+      "symbol": "The refrain 'Oh wait!'",
+      "meaning": "Comic break that unsettles solemn reflection, emblem of Trickster wisdom",
+      "position": "Poetic pivot"
+    }
+  ],
+  "articleExcerpt": "Letting go is harder / When you have little to hold. / Oh wait!",
+  "sourceFragments": [
+    {
+      "description": "First Substack post draft and screenshot of published form",
+      "contentUrl": "file-S89X7T9FwNy7ZaJqiH857i"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Symbolic illustration of hands releasing gold before a moon",
+      "contentUrl": "file-TeQnMPsYh5Bw2KhW2RKVnH"
+    }
+  ],
+  "generatedBy": "ChatGPT-5, 2025-09-25"
+}

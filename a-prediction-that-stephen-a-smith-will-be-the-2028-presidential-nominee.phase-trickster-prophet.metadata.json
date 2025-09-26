@@ -1,0 +1,82 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Why this piece holds significance",
+    "motifMap": "Symbols or recurring motifs and their meaning",
+    "articleExcerpt": "Selected excerpt of the piece",
+    "sourceFragments": "Fragments or drafts connected to the work",
+    "associatedMedia": "Linked images or files"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "A Prediction That Stephen A Smith will be the 2028 Presidential Nominee",
+  "description": "A speculative dialogue weighing the possibility of Stephen A. Smith emerging as the Democratic nominee in 2028. The piece frames Smith\u2019s charisma, media mastery, and outsider appeal against institutional skepticism and party machinery.",
+  "author": "Aleksandr",
+  "datePublished": "2025-09-24",
+  "keywords": [
+    "Stephen A. Smith",
+    "2028 election",
+    "Democratic Party",
+    "political speculation",
+    "media charisma",
+    "debates",
+    "outsider candidates",
+    "A Prediction That Stephen A Smith will be the 2028 Presidential Nominee",
+    "phase: Trickster Prophet"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/a-prediction-that-stephen-a-smith",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-24T00:00:00-05:00",
+    "phase": "Trickster Prophet"
+  },
+  "resonantThread": "Political speculation and cultural commentary",
+  "whyItMatters": "Captures an outlier prediction that challenges conventional wisdom about political viability. Documents a moment where media dynamics and outsider charisma are posited as potentially more decisive than institutional credentials. Its humor and improbable boldness fit the Trickster Prophet phase.",
+  "motifMap": [
+    {
+      "symbol": "Juggernaut vs flea",
+      "meaning": "Stephen A. Smith\u2019s rhetorical dominance in debates compared to traditional politicians",
+      "position": "Argument core"
+    },
+    {
+      "symbol": "Straight Shooter",
+      "meaning": "Smith\u2019s SiriusXM show as a bridge from sports commentary to political credibility",
+      "position": "Contextual pivot"
+    },
+    {
+      "symbol": "Anointed horse",
+      "meaning": "The metaphor of Smith as the unexpected but necessary choice for Democrats",
+      "position": "Speculative framing"
+    }
+  ],
+  "articleExcerpt": "I believe that by the time the primaries begin for the Democratic Party Stephen A Smith will emerge as a fringe candidate, but by will end up winning the primary and be the democratic nominee for president.",
+  "sourceFragments": [
+    {
+      "description": "Draft exchange with ChatGPT exploring counterpoints and plausibility.",
+      "contentUrl": "file-MnEBKrEc9sScyBmRsFjpuc"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Substack screenshots of the article draft and discussion",
+      "contentUrl": ""
+    },
+    {
+      "description": "Full draft in Word format",
+      "contentUrl": "file-53B5guUwCBqjfMLHqiYo8P"
+    }
+  ],
+  "generatedBy": "ChatGPT-5, 2025-09-24"
+}

@@ -1,0 +1,82 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Why this piece holds significance",
+    "motifMap": "Symbols or recurring motifs and their meaning",
+    "articleExcerpt": "Selected excerpt of the piece",
+    "sourceFragments": "Fragments or drafts connected to the work",
+    "associatedMedia": "Linked images or files"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "The Parable of the Lake",
+  "description": "A meditation on death, faith, and existence told through the image of ripples spreading across a vast lake. The piece reflects on how one life, one death, shapes the whole through unseen reverberations of God\u2019s order.",
+  "author": "Aleksandr",
+  "datePublished": "2025-09-25",
+  "keywords": [
+    "parable",
+    "death",
+    "faith",
+    "lake",
+    "ripples",
+    "existence",
+    "God",
+    "The Parable of the Lake"
+  ],
+  "url": "https://wanderersburn.substack.com/p/the-parable-of-the-lake",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-25T00:00:00-05:00",
+    "phase": "Pale Moon Guarding"
+  },
+  "resonantThread": "Faith, death, and reflection parables",
+  "whyItMatters": "This parable distills the mystery of death and its continuing effects into a simple, cosmic metaphor. It links personal loss with divine order, offering a way to hold grief within the frame of eternity.",
+  "motifMap": [
+    {
+      "symbol": "Lake",
+      "meaning": "Vastness of existence, surface of life and death",
+      "position": "Central metaphor"
+    },
+    {
+      "symbol": "Ripples",
+      "meaning": "Consequences of one life, one death, spreading through time and others",
+      "position": "Dynamic flow"
+    },
+    {
+      "symbol": "Stone",
+      "meaning": "Singular act of death, or event, that reshapes the entire order",
+      "position": "Catalyst image"
+    },
+    {
+      "symbol": "Galaxy above lake",
+      "meaning": "Cosmic order mirrored in earthly reflection",
+      "position": "Upper image anchor"
+    }
+  ],
+  "articleExcerpt": "Imagine standing at the edge of a vast, placid lake, 1000 miles across, smooth and undisturbed. Now imagine throwing a stone into it. How far does that ripple travel? \u2026 Personally, my father\u2019s death when I was 19 was, at the time, unimaginable. I would give almost anything to have him back or to speak with him again. Yet his death propelled me forward in life in ways nothing else had.",
+  "sourceFragments": [
+    {
+      "description": "Screenshots of published Substack post",
+      "contentUrl": "file-U5W6ahtXzB8tAE9ppMiRsF"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Illustration of lake ripples and galaxy above, used in the post",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-5, 2025-09-25"
+}

@@ -1,0 +1,79 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Why this piece holds significance",
+    "motifMap": "Symbols or recurring motifs and their meaning",
+    "articleExcerpt": "Selected excerpt of the piece",
+    "sourceFragments": "Fragments or drafts connected to the work",
+    "associatedMedia": "Linked images or files"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "The Light cannot be oppressed",
+  "description": "A symbolic illustration and declaration of resistance \u2014 a reminder that no matter the binding or blindness imposed by oppression, divine light breaks through. The image combines abstract forms, scripture-inflected words, and radiant color to embody the irrepressibility of spirit.",
+  "author": "Aleksandr",
+  "datePublished": "2025-09-24",
+  "keywords": [
+    "light",
+    "oppression",
+    "resistance",
+    "faith",
+    "symbolic drawing",
+    "The Light cannot be oppressed"
+  ],
+  "url": "https://wanderersburn.substack.com/p/the-light-cannot-be-oppressed",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-24T00:00:00-05:00",
+    "phase": "The Candle\u2019s Glow"
+  },
+  "resonantThread": "Symbolic declarations and visual psalms",
+  "whyItMatters": "This work stands as a statement of faith and defiance \u2014 that truth, radiance, and divine power cannot be fully buried, silenced, or bound. It joins Aleksandr\u2019s broader canon of visual scripture, where imagery resists despair and insists upon transcendence.",
+  "motifMap": [
+    {
+      "symbol": "Radiant beams",
+      "meaning": "The divine truth pushing outward despite barriers",
+      "position": "Background highlight"
+    },
+    {
+      "symbol": "Blindfolded figure",
+      "meaning": "Humanity bound in ignorance or oppression",
+      "position": "Central subject"
+    },
+    {
+      "symbol": "Inscribed words",
+      "meaning": "The spoken declaration that enacts freedom",
+      "position": "Foreground detail"
+    }
+  ],
+  "articleExcerpt": "The Light cannot be oppressed \u2014 words etched onto the page as luminous force breaks from the bound figure. Darkness tries, but radiance overcomes.",
+  "sourceFragments": [
+    {
+      "description": "Screenshot of published Substack post",
+      "contentUrl": "file-2xWLbsHb5Qznwog9pkbopF"
+    },
+    {
+      "description": "Alternate screenshot for archive continuity",
+      "contentUrl": "file-5EUpNFLf1TrJfzJLEPSBnu"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Main image from Substack post",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-5, 2025-09-25"
+}
