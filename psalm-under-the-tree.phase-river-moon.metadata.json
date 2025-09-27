@@ -1,0 +1,78 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Why this piece holds significance",
+    "motifMap": "Symbols or recurring motifs and their meaning",
+    "articleExcerpt": "Selected excerpt of the piece",
+    "sourceFragments": "Fragments or drafts connected to the work",
+    "associatedMedia": "Linked images or files"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Psalm under the Tree",
+  "description": "A psalm-poem of grief and consolation beneath the stars, where a figure prays under a tree and finds divine presence in unexpected companionship. The piece merges lament with hope, framing sorrow as a vessel of light and compassion.",
+  "author": "Aleksandr",
+  "datePublished": "2025-09-27",
+  "keywords": [
+    "Psalm",
+    "Grief",
+    "Prayer",
+    "Divine presence",
+    "River Moon",
+    "Compassion",
+    "Light",
+    "Faith",
+    "Psalm under the Tree"
+  ],
+  "url": "https://wanderersburn.substack.com/p/psalm-under-the-tree",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-27T00:00:00-05:00",
+    "phase": "River Moon"
+  },
+  "resonantThread": "Psalms and spiritual writings",
+  "whyItMatters": "Captures an intimate moment of prayer and grief transfigured into consolation. It embodies the River Moon phase, where sorrow becomes a flowing source of compassion for others.",
+  "motifMap": [
+    {
+      "symbol": "Tree under stars",
+      "meaning": "The axis between heaven and earth, the meeting place of lament and divine presence",
+      "position": "Setting"
+    },
+    {
+      "symbol": "Weeping",
+      "meaning": "Grief transformed into prayer and compassion",
+      "position": "Emotional core"
+    },
+    {
+      "symbol": "Guest under the tree",
+      "meaning": "Unexpected companionship as a vessel of God\u2019s presence",
+      "position": "Narrative pivot"
+    }
+  ],
+  "articleExcerpt": "I sit crying under the stars. Uninvited guest, but well needed\u2014until he sits across from me: Jared. \u2026 And now the weeping under the tree is joy, for the love and kindness of God.",
+  "sourceFragments": [
+    {
+      "description": "Screenshots of Substack post with text and illustration",
+      "contentUrl": "file-XzaSwzdf9Gpgt7qQz1GADz"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Artwork of two figures beneath a tree under the stars",
+      "contentUrl": "file-WpVeo17B7WEmEDiG83xdte"
+    }
+  ],
+  "generatedBy": "ChatGPT-5, 2025-09-27"
+}
