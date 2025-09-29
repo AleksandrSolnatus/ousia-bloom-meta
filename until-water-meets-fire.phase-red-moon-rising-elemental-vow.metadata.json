@@ -1,0 +1,76 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Reason why this work is significant",
+    "motifMap": "Symbolic elements in the piece, with meaning and position",
+    "articleExcerpt": "Excerpt or representative passage",
+    "sourceFragments": "Fragments of the text for citation or indexing",
+    "associatedMedia": "Related media files (image, audio, video)",
+    "generatedBy": "The system and date that generated the metadata"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Until Water Meets Fire",
+  "description": "A psalm of longing and steadfastness, where the imagery of ocean and flame embody the vow of waiting in truth, love, and endurance until opposites meet in covenantal union.",
+  "author": "Aleksandr",
+  "datePublished": "2025-09-28",
+  "keywords": [
+    "psalm",
+    "longing",
+    "endurance",
+    "elemental vow",
+    "fire and water",
+    "love",
+    "Ousia Bloom",
+    "phases of Aleksandr"
+  ],
+  "url": "https://wanderersburn.substack.com/p/until-water-meets-fire",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-28T13:07:00-05:00",
+    "phase": "Red Moon Rising (Elemental Vow)"
+  },
+  "resonantThread": "Psalms and Petitions",
+  "whyItMatters": "This psalm establishes the Elemental Vow phase within the Bloom: the patient endurance of opposites \u2014 fire and water \u2014 as an emblem of fidelity, longing, and the refusal to surrender. It represents Aleksandr\u2019s commitment to remain steadfast in faith and desire until the impossible convergence becomes real.",
+  "motifMap": [
+    {
+      "symbol": "Ocean waves",
+      "meaning": "The depth and turmoil of longing, the overwhelming force of feeling",
+      "position": "Opening imagery and in the painting"
+    },
+    {
+      "symbol": "Flame rising",
+      "meaning": "The soul\u2019s vow, love\u2019s fierce and purifying power",
+      "position": "Midway, colliding with the flood"
+    },
+    {
+      "symbol": "Collision of water and fire",
+      "meaning": "The elemental vow: the paradox of waiting until opposites meet in covenant",
+      "position": "Core of the psalm\u2019s refrain"
+    }
+  ],
+  "articleExcerpt": "O my longing, I wait.\nBe it years, I wait.\nTears may fall, yet I do not turn away.\nI will not surrender.\n\nUntil fire meets water,\nI remain.",
+  "sourceFragments": [
+    "My heart rolls and breaks; the powerful churning of ocean deep.",
+    "She is beautiful in spirit and in mind \u2014 equal, unyielding, anathema of the ordinary.",
+    "Where flood and blaze collide, the air itself becomes essence.",
+    "Until fire meets water, I remain."
+  ],
+  "associatedMedia": {
+    "description": "Cover image of water and fire colliding in elemental force",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5, 2025-09-28"
+}

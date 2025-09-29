@@ -1,0 +1,84 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Reason this work is significant",
+    "motifMap": "Array of motifs with symbol, meaning, and position",
+    "articleExcerpt": "Short excerpt of the piece",
+    "sourceFragments": "Fragments of source material or inspiration",
+    "associatedMedia": "Linked media with description and URL",
+    "generatedBy": "Tool and date of generation"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Castle Head Becoming",
+  "description": "A shard that captures Aleksandr\u2019s sense of his small, still-forming self, carrying the architecture of becoming within. Emerging thought-lines fracture into figures that embody phases, archetypes, and longings \u2014 including the flame-eyed, water-mouthed woman held forefront. This piece bridges personal confession with emblematic symbolism, resonating with the phase of Red Moon Behind Clouds.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-09-29",
+  "keywords": [
+    "Shard",
+    "Castle Head Becoming",
+    "Red Moon Behind Clouds",
+    "Ousia Bloom",
+    "Phase Emblem",
+    "Totem Current",
+    "Art"
+  ],
+  "url": "https://wanderersburn.substack.com/p/castle-head-becoming",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-29T00:00:00-05:00",
+    "phase": "Red Moon Behind Clouds"
+  },
+  "resonantThread": "Ousia Bloom \u2014 Shards & Totems",
+  "whyItMatters": "This shard records Aleksandr\u2019s process of becoming: a child-self carrying the fortress of future identity, emerging thoughts splintering into phases, and the paradox of longing held ahead. It exemplifies the tension of the Red Moon Behind Clouds \u2014 luminous yet veiled, paradoxical and unresolved, awaiting unfolding.",
+  "motifMap": [
+    {
+      "symbol": "Castle-Head Figure",
+      "meaning": "The little self, unfinished and still growing, carrying the architecture of becoming.",
+      "position": "Lower right"
+    },
+    {
+      "symbol": "Black Thought-Lines",
+      "meaning": "Emerging thoughts \u2014 both scaffolding and cage \u2014 fracturing into figures.",
+      "position": "Across composition"
+    },
+    {
+      "symbol": "Flame-Eyed, Water-Mouthed Woman",
+      "meaning": "The paradox of longing and contradiction: the beloved ahead, held out of reach.",
+      "position": "Lower left"
+    },
+    {
+      "symbol": "Watcher in Red Orb",
+      "meaning": "Witness or archetype obscured, a presence half-hidden.",
+      "position": "Upper center"
+    },
+    {
+      "symbol": "Blue Eye",
+      "meaning": "The act of seeing and being seen \u2014 perception within concealment.",
+      "position": "Right center"
+    }
+  ],
+  "articleExcerpt": "A shard of self seen in smallness \u2014 the child-self still growing into what he should be, carrying the weight of unfinished form. Around him rise thought-lines that fracture into figures: phases and masks worn, people met, archetypes glimpsed.",
+  "sourceFragments": [
+    "The figure with the castle head is the version of myself as I see it when I am little or small, the part of me still working on being who I should be.",
+    "The emerging thoughts are the black lines and the figures are either different phases, or different people I've encountered or tried to be.",
+    "The figure with the flame eyes and water mouth is the woman I am searching for, but she is forefront and I behind because I am not ready for her."
+  ],
+  "associatedMedia": {
+    "description": "Notebook sketch \u2014 Castle Head Becoming",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5, 2025-09-29"
+}
