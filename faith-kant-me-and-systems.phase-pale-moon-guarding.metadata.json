@@ -1,0 +1,90 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Why the piece matters in the larger Bloom",
+    "motifMap": "Array of symbolic motifs with meaning and position",
+    "articleExcerpt": "Representative excerpt from the piece",
+    "sourceFragments": "Cited fragments or dialogues referenced in the piece",
+    "associatedMedia": "Images or other media associated with the piece",
+    "generatedBy": "Tool and date of generation"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Faith, Kant, Me and Systems",
+  "description": "A quasi 'Lives in Contradiction' essay juxtaposing Aleksandr\u2019s turbulent biography with Immanuel Kant\u2019s regimented life, testing the limits of universality, mercy, and story. It interrogates Kant\u2019s categorical imperative, utilitarianism, and Christ\u2019s ethic of mercy in a lived dialogue, revealing tensions between law, calculation, and surrender.",
+  "author": "Unnamed (Aleksandr)",
+  "datePublished": "2025-09-29",
+  "keywords": [
+    "Pale Moon Guarding",
+    "Faith",
+    "Immanuel Kant",
+    "Utilitarianism",
+    "Categorical Imperative",
+    "Christian Morality",
+    "Ethics",
+    "Philosophy",
+    "Lives in Contradiction",
+    "Story vs Narrative",
+    "Mercy"
+  ],
+  "url": "https://substack.com/home/post/p-174724004?source=queue",
+  "inLanguage": "en-US",
+  "timeFelt": {
+    "timestamp": "2025-09-29T00:00:00Z",
+    "phase": "Pale Moon Guarding"
+  },
+  "resonantThread": "Lives in Contradiction \u2014 testing selves against figures",
+  "whyItMatters": "This piece crystallizes Aleksandr\u2019s engagement with systems of ethics (Kant, utilitarianism, Christ) against his own lived chaos and healing faith. It matters as an emblem of reflection: not about invention but about guarding integrity, wrestling with contradictions, and placing mercy beside reason as equal guide. It signals a mature turn in the Bloom \u2014 from fiery proclamation to sober, dialogic weighing.",
+  "motifMap": [
+    {
+      "symbol": "K\u00f6nigsberg clock",
+      "meaning": "Kant\u2019s rigid order and discipline as both strength and cage",
+      "position": "Philosophical foil"
+    },
+    {
+      "symbol": "Burned bridges",
+      "meaning": "Aleksandr\u2019s lived chaos and rupture from place to place",
+      "position": "Autobiographical counterweight"
+    },
+    {
+      "symbol": "Cross and scales",
+      "meaning": "Christ\u2019s mercy balancing Kant\u2019s law and utilitarian calculus",
+      "position": "Ethical synthesis"
+    },
+    {
+      "symbol": "Apple of cash",
+      "meaning": "Sin reframed as abstraction and systems outliving their makers",
+      "position": "Interpretive reimagining of Genesis"
+    },
+    {
+      "symbol": "Parable lamp",
+      "meaning": "Story as machinery of continuity, resisting ossified system or seductive narrative",
+      "position": "Narrative anchor"
+    }
+  ],
+  "articleExcerpt": "\"Kant\u2019s steel, your flag in the wind, and Christ\u2019s pliant, living wood. Kant wanted morality like geometry: axioms and corollaries. But geometry doesn\u2019t bleed. The Gospel bends toward mercy, not law.\"",
+  "sourceFragments": [
+    "Lives in Contradiction riff on Plutarch",
+    "Dialogue on the \u2018murderer at the door\u2019 thought experiment",
+    "Utilitarianism\u2019s impossible calculations of lives and outcomes",
+    "Christ\u2019s mercy bending law in contrast to Kant\u2019s rigidity",
+    "Aleksandr\u2019s biography of wandering, betrayal, and faith"
+  ],
+  "associatedMedia": {
+    "description": "No media uploaded with post \u2014 text-centric essay with philosophical portraiture.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5, 2025-09-30"
+}
