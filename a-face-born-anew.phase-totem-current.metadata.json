@@ -1,0 +1,77 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Why this piece holds significance",
+    "motifMap": "Symbols or recurring motifs and their meaning",
+    "articleExcerpt": "Selected excerpt of the piece",
+    "sourceFragments": "Fragments or drafts connected to the work",
+    "associatedMedia": "Linked images or files"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "A face born Anew",
+  "description": "An earlier psalm-text, later colored and transformed into an artwork where a face emerges unconsciously from the poem\u2019s fragments. The visual form, with fiery oranges and purples, transforms the words into an archetypal visage. A Totem Current moment where subconscious shape surfaces from layered creation.",
+  "author": "Aleksandr",
+  "datePublished": "2025-09-30",
+  "keywords": [
+    "A face born Anew",
+    "Totem Current",
+    "psalm",
+    "artwork",
+    "emergent face",
+    "archetype",
+    "poem overpaint",
+    "symbolic art"
+  ],
+  "url": "https://wanderersburn.substack.com/p/a-face-born-anew",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-30T00:00:00-05:00",
+    "phase": "Totem Current"
+  },
+  "resonantThread": "Visual psalms and emergent archetypes",
+  "whyItMatters": "This work demonstrates how text can be both seed and vessel: an earlier psalm provided structure, but through coloring and layering it gave rise to a face\u2014an archetype unplanned, surfacing as revelation. It captures the Totem Current principle of subconscious forms breaking through conscious creation.",
+  "motifMap": [
+    {
+      "symbol": "Fragmented face",
+      "meaning": "An emergent self formed from fractured lines of text and color",
+      "position": "Center"
+    },
+    {
+      "symbol": "Fire\u2013shadow palette",
+      "meaning": "The emotional tension of shame, sorrow, and renewal transmuted into visual heat",
+      "position": "Overall palette"
+    },
+    {
+      "symbol": "Embedded psalm text",
+      "meaning": "Words that remain as bones of meaning within the larger visual body",
+      "position": "Throughout the figure"
+    }
+  ],
+  "articleExcerpt": "Deeper still\u2014\nTo the Rot\nHands are bloody theirs and mine.\nAt the end I\u2019ll be born anew.",
+  "sourceFragments": [
+    {
+      "description": "Original psalm-text written earlier, later overlaid with color.",
+      "contentUrl": "file-AvCaKHYLSyRdRRnvCTYLXs"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Final artwork with embedded psalm-text where a face emerges through coloring",
+      "contentUrl": "file-UHD3hdjtwL5pTJUqvcoDf3"
+    }
+  ],
+  "generatedBy": "ChatGPT-5, 2025-09-30"
+}

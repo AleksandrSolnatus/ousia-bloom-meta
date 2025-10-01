@@ -1,0 +1,78 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Why this work is meaningful in the Bloom",
+    "motifMap": "Symbols appearing and their meaning",
+    "articleExcerpt": "Short excerpt from the work",
+    "sourceFragments": "Notable quoted pieces of the work",
+    "associatedMedia": "Linked images or media assets",
+    "generatedBy": "Which model generated this metadata and when"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "The Eyes of Mary",
+  "description": "A vivid doodlerama blending sacred imagery with chaotic, colorful abstraction \u2014 invoking Mary\u2019s gaze amid fire, serpentine shapes, and baptismal echoes.",
+  "author": "Aleksandr",
+  "datePublished": "2025-09-30",
+  "keywords": [
+    "Trickster Prophet",
+    "Mary",
+    "doodle",
+    "vision",
+    "baptism",
+    "color",
+    "sacred-chaos"
+  ],
+  "url": "https://wanderersburn.substack.com/p/the-eyes-of-mary",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-09-30T00:00:00",
+    "phase": "Trickster Prophet"
+  },
+  "resonantThread": "Wanderer\u2019s Burn",
+  "whyItMatters": "This piece demonstrates the Trickster Prophet phase \u2014 warning through play, blending parody and prophecy, chaos and sacred symbol. It shows how humor, irreverence, and wild color can still channel devotion and vision.",
+  "motifMap": [
+    {
+      "symbol": "Eyes",
+      "meaning": "Perception beyond the ordinary",
+      "position": "central face"
+    },
+    {
+      "symbol": "Flames",
+      "meaning": "Holy fire and chaos",
+      "position": "background"
+    },
+    {
+      "symbol": "Serpentine shapes",
+      "meaning": "Ambiguity, danger, and divine trickery",
+      "position": "surrounding body"
+    },
+    {
+      "symbol": "Baptismal book",
+      "meaning": "Sacramental ground for doodlerama",
+      "position": "top background"
+    }
+  ],
+  "articleExcerpt": "Doodlerama! The Eyes of Mary",
+  "sourceFragments": [
+    "Doodlerama!",
+    "The Eyes of Mary"
+  ],
+  "associatedMedia": {
+    "description": "Colorful doodle featuring eyes, serpentine shapes, fire, and religious overtones.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5, 2025-09-30"
+}
