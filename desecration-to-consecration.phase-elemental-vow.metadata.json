@@ -1,0 +1,79 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Why this piece holds significance",
+    "motifMap": "Symbols or recurring motifs and their meaning",
+    "articleExcerpt": "Selected excerpt of the piece",
+    "sourceFragments": "Fragments or drafts connected to the work",
+    "associatedMedia": "Linked images or files"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Desecration to Consecration",
+  "description": "A psalm-poem moving from ruin and fracture to renewal, marking the transformation of pain into sacred offering. The work charts the fragile passage from desecration toward consecration, with imagery of ash, ruin, and eventual light.",
+  "author": "Aleksandr",
+  "datePublished": "2025-10-01",
+  "keywords": [
+    "Desecration",
+    "Consecration",
+    "Psalm",
+    "Poem",
+    "Renewal",
+    "Ashes",
+    "Faith",
+    "Redemption",
+    "Desecration to Consecration",
+    "Elemental Vow Phase"
+  ],
+  "url": "https://aleksandragnitio.substack.com/p/desecration-to-consecration",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-10-01T00:00:00-05:00",
+    "phase": "Red Moon Rising (Elemental Vow)"
+  },
+  "resonantThread": "Faith, poetry, and psalm-writing in Bloom",
+  "whyItMatters": "Records a decisive spiritual turn: naming desecration honestly while refusing to end in ruin, the poem consecrates even devastation as potential ground for God\u2019s light.",
+  "motifMap": [
+    {
+      "symbol": "Ash",
+      "meaning": "Destruction, residue of desecration",
+      "position": "Beginning imagery"
+    },
+    {
+      "symbol": "Light",
+      "meaning": "Consecration and divine renewal breaking through ruin",
+      "position": "Closing arc"
+    },
+    {
+      "symbol": "Stone",
+      "meaning": "Unmoved witness of both ruin and renewal",
+      "position": "Underlying structure"
+    }
+  ],
+  "articleExcerpt": "Out of ruin, consecration. From the ash, light. This psalm-poem does not deny desecration, but sanctifies the broken as ground for new flame.",
+  "sourceFragments": [
+    {
+      "description": "Screenshots of the psalm-poem draft and reflection",
+      "contentUrl": "file-N26bPvh7CBDmuHF94vtYTe"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Screenshots of text and poem imagery",
+      "contentUrl": "file-MruYLZW5S5UeDiRjQYvShB"
+    }
+  ],
+  "generatedBy": "ChatGPT-5, 2025-10-01"
+}
