@@ -1,0 +1,62 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "Sectioned 9",
+    "description": "An abstract artwork of fractured sections and vivid colors. Angular geometry creates a puzzle-like image with shards of red, blue, yellow, and black. It evokes paradox, division, and hidden meaning, aligning with the Trickster Prophet phase.",
+    "author": {
+        "@type": "Person",
+        "name": "AleksandrAgnitio"
+    },
+    "datePublished": "2025-10-03",
+    "keywords": [
+        "Sectioned 9",
+        "artwork",
+        "abstract",
+        "geometry",
+        "fragmentation",
+        "Trickster Prophet",
+        "Ousia Bloom",
+        "Wanderer\u2019s Burn"
+    ],
+    "url": "https://wanderersburn.substack.com/p/sectioned-9",
+    "inLanguage": "en",
+    "metadataFormatVersion": "1.0",
+    "timeFelt": {
+        "timestamp": "2025-10-03T23:59:00-05:00",
+        "phase": "Trickster Prophet"
+    },
+    "resonantThread": "The fractured geometry of identity and paradox in art, Trickster as revealer.",
+    "whyItMatters": "Sectioned 9 captures the essence of paradoxical revelation: playful and severe, fractured yet whole. It represents the Trickster Prophet phase\u2014where prophecy arrives through riddles, division, and vibrant shards of meaning.",
+    "motifMap": [
+        {
+            "symbol": "Yellow triangle",
+            "meaning": "Illumination and warning",
+            "position": "center-left"
+        },
+        {
+            "symbol": "Red circle",
+            "meaning": "Vital core, energy, and burning center",
+            "position": "lower-center"
+        },
+        {
+            "symbol": "Black shard",
+            "meaning": "Obstruction, fracture, paradox",
+            "position": "upper-left and right"
+        },
+        {
+            "symbol": "Blue fields",
+            "meaning": "Depth, calmness, surrounding structure",
+            "position": "background"
+        }
+    ],
+    "articleExcerpt": "Fractured lines and vibrant fields of red, blue, yellow, and black create a sectioned geometry that evokes paradox and play, aligning with the Trickster Prophet phase.",
+    "sourceFragments": [
+        "Aleksandr\u2019s notebook artwork, filled in with vivid markers over divided sections.",
+        "Posted as \u2018Sectioned 9\u2019 on Wanderer\u2019s Burn, October 3, 2025."
+    ],
+    "associatedMedia": {
+        "description": "Notebook artwork with fractured geometric sections filled in vivid colors of red, yellow, blue, and black.",
+        "contentUrl": ""
+    },
+    "generatedBy": "ChatGPT-5, 2025-10-03"
+}

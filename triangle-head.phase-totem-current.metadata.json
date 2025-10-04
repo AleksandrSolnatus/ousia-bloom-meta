@@ -1,0 +1,72 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Triangle Head",
+  "description": "An abstract artwork blending archetypal figures \u2014 a triangle-headed being, a human with a fire-heart, and waves of shifting lines \u2014 surfacing raw from the subconscious.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-10-02",
+  "keywords": [
+    "Totem Current",
+    "artwork",
+    "archetypes",
+    "abstract",
+    "subconscious"
+  ],
+  "url": "https://wanderersburn.substack.com/p/triangle-head",
+  "inLanguage": "en-US",
+  "metadataFormatVersion": "1.0",
+  "timeFelt": {
+    "timestamp": "2025-10-02T00:00:00-05:00",
+    "phase": "Totem Current"
+  },
+  "resonantThread": "Totem Current \u2014 archetypes surfacing raw from subconscious imagery.",
+  "whyItMatters": "This piece embodies the Totem Current phase, where subconscious archetypes emerge directly into form without refinement \u2014 playful yet potent symbols of internal myth.",
+  "motifMap": [
+    {
+      "symbol": "Triangle Head",
+      "meaning": "An archetypal figure, playful but uncanny, surfacing raw from the subconscious.",
+      "position": "center"
+    },
+    {
+      "symbol": "Fire-heart human",
+      "meaning": "The self bearing the flame of spirit amidst abstract chaos.",
+      "position": "bottom right"
+    },
+    {
+      "symbol": "Waves/Lines",
+      "meaning": "Energetic currents surrounding and shaping the figures.",
+      "position": "background"
+    }
+  ],
+  "articleExcerpt": "Triangle Head stands in abstract waves of ink and color. Totemic, playful, and raw \u2014 a surfacing from the subconscious into form.",
+  "sourceFragments": [
+    "Artwork showing a triangle-headed figure surrounded by shifting abstract lines and a fire-hearted human form at the edge of the page."
+  ],
+  "associatedMedia": {
+    "description": "A doodle-style artwork depicting abstract figures: triangle head, fire-heart human, flowing lines.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5, 2025-10-03",
+  "fieldDefinitions": {
+    "headline": "Title of the post",
+    "description": "One sentence summary",
+    "author": "Creator of the piece",
+    "datePublished": "Publication date",
+    "keywords": "Tags for theme, including phase",
+    "url": "Direct link to post",
+    "inLanguage": "Language of the work",
+    "metadataFormatVersion": "Schema version",
+    "timeFelt": "Timestamp + phase felt",
+    "resonantThread": "Thread or theme it resonates with",
+    "whyItMatters": "Why this piece is significant",
+    "motifMap": "Symbols and their meanings",
+    "articleExcerpt": "Key excerpt/summary",
+    "sourceFragments": "Direct fragments or description",
+    "associatedMedia": "Images or artwork with description",
+    "generatedBy": "Tool and date",
+    "fieldDefinitions": "Legend of fields"
+  }
+}

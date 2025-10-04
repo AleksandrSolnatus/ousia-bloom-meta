@@ -1,0 +1,56 @@
+{
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "The Bird makes its nest on the hilt of the Sword",
+    "description": "A parable of a farmer-warrior whose sword becomes a perch for fragile life, only to lose it when he returns to war. A meditation on loss, corruption, and the irreversibility of severance.",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr"
+    },
+    "datePublished": "2025-10-02",
+    "inLanguage": "en",
+    "url": "https://wanderersburn.substack.com/p/the-bird-makes-its-nest-on-the-hilt",
+    "metadataFormatVersion": "1.0",
+    "timeFelt": {
+        "timestamp": "2025-10-02T00:00:00-05:00",
+        "phase": "Ash Moon Severance"
+    },
+    "resonantThread": "Parables of Breaking",
+    "whyItMatters": "This parable captures the truth that some losses cannot be undone \u2014 the innocence of peace once disturbed does not return. It stands as a warning and a recognition of the permanence of certain choices.",
+    "motifMap": [
+        {
+            "symbol": "Sword",
+            "meaning": "Violence, duty, and the destructive call of war",
+            "position": "central"
+        },
+        {
+            "symbol": "Nest",
+            "meaning": "Fragile peace, life, and renewal disturbed by force",
+            "position": "on the hilt"
+        },
+        {
+            "symbol": "Eggs",
+            "meaning": "Innocence and potential, lost through disruption",
+            "position": "within the nest"
+        }
+    ],
+    "articleExcerpt": "A farmer who had once been a warrior, in his youth before his wife and children, had laid his sword down years ago... When he went to find his sword, mounted in his barn, he found a bird had made its nest upon the hilt.",
+    "sourceFragments": [
+        "A farmer who had once been a warrior, in his youth before his wife and children, had laid his sword down years ago...",
+        "He found a bird had made its nest upon the hilt. He tried to move the nest and preserve it. But the man touched the eggs and the hen would not return.",
+        "Off to war he went, and in the war he was no longer the farmer but a pillager... He mounted his sword again but no new nest was made."
+    ],
+    "associatedMedia": {
+        "description": "A traditional oil painting on canvas depicting a sword mounted on wooden boards, with a bird\u2019s nest and eggs resting upon its hilt.",
+        "contentUrl": ""
+    },
+    "keywords": [
+        "parable",
+        "sword",
+        "nest",
+        "loss",
+        "war",
+        "irreversibility",
+        "Ash Moon Severance"
+    ]
+}
