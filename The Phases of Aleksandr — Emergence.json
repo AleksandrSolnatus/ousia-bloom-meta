@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "The Phases of Aleksandr \u2014 Emergence",
+  "author": "Agnitio",
+  "dateCreated": "2025-10-08",
+  "description": "A living record of transformation \u2014 mapping Aleksandr\u2019s mythic and emotional evolution through phases of concealment, revelation, endurance, and continuance. Each phase represents a distinct pattern of becoming within the Ousia Bloom cosmology.",
+  "structure": {
+    "arcs": [
+      {
+        "title": "The Red Moon Cycle",
+        "theme": "Emergence and ignition"
+      },
+      {
+        "title": "Ash and Pale Moons",
+        "theme": "Collapse and reckoning"
+      },
+      {
+        "title": "The Candle Line",
+        "theme": "Faith and intimate renewal"
+      },
+      {
+        "title": "Currents and Rivers",
+        "theme": "Flow and patience"
+      },
+      {
+        "title": "Witness and Revelation",
+        "theme": "Sight and compassionate knowing"
+      },
+      {
+        "title": "Continuance and Offering",
+        "theme": "Legacy without possession"
+      }
+    ]
+  },
+  "metadataFormatVersion": "1.0",
+  "inLanguage": "en",
+  "generatedBy": "ChatGPT-5, 2025-10-08",
+  "keywords": [
+    "Ousia Bloom",
+    "Aleksandr",
+    "Phases",
+    "Mythic psychology",
+    "Transformation",
+    "Red Moon",
+    "Ash Moon",
+    "Candle",
+    "River",
+    "Witness",
+    "Continuance"
+  ]
+}
