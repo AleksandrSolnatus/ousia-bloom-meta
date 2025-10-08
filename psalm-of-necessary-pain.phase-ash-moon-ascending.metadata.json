@@ -1,0 +1,73 @@
+{
+  "fieldDefinitions": {
+    "metadataFormatVersion": "Version of the metadata schema used",
+    "@context": "JSON-LD context for schema.org terms",
+    "@type": "Type of creative work, here 'CreativeWork'",
+    "headline": "Title of the work",
+    "description": "Brief summary of the work",
+    "author": "Author name",
+    "datePublished": "Date of publication in ISO format",
+    "keywords": "Tags and concepts associated with the work",
+    "url": "Canonical URL of the Substack post",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Phase context with timestamp and phase name",
+    "resonantThread": "Connected thematic thread or project",
+    "whyItMatters": "Why this piece holds significance",
+    "motifMap": "Symbols or recurring motifs and their meaning",
+    "articleExcerpt": "Selected excerpt of the piece",
+    "sourceFragments": "Fragments or drafts connected to the work",
+    "associatedMedia": "Linked images or files"
+  },
+  "metadataFormatVersion": "1.0",
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Psalm of Necessary Pain",
+  "description": "A psalm of surrender and endurance \u2014 a soul reconciling itself to divine pain and the necessity of struggle. The speaker\u2019s grief transforms into a vow to walk faithfully through suffering, turning despair into prayer.",
+  "author": "Aleksandr",
+  "datePublished": "2025-10-08",
+  "keywords": [
+    "psalm",
+    "pain",
+    "faith",
+    "acceptance",
+    "endurance",
+    "Ash Moon Ascending",
+    "Ousia Bloom"
+  ],
+  "url": "https://wanderersburn.substack.com/p/psalm-of-necessary-pain",
+  "inLanguage": "en",
+  "timeFelt": {
+    "timestamp": "2025-10-08T00:00:00-05:00",
+    "phase": "Ash Moon Ascending"
+  },
+  "resonantThread": "Psalms of Transformation",
+  "whyItMatters": "This psalm names the pain of waiting, loss, and unmet longing \u2014 not as curse but as crucible. It transforms grief into devotion and the ache of absence into sacred endurance, reaffirming the will to walk forward with faith.",
+  "motifMap": [
+    {
+      "symbol": "Staff",
+      "meaning": "Endurance and faith during wandering",
+      "position": "held by the traveler"
+    },
+    {
+      "symbol": "Wilderness Path",
+      "meaning": "Loneliness and perseverance under divine testing",
+      "position": "foreground"
+    },
+    {
+      "symbol": "Clouded Sky",
+      "meaning": "Spiritual struggle and purification through storm",
+      "position": "background"
+    }
+  ],
+  "articleExcerpt": "O God, I have asked for so little. I would be content with one other to love, who walks beside me in this life. But You have given me pain \u2014 and I must learn to bless it.",
+  "sourceFragments": [
+    "I only wanted love, and I am far from it.",
+    "O God, I have asked for so little.",
+    "I accept that my soul is chafed by necessary pain."
+  ],
+  "associatedMedia": {
+    "description": "Oil painting of a solitary traveler walking through barren fields under a dark, clouded sky \u2014 a visual echo of endurance and humility.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5, 2025-10-08"
+}

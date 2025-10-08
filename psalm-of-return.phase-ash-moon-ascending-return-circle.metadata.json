@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Psalm of Return",
+  "description": "A quiet confession of reorientation — the act of rising after disarray. Aleksandr faces his own restless mind and familiar hungers, but chooses motion, nourishment, and recommitment. Each breath becomes both prayer and step: a rhythm of renewal grounded in humility rather than triumph.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-10-06",
+  "inLanguage": "en-US",
+  "url": "https://wanderersburn.substack.com/p/psalm-of-return",
+  "keywords": [
+    "Ash Moon Ascending",
+    "Return Circle",
+    "Psalm",
+    "Recovery",
+    "Discipline",
+    "Renewal",
+    "Faith",
+    "Restoration",
+    "Cycle of Healing"
+  ],
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-5, 2025-10-08",
+  "timeFelt": {
+    "timestamp": "2025-10-06T20:00:00-05:00",
+    "phase": "Ash Moon Ascending (Return Circle)"
+  },
+  "resonantThread": "Psalms of the Wandering Spirit",
+  "whyItMatters": "Because healing is not a single act but a rhythm of returns. This psalm names the quiet courage of reorientation — to face one’s hungers without shame, to move again, to paint one’s own scatteredness into color. It honors persistence without grandeur: the holiness of trying again.",
+  "motifMap": [
+    {
+      "symbol": "🌕",
+      "meaning": "Cycle renewed — the moon returning to fullness",
+      "position": "central"
+    },
+    {
+      "symbol": "💨",
+      "meaning": "Breath as prayer — persistence in small motions",
+      "position": "upper left"
+    },
+    {
+      "symbol": "🕯️",
+      "meaning": "Faith lit within discipline — the candle at the door",
+      "position": "lower right"
+    },
+    {
+      "symbol": "🎨",
+      "meaning": "Art as devotion — the canvas of feeling and return",
+      "position": "lower left"
+    },
+    {
+      "symbol": "🚪",
+      "meaning": "The door of reentry — where light still waits",
+      "position": "right margin"
+    }
+  ],
+  "articleExcerpt": "Not because I am strong, but because I refuse to stay fallen. The light that found me once still waits by the door. Each breath is a step toward it.",
+  "associatedMedia": {
+    "description": "Screenshot of the Substack post showing the poem 'Psalm of Return'.",
+    "contentUrl": ""
+  },
+  "sourceFragments": [
+    {
+      "title": "Psalm of Return",
+      "sourceType": "Text",
+      "excerpt": "I am scattered tonight. The old hungers circle: sugar, smoke, flesh, sleep withheld. My mind is loud and my hands restless. I have broken rhythm, blurred the line, and yet— I face. I move. I nourish. I rest. I recommit."
+    }
+  ],
+  "fieldDefinitions": "Preserved legend for Ousia Bloom metadata schema consistency: @context, @type, headline, description, author, datePublished, inLanguage, url, keywords, metadataFormatVersion, encoding, generatedBy, timeFelt, resonantThread, whyItMatters, motifMap, articleExcerpt, sourceFragments, associatedMedia."
+}

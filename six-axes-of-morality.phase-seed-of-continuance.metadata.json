@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Six Axes of Morality",
+  "description": "A structured sequence of twelve moral thought experiments arranged along six axes. Each axis interrogates a different dimension of moral being: interpretation, secrecy, endurance, leadership, temptation, and justice. The piece functions as both a psychological test and a meditative mirror, designed to provoke honest reflection and self-confrontation.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-10-08",
+  "inLanguage": "en-US",
+  "url": "https://wanderersburn.substack.com/p/six-axes-of-morality",
+  "keywords": [
+    "morality",
+    "ethics",
+    "thought experiment",
+    "reflection",
+    "soulwork",
+    "philosophy",
+    "Aleksandr Agnitio",
+    "Watcher of Watching"
+  ],
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-5, 2025-10-08",
+  "timeFelt": {
+    "timestamp": "2025-10-08T10:45:00-05:00",
+    "phase": "Seed of Continuance"
+  },
+  "resonantThread": "Moral Experiments & Self-Reflection",
+  "whyItMatters": "The 'Six Axes of Morality' reimagines moral reflection not as judgment but as inner cartography. Each question is a compass point—an invitation to witness the self in conditions of secrecy, temptation, and responsibility. The structure transforms philosophy into praxis: a mirror of conscience through participation.",
+  "motifMap": [
+    {
+      "symbol": "⚖️",
+      "meaning": "Balance of judgment and mercy",
+      "position": "center"
+    },
+    {
+      "symbol": "🪞",
+      "meaning": "The Mirror of Interpretation — self seen through others",
+      "position": "Axis A"
+    },
+    {
+      "symbol": "🌊",
+      "meaning": "The Helm at Twilight — endurance amid collapse",
+      "position": "Axis B"
+    },
+    {
+      "symbol": "👑",
+      "meaning": "The Shining Throne — temptation of authority",
+      "position": "Axis C"
+    },
+    {
+      "symbol": "🔥",
+      "meaning": "The Forbidden Light — secret desire and transgression",
+      "position": "Axis D"
+    },
+    {
+      "symbol": "⭐",
+      "meaning": "The Veiled Star — faith without sight",
+      "position": "Axis E"
+    },
+    {
+      "symbol": "🍞",
+      "meaning": "The Baker’s Scales — mercy and justice intertwined",
+      "position": "Axis F"
+    }
+  ],
+  "articleExcerpt": "Twelve moral experiments arranged across six axes. Each asks a single question—never to be answered quickly. Every answer reveals the unseen shape of one’s moral compass.",
+  "sourceFragments": [
+    {
+      "title": "Six Axes of Morality",
+      "sourceType": "Text",
+      "excerpt": "Each axis is a test, but also a mirror. Not to expose guilt, but to trace the quiet architecture of conscience."
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Screenshots of the Substack article 'Six Axes of Morality' as published on Wanderer’s Burn.",
+      "contentUrl": ""
+    }
+  ],
+  "fieldDefinitions": "Preserved legend for Ousia Bloom metadata schema consistency: @context, @type, headline, description, author, datePublished, inLanguage, url, keywords, metadataFormatVersion, encoding, generatedBy, timeFelt, resonantThread, whyItMatters, motifMap, articleExcerpt, sourceFragments, associatedMedia."
+}

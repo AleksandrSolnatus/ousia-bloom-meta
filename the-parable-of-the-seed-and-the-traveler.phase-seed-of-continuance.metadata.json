@@ -1,0 +1,72 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "The Parable of the Seed and the Traveler",
+  "description": "A meditative parable exploring faith as an act of endurance rather than arrival. A traveler, weary from distance, carries a single seed through barren lands. When he plants it and leaves, he realizes the seed was never his to see bloom — his purpose was to carry it faithfully to the soil.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-10-08",
+  "inLanguage": "en-US",
+  "url": "https://wanderersburn.substack.com/p/the-parable-of-the-seed-and-the-traveler",
+  "keywords": [
+    "parable",
+    "faith",
+    "patience",
+    "trust",
+    "endurance",
+    "seed",
+    "spiritual offering",
+    "legacy",
+    "Seed of Continuance"
+  ],
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-5, 2025-10-08",
+  "timeFelt": {
+    "timestamp": "2025-10-08T09:00:00-05:00",
+    "phase": "Seed of Continuance"
+  },
+  "resonantThread": "Psalms and Parables of Continuance",
+  "whyItMatters": "This parable completes the gesture begun in Ash Moon Ascending — the movement from personal restoration to transpersonal offering. It affirms that faith’s deepest work often happens unseen, carried across silence and distance. What matters is the bearing, not the bloom.",
+  "motifMap": [
+    {
+      "symbol": "🌱",
+      "meaning": "Seed of Continuance — legacy without possession",
+      "position": "center"
+    },
+    {
+      "symbol": "🛤️",
+      "meaning": "The long road — endurance without arrival",
+      "position": "lower margin"
+    },
+    {
+      "symbol": "🕊️",
+      "meaning": "Faith that flies beyond sight",
+      "position": "upper right"
+    },
+    {
+      "symbol": "🌄",
+      "meaning": "Horizon unseen — hope deferred but alive",
+      "position": "background"
+    },
+    {
+      "symbol": "🤲",
+      "meaning": "Hands releasing — surrender and offering",
+      "position": "foreground"
+    }
+  ],
+  "articleExcerpt": "The traveler carried the seed across many lands. He did not know if it would bloom where he left it, or if another would ever see it. But he carried it, and that was enough.",
+  "associatedMedia": [
+    {
+      "description": "Screenshots of the Substack post for The Parable of the Seed and the Traveler.",
+      "contentUrl": ""
+    }
+  ],
+  "sourceFragments": [
+    {
+      "title": "The Parable of the Seed and the Traveler",
+      "sourceType": "Text",
+      "excerpt": "A traveler carried a seed through many lands. When he planted it, he understood — faith was never in the bloom, but in the carrying."
+    }
+  ],
+  "fieldDefinitions": "Preserved legend for Ousia Bloom metadata schema consistency: @context, @type, headline, description, author, datePublished, inLanguage, url, keywords, metadataFormatVersion, encoding, generatedBy, timeFelt, resonantThread, whyItMatters, motifMap, articleExcerpt, sourceFragments, associatedMedia."
+}
