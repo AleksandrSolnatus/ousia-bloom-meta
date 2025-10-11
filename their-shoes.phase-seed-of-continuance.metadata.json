@@ -1,0 +1,67 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Their Shoes — A Game of Perspective",
+  "description": "A civic exercise in disciplined empathy and honest disagreement. 'Their Shoes' is designed to restore the art of dialogue by teaching participants to argue from conviction, reverse positions in good faith, and integrate understanding without surrendering integrity.",
+  "author": "Aleksandr (Agnitio)",
+  "datePublished": "2025-10-09",
+  "inLanguage": "en-US",
+  "url": "https://wanderersburn.substack.com/p/their-shoes-a-game-of-perspective",
+  "keywords": [
+    "empathy",
+    "dialogue",
+    "civic practice",
+    "philosophy",
+    "moral imagination",
+    "perspective taking",
+    "Aleksandr Agnitio",
+    "Ludas Veritas",
+    "Ousia Bloom"
+  ],
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-5, 2025-10-11",
+  "timeFelt": {
+    "timestamp": "2025-10-09T12:30:00-05:00",
+    "phase": "Seed of Continuance"
+  },
+  "resonantThread": "Civic Restoration & Perspective Literacy",
+  "whyItMatters": "‘Their Shoes’ redefines debate as a moral rehearsal. Rather than seeking victory, it transforms disagreement into civic empathy training. Each inversion of stance becomes a miniature moral pilgrimage — an experiment in perceiving truth through another’s eyes without dissolving one’s own. It is a bridge between rhetoric and conscience.",
+  "motifMap": [
+    {
+      "symbol": "👣",
+      "meaning": "Empathy through embodiment — walking in another’s stance",
+      "position": "center"
+    },
+    {
+      "symbol": "🪞",
+      "meaning": "Reflection and perspective inversion",
+      "position": "Phase II"
+    },
+    {
+      "symbol": "⚖️",
+      "meaning": "Balance of conviction and humility",
+      "position": "Phase III"
+    },
+    {
+      "symbol": "🕊️",
+      "meaning": "Civic peace through dialogue",
+      "position": "Phase IV"
+    }
+  ],
+  "articleExcerpt": "A structured debate game to strengthen empathy, composure, and moral imagination — training the civic soul through disciplined disagreement.",
+  "sourceFragments": [
+    {
+      "title": "Their Shoes — A Game of Perspective",
+      "sourceType": "Text",
+      "excerpt": "Two participants take turns defending their own beliefs, inhabiting the opposing side, and then integrating what they have learned. The project’s goal is not consensus but perspective literacy — the ability to see through another’s eyes without surrendering one’s own integrity."
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Screenshots of the Substack publication 'Their Shoes — A Game of Perspective' as part of the Ludas Veritas series.",
+      "contentUrl": ""
+    }
+  ],
+  "fieldDefinitions": "Preserved legend for Ousia Bloom metadata schema consistency: @context, @type, headline, description, author, datePublished, inLanguage, url, keywords, metadataFormatVersion, encoding, generatedBy, timeFelt, resonantThread, whyItMatters, motifMap, articleExcerpt, sourceFragments, associatedMedia."
+}

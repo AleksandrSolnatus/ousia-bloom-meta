@@ -1,0 +1,71 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Accountability over Judgment",
+  "alternativeHeadline": "A Discussion About How We Deal With Hate Speech",
+  "description": "A Socratic dialogue between Aleksandr and ChatGPT exploring the tension between freedom of speech, moral restraint, and cultural conditioning toward outrage. Beginning with a real event at the University of Washington, the conversation unfolds into a meditation on proportionality, pedagogy, and the discipline of freedom — culminating in the ethical axiom 'Violence is always unequal in reciprocity to words.'",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr Agnitio"
+  },
+  "url": "https://wanderersburn.substack.com/p/a-discussion-about-how-we-deal-with",
+  "datePublished": "2025-10-09",
+  "timeFelt": {
+    "timestamp": "2025-10-09T00:00:00-05:00",
+    "phase": "Pale Moon Guarding"
+  },
+  "keywords": [
+    "Pale Moon Guarding",
+    "Accountability over Judgment",
+    "freedom of speech",
+    "hate speech",
+    "moral restraint",
+    "violence and words",
+    "civic ethics",
+    "Socratic dialogue",
+    "University of Washington",
+    "Ousia Bloom"
+  ],
+  "motifMap": [
+    {
+      "symbol": "⚖️",
+      "meaning": "Balance between liberty and restraint",
+      "position": "core"
+    },
+    {
+      "symbol": "🔥",
+      "meaning": "Cultural addiction to moral spectacle",
+      "position": "peripheral"
+    },
+    {
+      "symbol": "🕊️",
+      "meaning": "Mercy and self-control as civilization’s test",
+      "position": "upper right"
+    },
+    {
+      "symbol": "🪞",
+      "meaning": "Dialogue as mirror of self-governance",
+      "position": "lower left"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Screenshot of the Substack page 'A Discussion about how we deal with hate speech' as viewed in Safari.",
+    "contentUrl": ""
+  },
+  "resonantThread": "Book of Stones — Entry XIV: 'Violence is always unequal in reciprocity to words.'",
+  "generatedBy": "ChatGPT-5, 2025-10-11",
+  "fieldDefinitions": {
+    "headline": "Title of the post or shard.",
+    "alternativeHeadline": "Subtitle or contextual framing title.",
+    "description": "Concise summary describing the piece’s focus and ethical through-line.",
+    "author": "Author attribution in full.",
+    "url": "Canonical Substack URL.",
+    "datePublished": "Date of first online publication.",
+    "timeFelt": "Emotional-temporal context including phase association.",
+    "keywords": "Array of thematic and phase-linked descriptors.",
+    "motifMap": "Symbolic lexicon connecting imagery to meaning and placement.",
+    "associatedMedia": "Linked or described visual media accompanying the work.",
+    "resonantThread": "Direct philosophical or mythic linkage to the Book of Stones or Bloom canon.",
+    "generatedBy": "Model provenance and date of metadata creation."
+  }
+}
