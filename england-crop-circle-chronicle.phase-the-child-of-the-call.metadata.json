@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "England Crop Circle Chronicle (1994–2004)",
+  "description": "A visual archive of crop circle formations across southern England during the late 20th century. This record gathers images and annotations from Wiltshire, Hampshire, and beyond—mapping the strange geometries that haunted the countryside between 1994 and 2004. Within the Bloom, it reflects the Child of the Call’s fascination with signs that appear between faith and pattern, message and mystery.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr Agnitio"
+  },
+  "datePublished": "2025-10-13",
+  "url": "https://wanderersburn.substack.com/p/england-crop-circle-chronicle-19942004",
+  "inLanguage": "en",
+  "keywords": [
+    "Ousia Bloom",
+    "Phase: The Child of the Call",
+    "Crop Circles",
+    "England",
+    "Signs",
+    "Mystery",
+    "Geometry",
+    "Symbolic Communication",
+    "Pattern Recognition"
+  ],
+  "timeFelt": {
+    "timestamp": "2025-10-13T00:00:00-05:00",
+    "phase": "The Child of the Call"
+  },
+  "motifMap": [
+    {
+      "symbol": "🌾",
+      "meaning": "Communication through the natural world—divine or cosmic language expressed through form.",
+      "position": "Title and overarching archive theme"
+    },
+    {
+      "symbol": "Circle",
+      "meaning": "Endless recurrence—faith, repetition, and the geometry of meaning.",
+      "position": "Each entry image"
+    },
+    {
+      "symbol": "Wiltshire Field",
+      "meaning": "Spiritual locus—England’s sacred geography as stage for revelation.",
+      "position": "Primary setting (Avebury, Barbury Castle, Silbury Hill)"
+    },
+    {
+      "symbol": "Archive Record",
+      "meaning": "Preservation as act of devotion—the scribe’s faith that recording the unknown is itself sacred.",
+      "position": "Entire structure of the chronicle"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "HTML visual timeline of 1994–2004 crop circle formations compiled for the Wanderer’s Burn archive.",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-5, 2025-10-14",
+  "fieldDefinitions": {
+    "headline": "Title of the creative work.",
+    "description": "Concise summary of meaning or theme.",
+    "author": "Creator of the work.",
+    "datePublished": "Publication date of the work.",
+    "url": "Canonical Substack link.",
+    "inLanguage": "Language of the work.",
+    "keywords": "Descriptive tags linking the piece to larger motifs.",
+    "timeFelt": "Moment of inner resonance and associated phase.",
+    "motifMap": "Symbolic motifs with meanings and positions.",
+    "associatedMedia": "Linked image or media connected to the work.",
+    "generatedBy": "Metadata author and date of generation."
+  }
+}

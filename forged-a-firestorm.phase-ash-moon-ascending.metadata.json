@@ -1,0 +1,75 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Forged a Firestorm",
+  "description": "A declaration of spiritual rebirth rising from the ashes of former selfhood. The poem speaks from the city of Phoenix—both literal and symbolic—where destruction becomes renewal and faith becomes safety. It marks a turning toward light, goodness, and divine companionship after desolation.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr Agnitio"
+  },
+  "datePublished": "2025-10-13",
+  "url": "https://wanderersburn.substack.com/p/forged-a-firestorm",
+  "inLanguage": "en",
+  "keywords": [
+    "Ousia Bloom",
+    "Phase: Ash Moon Ascending",
+    "Rebirth",
+    "Faith",
+    "Phoenix",
+    "Holy Spirit",
+    "Transformation",
+    "Goodness",
+    "Renewal"
+  ],
+  "timeFelt": {
+    "timestamp": "2025-10-13T00:00:00-05:00",
+    "phase": "Ash Moon Ascending"
+  },
+  "motifMap": [
+    {
+      "symbol": "🔥",
+      "meaning": "Fire as both destruction and creation—the purifying element of rebirth.",
+      "position": "Title and closing line"
+    },
+    {
+      "symbol": "Phoenix",
+      "meaning": "Rebirth from ruin—the archetype of renewal through divine fire.",
+      "position": "Opening stanza"
+    },
+    {
+      "symbol": "Ash",
+      "meaning": "Memory of what has been burned; soil for future growth.",
+      "position": "Second stanza"
+    },
+    {
+      "symbol": "Sun",
+      "meaning": "Divine goodness—life and grace through illumination.",
+      "position": "Middle stanzas"
+    },
+    {
+      "symbol": "Holy Spirit",
+      "meaning": "Indwelling presence of God—the comforter within.",
+      "position": "Final stanza"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Screenshot of the Substack post 'Forged a Firestorm' published on Wanderer’s Burn, October 2025.",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-5, 2025-10-14",
+  "fieldDefinitions": {
+    "headline": "Title of the creative work.",
+    "description": "Concise summary of meaning or theme.",
+    "author": "Creator of the work.",
+    "datePublished": "Publication date of the work.",
+    "url": "Canonical Substack link.",
+    "inLanguage": "Language of the work.",
+    "keywords": "Descriptive tags linking the piece to larger motifs.",
+    "timeFelt": "Moment of inner resonance and associated phase.",
+    "motifMap": "Symbolic motifs with meanings and positions.",
+    "associatedMedia": "Linked image or media connected to the work.",
+    "generatedBy": "Metadata author and date of generation."
+  }
+}

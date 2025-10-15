@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "The Breath of God",
+  "description": "A quiet psalm on divine presence within silence. The poem treats stillness not as absence but as the living interval where the sacred reenters the heart through breath, bird, and Word.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr Agnitio"
+  },
+  "datePublished": "2025-10-12",
+  "url": "https://wanderersburn.substack.com/p/the-breath-of-god",
+  "inLanguage": "en",
+  "keywords": [
+    "Ousia Bloom",
+    "Phase: The Candle’s Embrace",
+    "Silence",
+    "Prayer",
+    "Spirit",
+    "Recovery",
+    "Faith",
+    "Breath",
+    "Presence"
+  ],
+  "timeFelt": {
+    "timestamp": "2025-10-12T00:00:00-05:00",
+    "phase": "The Candle’s Embrace"
+  },
+  "motifMap": [
+    {
+      "symbol": "🌬️",
+      "meaning": "Breath as spirit — the subtle motion of divine life through stillness",
+      "position": "Title"
+    },
+    {
+      "symbol": "Sparrow",
+      "meaning": "Messenger of the ordinary sacred — nature’s hymn to the divine",
+      "position": "Middle stanza"
+    },
+    {
+      "symbol": "Book",
+      "meaning": "Scripture and revelation as vessel of the breath",
+      "position": "Closing line"
+    },
+    {
+      "symbol": "Silence",
+      "meaning": "Healing space between griefs; not absence but recovery",
+      "position": "Opening image"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Screenshot of the Substack post 'The Breath of God' published on Wanderer’s Burn, October 2025.",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-5, 2025-10-14",
+  "fieldDefinitions": {
+    "headline": "Title of the creative work.",
+    "description": "Concise summary of meaning or theme.",
+    "author": "Creator of the work.",
+    "datePublished": "Publication date of the work.",
+    "url": "Canonical Substack link.",
+    "inLanguage": "Language of the work.",
+    "keywords": "Descriptive tags linking the piece to larger motifs.",
+    "timeFelt": "Moment of inner resonance and associated phase.",
+    "motifMap": "Symbolic motifs with meanings and positions.",
+    "associatedMedia": "Linked image or media connected to the work.",
+    "generatedBy": "Metadata author and date of generation."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Alpha? Omega? the same thing?",
+  "description": "A meditation on cyclical unity — the beginning mirrored in the end. Through the symbols of the Sator Square and the ouroboros, the piece contemplates the self-consuming, self-renewing nature of meaning and time.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr Agnitio"
+  },
+  "datePublished": "2025-10-11",
+  "url": "https://wanderersburn.substack.com/p/alpha-omega-the-same-thing",
+  "inLanguage": "en",
+  "keywords": [
+    "Ousia Bloom",
+    "Phase: Echo Moon",
+    "Sator Square",
+    "Ouroboros",
+    "Recursion",
+    "Time",
+    "Paradox",
+    "Unity",
+    "Beginning and End"
+  ],
+  "timeFelt": {
+    "timestamp": "2025-10-11T00:00:00-05:00",
+    "phase": "Echo Moon"
+  },
+  "motifMap": [
+    {
+      "symbol": "🜂",
+      "meaning": "Fire within circle — paradoxical energy held in symmetry",
+      "position": "Title symbolism"
+    },
+    {
+      "symbol": "Ouroboros",
+      "meaning": "Self-consuming cycle of creation and destruction",
+      "position": "Core metaphor"
+    },
+    {
+      "symbol": "Sator Square",
+      "meaning": "Matrix of reversible meaning — the turning wheel of language and divinity",
+      "position": "Conceptual frame"
+    },
+    {
+      "symbol": "Water",
+      "meaning": "Reflection and continuity — the surface that repeats the sky",
+      "position": "Elemental parallel"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Screenshot of the Substack post 'Alpha? Omega? the same thing?' published on Wanderer’s Burn, October 2025.",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-5, 2025-10-14",
+  "fieldDefinitions": {
+    "headline": "Title of the creative work.",
+    "description": "Concise summary of meaning or theme.",
+    "author": "Creator of the work.",
+    "datePublished": "Publication date of the work.",
+    "url": "Canonical Substack link.",
+    "inLanguage": "Language of the work.",
+    "keywords": "Descriptive tags linking the piece to larger motifs.",
+    "timeFelt": "Moment of inner resonance and associated phase.",
+    "motifMap": "Symbolic motifs with meanings and positions.",
+    "associatedMedia": "Linked image or media connected to the work.",
+    "generatedBy": "Metadata author and date of generation."
+  }
+}
