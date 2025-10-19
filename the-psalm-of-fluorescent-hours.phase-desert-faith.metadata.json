@@ -1,0 +1,75 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "The Psalm of Fluorescent Hours",
+  "description": "A psalm of endurance written under artificial light. The speaker endures the fluorescent hum of labor while seeking God in the mundane wilderness. Through repetition and irony, the poem turns exhaustion into devotion—faith under industrial light. It sanctifies the workday as a trial of the spirit, a desert of modern man, and an offering of trust.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr Agnitio"
+  },
+  "datePublished": "2025-10-15",
+  "url": "https://wanderersburn.substack.com/p/the-psalm-of-fluorescent-hours",
+  "inLanguage": "en",
+  "keywords": [
+    "Ousia Bloom",
+    "Phase: Desert Faith",
+    "Labor",
+    "Endurance",
+    "Faith",
+    "Modern Psalm",
+    "Wilderness",
+    "God",
+    "Workplace Devotion"
+  ],
+  "timeFelt": {
+    "timestamp": "2025-10-15T00:00:00-05:00",
+    "phase": "Desert Faith"
+  },
+  "motifMap": [
+    {
+      "symbol": "💡",
+      "meaning": "Fluorescent light as sterile divinity—illumination without warmth.",
+      "position": "Title and opening stanza"
+    },
+    {
+      "symbol": "Desert",
+      "meaning": "The spiritual test of endurance—faith in scarcity.",
+      "position": "Middle stanzas"
+    },
+    {
+      "symbol": "Cart",
+      "meaning": "Labor made ritual; mundane repetition as prayer.",
+      "position": "Opening stanzas"
+    },
+    {
+      "symbol": "Milk and Honey",
+      "meaning": "The false paradise of comfort—the soul’s refusal of ease.",
+      "position": "Closing section"
+    },
+    {
+      "symbol": "Rock and Water",
+      "meaning": "Faith in miracle—the hope that even hardness yields grace.",
+      "position": "Final line"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Screenshot of the Substack post 'The Psalm of Fluorescent Hours' published on Wanderer’s Burn, October 2025.",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-5, 2025-10-19",
+  "fieldDefinitions": {
+    "headline": "Title of the creative work.",
+    "description": "Concise summary of meaning or theme.",
+    "author": "Creator of the work.",
+    "datePublished": "Publication date of the work.",
+    "url": "Canonical Substack link.",
+    "inLanguage": "Language of the work.",
+    "keywords": "Descriptive tags linking the piece to larger motifs.",
+    "timeFelt": "Moment of inner resonance and associated phase.",
+    "motifMap": "Symbolic motifs with meanings and positions.",
+    "associatedMedia": "Linked image or media connected to the work.",
+    "generatedBy": "Metadata author and date of generation."
+  }
+}

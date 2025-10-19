@@ -1,0 +1,76 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Whatever happens, I will rise",
+  "description": "A brief psalm of perseverance \u2014 faith reborn through repetition. The speaker commits to rising again and again, turning endurance into sacred constancy.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr (Unnamed)"
+  },
+  "datePublished": "2025-10-17",
+  "inLanguage": "en-US",
+  "url": "https://wanderersburn.substack.com/p/whatever-happens-i-will-rise",
+  "keywords": [
+    "Ash Moon Ascending",
+    "Ousia Bloom",
+    "Faith",
+    "Resilience",
+    "Endurance",
+    "Resurrection",
+    "Poetry",
+    "Aleksandr",
+    "Wanderer's Burn"
+  ],
+  "timeFelt": {
+    "timestamp": "2025-10-17T00:00:00-05:00",
+    "phase": "Ash Moon Ascending"
+  },
+  "resonantThread": "Cycle of Renewal \u2014 endurance as resurrection.",
+  "whyItMatters": "A small declaration that survival itself can be liturgy; belief reborn as repetition.",
+  "motifMap": [
+    {
+      "symbol": "\u2600\ufe0f",
+      "meaning": "Rising faith",
+      "position": "central"
+    },
+    {
+      "symbol": "\ud83d\udcdc",
+      "meaning": "Message of endurance",
+      "position": "narrative"
+    },
+    {
+      "symbol": "\ud83d\udd4a\ufe0f",
+      "meaning": "Peace through perseverance",
+      "position": "spiritual"
+    }
+  ],
+  "articleExcerpt": "Whatever happens, I will rise.\nLike the postman, life always delivers.\nWhether sleet or doom,\nhappiness or sun,\nI will rise,\nI will live,\nand I do believe.",
+  "sourceFragments": [
+    "Whatever happens, I will rise.",
+    "Like the postman, life always delivers.",
+    "Whether sleet or doom, happiness or sun, I will rise."
+  ],
+  "associatedMedia": {
+    "description": "Screenshot of poem 'Whatever happens, I will rise' on Wanderer\u2019s Burn, showing the short psalm text.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5, 2025-10-19",
+  "fieldDefinitions": {
+    "headline": "Title of the piece",
+    "description": "Summary of the theme or meaning",
+    "author": "Author of the work",
+    "datePublished": "Date first posted publicly",
+    "inLanguage": "Language of composition",
+    "url": "Canonical link to published version",
+    "keywords": "Key terms and concepts for indexing",
+    "timeFelt": "Phase timestamp and name",
+    "resonantThread": "Conceptual thread or narrative cluster within the Bloom",
+    "whyItMatters": "Brief statement of thematic significance",
+    "motifMap": "List of recurring symbols and their meanings",
+    "articleExcerpt": "Selected passage from the work",
+    "sourceFragments": "Additional quoted lines for context",
+    "associatedMedia": "Linked images or media artifacts",
+    "generatedBy": "Metadata compiler identity and date",
+    "fieldDefinitions": "Legend explaining each metadata field"
+  }
+}

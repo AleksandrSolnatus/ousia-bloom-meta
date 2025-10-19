@@ -1,0 +1,75 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "The Psalm of the Crags",
+  "description": "A psalm of contrition and revelation, written after the fall from pride. The speaker confesses folly and deafness to divine call, only hearing God’s breath once dashed against the rocks. Through confession, pain becomes cultivation—wounds turned to soil. The psalm closes not in fear but in love: the fool transfigured by grace.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr Agnitio"
+  },
+  "datePublished": "2025-10-16",
+  "url": "https://wanderersburn.substack.com/p/the-psalm-of-the-crags",
+  "inLanguage": "en",
+  "keywords": [
+    "Ousia Bloom",
+    "Phase: Ash Moon Severance",
+    "Contrition",
+    "Grace",
+    "Repentance",
+    "Transformation",
+    "Faith",
+    "Fall and Renewal",
+    "Moral Reckoning"
+  ],
+  "timeFelt": {
+    "timestamp": "2025-10-16T00:00:00-05:00",
+    "phase": "Ash Moon Severance"
+  },
+  "motifMap": [
+    {
+      "symbol": "🪨",
+      "meaning": "The crags—harsh terrain of trial and repentance.",
+      "position": "Title and recurring imagery"
+    },
+    {
+      "symbol": "Wind",
+      "meaning": "God’s elusive breath—heard only after surrender.",
+      "position": "Middle stanza"
+    },
+    {
+      "symbol": "Deafness",
+      "meaning": "Spiritual blindness to truth; human pride before fall.",
+      "position": "Confessional lines"
+    },
+    {
+      "symbol": "Fruit",
+      "meaning": "Harvest of consequence; poisoned by sin, replanted by grace.",
+      "position": "Penultimate stanza"
+    },
+    {
+      "symbol": "Echo",
+      "meaning": "Self-confrontation—the soul hearing itself through pain.",
+      "position": "Throughout"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Screenshot of the Substack post 'The Psalm of the Crags' published on Wanderer’s Burn, October 2025.",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-5, 2025-10-19",
+  "fieldDefinitions": {
+    "headline": "Title of the creative work.",
+    "description": "Concise summary of meaning or theme.",
+    "author": "Creator of the work.",
+    "datePublished": "Publication date of the work.",
+    "url": "Canonical Substack link.",
+    "inLanguage": "Language of the work.",
+    "keywords": "Descriptive tags linking the piece to larger motifs.",
+    "timeFelt": "Moment of inner resonance and associated phase.",
+    "motifMap": "Symbolic motifs with meanings and positions.",
+    "associatedMedia": "Linked image or media connected to the work.",
+    "generatedBy": "Metadata author and date of generation."
+  }
+}

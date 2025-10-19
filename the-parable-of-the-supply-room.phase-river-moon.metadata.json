@@ -1,0 +1,74 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "The Parable of the Supply Room",
+  "description": "A meditation on divine purpose within imperfection. Every soul, whether saintly or soiled, serves within the greater machinery of creation. In the image of a hospital’s supply room, the parable reveals that holiness is not in purity alone, but in function and necessity — that even the lowliest vessel carries the mystery of God’s design.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr Agnitio"
+  },
+  "datePublished": "2025-10-16",
+  "url": "https://wanderersburn.substack.com/p/the-parable-of-the-supply-room",
+  "inLanguage": "en",
+  "keywords": [
+    "Ousia Bloom",
+    "Phase: River Moon",
+    "Divine Order",
+    "Humility",
+    "Function and Grace",
+    "Modern Parable",
+    "Faith",
+    "Purpose in the Ordinary"
+  ],
+  "timeFelt": {
+    "timestamp": "2025-10-16T00:00:00-05:00",
+    "phase": "River Moon"
+  },
+  "motifMap": [
+    {
+      "symbol": "🏥",
+      "meaning": "The hospital as the microcosm of creation — ordered by suffering and service.",
+      "position": "Setting of the parable"
+    },
+    {
+      "symbol": "Supply Room",
+      "meaning": "Hidden sanctum of necessity — each object purposeful, none exalted.",
+      "position": "Title and core metaphor"
+    },
+    {
+      "symbol": "Gauze and Bandages",
+      "meaning": "Healing as participation in divine repair — human acts mending God’s creation.",
+      "position": "Middle stanzas"
+    },
+    {
+      "symbol": "Bedpan",
+      "meaning": "Symbol of humility — the acceptance of lowly purpose without shame.",
+      "position": "Closing imagery"
+    },
+    {
+      "symbol": "Machinery",
+      "meaning": "The unknowable structure of divine will — every cog meaningful though unseen.",
+      "position": "Final stanza"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Screenshot of the Substack post 'The Parable of the Supply Room' published on Wanderer’s Burn, October 2025, featuring an image of shelves with hospital supplies painted in muted tones.",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-5, 2025-10-19",
+  "fieldDefinitions": {
+    "headline": "Title of the creative work.",
+    "description": "Concise summary of meaning or theme.",
+    "author": "Creator of the work.",
+    "datePublished": "Publication date of the work.",
+    "url": "Canonical Substack link.",
+    "inLanguage": "Language of the work.",
+    "keywords": "Descriptive tags linking the piece to larger motifs.",
+    "timeFelt": "Moment of inner resonance and associated phase.",
+    "motifMap": "Symbolic motifs with meanings and positions.",
+    "associatedMedia": "Linked image or media connected to the work.",
+    "generatedBy": "Metadata author and date of generation."
+  }
+}

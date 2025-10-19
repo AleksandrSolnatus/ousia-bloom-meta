@@ -1,0 +1,76 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Psalm of the Fence and the Light",
+  "description": "A psalm of discernment and grace through opposition. The speaker reflects on the necessity of contrast — that light only shines because darkness exists to define it. Through confession and fear, he discovers boundary as revelation: holiness not as denial, but as divine geometry.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-10-09",
+  "url": "https://wanderersburn.substack.com/p/psalm-of-the-fence-and-the-light",
+  "inLanguage": "en",
+  "keywords": [
+    "Ousia Bloom",
+    "Phase: Pale Moon Guarding",
+    "Faith",
+    "Moral Discernment",
+    "Light and Shadow",
+    "Boundaries",
+    "Theology",
+    "Holiness",
+    "Contrast",
+    "Confession"
+  ],
+  "timeFelt": {
+    "timestamp": "2025-10-09T00:00:00-05:00",
+    "phase": "Pale Moon Guarding"
+  },
+  "motifMap": [
+    {
+      "symbol": "⚔️",
+      "meaning": "Opposition as necessity — moral duality as divine balance.",
+      "position": "Title and central metaphor"
+    },
+    {
+      "symbol": "Fence",
+      "meaning": "Boundary as revelation — holiness defined by its limits.",
+      "position": "Throughout imagery"
+    },
+    {
+      "symbol": "Light",
+      "meaning": "Illumination through structure — grace visible only by contrast.",
+      "position": "Opening and closing lines"
+    },
+    {
+      "symbol": "Separation",
+      "meaning": "Spiritual discipline — the sacred distance that preserves clarity.",
+      "position": "Moral resolution section"
+    },
+    {
+      "symbol": "Shadow",
+      "meaning": "The necessary backdrop for divine understanding.",
+      "position": "Underlying tone"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Screenshot of the Substack post 'Psalm of the Fence and the Light' published on Wanderer’s Burn, October 2025.",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-5, 2025-10-19",
+  "fieldDefinitions": {
+    "headline": "Title of the creative work.",
+    "description": "Concise summary of meaning or theme.",
+    "author": "Creator of the work.",
+    "datePublished": "Publication date of the work.",
+    "url": "Canonical Substack link.",
+    "inLanguage": "Language of the work.",
+    "keywords": "Descriptive tags linking the piece to larger motifs.",
+    "timeFelt": "Moment of inner resonance and associated phase.",
+    "motifMap": "Symbolic motifs with meanings and positions.",
+    "associatedMedia": "Linked image or media connected to the work.",
+    "generatedBy": "Metadata author and date of generation."
+  }
+}
