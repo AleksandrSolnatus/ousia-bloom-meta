@@ -1,0 +1,59 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "headline": "A Daily Offer",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr Agnitio"
+    },
+    "datePublished": "2025-10-20",
+    "url": "https://wanderersburn.substack.com/p/a-daily-offer",
+    "inLanguage": "en",
+    "keywords": [
+        "The Still Current",
+        "Silence",
+        "Faith",
+        "Contemplation",
+        "Stillness",
+        "Ousia Bloom"
+    ],
+    "description": "A minimalist psalm acknowledging that silence itself can be an offering — a prayer without words.",
+    "timeFelt": {
+        "timestamp": "2025-10-20T00:00:00-05:00",
+        "phase": "The Still Current"
+    },
+    "resonantThread": "Ousia Bloom — Phases of Stillness and Offering",
+    "whyItMatters": "This piece reveals the holiness of restraint — that the absence of creation can be devotion itself.",
+    "motifMap": [
+        {
+            "symbol": "🕯",
+            "meaning": "Faithful patience",
+            "position": "center"
+        },
+        {
+            "symbol": "💧",
+            "meaning": "Still current beneath silence",
+            "position": "below"
+        },
+        {
+            "symbol": "📜",
+            "meaning": "Blank page as offering",
+            "position": "above"
+        }
+    ],
+    "articleExcerpt": "Sometimes the words not flowing / and the silence is an answer.",
+    "associatedMedia": {
+        "@type": "ImageObject",
+        "description": "Candle burning low beside blank paper; soft morning light.",
+        "contentUrl": ""
+    },
+    "generatedBy": "ChatGPT-5, 2025-10-23",
+    "fieldDefinitions": {
+        "headline": "Title of the work",
+        "description": "Summary of the work’s essence",
+        "timeFelt": "Emotional timestamp and phase in Bloom",
+        "motifMap": "Symbolic visual anchors",
+        "resonantThread": "How this piece connects across the Bloom",
+        "whyItMatters": "Philosophical or spiritual significance"
+    }
+}

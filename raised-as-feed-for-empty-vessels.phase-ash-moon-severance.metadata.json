@@ -1,0 +1,59 @@
+{
+    "@context": "https://schema.org",
+    "@type": "CreativeWork",
+    "headline": "Raised as Feed for Empty Vessels",
+    "author": {
+        "@type": "Person",
+        "name": "Aleksandr Agnitio"
+    },
+    "datePublished": "2025-10-21",
+    "url": "https://wanderersburn.substack.com/p/raised-as-feed-for-empty-vessels",
+    "inLanguage": "en",
+    "keywords": [
+        "Ash Moon Severance",
+        "Purification",
+        "Desecration",
+        "Witness",
+        "Vow",
+        "Ousia Bloom"
+    ],
+    "description": "A violent psalm of purgation — the speaker reclaims what was once consumed by others’ hunger. Through naming desecration, he transforms humiliation into vow, turning the language of pain into an act of spiritual severance.",
+    "timeFelt": {
+        "timestamp": "2025-09-02T00:00:00-05:00",
+        "phase": "Ash Moon Severance"
+    },
+    "resonantThread": "Ousia Bloom — the purification arc through fire and vow",
+    "whyItMatters": "It captures the sacred act of reclaiming one’s body and will from desecration. The vow, ‘I hold myself,’ marks a new covenant of integrity forged through pain named without flinching.",
+    "motifMap": [
+        {
+            "symbol": "🩸",
+            "meaning": "Blood reclaimed as witness",
+            "position": "center"
+        },
+        {
+            "symbol": "🔥",
+            "meaning": "Purification through wrath",
+            "position": "below"
+        },
+        {
+            "symbol": "✝️",
+            "meaning": "Desecrated sacrifice reclaimed as vow",
+            "position": "above"
+        }
+    ],
+    "articleExcerpt": "Deceit / sucking mouths—ceaseless hunger / vessels empty—feasting / plunge through breast to the rot / ... / I do not shirk / a vow— / I hold myself.",
+    "associatedMedia": {
+        "@type": "ImageObject",
+        "description": "A heart pulsing amid ash and flame; hands red but no longer bound.",
+        "contentUrl": ""
+    },
+    "generatedBy": "ChatGPT-5, 2025-10-23",
+    "fieldDefinitions": {
+        "headline": "Title of the work",
+        "description": "Summary of the work’s essence",
+        "timeFelt": "Emotional timestamp and phase in Bloom",
+        "motifMap": "Symbolic visual anchors",
+        "resonantThread": "How this piece connects across the Bloom",
+        "whyItMatters": "Philosophical or spiritual significance"
+    }
+}

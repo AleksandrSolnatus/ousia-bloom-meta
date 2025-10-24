@@ -1,0 +1,73 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "The Fruit of the Wise Man",
+  "description": "A parable of wisdom and irony — the seeker ascends the mountain to find enlightenment, only to encounter deception that conceals divine truth. Through humor, hunger, and reversal, folly becomes the first taste of understanding.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr"
+  },
+  "datePublished": "2025-10-19",
+  "url": "https://wanderersburn.substack.com/p/the-fruit-of-the-wise-man",
+  "inLanguage": "en",
+  "keywords": [
+    "Ousia Bloom",
+    "Phase: Trickster Prophet",
+    "Faith",
+    "Wisdom",
+    "Irony",
+    "Divine Humor",
+    "Folly",
+    "Revelation",
+    "Parable",
+    "Mountain",
+    "Seeker",
+    "Sage"
+  ],
+  "timeFelt": {
+    "timestamp": "2025-10-19T00:00:00-05:00",
+    "phase": "Trickster Prophet"
+  },
+  "motifMap": [
+    {
+      "symbol": "🍎",
+      "meaning": "Fruit as knowledge — wisdom that must be bitten into, not admired.",
+      "position": "Central parable"
+    },
+    {
+      "symbol": "🗻",
+      "meaning": "Mountain as inversion — the sacred climb that reveals folly rather than transcendence.",
+      "position": "Setting and structure"
+    },
+    {
+      "symbol": "🤡",
+      "meaning": "Trickster energy — divine humor unmasking false reverence.",
+      "position": "Moral twist"
+    },
+    {
+      "symbol": "🕊️",
+      "meaning": "Grace within irony — truth delivered through absurd means.",
+      "position": "Closing revelation"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Screenshot of Substack post 'The Fruit of the Wise Man' from Wanderer’s Burn, October 2025.",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-5, 2025-10-23",
+  "fieldDefinitions": {
+    "headline": "Title of the creative work.",
+    "description": "Concise summary of meaning or theme.",
+    "author": "Creator of the work.",
+    "datePublished": "Publication date of the work.",
+    "url": "Canonical Substack link.",
+    "inLanguage": "Language of the work.",
+    "keywords": "Descriptive tags linking the piece to larger motifs.",
+    "timeFelt": "Moment of inner resonance and associated phase.",
+    "motifMap": "Symbolic motifs with meanings and positions.",
+    "associatedMedia": "Linked image or media connected to the work.",
+    "generatedBy": "Metadata author and date of generation."
+  }
+}

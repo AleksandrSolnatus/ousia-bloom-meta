@@ -1,0 +1,81 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Psalm of the Fence and the Light II — The Threshold",
+  "description": "The pilgrim walks on beneath the weight of faith — learning that the call does not remove sorrow, but transforms it into endurance. A psalm of long obedience, grief accepted, and the strength of trust that does not require ease.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr Agnitio"
+  },
+  "datePublished": "2025-10-23",
+  "inLanguage": "en-US",
+  "keywords": [
+    "Ousia Bloom",
+    "Phase: Ash Moon Ascending",
+    "Subphase: The Threshold",
+    "Faith",
+    "Endurance",
+    "Trust",
+    "Obedience",
+    "Desert Path",
+    "Psalm",
+    "Wanderer’s Burn"
+  ],
+  "url": "https://wanderersburn.substack.com/p/psalm-of-the-fence-and-the-light-aca",
+  "timeFelt": {
+    "timestamp": "2025-10-23T00:00:00-05:00",
+    "phase": "Ash Moon Ascending (🕊 The Threshold)"
+  },
+  "resonantThread": "Faith that endures without reward; the long obedience in the same direction.",
+  "whyItMatters": "This psalm marks the testing ground of faith that has left the door and entered the desert. It recognizes that divine calling carries grief, and that trust matures not by comfort but by perseverance. Here, pain and purpose coexist under one light.",
+  "motifMap": [
+    {
+      "symbol": "🕊",
+      "meaning": "Faith without sign; peace through surrender to duration.",
+      "position": "Phase emblem"
+    },
+    {
+      "symbol": "🚪",
+      "meaning": "Door now behind — commitment sealed.",
+      "position": "Structural threshold"
+    },
+    {
+      "symbol": "🔥",
+      "meaning": "The refining fire of endurance; love purified of need.",
+      "position": "Heart of the psalm"
+    },
+    {
+      "symbol": "🌵",
+      "meaning": "Desert as teacher; faith without feeling.",
+      "position": "Setting and trial"
+    }
+  ],
+  "articleExcerpt": "Ah, the sweet waters of new vistas—they quench one thirst, but the call remains, an ache in the bones: the promised land is still ahead. The cost of the narrow path will not be eased by desert air.",
+  "sourceFragments": [
+    "“The cost of the narrow path will not be eased by desert air.”",
+    "“The move, I know, carries pain along. There will be no obliteration of sorrow.”",
+    "“The journey is long, but God is good. I am weak, and He is strong.”"
+  ],
+  "associatedMedia": {
+    "description": "Original Substack post from Wanderer’s Burn — Psalm of the Fence and the Light II: The Threshold, October 23, 2025.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5, 2025-10-23",
+  "fieldDefinitions": {
+    "headline": "Title of the work",
+    "description": "Short summary capturing tone and theme",
+    "author": "Author name",
+    "datePublished": "Date of Substack publication",
+    "inLanguage": "Language code",
+    "keywords": "Searchable tags and phase classification",
+    "url": "Canonical Substack URL",
+    "timeFelt": "Phase classification and felt-time marker",
+    "resonantThread": "Core emotional or spiritual axis of the piece",
+    "whyItMatters": "Explanation of symbolic and narrative relevance",
+    "motifMap": "Array mapping key symbols to meaning",
+    "articleExcerpt": "Selected lines conveying essence",
+    "sourceFragments": "Direct quotations from the piece",
+    "associatedMedia": "Media or illustration reference",
+    "generatedBy": "Metadata authorship and timestamp"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Psalm of the Open Door",
+  "description": "A quiet psalm of obedience and faith in unknowing — a reflection on trust, imperfection, and the first steps beyond the ash of old trials. The pilgrim acknowledges both blindness and belief, finding holiness in motion itself.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr Agnitio"
+  },
+  "datePublished": "2025-10-22",
+  "inLanguage": "en-US",
+  "keywords": [
+    "Ousia Bloom",
+    "Phase: Ash Moon Ascending",
+    "Subphase: The Door of Trust",
+    "Faith",
+    "Obedience",
+    "Unknowing",
+    "Pilgrimage",
+    "Psalm",
+    "Wanderer’s Burn"
+  ],
+  "url": "https://wanderersburn.substack.com/p/psalm-of-the-open-door",
+  "timeFelt": {
+    "timestamp": "2025-10-22T00:00:00-05:00",
+    "phase": "Ash Moon Ascending (🕊 The Door of Trust)"
+  },
+  "resonantThread": "Faith born from uncertainty; obedience as first light after ruin.",
+  "whyItMatters": "This psalm marks the gentle passage from inner surrender to outer motion. It captures the moment faith ceases to be a feeling and becomes a walk — a quiet covenant of trust with the unseen.",
+  "motifMap": [
+    {
+      "symbol": "🕊",
+      "meaning": "Faith without sight; peace through surrender.",
+      "position": "Title / Phase marker"
+    },
+    {
+      "symbol": "🚪",
+      "meaning": "Threshold between knowing and doing — obedience as entryway.",
+      "position": "Imaginal core"
+    },
+    {
+      "symbol": "🌑🔥",
+      "meaning": "Ash transformed into devotion; the rebirth of will.",
+      "position": "Phase emblem"
+    }
+  ],
+  "articleExcerpt": "Sometimes, when God opens a door, and you think it is the right one, the excitement is muted—or too much to contain. For even Moses, in a small act, cost himself the promised land. Yet I walk each day in trust, imperfect but answering the call.",
+  "sourceFragments": [
+    "“For even Moses, in a small act, cost himself the promised land.”",
+    "“I walk each day in trust. I walk each day blind — but with vision.”",
+    "“I am imperfect, like this poem. But I trust in the call. I am trying to answer.”"
+  ],
+  "associatedMedia": {
+    "description": "Original Substack post from Wanderer’s Burn — Psalm of the Open Door, October 22, 2025.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5, 2025-10-23",
+  "fieldDefinitions": {
+    "headline": "Title of the work",
+    "description": "Short summary capturing tone and theme",
+    "author": "Author name",
+    "datePublished": "Date of Substack publication",
+    "inLanguage": "Language code",
+    "keywords": "Searchable tags and phase classification",
+    "url": "Canonical Substack URL",
+    "timeFelt": "Phase classification and felt-time marker",
+    "resonantThread": "Core emotional or spiritual axis of the piece",
+    "whyItMatters": "Explanation of symbolic and narrative relevance",
+    "motifMap": "Array mapping key symbols to meaning",
+    "articleExcerpt": "Selected lines conveying essence",
+    "sourceFragments": "Direct quotations from the piece",
+    "associatedMedia": "Media or illustration reference",
+    "generatedBy": "Metadata authorship and timestamp"
+  }
+}
