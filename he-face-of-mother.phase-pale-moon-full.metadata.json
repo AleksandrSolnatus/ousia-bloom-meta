@@ -1,0 +1,61 @@
+{
+  "fieldDefinitions": {
+    "title": "Title of the published piece.",
+    "subtitle": "Optional line summarizing the tone or moral focus.",
+    "author": "The name of the author or pseudonym.",
+    "url": "Canonical Substack publication URL.",
+    "timeFelt": {
+      "timestamp": "ISO timestamp of publication or emotional moment.",
+      "phase": "Phase of Aleksandr's Bloom during composition."
+    },
+    "description": "Brief summary of the work and its spiritual/emotional function.",
+    "keywords": "Array of thematic and phase-linked keywords.",
+    "phase": "Current creative phase in Aleksandr's Bloom.",
+    "motifMap": "Symbolic elements and their meanings within the work.",
+    "associatedMedia": "Images or symbolic artwork related to the piece.",
+    "generatedBy": "Model and date of metadata generation."
+  },
+  "title": "The Parable of the Noisy Spring",
+  "subtitle": "Meet life as it comes.",
+  "author": "Aleksandr Solnatus",
+  "url": "https://wanderersburn.substack.com/p/the-parable-of-the-noisy-spring",
+  "timeFelt": {
+    "timestamp": "2025-10-25T21:33:00-05:00",
+    "phase": "🌕 The Candle’s Glow"
+  },
+  "description": "A humble parable of acceptance and adaptation. A family’s bed begins to squeak, and though the sound persists, peace is found not by fixing it but by learning to rest anyway. The story embodies the light of ordinary grace — that serenity comes not from control, but from quiet endurance. It belongs to the phase of The Candle’s Glow, where faith is practiced through gentle acceptance of imperfection.",
+  "keywords": [
+    "parable",
+    "acceptance",
+    "imperfection",
+    "peace",
+    "adaptation",
+    "faith",
+    "gentleness",
+    "The Candle’s Glow",
+    "Ousia Bloom"
+  ],
+  "phase": "🌕 The Candle’s Glow",
+  "motifMap": [
+    {
+      "symbol": "Squeaking bed spring",
+      "meaning": "Persistent imperfection; the noise of life that cannot be silenced.",
+      "position": "Center — recurring disturbance accepted as part of the whole."
+    },
+    {
+      "symbol": "Guest with earplugs",
+      "meaning": "Humility before circumstance; finding peace through adaptation rather than resistance.",
+      "position": "Resolution — harmony without conquest."
+    },
+    {
+      "symbol": "The house",
+      "meaning": "Human environment of comfort and disruption; the domestic sphere as a mirror of the soul.",
+      "position": "Setting — the ordinary sanctified."
+    }
+  ],
+  "associatedMedia": {
+    "description": "An accompanying symbolic illustration of a bed in soft morning light, a quiet room where imperfection hums like a remembered note. The peace is in the stillness, not in the silence.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5, 2025-10-25"
+}

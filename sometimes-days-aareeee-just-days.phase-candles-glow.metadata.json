@@ -1,0 +1,32 @@
+{
+  "fieldDefinitions": {
+    "title": "Title of the work",
+    "author": "Author name or pseudonym",
+    "slug": "URL slug for the Substack post",
+    "url": "Full Substack URL of the piece",
+    "excerpt": "Short representative passage or summary",
+    "keywords": "List of thematic or symbolic keywords",
+    "timeFelt": {
+      "timestamp": "ISO 8601 datetime when this phase was felt",
+      "phase": "Name of the phase"
+    },
+    "generatedBy": "Model and date of generation",
+    "phase": "Phase name from Aleksandr’s emotional calendar",
+    "motifMap": "Array of symbols, meanings, and positions within the piece",
+    "associatedMedia": "Description and optional link to visual accompaniment"
+  },
+  "title": "Sometimes days are just days",
+  "author": "Aleksandr Solnatus",
+  "slug": "sometimes-days-aareeee-just-days",
+  "url": "https://wanderersburn.substack.com/p/sometimes-days-aareeee-just-days",
+  "excerpt": "A brief psalm of the ordinary: some days stretch to eternity, others fade unnoticed. All together, they make a life — and love persists quietly through them.",
+  "keywords": ["Candle’s Glow", "Everyday Benediction", "ordinary grace", "faith in routine", "gentle love", "rest phase", "Ousia Bloom"],
+  "timeFelt": {
+    "timestamp": "2025-10-24T20:00:00-05:00",
+    "phase": "The Candle’s Glow"
+  },
+  "generatedBy": "ChatGPT-5, 2025-10-25",
+  "phase": "🌕 The Candle’s Glow — Everyday Benediction",
+  "motifMap": [
+    {
+      "symbol": "Stretch
