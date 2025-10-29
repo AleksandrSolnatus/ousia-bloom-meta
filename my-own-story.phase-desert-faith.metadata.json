@@ -1,0 +1,68 @@
+{
+  "title": "My own Story",
+  "author": "Aleksandr Agnitio",
+  "url": "https://wanderersburn.substack.com/p/my-own-story",
+  "subtitle": "",
+  "publication": "Wanderer’s Burn",
+  "phase": "🌵 Desert Faith",
+  "summary": "A quiet testament to endurance and humility. The speaker disavows heroism yet claims authorship of their struggle, walking through hardship without closure. The poem’s restraint becomes its moral power — faith without comfort, survival without spectacle.",
+  "themes": [
+    "endurance",
+    "humility",
+    "faith without feeling",
+    "solitude",
+    "self-authorship",
+    "quiet defiance"
+  ],
+  "tone": "Spare, unadorned, meditative",
+  "motifMap": [
+    {
+      "symbol": "traveler",
+      "meaning": "the self in motion through hardship",
+      "position": "central"
+    },
+    {
+      "symbol": "dust horizon",
+      "meaning": "blurred future, unseen promise",
+      "position": "background"
+    },
+    {
+      "symbol": "sepia path",
+      "meaning": "memory and endurance woven into time",
+      "position": "foreground"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Symbolic image of a lone traveler walking along a desolate path under heavy clouds — tone of endurance and humility.",
+    "contentUrl": ""
+  },
+  "keywords": [
+    "Desert Faith",
+    "endurance",
+    "solitude",
+    "faith without feeling",
+    "humility",
+    "wanderer’s path"
+  ],
+  "timeFelt": {
+    "timestamp": "2025-10-27T21:15:00-05:00",
+    "phase": "🌵 Desert Faith"
+  },
+  "generatedBy": "ChatGPT-5, 2025-10-27",
+  "fieldDefinitions": {
+    "title": "Title of the work",
+    "author": "Creator of the piece",
+    "url": "Canonical Substack publication URL",
+    "subtitle": "Optional secondary title",
+    "publication": "Substack or host publication name",
+    "phase": "Phase designation in Aleksandr’s Bloom",
+    "summary": "Brief interpretive synopsis of the piece",
+    "themes": "Core conceptual or emotional motifs",
+    "tone": "Mood and stylistic voice",
+    "motifMap": "Symbolic mapping of imagery to meaning",
+    "associatedMedia": "Linked or descriptive image",
+    "keywords": "Searchable tags",
+    "timeFelt": "Moment of emotional creation, timestamped with phase",
+    "generatedBy": "Model and date of metadata creation"
+  }
+}

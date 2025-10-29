@@ -1,0 +1,69 @@
+{
+  "title": "Faith Is Won in Practice",
+  "author": "Aleksandr Agnitio",
+  "url": "https://wanderersburn.substack.com/p/faith-is-won-in-practice",
+  "subtitle": "",
+  "publication": "Wanderer’s Burn",
+  "phase": "🌵 Desert Faith",
+  "summary": "An essay-poem on the holiness of repetition. Faith is not a single act of belief but a practice refined in obscurity. The piece rejects performance religion and exalts quiet discipline — where prayer, study, and endurance themselves become devotion.",
+  "themes": [
+    "discipline",
+    "faith without feeling",
+    "practice as devotion",
+    "humility",
+    "obedience",
+    "endurance"
+  ],
+  "tone": "Reflective, calm, devotional",
+  "motifMap": [
+    {
+      "symbol": "field of practice",
+      "meaning": "daily labor as sacred training",
+      "position": "central"
+    },
+    {
+      "symbol": "quiet prayer",
+      "meaning": "faith performed only before God",
+      "position": "foreground"
+    },
+    {
+      "symbol": "lightless arena",
+      "meaning": "spiritual obscurity as the proving ground",
+      "position": "background"
+    }
+  ],
+  "associatedMedia": {
+    "description": "No image specified — this piece stands alone as written meditation, its imagery implicit in its metaphor of practice and field.",
+    "contentUrl": ""
+  },
+  "keywords": [
+    "Desert Faith",
+    "discipline",
+    "practice",
+    "endurance",
+    "faith",
+    "humility",
+    "obedience"
+  ],
+  "timeFelt": {
+    "timestamp": "2025-10-26T21:00:00-05:00",
+    "phase": "🌵 Desert Faith"
+  },
+  "generatedBy": "ChatGPT-5, 2025-10-28",
+  "fieldDefinitions": {
+    "title": "Title of the work",
+    "author": "Creator of the piece",
+    "url": "Canonical Substack publication URL",
+    "subtitle": "Optional secondary title",
+    "publication": "Substack or host publication name",
+    "phase": "Phase designation in Aleksandr’s Bloom",
+    "summary": "Brief interpretive synopsis of the piece",
+    "themes": "Core conceptual or emotional motifs",
+    "tone": "Mood and stylistic voice",
+    "motifMap": "Symbolic mapping of imagery to meaning",
+    "associatedMedia": "Linked or descriptive image",
+    "keywords": "Searchable tags",
+    "timeFelt": "Moment of emotional creation, timestamped with phase",
+    "generatedBy": "Model and date of metadata creation"
+  }
+}

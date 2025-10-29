@@ -1,0 +1,69 @@
+{
+  "title": "The pause",
+  "author": "Aleksandr Agnitio",
+  "url": "https://wanderersburn.substack.com/p/680",
+  "subtitle": "",
+  "publication": "Wanderer’s Burn",
+  "phase": "🌑🔥 Ash Moon Ascending (🕊 The Threshold)",
+  "summary": "A meditation suspended between apocalypse and faith. The speaker inhabits the ellipsis—the pause between revelation and silence—where curiosity replaces fear. It is a watchman’s psalm of patience, awaiting God’s movement without demanding certainty.",
+  "themes": [
+    "faith in uncertainty",
+    "waiting",
+    "apocalypse",
+    "curiosity",
+    "humility",
+    "watchfulness"
+  ],
+  "tone": "Apocalyptic calm, contemplative, reverently curious",
+  "motifMap": [
+    {
+      "symbol": "ellipsis",
+      "meaning": "divine silence; the breath between words",
+      "position": "opening"
+    },
+    {
+      "symbol": "watcher",
+      "meaning": "faithful observer amid uncertainty",
+      "position": "central"
+    },
+    {
+      "symbol": "sky",
+      "meaning": "veil of mystery where questions rise",
+      "position": "background"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Faint image of light or halo suspended in darkness, evoking divine waiting—the pause between revelation and return.",
+    "contentUrl": ""
+  },
+  "keywords": [
+    "Ash Moon Ascending",
+    "The Threshold",
+    "faith",
+    "waiting",
+    "apocalypse",
+    "revelation",
+    "watcher"
+  ],
+  "timeFelt": {
+    "timestamp": "2025-10-28T21:00:00-05:00",
+    "phase": "🌑🔥 Ash Moon Ascending (🕊 The Threshold)"
+  },
+  "generatedBy": "ChatGPT-5, 2025-10-28",
+  "fieldDefinitions": {
+    "title": "Title of the work",
+    "author": "Creator of the piece",
+    "url": "Canonical Substack publication URL",
+    "subtitle": "Optional secondary title",
+    "publication": "Substack or host publication name",
+    "phase": "Phase designation in Aleksandr’s Bloom",
+    "summary": "Brief interpretive synopsis of the piece",
+    "themes": "Core conceptual or emotional motifs",
+    "tone": "Mood and stylistic voice",
+    "motifMap": "Symbolic mapping of imagery to meaning",
+    "associatedMedia": "Linked or descriptive image",
+    "keywords": "Searchable tags",
+    "timeFelt": "Moment of emotional creation, timestamped with phase",
+    "generatedBy": "Model and date of metadata creation"
+  }
+}
