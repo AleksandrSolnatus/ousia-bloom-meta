@@ -1,0 +1,73 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Yearning Against the Self",
+  "description": "A psalm of embodied contradiction written in the Ash Moon Ascending — The Door of Trust. Aleksandr confronts desire that crosses boundaries of form: yearning for the flesh of man in the body of woman, for safety in the face of fear, for holiness within lust. This is not an apology but an exposure — the sacred tension between the erotic and the divine, where sin becomes the shadow of devotion. In this confession, gender and faith twist around the same ache: to be held, to be known, to be free.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr Agnitio"
+  },
+  "datePublished": "2025-11-03",
+  "keywords": [
+    "Ousia Bloom",
+    "Ash Moon Ascending",
+    "The Door of Trust",
+    "erotic theology",
+    "gender and faith",
+    "confession",
+    "trans allusion",
+    "desire as prayer",
+    "body and spirit",
+    "sacred contradiction",
+    "Aleksandr Agnitio",
+    "phase"
+  ],
+  "inLanguage": "en-US",
+  "url": "https://wanderersburn.substack.com/p/yearning-against-the-self",
+  "associatedMedia": {
+    "@type": "ImageObject",
+    "description": "A dim room where a man kneels before an unseen figure, shadow and candlelight blurring his reflection. The air trembles with confession: between altar and flesh, he prays not to be unmade by desire.",
+    "contentUrl": ""
+  },
+  "motifMap": [
+    {
+      "symbol": "🔥",
+      "meaning": "The erotic as sacred flame — that which burns not to destroy, but to purify longing through truth.",
+      "position": "central"
+    },
+    {
+      "symbol": "⚧",
+      "meaning": "Union of opposites — the body as vessel of paradox, where gender and grace entwine.",
+      "position": "lower"
+    },
+    {
+      "symbol": "🕊️",
+      "meaning": "Confession as peace — the courage to speak desire without shame, as a prayer for safety.",
+      "position": "upper"
+    },
+    {
+      "symbol": "🌑",
+      "meaning": "Ash Moon — faith’s renewal through exposure, the soul ascending by walking through its own shadow.",
+      "position": "background"
+    }
+  ],
+  "timeFelt": {
+    "timestamp": "2025-11-03T00:00:00-06:00",
+    "phase": "Ash Moon Ascending — The Door of Trust"
+  },
+  "generatedBy": "ChatGPT-5, 2025-11-06",
+  "fieldDefinitions": {
+    "headline": "The title of the work as published or archived.",
+    "description": "A full symbolic and thematic summary linking the piece to its phase and theological undercurrent.",
+    "author": "Attribution of authorship, with author type defined per schema.org.",
+    "datePublished": "Original publication date of the work as released on Substack or equivalent archive.",
+    "keywords": "Thematic, emotional, and phase-specific indexing terms for discoverability and symbolic mapping.",
+    "inLanguage": "Primary language of the text.",
+    "url": "Canonical URL for public or archival access.",
+    "associatedMedia": "Metadata for linked or companion visual media, including description and content URL placeholder.",
+    "motifMap": "A structured array identifying key recurring symbols, their narrative or metaphysical meanings, and their compositional position.",
+    "timeFelt": "Internal chronometric marker tying emotional experience to Bloom phase structure.",
+    "generatedBy": "Indicates the model and date responsible for metadata generation.",
+    "fieldDefinitions": "Legend explaining the function of each field for long-term archival clarity."
+  }
+}

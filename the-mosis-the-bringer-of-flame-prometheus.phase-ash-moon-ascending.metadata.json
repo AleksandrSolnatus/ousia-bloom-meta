@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "The Mosis — The Bringer of Flame (Prometheus)",
+  "description": "In the Mosis, Sandr descends to a chamber of water and fire and meets Prometheus—the sacred rebel who carries flame not for pride but for empathy. The gift is not a weapon but a grammar: learn the language of the fire, bear it without domination, and return with conscience burning quiet beneath the skin.",
+  "author": "UNNAMED (Agnitio/Sandr cycle)",
+  "datePublished": "2025-11-06",
+  "url": "hhttps://wanderersburn.substack.com/p/the-mosis-the-bringer-of-flameprometheus",
+  "inLanguage": "en",
+  "keywords": [
+    "Mosis",
+    "Prometheus",
+    "descent",
+    "sacred rebellion",
+    "fire and water",
+    "Forge Ethic",
+    "Ash Moon Ascending",
+    "mythic dialogue",
+    "vocation",
+    "conscience"
+  ],
+  "timeFelt": {
+    "timestamp": "2025-11-06T00:00:00Z",
+    "phase": "Ash Moon Ascending"
+  },
+  "phase": "🌑🔥 Ash Moon Ascending",
+  "motifMap": [
+    { "symbol": "🔥", "meaning": "Immanent conscience; learned grammar of fire", "position": "cupped in the palm / under the skin" },
+    { "symbol": "💧", "meaning": "Purifying reflection; the Mosis pool that cools pride", "position": "surrounding chamber" },
+    { "symbol": "🕯", "meaning": "Carried light; witness not spectacle", "position": "leaving the chamber" },
+    { "symbol": "🗿", "meaning": "Prometheus—sacred rebel teaching refusal-as-service", "position": "threshold figure" },
+    { "symbol": "📜", "meaning": "Logos remembered; Agnitio’s witnessing silence", "position": "air of the chamber" }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Mosis chamber of water and flame; Sandr receiving a small steady fire.",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-4o, 2025-11-06",
+  "fieldDefinitions": {
+    "@context": "Schema.org context URL",
+    "@type": "Type of creative object",
+    "headline": "Title of the work as published",
+    "description": "Concise, reader-facing summary of the work’s meaning",
+    "author": "Attribution used on Substack / Bloom canon",
+    "datePublished": "ISO date of public posting or canonical composition",
+    "url": "Canonical Substack URL (append the exact slug)",
+    "inLanguage": "BCP47 language tag",
+    "keywords": "Searchable tags — include the phase",
+    "timeFelt": {
+      "timestamp": "When the phase was most strongly felt (ISO)",
+      "phase": "Bloom phase name"
+    },
+    "phase": "Display version with emoji and label",
+    "motifMap": "List of {symbol, meaning, position} for visual/canonical motifs",
+    "associatedMedia": "Image or media companion; leave contentUrl empty if none",
+    "generatedBy": "Tool and date that produced this card",
+    "fieldDefinitions": "Legend to keep structure consistent across cards"
+  }
+}

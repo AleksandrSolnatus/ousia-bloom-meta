@@ -1,0 +1,76 @@
+{
+  "fieldDefinitions": {
+    "@context": "JSON-LD context, always use https://schema.org",
+    "@type": "Primary schema type for the work (e.g., Article, CreativeWork, Poem)",
+    "headline": "Exact title of the piece as published",
+    "description": "Short abstract (1–3 sentences) describing the piece",
+    "author": "Author credit",
+    "datePublished": "ISO 8601 date the piece was published",
+    "url": "Canonical Substack URL to the work",
+    "inLanguage": "BCP 47 language tag",
+    "phase": "Bloom phase this work belongs to",
+    "timeFelt": "When the phase was felt; includes timestamp and phase name",
+    "keywords": "Array of topical keywords, include the phase name",
+    "motifMap": "Array of symbolic motifs with meaning and suggested position",
+    "associatedMedia": "Media linked to the piece (image, audio, etc.)",
+    "generatedBy": "Tool and date that generated this metadata"
+  },
+
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "The Pause",
+  "description": "A watcher stands beneath an eclipsed sun—a charged stillness between revelations. Faith abides without spectacle, awaiting the next dawn.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-10-28",
+  "url": "https://wanderersburn.substack.com/p/680",
+  "inLanguage": "en-US",
+
+  "phase": "The Pause Between Suns",
+  "timeFelt": {
+    "timestamp": "2025-11-06T23:55:00Z",
+    "phase": "The Pause Between Suns"
+  },
+
+  "keywords": [
+    "The Pause Between Suns",
+    "faith in waiting",
+    "eclipse",
+    "watcher",
+    "silence",
+    "obedience without evidence",
+    "Ousia Bloom"
+  ],
+
+  "motifMap": [
+    {
+      "symbol": "eclipsed sun with aureole",
+      "meaning": "Hidden source of light—revelation veiled yet persistent",
+      "position": "zenith/upper center"
+    },
+    {
+      "symbol": "triple halo rings",
+      "meaning": "Divine geometry; alignment without full visibility",
+      "position": "encircling the eclipse"
+    },
+    {
+      "symbol": "solitary watcher silhouette",
+      "meaning": "Witnessing without grasping; fidelity in unknowing",
+      "position": "foreground/center-bottom"
+    },
+    {
+      "symbol": "horizon line",
+      "meaning": "Promise of return; the next illumination beyond the present hush",
+      "position": "lower third"
+    }
+  ],
+
+  "associatedMedia": [
+    {
+      "@type": "ImageObject",
+      "description": "Illustration of a lone figure beneath an eclipsed sun haloed with faint rings.",
+      "contentUrl": ""
+    }
+  ],
+
+  "generatedBy": "ChatGPT-4o, 2025-11-06"
+}

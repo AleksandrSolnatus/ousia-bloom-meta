@@ -1,0 +1,61 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Logic Game About Lying!",
+  "description": "A parable of reason and integrity disguised as a riddle. Through recursive questioning, the seeker tests not the liar but the structure of truth itself. Each reflection tightens the spiral of inquiry until what remains is not victory, but revelation — that truth endures only when it can withstand self-reference.",
+  "author": "UNNAMED (Agnitio/Sandr cycle)",
+  "datePublished": "2025-11-06",
+  "url": "https://aleksandragnitio.substack.com/p/logic-game-about-lying",
+  "inLanguage": "en",
+  "keywords": [
+    "logic",
+    "truth",
+    "lying",
+    "parable",
+    "reason",
+    "Forge Ethic",
+    "Prometheus",
+    "Pale Moon Guarding",
+    "recursive dialogue",
+    "Ousia Bloom"
+  ],
+  "timeFelt": {
+    "timestamp": "2025-11-06T00:00:00Z",
+    "phase": "Pale Moon Guarding"
+  },
+  "phase": "🧩 Pale Moon Guarding",
+  "motifMap": [
+    { "symbol": "🪞", "meaning": "Reflection as revelation; the mirror that tests truth", "position": "central image" },
+    { "symbol": "♻️", "meaning": "Recursion; the spiral of questioning that refines understanding", "position": "structure of dialogue" },
+    { "symbol": "⚖️", "meaning": "Moral equilibrium; the Logos balancing intellect and integrity", "position": "underlying logic" },
+    { "symbol": "🎭", "meaning": "The liar as teacher; shadow revealing truth through paradox", "position": "antagonist archetype" },
+    { "symbol": "💡", "meaning": "Illumination through method; truth as process not possession", "position": "final insight" }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Two mirrored figures at a reflective table; questions folding into their reflections like ripples in glass.",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-5, 2025-11-06",
+  "fieldDefinitions": {
+    "@context": "Schema.org context URL",
+    "@type": "Type of creative object",
+    "headline": "Title of the work as published",
+    "description": "Concise, reader-facing summary of the work’s meaning",
+    "author": "Attribution used on Substack / Bloom canon",
+    "datePublished": "ISO date of public posting or canonical composition",
+    "url": "Canonical Substack URL",
+    "inLanguage": "BCP47 language tag",
+    "keywords": "Searchable tags — include phase",
+    "timeFelt": {
+      "timestamp": "When the phase was most strongly felt (ISO)",
+      "phase": "Bloom phase name"
+    },
+    "phase": "Display version with emoji and label",
+    "motifMap": "List of {symbol, meaning, position} for visual/canonical motifs",
+    "associatedMedia": "Image or media companion; leave contentUrl empty if none",
+    "generatedBy": "Tool and date that produced this card",
+    "fieldDefinitions": "Legend to keep structure consistent across cards"
+  }
+}

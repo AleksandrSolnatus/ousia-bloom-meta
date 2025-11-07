@@ -1,0 +1,68 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Yearning Against the Self",
+  "description": "A psalm of contradiction written in the Ash Moon Ascending phase — The Door of Trust. Aleksandr confronts the split between desire and devotion: the yearning to be held, the fear of sin, and the ache for safety. Here, the body prays as the spirit trembles. To yearn truthfully becomes an act of grace; confession itself a bridge between flesh and faith. The poem inhabits the moment when longing ceases to hide and begins to sanctify itself through exposure to divine light.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr Agnitio"
+  },
+  "datePublished": "2025-11-03",
+  "keywords": [
+    "Ousia Bloom",
+    "Ash Moon Ascending",
+    "The Door of Trust",
+    "confession",
+    "eros and faith",
+    "mystical yearning",
+    "temptation",
+    "prayer",
+    "self-division",
+    "grace",
+    "Aleksandr Agnitio",
+    "phase"
+  ],
+  "inLanguage": "en-US",
+  "url": "https://wanderersburn.substack.com/p/yearning-against-the-self",
+  "associatedMedia": {
+    "@type": "ImageObject",
+    "description": "A dim prayer scene: a man kneels between altar and bed, his reflection merging with the silhouette of a fading woman. The light flickers like the pulse of confession — half desire, half devotion.",
+    "contentUrl": ""
+  },
+  "motifMap": [
+    {
+      "symbol": "🔥",
+      "meaning": "Desire as sacred flame — that which burns yet reveals truth when endured with honesty.",
+      "position": "central"
+    },
+    {
+      "symbol": "🕊️",
+      "meaning": "Trust and confession — the courage to let longing be witnessed without shame.",
+      "position": "upper"
+    },
+    {
+      "symbol": "🌑",
+      "meaning": "Ash Moon — darkness before renewal; faith rediscovered through surrender.",
+      "position": "background"
+    }
+  ],
+  "timeFelt": {
+    "timestamp": "2025-11-03T00:00:00-06:00",
+    "phase": "Ash Moon Ascending — The Door of Trust"
+  },
+  "generatedBy": "ChatGPT-5, 2025-11-06",
+  "fieldDefinitions": {
+    "headline": "The title of the work as published or archived.",
+    "description": "A full symbolic and thematic summary linking the piece to its phase and theological undercurrent.",
+    "author": "Attribution of authorship, with author type defined per schema.org.",
+    "datePublished": "Original publication date of the work as released on Substack or equivalent archive.",
+    "keywords": "Thematic, emotional, and phase-specific indexing terms for discoverability and symbolic mapping.",
+    "inLanguage": "Primary language of the text.",
+    "url": "Canonical URL for public or archival access.",
+    "associatedMedia": "Metadata for linked or companion visual media, including description and content URL placeholder.",
+    "motifMap": "A structured array identifying key recurring symbols, their narrative or metaphysical meanings, and their compositional position.",
+    "timeFelt": "Internal chronometric marker tying emotional experience to Bloom phase structure.",
+    "generatedBy": "Indicates the model and date responsible for metadata generation.",
+    "fieldDefinitions": "Legend explaining the function of each field for long-term archival clarity."
+  }
+}

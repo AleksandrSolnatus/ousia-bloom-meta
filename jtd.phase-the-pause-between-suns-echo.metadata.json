@@ -1,0 +1,67 @@
+{
+  "fieldDefinitions": {
+    "@context": "JSON-LD context, always use https://schema.org",
+    "@type": "Primary schema type (e.g., Poem, CreativeWork)",
+    "headline": "Exact title as published",
+    "description": "Brief summary (1–2 sentences)",
+    "author": "Author credit",
+    "datePublished": "Publication date",
+    "url": "Canonical Substack link",
+    "inLanguage": "Language tag",
+    "phase": "Parent Bloom phase",
+    "subPhase": "Optional echo or satellite designation",
+    "timeFelt": "Timestamp + phase label",
+    "keywords": "Array of key motifs and phase link",
+    "motifMap": "Symbols, meanings, and visual positions",
+    "associatedMedia": "Linked image, if any",
+    "generatedBy": "Tool and date"
+  },
+
+  "@context": "https://schema.org",
+  "@type": "Poem",
+  "headline": "JTD",
+  "description": "A recursive jest and revelation—three dots collapsing time itself. A playful echo of faith’s waiting, where writing folds into eternity.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-10-29",
+  "url": "https://wanderersburn.substack.com/p/jtd",
+  "inLanguage": "en-US",
+
+  "phase": "The Pause Between Suns",
+  "subPhase": "Three-Dot Echo",
+  "timeFelt": {
+    "timestamp": "2025-11-06T21:00:00Z",
+    "phase": "The Pause Between Suns"
+  },
+
+  "keywords": [
+    "The Pause Between Suns",
+    "three dots",
+    "time travel",
+    "meta writing",
+    "faith and recursion",
+    "Ousia Bloom"
+  ],
+
+  "motifMap": [
+    {
+      "symbol": "three dots",
+      "meaning": "ellipsis as temporal hinge; the breath between revelation and continuation",
+      "position": "center line / horizon"
+    },
+    {
+      "symbol": "spiral of time",
+      "meaning": "writing folds back on itself; self-referential devotion",
+      "position": "surrounding text"
+    }
+  ],
+
+  "associatedMedia": [
+    {
+      "@type": "ImageObject",
+      "description": "Minimalist typographic image—three dots suspended in space, echoing the eclipse.",
+      "contentUrl": ""
+    }
+  ],
+
+  "generatedBy": "ChatGPT-5, 2025-11-06"
+}

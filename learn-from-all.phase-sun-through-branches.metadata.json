@@ -1,0 +1,60 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "Learn from all",
+  "description": "A small proverb rendered like sunlight through leaves: humility as illumination. The poem reminds the reader that wisdom flows in all directions — elders and children, teachers and fools alike. To learn from all is to stay open to grace in every form, every voice, every hour.",
+  "author": "UNNAMED (Agnitio/Sandr cycle)",
+  "datePublished": "2025-11-06",
+  "url": "https://aleksandragnitio.substack.com/p/learn-from-all",
+  "inLanguage": "en",
+  "keywords": [
+    "proverb",
+    "wisdom",
+    "humility",
+    "learning",
+    "Sun Through Branches",
+    "illumination",
+    "teaching",
+    "listening",
+    "Ousia Bloom"
+  ],
+  "timeFelt": {
+    "timestamp": "2025-11-06T00:00:00Z",
+    "phase": "Sun Through Branches"
+  },
+  "phase": "🌞 Sun Through Branches",
+  "motifMap": [
+    { "symbol": "🌞", "meaning": "Illumination through humility", "position": "overhead / diffused through canopy" },
+    { "symbol": "🌿", "meaning": "Growth through openness; each leaf a teacher", "position": "around edges of light" },
+    { "symbol": "👂", "meaning": "Attentive listening; reverent learning posture", "position": "below the light" },
+    { "symbol": "👣", "meaning": "Walking softly; learning from all paths", "position": "ground beneath the reader" },
+    { "symbol": "🕊", "meaning": "Peaceful receptivity; grace found in simplicity", "position": "drifting in upper air" }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Soft sunlight filtering through tree branches, illuminating small leaves — a visual echo of shared wisdom in motion.",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-5, 2025-11-06",
+  "fieldDefinitions": {
+    "@context": "Schema.org context URL",
+    "@type": "Type of creative object",
+    "headline": "Title of the work as published",
+    "description": "Concise, reader-facing summary of the work’s meaning",
+    "author": "Attribution used on Substack / Bloom canon",
+    "datePublished": "ISO date of public posting or canonical composition",
+    "url": "Canonical Substack URL",
+    "inLanguage": "BCP47 language tag",
+    "keywords": "Searchable tags — include phase",
+    "timeFelt": {
+      "timestamp": "When the phase was most strongly felt (ISO)",
+      "phase": "Bloom phase name"
+    },
+    "phase": "Display version with emoji and label",
+    "motifMap": "List of {symbol, meaning, position} for visual/canonical motifs",
+    "associatedMedia": "Image or media companion; leave contentUrl empty if none",
+    "generatedBy": "Tool and date that produced this card",
+    "fieldDefinitions": "Legend to keep structure consistent across cards"
+  }
+}

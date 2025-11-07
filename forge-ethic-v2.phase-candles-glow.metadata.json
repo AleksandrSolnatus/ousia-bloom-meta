@@ -1,0 +1,73 @@
+{
+  "fieldDefinitions": {
+    "@context": "JSON-LD context",
+    "@type": "Primary schema type (CreativeWork, Essay, etc.)",
+    "headline": "Exact title",
+    "description": "Brief thematic summary",
+    "author": "Attribution for the work",
+    "datePublished": "Publication date (ISO 8601)",
+    "url": "Canonical Substack URL",
+    "inLanguage": "Language tag",
+    "phase": "Corresponding Ousia Bloom phase",
+    "subPhase": "Optional secondary designation",
+    "timeFelt": "Timestamp and phase association",
+    "keywords": "Array of concepts and motifs",
+    "motifMap": "Symbolic visual mapping",
+    "associatedMedia": "Linked artwork or visual",
+    "generatedBy": "Tool and generation date"
+  },
+
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "⚒️ Forge Ethic v2.0",
+  "description": "A living code for creators: to craft with discipline, conscience, and grace. The Forge Ethic defines creative integrity as moral practice — the fusion of skill, responsibility, and enduring light.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-11-02",
+  "url": "https://wanderersburn.substack.com/p/forge-ethic-v20",
+  "inLanguage": "en-US",
+
+  "phase": "The Candle’s Glow",
+  "subPhase": "Forge Ethic — Covenant of Craft and Conscience",
+  "timeFelt": {
+    "timestamp": "2025-11-06T22:20:00Z",
+    "phase": "The Candle’s Glow"
+  },
+
+  "keywords": [
+    "The Candle’s Glow",
+    "Forge Ethic",
+    "moral creativity",
+    "discipline",
+    "craft",
+    "conscience",
+    "Ousia Bloom"
+  ],
+
+  "motifMap": [
+    {
+      "symbol": "hammer and flame",
+      "meaning": "Creation as discipline; transformation through moral heat",
+      "position": "center"
+    },
+    {
+      "symbol": "anvil of light",
+      "meaning": "Foundation of conscience on which all work is shaped",
+      "position": "lower foreground"
+    },
+    {
+      "symbol": "glow beneath metal",
+      "meaning": "Persistence of faith and integrity within labor",
+      "position": "background illumination"
+    }
+  ],
+
+  "associatedMedia": [
+    {
+      "@type": "ImageObject",
+      "description": "Symbolic image of a glowing forge under candlelight — heat and illumination unified.",
+      "contentUrl": ""
+    }
+  ],
+
+  "generatedBy": "ChatGPT-5, 2025-11-06"
+}

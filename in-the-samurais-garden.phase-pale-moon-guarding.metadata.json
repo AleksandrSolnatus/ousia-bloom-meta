@@ -1,0 +1,72 @@
+{
+  "fieldDefinitions": {
+    "@context": "JSON-LD context, always use https://schema.org",
+    "@type": "Primary schema type for the work",
+    "headline": "Exact title as published",
+    "description": "Short summary of the work’s tone and meaning",
+    "author": "Author name",
+    "datePublished": "ISO 8601 date",
+    "url": "Canonical Substack URL",
+    "inLanguage": "Language code",
+    "phase": "Associated Bloom phase",
+    "timeFelt": "Timestamp and phase name",
+    "keywords": "Array of core thematic words and phrases",
+    "motifMap": "List of symbols, meanings, and positions",
+    "associatedMedia": "Any visual or audio media connected",
+    "generatedBy": "Tool and date of metadata creation"
+  },
+
+  "@context": "https://schema.org",
+  "@type": "Poem",
+  "headline": "In the Samurai’s Garden",
+  "description": "A brief meditation on patience, love, and tending what endures. The speaker sees himself in Matsu’s steady devotion, aspiring to cultivate care as a spiritual act.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-11-01",
+  "url": "https://wanderersburn.substack.com/p/in-the-samurais-garden",
+  "inLanguage": "en-US",
+
+  "phase": "Pale Moon Guarding",
+  "timeFelt": {
+    "timestamp": "2025-11-06T22:10:00Z",
+    "phase": "Pale Moon Guarding"
+  },
+
+  "keywords": [
+    "Pale Moon Guarding",
+    "patience",
+    "devotion",
+    "steadiness",
+    "Samurai",
+    "care",
+    "garden",
+    "Ousia Bloom"
+  ],
+
+  "motifMap": [
+    {
+      "symbol": "garden",
+      "meaning": "A living order tended through discipline and love; the moral ground of daily action",
+      "position": "foreground / earth"
+    },
+    {
+      "symbol": "samurai’s posture",
+      "meaning": "Strength through humility; mastery through gentleness",
+      "position": "center / vertical axis"
+    },
+    {
+      "symbol": "moonlight over water",
+      "meaning": "Reflection without disturbance; serenity in vigilance",
+      "position": "upper background"
+    }
+  ],
+
+  "associatedMedia": [
+    {
+      "@type": "ImageObject",
+      "description": "Soft depiction of a tranquil Japanese garden under moonlight, evoking steadiness and devotion.",
+      "contentUrl": ""
+    }
+  ],
+
+  "generatedBy": "ChatGPT-5, 2025-11-06"
+}
