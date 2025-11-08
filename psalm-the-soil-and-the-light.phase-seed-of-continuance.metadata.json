@@ -1,0 +1,68 @@
+{
+  "fieldDefinitions": {
+    "@context": "Schema.org JSON-LD context URL",
+    "@type": "Schema.org type (e.g., BlogPosting)",
+    "headline": "Title of the work",
+    "description": "Short summary of the piece",
+    "author": "Primary author name",
+    "datePublished": "ISO-8601 date when originally posted",
+    "keywords": "Keyword list reflecting themes and phase",
+    "url": "Canonical Substack URL for the post",
+    "inLanguage": "BCP 47 language tag",
+    "motifMap": "Array of {symbol, meaning, position}",
+    "associatedMedia": "Object with description and contentUrl (optional)",
+    "timeFelt": "Object with {timestamp, phase}",
+    "generatedBy": "Tool and date that generated this metadata"
+  },
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Psalm — The Soil and the Light",
+  "description": "Penitential renewal: confession of failure, humility as fertile soil, and a vow to let one’s light serve the good. The seed rises after the ground is broken—faith as continuance.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-11-07",
+  "keywords": [
+    "psalm",
+    "humility",
+    "seed",
+    "soil",
+    "light",
+    "repentance",
+    "renewal",
+    "prayer",
+    "Seed of Continuance",
+    "Ousia Bloom"
+  ],
+  "url": "https://wanderersburn.substack.com/p/psalm-the-soil-and-the-light",
+  "inLanguage": "en-US",
+  "motifMap": [
+    {
+      "symbol": "🌱 seed",
+      "meaning": "New life that emerges after breaking",
+      "position": "center-bottom rising"
+    },
+    {
+      "symbol": "🟤 soil",
+      "meaning": "Humility; ground of repentance and growth",
+      "position": "lower field"
+    },
+    {
+      "symbol": "🟡 light",
+      "meaning": "Divine presence dawning through endurance",
+      "position": "surrounding halo"
+    },
+    {
+      "symbol": "🕯️ prayer",
+      "meaning": "Vow to be a force for good",
+      "position": "closing lines"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Image of a sprout emerging from dark soil into a warm encircling light.",
+    "contentUrl": ""
+  },
+  "timeFelt": {
+    "timestamp": "2025-11-08T17:04:56Z",
+    "phase": "Seed of Continuance"
+  },
+  "generatedBy": "ChatGPT-4o, 2025-11-08"
+}
