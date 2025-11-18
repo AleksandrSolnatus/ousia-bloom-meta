@@ -1,0 +1,82 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "fieldDefinitions": {
+    "headline": "Title of the work",
+    "description": "Brief summary of the piece",
+    "author": "Name of the author or creator",
+    "datePublished": "ISO 8601 date when the work was published",
+    "url": "Canonical link to the Substack post",
+    "inLanguage": "Primary language of the piece",
+    "keywords": "A list of thematic, symbolic, and phase-related keywords",
+    "timeFelt": "When and in what phase the piece was emotionally or spiritually experienced",
+    "resonantThread": "What larger theme, shard, or ongoing thread within the Bloom it belongs to",
+    "whyItMatters": "Short statement of deeper significance",
+    "motifMap": "List of recurring symbols and their meanings/placements",
+    "articleExcerpt": "A short excerpt from the piece",
+    "sourceFragments": "Notable lines or sections referenced elsewhere in the Bloom",
+    "associatedMedia": "Images or media related to the piece (optional)"
+  },
+
+  "headline": "Book of Stones",
+  "description": "An ever-growing archive of distilled wisdom — each Stone a compressed record of lived truth, fracture, endurance, and God-shaped clarity. A sedimentary structure within the Bloom, preserving the smallest, hardest lessons.",
+  "author": "Aleksandr Solnatus",
+  "datePublished": "2025-11-08T00:00:00-06:00",
+  "url": "https://wanderersburn.substack.com/p/book-of-stones",
+  "inLanguage": "en-US",
+
+  "keywords": [
+    "Book of Stones",
+    "Ousia Bloom",
+    "Aphorisms",
+    "Wisdom Literature",
+    "Spiritual Discipline",
+    "Phase: Totemic Stone Cycle",
+    "Stone",
+    "Moral Compression",
+    "Sedimentary Truth",
+    "Aleksandr Solnatus"
+  ],
+
+  "timeFelt": {
+    "timestamp": "2025-11-08T00:00:00-06:00",
+    "phase": "Totemic Stone Cycle"
+  },
+
+  "resonantThread": "Stone Cycle — the accumulating record of hard-won wisdom within the Bloom.",
+
+  "whyItMatters": "The Book of Stones forms the stable bedrock of the Bloom — each stone a fragment of truth cooled under pressure, creating a portable archive of moral and spiritual endurance. It anchors the more turbulent phases and preserves the clarity earned through suffering.",
+
+  "motifMap": [
+    {
+      "symbol": "Stone",
+      "meaning": "Compressed wisdom — truth shaped under pressure",
+      "position": "Primary symbol; each entry is a discrete stone in the riverbed"
+    },
+    {
+      "symbol": "Water",
+      "meaning": "The continual flow of life and interpretation over the stones",
+      "position": "Runs across the entire work as a living context"
+    },
+    {
+      "symbol": "Sediment",
+      "meaning": "The slow accumulation of insight over time",
+      "position": "Underlying structure; forms the foundation of the Book"
+    }
+  ],
+
+  "articleExcerpt": "“The greatest buildings are built with small stones.”\n“Everything is real, especially if it is only a story.”\n“Release denied is strength renewed.”",
+
+  "sourceFragments": [
+    "Stone I: The greatest buildings are built with small stones.",
+    "Stone II: Everything is real, especially if it is only a story.",
+    "Stone III: Release denied is strength renewed."
+  ],
+
+  "associatedMedia": {
+    "description": "Cover image or symbolic artwork for the Book of Stones (if later added).",
+    "contentUrl": ""
+  },
+
+  "generatedBy": "ChatGPT-4o, 2025-11-17"
+}

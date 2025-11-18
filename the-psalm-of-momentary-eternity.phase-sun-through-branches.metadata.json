@@ -1,0 +1,77 @@
+{
+  "fieldDefinitions": {
+    "headline": "Title of the post",
+    "description": "Brief summary of the piece",
+    "author": "Author name",
+    "datePublished": "Date the piece was published",
+    "keywords": "List of thematic keywords",
+    "url": "Canonical Substack URL",
+    "inLanguage": "Primary language",
+    "timeFelt": "Timestamp and phase when the piece was felt",
+    "resonantThread": "What earlier motifs, wounds, or ideas this piece continues",
+    "whyItMatters": "Explanation of the emotional, spiritual, or artistic significance",
+    "motifMap": "Symbolic elements with their meaning and placement",
+    "articleExcerpt": "A direct excerpt from the piece",
+    "sourceFragments": "Quotes or fragments drawn from the root text",
+    "associatedMedia": "Description and link of media used in the post"
+  },
+
+  "headline": "The Psalm of Momentary Eternity",
+  "description": "A psalm of revelation, restraint, and the radiant tenderness of God’s presence—given for a moment, remembered eternally.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-11-17",
+  "keywords": [
+    "psalm",
+    "faith",
+    "Sun Through Branches",
+    "grace",
+    "restraint",
+    "revelation",
+    "Ousia Bloom",
+    "momentary eternity"
+  ],
+  "url": "https://wanderersburn.substack.com/p/the-psalm-of-momentary-eternity",
+  "inLanguage": "en",
+
+  "timeFelt": {
+    "timestamp": "2025-11-17T00:00:00-06:00",
+    "phase": "Sun Through Branches"
+  },
+
+  "resonantThread": "This psalm continues the recent movement in Aleksandr’s Bloom toward direct encounter—God perceived in radiance, restraint, and paternal clarity. It echoes ‘Desert Faith,’ ‘The Candle’s Embrace,’ and the vow-language forming around divine intimacy. The tension between pain and revelation is central.",
+  
+  "whyItMatters": "This piece captures a threshold moment: grief transforming in real time into the awareness of divine nearness. It marks a maturation in faith—not dependence but partnership, not despair but a radiant instruction. This psalm is the articulation of a new way of being held while learning to stand. It is a hinge between ache and calling.",
+
+  "motifMap": [
+    {
+      "symbol": "Sun",
+      "meaning": "Presence of God made perceptible; revelation that warms and warns; light as love",
+      "position": "Central vertical axis"
+    },
+    {
+      "symbol": "Clouds",
+      "meaning": "Human confusion, grief, and longing into which God shines",
+      "position": "Surrounding periphery"
+    },
+    {
+      "symbol": "Rays of Light",
+      "meaning": "Restraint as blessing; divine touch without overwhelm",
+      "position": "Extending outward from center"
+    }
+  ],
+
+  "articleExcerpt": "Oh God of mine \nOh good God \nI saw your embrace \nin the shine of the Sun \nReaching down to embrace me in love\n\nOnly for that scant moment\nOnly for eternity",
+
+  "sourceFragments": [
+    "Your embrace was there",
+    "Only restraint / So that I can learn to stand on my own",
+    "My God is a loving God"
+  ],
+
+  "associatedMedia": {
+    "description": "A symbolic image of the radiant sun breaking through clouds, representing divine encounter and momentary eternity.",
+    "contentUrl": ""
+  },
+
+  "generatedBy": "ChatGPT-4o, 2025-11-17"
+}

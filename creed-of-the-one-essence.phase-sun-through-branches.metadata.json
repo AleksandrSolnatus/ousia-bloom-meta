@@ -1,0 +1,77 @@
+{
+  "fieldDefinitions": {
+    "headline": "Title of the work",
+    "description": "Short summary describing the piece",
+    "author": "Creator of the work",
+    "datePublished": "Date first published (ISO 8601)",
+    "url": "Canonical URL of the piece on Substack",
+    "inLanguage": "Language of the work",
+    "phase": "Bloom phase associated with this piece",
+    "timeFelt": {
+      "timestamp": "When Aleksandr felt/entered this phase",
+      "phase": "The phase active at that moment"
+    },
+    "resonantThread": "Which long-running thematic thread this belongs to",
+    "whyItMatters": "Why this piece matters within the Bloom",
+    "motifMap": "Symbol-to-meaning mapping for imagery used in the work",
+    "articleExcerpt": "Short excerpt directly from the work",
+    "sourceFragments": "Key lines or fragments from the source text",
+    "associatedMedia": "Images or media tied to the piece"
+  },
+
+  "headline": "Creed of the One Essence",
+  "description": "A first-pass creed exploring the unity of God’s essence and the relational expressions of Father, Son, and Spirit. A moment of clarity where theological mystery resolves into luminous unity.",
+  "author": "Aleksandr Solnatus",
+  "datePublished": "2025-11-09",
+  "url": "https://wanderersburn.substack.com/p/creed-of-the-one-essence",
+  "inLanguage": "en",
+  "phase": "Sun Through Branches",
+
+  "timeFelt": {
+    "timestamp": "2025-11-17T19:25:00-06:00",
+    "phase": "Sun Through Branches"
+  },
+
+  "resonantThread": "Theology Shards / Creedal Experiments / Divine Unity",
+  "whyItMatters": "This piece marks the first time Aleksandr articulates a personal creed grounded not in borrowed doctrine but in direct spiritual clarity. It is a Sun Through Branches moment: revelation passing cleanly through symbolic density. The work unifies disparate understandings of God into a single luminous essence expressed relationally, revealing a stable theological center within Aleksandr’s ongoing spiritual formation.",
+
+  "motifMap": [
+    {
+      "symbol": "Branches / canopy",
+      "meaning": "The complexity of theological tradition and interpretive frameworks",
+      "position": "Overhead, allowing light to filter through"
+    },
+    {
+      "symbol": "Sunlight",
+      "meaning": "Revelation; clarity that does not destroy mystery but illuminates it",
+      "position": "Descending through symbolic density"
+    },
+    {
+      "symbol": "Breath",
+      "meaning": "The Holy Spirit as animating force; God’s presence entering matter",
+      "position": "Moving through the world invisibly but perceptibly"
+    },
+    {
+      "symbol": "Hands working clay",
+      "meaning": "The Son shaping creation from within; God entering relational form",
+      "position": "At ground level, the divine touching the human"
+    }
+  ],
+
+  "articleExcerpt": "God is one essence.\nWhen He stepped into existence as human,\nHe became Father and Son,\nthat we might be redeemed,\nthat we might know I AM more clearly.",
+
+  "sourceFragments": [
+    "It was a single, unified act expressed in duality from below and unity from above.",
+    "God’s breath is the animator of this realm, a function of His will.",
+    "One essence, stepping into relational existence with two tools: the Holy Spirit as breath upon embers, the Son as hands working clay."
+  ],
+
+  "associatedMedia": [
+    {
+      "description": "Symbolic image of light filtering through branches—representing revelation passing through complexity.",
+      "contentUrl": ""
+    }
+  ],
+
+  "generatedBy": "ChatGPT-4o, 2025-11-17"
+}

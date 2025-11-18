@@ -1,0 +1,81 @@
+{
+  "fieldDefinitions": {
+    "headline": "Title of the work",
+    "description": "Short summary of the piece",
+    "author": "Author name/penname",
+    "datePublished": "ISO date the work was posted",
+    "keywords": "Array of thematic tags",
+    "url": "Canonical Substack URL for the piece",
+    "inLanguage": "Language of the work",
+    "timeFelt": "Moment of creation & the phase Aleksandr was in",
+    "resonantThread": "Which ongoing thematic thread it belongs to",
+    "whyItMatters": "Purpose or significance of the work",
+    "motifMap": "Symbolic elements and what they represent",
+    "articleExcerpt": "Short excerpt from the piece",
+    "sourceFragments": "Key fragments or lines from the source work",
+    "associatedMedia": "Image metadata"
+  },
+
+  "headline": "The Parable of the Small Light",
+  "description": "A parable about humility, light, and the quiet duty of preserving goodness even when overshadowed.",
+  "author": "Unnamed",
+  "datePublished": "2025-11-16",
+  "keywords": [
+    "parable",
+    "light",
+    "humility",
+    "duty",
+    "quiet witness",
+    "Sun Through Branches",
+    "Ousia Bloom"
+  ],
+  "url": "https://wanderersburn.substack.com/p/the-parable-of-the-small-light",
+  "inLanguage": "en",
+
+  "timeFelt": {
+    "timestamp": "2025-11-16T00:00:00-06:00",
+    "phase": "Sun Through Branches"
+  },
+
+  "resonantThread": "Wanderer’s Burn — Parables & Field Reports",
+  "whyItMatters": "This parable articulates the Bloom’s theology of small light — the truth that even a humble flame carries divine purpose, especially when overshadowed. It reveals the value of ritual and steadiness in an age obsessed with efficiency and visibility.",
+
+  "motifMap": [
+    {
+      "symbol": "Lantern",
+      "meaning": "Small but persistent inner light; the quiet duty of witness",
+      "position": "Held in the low branches of the Great Tree"
+    },
+    {
+      "symbol": "Great Tree",
+      "meaning": "The world, or the canopy of life under which all things stand",
+      "position": "Central figure"
+    },
+    {
+      "symbol": "Old Clerk",
+      "meaning": "Elder wisdom; keeper of ritual; humility in action",
+      "position": "Off to the side, walking the same path daily"
+    },
+    {
+      "symbol": "Young Apprentice",
+      "meaning": "Modern impatience; desire for utility and proof",
+      "position": "Approaching the lantern in confusion"
+    }
+  ],
+
+  "articleExcerpt": "“Though it pales beside the sun, all light is welcome. And one day, should the sun be darkened, this little flame will shine all the greater for its days of humbleness.”",
+
+  "sourceFragments": [
+    "A great Tree stood at a crossroads, beside a small way station where weary travelers sometimes stopped.",
+    "Each morning, without fail, the old clerk would walk to the Great Tree and light a small lantern in its low branches.",
+    "Why light a lantern that serves no purpose?",
+    "Though it pales beside the sun, all light is welcome."
+  ],
+
+  "associatedMedia": {
+    "description": "Block-print style illustration of a lantern hanging from a great tree at a crossroads.",
+    "contentUrl": ""
+  },
+
+  "generatedBy": "ChatGPT-4o, 2025-11-17"
+}

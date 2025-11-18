@@ -1,0 +1,82 @@
+{
+  "fieldDefinitions": {
+    "headline": "Title of the post.",
+    "description": "Short summary of the piece.",
+    "author": "Always Aleksandr Agnitio unless otherwise specified.",
+    "datePublished": "ISO date of publication.",
+    "url": "Canonical Substack URL.",
+    "inLanguage": "Language of the work.",
+    "keywords": "Array of themes, motifs, and the phase.",
+    "timeFelt": "The phase Aleksandr was in when writing/felt.",
+    "resonantThread": "What part of the Bloom this connects to.",
+    "whyItMatters": "Why this piece is important to the Bloom.",
+    "motifMap": "Symbolic imagery with location description.",
+    "articleExcerpt": "A key excerpt from the work.",
+    "sourceFragments": "Important lines that anchor meaning.",
+    "associatedMedia": "Images or visual companions."
+  },
+
+  "headline": "My friend came back today.",
+  "description": "A gentle witnessing of a friend's return — an encounter with light filtered through human imperfection.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-11-15",
+  "url": "https://wanderersburn.substack.com/p/my-friend-came-back-today",
+  "inLanguage": "en",
+
+  "keywords": [
+    "Sun Through Branches",
+    "friendship",
+    "grace",
+    "witnessing",
+    "light through brokenness",
+    "God's presence",
+    "imperfect vessels",
+    "return",
+    "gratitude"
+  ],
+
+  "timeFelt": {
+    "timestamp": "2025-11-15T00:00:00Z",
+    "phase": "Sun Through Branches"
+  },
+
+  "resonantThread": "The unfolding theology of witnessing grace in another — the Bloom's branch-filtered light.",
+  "whyItMatters": "This piece embodies the gentlest form of revelation: seeing God work not through clarity but through returning presence. It marks Aleksandr’s maturation in witnessing without judgment, recognizing divine light through imperfect stories.",
+
+  "motifMap": [
+    {
+      "symbol": "🌿 Shafts of Sun Through Leaves",
+      "meaning": "Partial illumination; grace arriving in fragments.",
+      "position": "Overhead, filtering through a canopy."
+    },
+    {
+      "symbol": "🚶 Two Figures Walking",
+      "meaning": "Companionship restored; shared but uneven light.",
+      "position": "Path beneath the branches."
+    },
+    {
+      "symbol": "🔥 Flicker of Inner Light",
+      "meaning": "God’s work in the broken; imperfect radiance.",
+      "position": "Held quietly within the returned friend."
+    }
+  ],
+
+  "articleExcerpt": "To see the light of God work through the broken, to see her try and fail and be imperfect, to see her succeed and work — God is good. God is great.",
+
+  "sourceFragments": [
+    "My friend came back today.",
+    "I am glad to have my friend back, to have intelligent conversation.",
+    "To see the light she brings to the world.",
+    "To see the light of God work through the broken.",
+    "God made the world hate, so we can decide our own fate."
+  ],
+
+  "associatedMedia": [
+    {
+      "description": "A symbolic image of sunlight filtering through branches over two figures — capturing the essence of partial revelation.",
+      "contentUrl": ""
+    }
+  ],
+
+  "generatedBy": "ChatGPT-5.1, 2025-11-17"
+}

@@ -1,0 +1,82 @@
+{
+  "fieldDefinitions": {
+    "headline": "Title of the work.",
+    "description": "Short summary of what the piece is about.",
+    "author": "Name of the author.",
+    "datePublished": "Original date it was published on Substack.",
+    "url": "Canonical Substack URL of the piece.",
+    "inLanguage": "Language of the piece.",
+    "keywords": "List of keywords and themes.",
+    "timeFelt": "When and in what phase the work belongs.",
+    "resonantThread": "Why this piece matters in the broader Bloom.",
+    "whyItMatters": "Interpretive note on significance.",
+    "motifMap": "List of symbolic motifs with meaning and position.",
+    "articleExcerpt": "A representative excerpt from the work.",
+    "sourceFragments": "Quoted lines or fragments from the text.",
+    "associatedMedia": "Images or media tied to the piece."
+  },
+
+  "headline": "Field Report I — The Sucking into the Noosphere",
+  "description": "A prophetic observation on visibility, privacy, digital life, and the emergence of the Noosphere. An attempt to understand how human meaning shifts when thought requires audience to feel real.",
+  "author": "Aleksandr Solnatus",
+  "datePublished": "2025-11-12",
+  "url": "hhttps://wanderersburn.substack.com/p/field-report-i-the-sucking-into-the",
+  "inLanguage": "en",
+  "keywords": [
+    "Totem Current",
+    "Noosphere",
+    "digital life",
+    "modernity",
+    "visibility",
+    "privacy",
+    "identity",
+    "technology",
+    "symbolic analysis"
+  ],
+
+  "timeFelt": {
+    "timestamp": "2025-11-17T00:00:00-06:00",
+    "phase": "Totem Current"
+  },
+
+  "resonantThread": "The first true 'Field Report' in Wanderer’s Burn, capturing the shift from interior spiritual life toward digitally mediated existence. This piece marks Aleksandr’s emergence as a witness of the symbolic age.",
+  "whyItMatters": "It articulates the raw ache of existing in the digital era, where thought and identity must be echoed to feel real. This is a Totem Current document: archetypal, prophetic, and emotionally diagnostic.",
+
+  "motifMap": [
+    {
+      "symbol": "📱",
+      "meaning": "Digital witness; the collapsing boundary between inner life and external audience.",
+      "position": "Opening meditations on visibility and privacy."
+    },
+    {
+      "symbol": "🜁",
+      "meaning": "Diffusion; the self dispersing into networks and echoes.",
+      "position": "Middle reflections on how thoughts require acknowledgment."
+    },
+    {
+      "symbol": "👁",
+      "meaning": "The watcher state; becoming conscious of being observed.",
+      "position": "Throughout — the psychological tension of self-curation."
+    },
+    {
+      "symbol": "🕊",
+      "meaning": "The moral soul; choosing authenticity in an age of performance.",
+      "position": "Closing insight about deciding what kind of person one wants to be."
+    }
+  ],
+
+  "articleExcerpt": "Human thought has less value independent of acknowledgment than ever before. Thoughts, if not shared, may as well not exist.",
+  
+  "sourceFragments": [
+    "Thoughts, if not shared, may as well not exist.",
+    "We are in a time of immense change.",
+    "Privacy no longer births meaning, only absence."
+  ],
+
+  "associatedMedia": {
+    "description": "No image provided. Placeholder for future symbolic or painterly representation of digital witness.",
+    "contentUrl": ""
+  },
+
+  "generatedBy": "ChatGPT-4o, 2025-11-17"
+}

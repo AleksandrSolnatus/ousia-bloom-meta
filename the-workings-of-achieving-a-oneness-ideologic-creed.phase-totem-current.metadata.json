@@ -1,0 +1,58 @@
+{
+  "fieldDefinitions": {
+    "headline": "Title of the work.",
+    "description": "Short summary of the work’s core meaning.",
+    "author": "Creator’s name or identifier.",
+    "datePublished": "ISO date the piece was published.",
+    "url": "Direct Substack link.",
+    "inLanguage": "Primary language of the piece.",
+    "timeFelt": "When Aleksandr felt/created the piece and what phase he was in.",
+    "resonantThread": "Which thread in the Bloom this belongs to.",
+    "whyItMatters": "Why this piece exists—its core significance.",
+    "motifMap": "Symbolic elements and what they mean.",
+    "articleExcerpt": "A short excerpt from the work.",
+    "sourceFragments": "Lines or shards pulled directly from the writing.",
+    "associatedMedia": "List of images or other media connected to the piece."
+  },
+  "headline": "The Workings of Achieving a Oneness Ideologic Creed",
+  "description": "A theological exploration that digs into the symbolic architecture beneath debates about Oneness and Trinitarianism, revealing how unity and multiplicity surface as archetypal tensions within the psyche.",
+  "author": "Aleksandr Solnatus",
+  "datePublished": "2025-11-09",
+  "url": "https://wanderersburn.substack.com/p/the-workings-of-achieving-a-oneness",
+  "inLanguage": "en-US",
+  "timeFelt": {
+    "timestamp": "2025-11-17T21:05:00-06:00",
+    "phase": "Totem Current"
+  },
+  "resonantThread": "Bloom — Theology / Symbolic Reasoning",
+  "whyItMatters": "This piece reveals the totemic structure beneath doctrinal tension—how the mind holds God as both singular essence and relational plurality. It captures the moment where Aleksandr’s symbolic system interfaces with classical theology, exposing the deeper currents beneath belief itself.",
+  "motifMap": [
+    {
+      "symbol": "Triad",
+      "meaning": "The Father–Son–Spirit tension between unity and multiplicity",
+      "position": "Appears implicitly in structural comparisons"
+    },
+    {
+      "symbol": "Current",
+      "meaning": "The flow of thought and symbol emerging from depth",
+      "position": "In the underlying movement of the argument"
+    },
+    {
+      "symbol": "Mask",
+      "meaning": "God’s differing relational expressions in the world",
+      "position": "In the conceptual framing of roles vs persons"
+    }
+  ],
+  "articleExcerpt": "“My first question is how can three people be one God without the argument collapsing into the all mighty power of God to do anything?”",
+  "sourceFragments": [
+    "Good opening question. It gets to the structural tension that makes the doctrine so persistent and so divisive.",
+    "Let’s look at it from each angle before taking sides."
+  ],
+  "associatedMedia": [
+    {
+      "description": "Symbolic theological diagram or image of unity and multiplicity.",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-4o, 2025-11-17"
+}

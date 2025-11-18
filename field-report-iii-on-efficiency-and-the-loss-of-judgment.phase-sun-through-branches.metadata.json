@@ -1,0 +1,78 @@
+{
+  "fieldDefinitions": {
+    "headline": "Title of the work.",
+    "description": "Short summary of the piece.",
+    "author": "Always 'Aleksandr Solnatus'.",
+    "generatedBy": "Tool and date of metadata creation.",
+    "datePublished": "ISO date of the original work's publication.",
+    "url": "Full Substack link.",
+    "inLanguage": "Always 'en-US'.",
+    "keywords": "Themes, motifs, and phase.",
+    "timeFelt": "Phase and timestamp when the work was felt internally.",
+    "resonantThread": "The deeper thematic thread tying the piece to Bloom.",
+    "whyItMatters": "One paragraph on significance.",
+    "motifMap": "Symbolic motifs and their meaning.",
+    "articleExcerpt": "Key excerpt from the work (<= 40 words).",
+    "sourceFragments": "Fragments from the raw text to anchor interpretation.",
+    "associatedMedia": "Optional image description and link."
+  },
+
+  "headline": "Field Report III — On Efficiency and the Loss of Judgment",
+  "description": "A reflection on modern management, the collapse of judgment under efficiency doctrine, and the subtle ways labor, communication, and moral discernment fray within institutional systems.",
+  "author": "Aleksandr Solnatus",
+  "generatedBy": "ChatGPT-5.1, 2025-11-17",
+  "datePublished": "2025-11-14",
+  "url": "https://wanderersburn.substack.com/p/field-report-iii-on-efficiency-and-the-loss-of-judgment",
+  "inLanguage": "en-US",
+
+  "keywords": [
+    "efficiency",
+    "judgment",
+    "management",
+    "institutional systems",
+    "hospital life",
+    "communication",
+    "Sun Through Branches",
+    "Aleksandr Solnatus"
+  ],
+
+  "timeFelt": {
+    "timestamp": "2025-11-17T20:06:00-06:00",
+    "phase": "Sun Through Branches"
+  },
+
+  "resonantThread": "The piece belongs to Aleksandr’s ongoing examination of how contemporary systems flatten human discernment. The Sun Through Branches phase reveals where clarity pierces through the canopy of noise—moments where simple tasks become moral mirrors.",
+
+  "whyItMatters": "This report exposes the quiet moral injuries produced by efficiency culture—the way it substitutes speed for judgment and metrics for wisdom. Aleksandr observes how modern work subtly trains people to abandon the inner voice that once guided care, patience, and truth. Naming this erosion is itself an act of resistance.",
+
+  "motifMap": [
+    {
+      "symbol": "🧤",
+      "meaning": "The gloves represent institutional waste, misalignment, and the mismatch between frontline labor and managerial logic.",
+      "position": "Opening scenes in the hospital supply chain."
+    },
+    {
+      "symbol": "🌫️",
+      "meaning": "The haze of routine that obscures deeper moral perception.",
+      "position": "Throughout observations of staff behavior."
+    },
+    {
+      "symbol": "🌿☀️",
+      "meaning": "The beam of discernment breaking through—Sun Through Branches.",
+      "position": "Moments of reflective clarity about judgment and care."
+    }
+  ],
+
+  "articleExcerpt": "I guess my interest is in modern management. We had to swap out all the nitrate gloves in the hospital. The supply leads and workers were all complaining…",
+
+  "sourceFragments": [
+    "We had to swap out all the nitrate gloves in the hospital.",
+    "The supply leads and the workers are all complaining about the nurses…",
+    "Efficiency seems to replace judgment, even in small things."
+  ],
+
+  "associatedMedia": {
+    "description": "A symbolic image of sunlight breaking through a dense canopy, representing judgment piercing the haze of institutional routine.",
+    "contentUrl": ""
+  }
+}

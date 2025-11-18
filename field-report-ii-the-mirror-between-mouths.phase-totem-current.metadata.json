@@ -1,0 +1,78 @@
+{
+  "fieldDefinitions": {
+    "headline": "Title of the work.",
+    "description": "One-sentence summary capturing tone and focus.",
+    "author": "Author name or pseudonym.",
+    "datePublished": "ISO date of publication.",
+    "keywords": "List of thematic, symbolic, and Bloom-related keywords.",
+    "url": "Canonical Substack URL.",
+    "inLanguage": "Primary language of the work.",
+    "timeFelt": "When and in what phase the piece was felt.",
+    "resonantThread": "Which broader thread of Bloom this belongs to.",
+    "whyItMatters": "Short explanation of the work’s purpose or insight.",
+    "motifMap": "List of symbolic motifs present in the work.",
+    "articleExcerpt": "Short excerpt from the beginning of the piece.",
+    "sourceFragments": "Direct pulls from the text that show core ideas.",
+    "associatedMedia": "Image or visual link if relevant."
+  },
+  "headline": "Field Report II — The Mirror Between Mouths",
+  "description": "A reflective observational report tracing the distortion of speech, sincerity, and self-presentation within modern hospital life, and the thin line between genuine presence and curated identity.",
+  "author": "Aleksandr Solnatus",
+  "datePublished": "2025-11-13",
+  "keywords": [
+    "Field Report",
+    "Totem Current",
+    "identity",
+    "sincerity",
+    "speech",
+    "modern self",
+    "hospital",
+    "performance",
+    "caste",
+    "noosphere",
+    "Ousia Bloom"
+  ],
+  "url": "https://wanderersburn.substack.com/p/field-report-ii-the-mirror-between",
+  "inLanguage": "en-US",
+  "timeFelt": {
+    "timestamp": "2025-11-13T00:00:00-06:00",
+    "phase": "Totem Current"
+  },
+  "resonantThread": "Field Reports — witnessing modern life through symbolic attention and lived observation.",
+  "whyItMatters": "This piece captures the dissonance between interior and exterior selves in an age shaped by hyper-visibility, performance, and fragmented attention. Inside the Bloom, it acts as a diagnostic shard—naming the sickness of shallow communion and the spiritual ache for sincerity.",
+  "motifMap": [
+    {
+      "symbol": "Mirror",
+      "meaning": "Self-awareness without interiority; seeing oneself perform rather than being.",
+      "position": "Title and thematic throughline"
+    },
+    {
+      "symbol": "Hospital Caste",
+      "meaning": "Modern stratification and the implicit rules of identity performance.",
+      "position": "Middle sections, interactions with staff"
+    },
+    {
+      "symbol": "Cart",
+      "meaning": "Motion within machinery—labor as pilgrimage; searching for speech in the mundane.",
+      "position": "Opening paragraphs"
+    },
+    {
+      "symbol": "Eyes",
+      "meaning": "The hidden inner self versus curated outer form; attempts to read sincerity through presence.",
+      "position": "Later interactions with nurses and therapist"
+    }
+  ],
+  "articleExcerpt": "I begin this report after having walked the halls of the hospital, earbud in, podcasts that may or may not be playing… I am pushing my cart around and looking for communication. Maybe not on the surface but I do love to talk.",
+  "sourceFragments": [
+    "“Observation: speech itself has flattened, reduced to contact rather than communion.”",
+    "“Visibility replaces vulnerability. The eye turned inward is punished.”",
+    "“He senses that spontaneous joy has become suspect behavior.”",
+    "“The self diffused through screens grows thinner until the echo replaces the voice.”",
+    "“We confess everything except what matters.”"
+  ],
+  "associatedMedia": {
+    "description": "No associated image supplied.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-4o, 2025-11-17"
+}

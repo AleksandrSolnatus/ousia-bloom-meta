@@ -1,0 +1,90 @@
+{
+  "fieldDefinitions": {
+    "headline": "The title of the work.",
+    "description": "A short explanation of the piece's focus and emotional/intellectual aim.",
+    "author": "Who created the piece.",
+    "datePublished": "ISO date the piece was published.",
+    "url": "The Substack link to the post.",
+    "inLanguage": "Language of the work.",
+    "keywords": "Thematic keywords used for indexing and searchability.",
+    "timeFelt": "When and in what phase the piece was emotionally experienced.",
+    "resonantThread": "The Bloom-wide currents or arcs this piece participates in.",
+    "whyItMatters": "Why this piece belongs in the archive; its importance to the Bloom.",
+    "motifMap": "A list of symbols in the work and their role.",
+    "articleExcerpt": "A small, representative quotation from the work.",
+    "sourceFragments": "Short topical fragments naming major subjects of the piece.",
+    "associatedMedia": "Any image or media used with the post."
+  },
+
+  "headline": "Psalm of the Ache",
+  "description": "A lament written on a day when emotional wounds resurfaced—loss, abandonment, and the echo of old trauma meeting the desire for love, safety, and God’s nearness.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-11-11",
+  "url": "https://wanderersburn.substack.com/p/psalm-of-the-ache",
+  "inLanguage": "en",
+
+  "keywords": [
+    "Psalm",
+    "Ache",
+    "Echo Moon",
+    "Heartbreak",
+    "Loneliness",
+    "Faith",
+    "Trauma",
+    "Desire for Love",
+    "Abandonment",
+    "Healing"
+  ],
+
+  "timeFelt": {
+    "timestamp": "2025-11-11T00:00:00-06:00",
+    "phase": "Echo Moon"
+  },
+
+  "resonantThread": "Part of the unfolding psalmic record of grief, longing, and testimony during the Echo Moon—when old wounds reverberate through the present with haunting clarity.",
+
+  "whyItMatters": "This psalm captures a raw point of recurrence: the return of hurt from mother and wife, the ache for love freely given, and the longing for God’s comfort amid emotional solitude. It records Aleksandr’s recognition that some wounds reopen as part of healing, and that longing for tenderness and fidelity is not weakness but truth spoken through ache. This piece stands as an honest marker of the Echo Moon’s trembling clarity.",
+
+  "motifMap": [
+    {
+      "symbol": "Dimmed Light",
+      "meaning": "The sense of spiritual exhaustion and quiet persistence.",
+      "position": "Center of emotional frame."
+    },
+    {
+      "symbol": "Houses With Others Inside",
+      "meaning": "The awareness that others receive the love he longs for.",
+      "position": "Contrast element beside the self."
+    },
+    {
+      "symbol": "Empty Ache",
+      "meaning": "The hollowed-out emotional space where absence and longing meet.",
+      "position": "Core emotional axis."
+    },
+    {
+      "symbol": "God’s Embrace",
+      "meaning": "The distant but hoped-for comfort and belonging.",
+      "position": "Horizon, upward tilt."
+    }
+  ],
+
+  "articleExcerpt": "‘I just want something to love and be loved by. I just want one of them to miss me… To know that they loved me for real. Without me having to ask.’",
+
+  "sourceFragments": [
+    "Loneliness",
+    "Therapy",
+    "Abandonment",
+    "Mother Wound",
+    "Marriage Wound",
+    "Yearning for Love",
+    "Prayer",
+    "Ache of Absence"
+  ],
+
+  "associatedMedia": {
+    "description": "No image was included with this Substack post.",
+    "contentUrl": ""
+  },
+
+  "generatedBy": "ChatGPT-4o, 2025-11-17"
+}

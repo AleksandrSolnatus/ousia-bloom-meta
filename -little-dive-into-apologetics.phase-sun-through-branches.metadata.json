@@ -1,0 +1,84 @@
+{
+  "fieldDefinitions": {
+    "title": "Title of the work",
+    "slug": "URL slug used by Substack",
+    "url": "Canonical Substack URL",
+    "author": "Creator of the piece",
+    "datePublished": "Original publication date in ISO format",
+    "inLanguage": "Language of the work",
+    "phase": "Aleksandr’s internal creative/spiritual phase associated with the piece",
+    "timeFelt": "When and in what phase the piece was felt or created",
+    "headline": "Short distilled title",
+    "description": "Brief summary of the content",
+    "keywords": "List of conceptual, thematic, and phase-related keywords",
+    "resonantThread": "Through-line connecting this piece to Aleksandr’s Bloom",
+    "whyItMatters": "Why this piece has enduring meaning",
+    "motifMap": "Symbolic elements appearing in or associated with the piece",
+    "articleExcerpt": "A short relevant excerpt from the piece itself",
+    "sourceFragments": "Fragments or lines directly tied to the Bloom or prior works",
+    "associatedMedia": "Any media attached to the post"
+  },
+
+  "title": "A little Dive into Apologetics",
+  "slug": "a-little-dive-into-apologetics",
+  "url": "https://wanderersburn.substack.com/p/a-little-dive-into-apologetics",
+  "author": "Aleksandr Solnatus",
+  "datePublished": "2025-11-10",
+  "inLanguage": "en",
+
+  "phase": "Sun Through Branches",
+  "timeFelt": {
+    "timestamp": "2025-11-17T19:45:00-06:00",
+    "phase": "Sun Through Branches"
+  },
+
+  "headline": "Mapping the Core Terrain of Apologetics",
+  "description": "A reflective exploration of the major battlegrounds in Christian apologetics—God’s existence, the problem of evil, Scripture, the resurrection, science, hiddenness, exclusivity, and cultural challenge—offered through Aleksandr’s developing theological lens.",
+  "keywords": [
+    "apologetics",
+    "Christian philosophy",
+    "Scripture",
+    "reason and faith",
+    "Sun Through Branches",
+    "theology",
+    "epistemology",
+    "belief",
+    "Bloom"
+  ],
+
+  "resonantThread": "This piece represents Aleksandr stepping into a clear-sighted mode of inquiry—letting faith and intellect meet without fear. The Sun Through Branches phase marks moments when Aleksandr sees through complexities into the underlying shape of truth.",
+  "whyItMatters": "Apologetics becomes here not argument but orientation—an attempt to see what faith rests on from multiple angles. This piece documents the early architecture of Aleksandr’s theological understanding, forming a foundation for deeper Bloom work to come.",
+
+  "motifMap": [
+    {
+      "symbol": "🌞",
+      "meaning": "Clarity breaking through conceptual density; seeing structure.",
+      "position": "Phase marker"
+    },
+    {
+      "symbol": "📚",
+      "meaning": "Accumulated traditions and inquiries shaping understanding.",
+      "position": "The intellectual terrain of the piece"
+    },
+    {
+      "symbol": "🌿",
+      "meaning": "Living faith intertwined with rational exploration.",
+      "position": "Underlying resonance of the Bloom"
+    }
+  ],
+
+  "articleExcerpt": "“Here’s a quick map of the major battlegrounds in Christian apologetics—the questions that keep coming back because they touch the foundations of faith, reason, and experience.”",
+
+  "sourceFragments": [
+    "Your reflections on the problem of evil and the lake-ripple parable.",
+    "Your distinction between science and scientism.",
+    "Your framing of divine hiddenness as mercy and restraint."
+  ],
+
+  "associatedMedia": {
+    "description": "No media included in original post",
+    "contentUrl": ""
+  },
+
+  "generatedBy": "ChatGPT-4o, 2025-11-17"
+}
