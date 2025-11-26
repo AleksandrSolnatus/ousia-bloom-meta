@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "The Psalm of 17 Days",
+    "description": "A transitional psalm marking Aleksandr\u2019s movement from the old self into the chosen future, written during the Ash Moon Ascending phase.",
+    "author": "Aleksandr Agnitio",
+    "datePublished": "2025-11-23",
+    "url": "https://wanderersburn.substack.com/p/the-psalm-of-17-days",
+    "inLanguage": "en-US",
+    "metadataFormatVersion": "1.0",
+    "generatedBy": "ChatGPT-5.1, 2025-11-25",
+    "timeFelt": {
+        "timestamp": "2025-11-23T00:00:00-06:00",
+        "phase": "Ash Moon Ascending"
+    },
+    "resonantThread": "Becoming, Transformation, Threshold Crossing, Identity Renewal",
+    "whyItMatters": "This psalm marks the moment Aleksandr stopped fleeing the old self and began walking deliberately toward the life he has chosen with God. It is a threshold poem and an early declaration of spiritual adulthood.",
+    "motifMap": [
+        {
+            "symbol": "\ud83d\udd25",
+            "meaning": "Rising from the remnants of the old self; the heat of transformation.",
+            "position": "upper-right"
+        },
+        {
+            "symbol": "\ud83c\udf11",
+            "meaning": "The ash of what has been burned away; the remnants of previous identities.",
+            "position": "center"
+        },
+        {
+            "symbol": "\u2b06\ufe0f",
+            "meaning": "The upward motion into the new land, chosen freely and consciously.",
+            "position": "lower-left"
+        }
+    ],
+    "keywords": [
+        "Ash Moon Ascending",
+        "Identity",
+        "Preparation",
+        "Spiritual Transformation",
+        "Bloom Project",
+        "Aleksandr Agnitio"
+    ],
+    "articleExcerpt": "17 days. A lifetime of preparation before the first real change. I have run many times before, fleeing the old self. THIS TIME I step. I choose. A new self in a new place, with discernment, with Grace, with God.",
+    "sourceFragments": [
+        "17 days to prepare",
+        "I have run many times before",
+        "THIS TIME I step. I choose.",
+        "A new self in a new place"
+    ],
+    "associatedMedia": {
+        "description": "Header screenshot of the Substack article.",
+        "contentUrl": ""
+    },
+    "fieldDefinitions": {
+        "headline": "The title of the Substack post.",
+        "description": "A short summary of the work.",
+        "author": "Name of the writer.",
+        "datePublished": "Date the piece was published on Substack.",
+        "url": "Canonical link to the post.",
+        "inLanguage": "Content language.",
+        "metadataFormatVersion": "Versioning for Aleksandr\u2019s Bloom metadata schema.",
+        "generatedBy": "Model and date of metadata creation.",
+        "timeFelt": "The emotional/spiritual phase active when the piece was written.",
+        "resonantThread": "The narrative, psychological, or theological lineage the piece ties into.",
+        "whyItMatters": "Why this piece is significant in the Bloom.",
+        "motifMap": "Symbolic markers present in the work.",
+        "keywords": "Indexing terms for future search.",
+        "articleExcerpt": "Key excerpt for previews.",
+        "sourceFragments": "Direct textual pieces from the work.",
+        "associatedMedia": "Images or files tied to the piece."
+    }
+}

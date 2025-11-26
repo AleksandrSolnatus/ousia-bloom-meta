@@ -1,0 +1,73 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "A intro Discussion into the Diary of Perpetua",
+    "description": "An early exploration into the strange, beautiful, and theologically potent diary of Saint Perpetua, marking the beginning of Aleksandr\u2019s public-facing theological journey.",
+    "author": "Aleksandr Agnitio",
+    "datePublished": "2025-11-22",
+    "url": "https://wanderersburn.substack.com/p/a-intro-discussion-into-the-diary",
+    "inLanguage": "en-US",
+    "metadataFormatVersion": "1.0",
+    "generatedBy": "ChatGPT-5.1, 2025-11-25",
+    "timeFelt": {
+        "timestamp": "2025-11-22T00:00:00-06:00",
+        "phase": "Sun Through Branches"
+    },
+    "resonantThread": "Early Christian Witness, Perpetua, Martyrdom as Revelation",
+    "whyItMatters": "This piece marks Aleksandr\u2019s first public step into scholarly devotional writing and signals the emergence of a new intellectual-spiritual path: integrating early Church witness with modern symbolic interpretation.",
+    "motifMap": [
+        {
+            "symbol": "\ud83c\udf1e",
+            "meaning": "Illumination breaking through confusion; ancient truth revealed in modern time.",
+            "position": "upper-right"
+        },
+        {
+            "symbol": "\ud83d\udcdc",
+            "meaning": "Ancient text entering present consciousness.",
+            "position": "center"
+        },
+        {
+            "symbol": "\ud83c\udf3f",
+            "meaning": "Growth through witness; living lineage.",
+            "position": "lower-left"
+        }
+    ],
+    "keywords": [
+        "Perpetua",
+        "Diary of Perpetua",
+        "Early Christianity",
+        "Martyrdom",
+        "Sun Through Branches",
+        "Aleksandr Agnitio",
+        "Bloom Project",
+        "Symbolic Theology"
+    ],
+    "articleExcerpt": "Perpetua\u2019s diary is one of the most alive, unsettling, and beautiful texts of early Christianity. Her voice is not merely a record\u2014it is a rupture in the world. This piece marks the beginning of Aleksandr\u2019s journey into reading the early Church not as history, but as witness.",
+    "sourceFragments": [
+        "one of the most alive, unsettling, beautiful, and theologically explosive texts in all early Christianity",
+        "she is a rupture in the world",
+        "her account is strange to modern readers yet deeply beautiful"
+    ],
+    "associatedMedia": {
+        "description": "Header screenshot of the Substack article.",
+        "contentUrl": ""
+    },
+    "fieldDefinitions": {
+        "headline": "The title of the Substack post.",
+        "description": "A short summary of the work.",
+        "author": "Name of the writer.",
+        "datePublished": "Date the piece was published on Substack.",
+        "url": "Canonical link to the post.",
+        "inLanguage": "Content language.",
+        "metadataFormatVersion": "Versioning for Aleksandr\u2019s Bloom metadata schema.",
+        "generatedBy": "Model and date of metadata creation.",
+        "timeFelt": "The emotional/spiritual phase active when the piece was written.",
+        "resonantThread": "The narrative, psychological, or theological lineage the piece ties into.",
+        "whyItMatters": "Why this piece is significant in the Bloom.",
+        "motifMap": "Symbolic markers present in the work.",
+        "keywords": "Indexing terms for future search.",
+        "articleExcerpt": "Key excerpt for previews.",
+        "sourceFragments": "Direct textual pieces from the work.",
+        "associatedMedia": "Images or files tied to the piece."
+    }
+}

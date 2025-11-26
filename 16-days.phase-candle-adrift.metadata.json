@@ -1,0 +1,70 @@
+{
+  "fieldDefinitions": {
+    "headline": "Title of the post",
+    "description": "Short summary",
+    "author": "Author name or pseudonym",
+    "datePublished": "ISO 8601 date",
+    "keywords": "Relevant tags",
+    "url": "Canonical link",
+    "inLanguage": "Primary language",
+    "metadataFormatVersion": "Version number",
+    "generatedBy": "Model and date",
+    "timeFelt": "When the phase was felt",
+    "resonantThread": "Why this matters",
+    "whyItMatters": "Contextual meaning",
+    "motifMap": "Symbolic motifs in the piece",
+    "articleExcerpt": "Excerpt from the work",
+    "sourceFragments": "Snippets from the text",
+    "associatedMedia": "Images or media linked"
+  },
+  "headline": "16 Days",
+  "description": "A transitory note on discernment, trust, and preparing to depart.",
+  "author": "UNNAMED",
+  "datePublished": "2025-11-24T00:00:00-06:00",
+  "keywords": [
+    "Candle Adrift",
+    "discernment",
+    "transition",
+    "faith",
+    "Ousia Bloom"
+  ],
+  "url": "https://wanderersburn.substack.com/p/16-days",
+  "inLanguage": "en-US",
+  "metadataFormatVersion": "1.0",
+  "generatedBy": "ChatGPT-4o, 2025-11-25",
+  "timeFelt": {
+    "timestamp": "2025-11-26T04:10:21.971153",
+    "phase": "Candle Adrift"
+  },
+  "resonantThread": "A moment of wandering trust before the great relocation.",
+  "whyItMatters": "This marks the first articulation of the Candle Adrift mood\u2014faithful uncertainty paired with quiet motion.",
+  "motifMap": [
+    {
+      "symbol": "\ud83d\udd6f",
+      "meaning": "Fragile faith in motion",
+      "position": "opening tone"
+    },
+    {
+      "symbol": "\ud83c\udf2b",
+      "meaning": "Unclear horizon",
+      "position": "middle reflection"
+    },
+    {
+      "symbol": "\ud83c\udf2c",
+      "meaning": "Worries as passing wind",
+      "position": "final line"
+    }
+  ],
+  "articleExcerpt": "I don\u2019t got much now. I dont know that much now. But I have 16 days till I am supposed to leave...",
+  "sourceFragments": [
+    "So much is in the Air.",
+    "Maybe I am supposed to let it ride.",
+    "1000 years for now any worries of a random slob like me will be farts in the wind."
+  ],
+  "associatedMedia": [
+    {
+      "description": "Substack header image",
+      "contentUrl": ""
+    }
+  ]
+}

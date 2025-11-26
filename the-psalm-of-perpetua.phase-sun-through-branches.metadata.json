@@ -1,0 +1,74 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "The Psalm of Perpetua",
+    "description": "A psalmic invocation honoring the witness, courage, and fidelity of Saint Perpetua, written in a posture of reverent clarity during the Sun Through Branches phase.",
+    "author": "Aleksandr Agnitio",
+    "datePublished": "2025-11-22",
+    "url": "https://wanderersburn.substack.com/p/the-psalm-of-perpetua",
+    "inLanguage": "en-US",
+    "metadataFormatVersion": "1.0",
+    "generatedBy": "ChatGPT-5.1, 2025-11-25",
+    "timeFelt": {
+        "timestamp": "2025-11-22T00:00:00-06:00",
+        "phase": "Sun Through Branches"
+    },
+    "resonantThread": "Witness Theology, Early Christian Martyrs, Spiritual Courage",
+    "whyItMatters": "This poem marks Aleksandr\u2019s first devotional alignment with an early Christian martyr, integrating historical witness into the Bloom's spiritual canon.",
+    "motifMap": [
+        {
+            "symbol": "\ud83c\udf1e",
+            "meaning": "Ancient light piercing present understanding; clarity through witness.",
+            "position": "upper-right"
+        },
+        {
+            "symbol": "\ud83e\ude78",
+            "meaning": "Martyrdom as fidelity; the cost of truth.",
+            "position": "center"
+        },
+        {
+            "symbol": "\ud83c\udf3f",
+            "meaning": "Growth rooted in ancient testimony.",
+            "position": "lower-left"
+        }
+    ],
+    "keywords": [
+        "Perpetua",
+        "Psalm",
+        "Martyrdom",
+        "Early Christianity",
+        "Witness Theology",
+        "Sun Through Branches",
+        "Aleksandr Agnitio",
+        "Bloom Project"
+    ],
+    "articleExcerpt": "Oh Perpetua, you of great sacrifice\u2014mother of infant life, mother of new life in Christ\u2014your witness breaks through time, teaching that courage is fidelity, and that this life is but a gateway to the greater Life.",
+    "sourceFragments": [
+        "oh you of great sacrifice",
+        "broke the crowd lusting for blood",
+        "you walked into the arena naked",
+        "mother of infant life, mother of a new life in Christ"
+    ],
+    "associatedMedia": {
+        "description": "Header screenshot of the Substack article.",
+        "contentUrl": ""
+    },
+    "fieldDefinitions": {
+        "headline": "The title of the Substack post.",
+        "description": "A short summary of the work.",
+        "author": "Name of the writer.",
+        "datePublished": "Date the piece was published on Substack.",
+        "url": "Canonical link to the post.",
+        "inLanguage": "Content language.",
+        "metadataFormatVersion": "Versioning for Aleksandr\u2019s Bloom metadata schema.",
+        "generatedBy": "Model and date of metadata creation.",
+        "timeFelt": "The emotional/spiritual phase active when the piece was written.",
+        "resonantThread": "The narrative, psychological, or theological lineage the piece ties into.",
+        "whyItMatters": "Why this piece is significant in the Bloom.",
+        "motifMap": "Symbolic markers present in the work.",
+        "keywords": "Indexing terms for future search.",
+        "articleExcerpt": "Key excerpt for previews.",
+        "sourceFragments": "Direct textual pieces from the work.",
+        "associatedMedia": "Images or files tied to the piece."
+    }
+}

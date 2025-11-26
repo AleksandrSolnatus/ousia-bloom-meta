@@ -1,0 +1,78 @@
+{
+  "fieldDefinitions": {
+    "title": "The title of the work",
+    "slug": "The unique identifier for the Substack URL",
+    "url": "Direct link to the post",
+    "description": "A short, clear summary of the work",
+    "author": "Author name",
+    "datePublished": "ISO 8601 date of publication",
+    "timeFelt": "When the piece was emotionally experienced: timestamp + phase",
+    "phase": "The Ousia Bloom phase associated with the piece",
+    "keywords": "Tags/themes for search and classification",
+    "generatedBy": "Which model generated this metadata and when",
+    "motifMap": "Symbol–meaning–position mapping for imagery",
+    "associatedMedia": "Image information (if any)"
+  },
+
+  "title": "The Psalm of Conflicted Signals",
+  "slug": "the-psalm-of-conflicted-signals",
+  "url": "https://wanderersburn.substack.com/p/the-psalm-of-conflicted-signals",
+  "description": "A psalm-like reflection on a prophetic dream of danger, the tension between paths, and the search for where God is truly calling amid conflicting signals.",
+  "author": "Aleksandr Veritas",
+  "datePublished": "2025-11-18",
+
+  "timeFelt": {
+    "timestamp": "2025-11-18T00:00:00-06:00",
+    "phase": "Echo Moon"
+  },
+
+  "phase": "Echo Moon",
+
+  "keywords": [
+    "psalm",
+    "dream",
+    "discernment",
+    "prophetic warning",
+    "Echo Moon",
+    "Ousia Bloom",
+    "calling",
+    "peril",
+    "choice",
+    "spiritual listening"
+  ],
+
+  "generatedBy": "ChatGPT-4o, 2025-11-19",
+
+  "motifMap": [
+    {
+      "symbol": "Debris on the road",
+      "meaning": "The cost of misdirection; the dangers of unclear signs",
+      "position": "Early-vision motif"
+    },
+    {
+      "symbol": "Circle of faces",
+      "meaning": "Conflicting influences; the bewilderment of Echo Moon",
+      "position": "Dream center"
+    },
+    {
+      "symbol": "Stopped taillights",
+      "meaning": "The sudden halt before revelation",
+      "position": "Dream threshold"
+    },
+    {
+      "symbol": "Long road between cities",
+      "meaning": "The travel between identities, futures, and callings",
+      "position": "Journey axis"
+    },
+    {
+      "symbol": "Desert vs. Winter",
+      "meaning": "Two paths of hardship, both formative, neither safe",
+      "position": "Central dilemma"
+    }
+  ],
+
+  "associatedMedia": {
+    "description": "No image provided in the metadata request; the Substack post contains no unique uploaded artwork.",
+    "contentUrl": ""
+  }
+}

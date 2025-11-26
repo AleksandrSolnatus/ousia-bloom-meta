@@ -1,0 +1,71 @@
+{
+  "fieldDefinitions": {
+    "headline": "Title of the Substack post",
+    "description": "Short summary of what the post is about",
+    "author": "Name of the author",
+    "datePublished": "ISO 8601 date when the post is published",
+    "url": "Canonical link to the Substack post",
+    "inLanguage": "Language of the post",
+    "keywords": "List of keywords describing the themes",
+    "timeFelt": "The phase and timestamp that the author felt during creation",
+    "resonantThread": "The deeper theme this work participates in",
+    "whyItMatters": "Purpose and significance of the piece in the Bloom",
+    "motifMap": "Symbolic elements within the work",
+    "articleExcerpt": "Short excerpt from the piece",
+    "sourceFragments": "Direct fragments from the text that informed the metadata",
+    "associatedMedia": "Optional media tied to the post",
+    "generatedBy": "Model and date that generated this metadata",
+    "metadataFormatVersion": "Version number of the metadata schema"
+  },
+  "headline": "Psalm of the Tired Evening",
+  "description": "A psalm of exhaustion, drifting faith, and surrender into God\u2019s carrying strength.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-11-19T00:00:00-06:00",
+  "url": "https://wanderersburn.substack.com/p/psalm-of-the-tired-evening",
+  "inLanguage": "en",
+  "keywords": [
+    "Candle Adrift",
+    "psalm",
+    "faith",
+    "fatigue",
+    "discernment",
+    "surrender",
+    "Ousia Bloom"
+  ],
+  "timeFelt": {
+    "timestamp": "2025-11-19T00:00:00-06:00",
+    "phase": "Candle Adrift"
+  },
+  "resonantThread": "The quiet endurance of faith when clarity fades \u2014 the soul afloat on God\u2019s current rather than its own strength.",
+  "whyItMatters": "This piece marks a crucial threshold in Aleksandr's spiritual development: a shift from striving to surrender, from decision to rest. It reveals the moment when fatigue ceases to be defeat and becomes trust \u2014 a holy drift in which God carries what the heart cannot. It expands the Candle-line by introducing a waterborne phase of guidance through buoyancy instead of will.",
+  "motifMap": [
+    {
+      "symbol": "\ud83d\udd6f",
+      "meaning": "The self\u2019s fragile but persistent flame",
+      "position": "center \u2014 the candle that remains lit despite uncertainty"
+    },
+    {
+      "symbol": "\ud83c\udf0a",
+      "meaning": "The waters of God\u2019s carrying grace",
+      "position": "beneath \u2014 the current holding the drifting soul"
+    },
+    {
+      "symbol": "dusk light",
+      "meaning": "The fading clarity of effort before surrender",
+      "position": "horizon"
+    }
+  ],
+  "articleExcerpt": "\u201cSo tonight I lay it down. Tonight I rest. I do not have to decide. You carry what I cannot.\u201d",
+  "sourceFragments": [
+    "I am tired today. The words come in bursts and vanish.",
+    "Your Spirit whispers 'stay.' My heart whispers 'go.'",
+    "So tonight I lay it down. Tonight I rest.",
+    "You carry what I cannot."
+  ],
+  "associatedMedia": {
+    "description": "Screenshot of the original Substack post.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5.1, 2025-11-25",
+  "metadataFormatVersion": "1.0"
+}

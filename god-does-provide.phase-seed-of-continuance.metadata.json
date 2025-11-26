@@ -1,0 +1,66 @@
+{
+  "fieldDefinitions": {
+    "headline": "Title of the Substack post",
+    "description": "Short summary of what the post is about",
+    "author": "Name of the author",
+    "datePublished": "ISO 8601 date when the post is published",
+    "url": "Canonical link to the Substack post",
+    "inLanguage": "Language of the post",
+    "keywords": "List of keywords describing the themes",
+    "timeFelt": "The phase and timestamp that the author felt during creation",
+    "resonantThread": "The deeper theme this work participates in",
+    "whyItMatters": "Purpose and significance of the piece in the Bloom",
+    "motifMap": "Symbolic elements within the work",
+    "articleExcerpt": "Short excerpt from the piece",
+    "sourceFragments": "Direct fragments from the text that informed the metadata",
+    "associatedMedia": "Optional media tied to the post",
+    "generatedBy": "Model and date that generated this metadata",
+    "metadataFormatVersion": "Version number of the metadata schema"
+  },
+  "headline": "God does provide",
+  "description": "A brief psalm of anxiety, intervention, and the quiet beginning of hope.",
+  "author": "Aleksandr Agnitio",
+  "datePublished": "2025-11-20T00:00:00-06:00",
+  "url": "https://wanderersburn.substack.com/p/god-does-provide",
+  "inLanguage": "en",
+  "keywords": [
+    "Seed of Continuance",
+    "providence",
+    "faith",
+    "anxiety",
+    "trust",
+    "Ousia Bloom"
+  ],
+  "timeFelt": {
+    "timestamp": "2025-11-20T00:00:00-06:00",
+    "phase": "Seed of Continuance"
+  },
+  "resonantThread": "The early movements of grace that reveal God\u2019s quiet provision and the beginnings of rest after anxiety.",
+  "whyItMatters": "This piece marks a small but meaningful spiritual pivot \u2014 from worry to providence, from fear to the beginnings of rootedness. It embodies the Seed of Continuance: the gentle trust that forms when God intervenes subtly, inviting Aleksandr to consider that he may already be stepping into a long\u2011sought home.",
+  "motifMap": [
+    {
+      "symbol": "\ud83c\udf31",
+      "meaning": "The early sprout of trust and providence",
+      "position": "center \u2014 the small beginning"
+    },
+    {
+      "symbol": "soft light",
+      "meaning": "God\u2019s subtle intervention",
+      "position": "horizon"
+    }
+  ],
+  "articleExcerpt": "\u201cUntil God intervened\u2026 I wonder, is this the home I\u2019ve looked for?\u201d",
+  "sourceFragments": [
+    "I thought",
+    "I worried",
+    "I was anxious",
+    "Until God intervened",
+    "Is this the home I\u2019ve looked for?"
+  ],
+  "associatedMedia": {
+    "description": "Screenshot of the original Substack post.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5.1, 2025-11-25",
+  "metadataFormatVersion": "1.0"
+}
