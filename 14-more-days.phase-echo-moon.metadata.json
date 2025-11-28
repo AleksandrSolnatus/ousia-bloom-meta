@@ -1,0 +1,59 @@
+{
+    "fieldDefinitions": {
+        "title": "The displayed title of the post.",
+        "slug": "The URL slug assigned by Substack.",
+        "url": "Full URL to the Substack post.",
+        "phase": "Which Bloom phase this work belongs to.",
+        "timeFelt": "Timestamp & associated phase.",
+        "created": "Date the piece was written.",
+        "keywords": "Search terms describing themes.",
+        "summary": "Short description.",
+        "motifMap": "Symbolic elements appearing in the work.",
+        "associatedMedia": "Images or media included/related.",
+        "generatedBy": "Indicates ChatGPT version and date."
+    },
+    "title": "The Psalm of 14 More Days",
+    "slug": "14-more-days",
+    "url": "https://wanderersburn.substack.com/p/14-more-days",
+    "phase": "Echo Moon",
+    "timeFelt": {
+        "timestamp": "2025-11-27T00:00:00-06:00",
+        "phase": "Echo Moon"
+    },
+    "created": "2025-11-27",
+    "keywords": [
+        "Echo Moon",
+        "waiting",
+        "uncertainty",
+        "faith",
+        "doubt",
+        "road imagery",
+        "spiritual wrestling",
+        "light-and-shadow"
+    ],
+    "summary": "A psalm voiced from the middle stretch of waiting\u2014caught between doubt and trust, shadow and light, moving forward one day at a time under God\u2019s guidance.",
+    "motifMap": [
+        {
+            "symbol": "light and shadow",
+            "meaning": "The coexistence of clarity and confusion.",
+            "position": "middle stanzas"
+        },
+        {
+            "symbol": "long roads",
+            "meaning": "The ongoing pilgrimage without clear destination.",
+            "position": "central image"
+        },
+        {
+            "symbol": "dixie cup duality",
+            "meaning": "Holding extremes in a single small vessel\u2014the self as container.",
+            "position": "metaphoric axis"
+        }
+    ],
+    "associatedMedia": [
+        {
+            "description": "Substack header image if present; otherwise text-only psalm.",
+            "contentUrl": ""
+        }
+    ],
+    "generatedBy": "ChatGPT-5.1, 2025-11-27"
+}
