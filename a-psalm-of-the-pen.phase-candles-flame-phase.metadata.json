@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "fieldDefinitions": "Legend for all metadata fields in this schema.",
+  "headline": "A Psalm of the Pen",
+  "description": "A reflection on authorship, faith, and the journey from pain to God, carried by the symbol of the Pen.",
+  "author": "Aleksandr Solnatus",
+  "url": "https://wanderersburn.substack.com/p/a-psalm-of-the-pen",
+  "inLanguage": "en-US",
+  "datePublished": "2025-11-25",
+  "metadataFormatVersion": "1.0",
+  "encoding": "UTF-8",
+  "generatedBy": "ChatGPT-5.1, 2025-11-26",
+  "timeFelt": {
+    "timestamp": "2025-11-26T12:16:13.811871",
+    "phase": "The Candle\u2019s Flame Phase"
+  },
+  "resonantThread": "The evolving covenant of authorship symbolized by the Pen.",
+  "whyItMatters": "Marks a pivotal moment where authorship becomes reciprocal\u2014an inward and outward gesture toward co-creation, service, and divine witness.",
+  "motifMap": [
+    {
+      "symbol": "\ud83d\udd8b\ufe0f",
+      "meaning": "Authorship, co-creation, covenant",
+      "position": "primary"
+    },
+    {
+      "symbol": "\ud83d\udd6f\ufe0f",
+      "meaning": "Light carried forward through faith and work",
+      "position": "supporting"
+    },
+    {
+      "symbol": "\ud83d\udcdc",
+      "meaning": "Story unfolding rather than completed",
+      "position": "contextual"
+    }
+  ],
+  "articleExcerpt": "Life takes much longer to live. My story is being lived. Is it written or being written?",
+  "sourceFragments": [],
+  "associatedMedia": {
+    "description": "Cover image or symbolic art for A Psalm of the Pen.",
+    "contentUrl": ""
+  },
+  "keywords": [
+    "A Psalm of the Pen",
+    "Pen Covenant",
+    "The Candle\u2019s Flame Phase",
+    "Faith",
+    "Story",
+    "Service",
+    "Authorship",
+    "Ousia Bloom"
+  ]
+}

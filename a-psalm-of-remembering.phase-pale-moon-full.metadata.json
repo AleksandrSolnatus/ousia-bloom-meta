@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "headline": "A Psalm of Remembering",
+  "description": "A psalm reflecting on memory, loss, lunar cycles of emotion, and integration.",
+  "author": "Aleksandr",
+  "datePublished": "2025-11-25",
+  "url": "https://wanderersburn.substack.com/p/a-psalm-of-remembering",
+  "inLanguage": "en-US",
+  "metadataFormatVersion": "1.0",
+  "generatedBy": "ChatGPT-5.1, 2025-11-26",
+  "timeFelt": {
+    "timestamp": "2025-11-25T00:00:00-06:00",
+    "phase": "Pale Moon Full"
+  },
+  "keywords": [
+    "Pale Moon Full",
+    "psalm",
+    "memory",
+    "integration",
+    "loss",
+    "remembering",
+    "Bloom"
+  ],
+  "motifMap": [
+    {
+      "symbol": "\ud83c\udf15",
+      "meaning": "Cyclical rise of emotional clarity",
+      "position": "header"
+    },
+    {
+      "symbol": "\ud83c\udf00",
+      "meaning": "Integration of past into new self",
+      "position": "middle"
+    },
+    {
+      "symbol": "\ud83c\udf2b\ufe0f",
+      "meaning": "Lingering ache of fading memories",
+      "position": "closing"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "No image provided",
+      "contentUrl": ""
+    }
+  ],
+  "articleExcerpt": "Her face less each day, but the pain lingers. A psalm of memory, cycles, and letting the year become a sentence.",
+  "sourceFragments": []
+}
