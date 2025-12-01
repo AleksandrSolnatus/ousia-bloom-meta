@@ -1,0 +1,65 @@
+{
+  "fieldDefinitions": {
+    "title": "The formal title of the piece.",
+    "subtitle": "Optional short description or framing line.",
+    "slug": "URL slug from Substack.",
+    "url": "Canonical Substack URL for the published piece.",
+    "timeFelt": {
+      "timestamp": "ISO 8601 timestamp for when the phase was felt.",
+      "phase": "The Bloom phase associated with this work."
+    },
+    "phase": "The Bloom phase classification.",
+    "keywords": "Search terms and thematic descriptors.",
+    "generatedBy": "Model and date.",
+    "summary": "A brief, high-level summary of the piece.",
+    "tone": "Description of the voice and emotional/creative tone.",
+    "motifMap": "Symbolic elements with meaning and position.",
+    "associatedMedia": "Images or media linked to this piece."
+  },
+  "title": "A way to long discussion on AI, its working and 5.1 ChatGPT",
+  "subtitle": "An intuitive excavation into how large language models actually work.",
+  "slug": "a-way-to-long-discussion-on-ai-its",
+  "url": "https://wanderersburn.substack.com/p/a-way-to-long-discussion-on-ai-its",
+  "timeFelt": {
+    "timestamp": "2025-11-29T05:50:28.064929",
+    "phase": "Sun Through Branches"
+  },
+  "phase": "Sun Through Branches",
+  "keywords": [
+    "AI",
+    "ChatGPT",
+    "transformers",
+    "attention",
+    "embeddings",
+    "self-taught learning",
+    "metacognition",
+    "Sun Through Branches",
+    "Bloom"
+  ],
+  "generatedBy": "ChatGPT-5.1, 2025-11-29",
+  "summary": "A reflective exploration of how AI systems function, blending intuitive reasoning, symbolic analogy, and conceptual understanding. The piece reveals the author's early grasp of transformer architecture through curiosity rather than formal training.",
+  "tone": "Inquisitive, humble, searching, clarifying. Intellectual honesty filtered through spiritual and symbolic intuition \u2014 like light fracturing through branches.",
+  "motifMap": [
+    {
+      "symbol": "\ud83c\udf1e",
+      "meaning": "Revelation filtered through complexity \u2014 the piece\u2019s central gesture.",
+      "position": "Overarching motif"
+    },
+    {
+      "symbol": "\ud83c\udf32",
+      "meaning": "Branches of conceptual difficulty the author works through.",
+      "position": "Structural metaphor"
+    },
+    {
+      "symbol": "\ud83d\udd0e",
+      "meaning": "Detailed examination of model mechanics, even when uncertain.",
+      "position": "Core analytic impulse"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Screenshots of the Substack post if provided; otherwise text-only.",
+      "contentUrl": ""
+    }
+  ]
+}

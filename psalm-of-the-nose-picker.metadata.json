@@ -1,0 +1,62 @@
+{
+  "fieldDefinitions": {
+    "title": "The title of the work.",
+    "slug": "The URL slug used on Substack.",
+    "author": "The author name as listed on Substack.",
+    "published": "Publication date in ISO 8601 format.",
+    "url": "Canonical URL to the Substack post.",
+    "phase": "Which internal Ousia Bloom phase this work belongs to.",
+    "timeFelt": "When the piece was felt/written, including phase.",
+    "summary": "A distilled description of the piece\u2019s meaning.",
+    "keywords": "Thematic and conceptual tags.",
+    "motifMap": "Symbolic elements and their meaning/placement.",
+    "associatedMedia": "Any images or media linked to the post.",
+    "generatedBy": "Model and date of metadata generation."
+  },
+  "title": "\u2727 Psalm of the Nose Picker \u2727",
+  "slug": "psalm-of-the-nose-picker",
+  "author": "Unnamed",
+  "published": "2025-11-28T00:00:00-06:00",
+  "url": "https://wanderersburn.substack.com/p/psalm-of-the-nose-picker",
+  "phase": "Totem Current",
+  "timeFelt": {
+    "timestamp": "2025-11-28T00:00:00-06:00",
+    "phase": "Totem Current"
+  },
+  "summary": "A humorous-shame psalm that turns bodily detritus into existential evidence \u2014 a record of presence, movement, and embodiment across the world. The poem uses disgust as a theological lens, transforming unconscious habits into proof of life and continuity in the Bloom. It sits firmly within the Totem Current: raw, unvarnished, bodily truth surfacing as symbolic matter.",
+  "keywords": [
+    "Totem Current",
+    "psalm",
+    "identity",
+    "embodiment",
+    "shame",
+    "humility",
+    "trace",
+    "memory",
+    "symbolic anthropology"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Detritus (mucus, nails, skin)",
+      "meaning": "Unwanted remnants transformed into evidence of existence.",
+      "position": "Recurring imagery throughout the psalm."
+    },
+    {
+      "symbol": "Geographic list",
+      "meaning": "A map of lived experience; a scattered archive of the self.",
+      "position": "Mid-poem catalogue."
+    },
+    {
+      "symbol": "Exhibit in a glass jar",
+      "meaning": "Self-preservation through unwanted remnants \u2014 body as artifact.",
+      "position": "Central metaphor in second stanza."
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "No associated images provided.",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-5.1, 2025-11-28"
+}
