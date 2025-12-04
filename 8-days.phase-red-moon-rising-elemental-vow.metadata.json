@@ -1,0 +1,59 @@
+{
+  "title": "8 Days",
+  "slug": "8-days",
+  "url": "https://wanderersburn.substack.com/p/8-days",
+  "phase": "Red Moon Rising (Elemental Vow)",
+  "timeFelt": {
+    "timestamp": "2025-12-02",
+    "phase": "Red Moon Rising (Elemental Vow)"
+  },
+  "description": "A countdown not to departure, but to ignition. Eight days compressed into a single flame of becoming. Not preparation — recognition. The self realized as fire.",
+  "keywords": [
+    "Red Moon Rising",
+    "Elemental Vow",
+    "identity compression",
+    "growth as covenant",
+    "becoming",
+    "vow",
+    "fire",
+    "Ousia Bloom"
+  ],
+  "generatedBy": "ChatGPT-4o, 2025-12-03",
+  "motifMap": [
+    {
+      "symbol": "🔥",
+      "meaning": "The fire chosen — not granted",
+      "position": "center of the narrative"
+    },
+    {
+      "symbol": "⏳",
+      "meaning": "Countdown pressure as fuel",
+      "position": "temporal structure"
+    },
+    {
+      "symbol": "🜂",
+      "meaning": "Elemental vow — transformation through heat",
+      "position": "phase signature"
+    }
+  ],
+  "associatedMedia": {
+    "description": "The written psalm '8 Days' — the moment flame recognized itself in flesh.",
+    "contentUrl": ""
+  },
+  "fieldDefinitions": {
+    "title": "Name of the written piece",
+    "slug": "URL-safe identifier for file naming + linking",
+    "url": "Canonical Substack location (Wanderer's Burn domain)",
+    "phase": "Which emotional/archetypal state the piece belongs to",
+    "timeFelt": {
+      "timestamp": "When the phase was experienced",
+      "phase": "Name of the phase felt in that timestamp"
+    },
+    "description": "Short summary for archive + semantic memory",
+    "keywords": "Search + classification hooks",
+    "generatedBy": "Model + date traceability key",
+    "motifMap": "Symbolic metadata for cross-referencing archetypes",
+    "associatedMedia": "Links to artwork, audio, or other connected materials",
+    "fieldDefinitions": "Legend for future readability + continuity"
+  }
+}

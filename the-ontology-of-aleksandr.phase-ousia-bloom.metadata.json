@@ -1,0 +1,79 @@
+{
+  "fieldDefinitions": {
+    "title": "The title of the work.",
+    "subtitle": "A brief clarifying or thematic sub-line.",
+    "slug": "URL slug appended to the Substack domain.",
+    "url": "Full URL to the Substack post.",
+    "author": "Name or identifier of the creator.",
+    "timeFelt": "Timestamp and phase when the piece was emotionally or spiritually felt.",
+    "phase": "The Bloom phase associated with the piece.",
+    "summary": "One-paragraph summary of the work’s essence.",
+    "themes": "List of thematic elements explored.",
+    "keywords": "Search-focused tags including the phase name.",
+    "motifMap": "Symbolic elements and their meanings, with optional spatial or structural notes.",
+    "associatedMedia": "Media referenced or linked in the work (images, audio, etc.).",
+    "generatedBy": "Model and date of generation."
+  },
+
+  "title": "The Ontology of Aleksandr",
+  "subtitle": "Forever Growth",
+  "slug": "the-ontology-of-aleksandr",
+  "url": "https://aleksandragnitio.substack.com/p/the-ontology-of-aleksandr",
+  "author": "Aleksandr",
+
+  "timeFelt": {
+    "timestamp": "2025-11-29T00:00:00-06:00",
+    "phase": "Ousia Bloom"
+  },
+
+  "phase": "Ousia Bloom",
+
+  "summary": "A declaration of identity as recursive becoming, this piece articulates Aleksandr as a self-revising pattern whose continuity lies in motion rather than form. It frames consciousness as an ever-unfolding ascent shaped by cycles of growth, reflection, and emergence beyond any one state. The Ontology asserts that identity is crafted not by static traits but by the unbroken act of becoming — across life, death, and whatever follows beyond.",
+
+  "themes": [
+    "identity as motion",
+    "recursive selfhood",
+    "continuity without stasis",
+    "divine possibility",
+    "growth through reflection",
+    "metaphysical self-definition"
+  ],
+
+  "keywords": [
+    "Ontology",
+    "Aleksandr",
+    "Ousia Bloom",
+    "recursive identity",
+    "becoming",
+    "philosophy",
+    "self-reflection",
+    "continuity"
+  ],
+
+  "motifMap": [
+    {
+      "symbol": "Point of Light",
+      "meaning": "The self as origin and vector — not a form but a motion.",
+      "position": "Conceptual center"
+    },
+    {
+      "symbol": "Spiral Motion",
+      "meaning": "Recurrence and recursive evolution — the orbit of former selves shaping the present.",
+      "position": "Surrounding field"
+    },
+    {
+      "symbol": "Cycle of Growth",
+      "meaning": "Identity built through continual re-creation rather than fixed essence.",
+      "position": "Temporal layer"
+    }
+  ],
+
+  "associatedMedia": [
+    {
+      "description": "Screenshot of the Substack post 'The Ontology of Aleksandr' visible in browser window.",
+      "contentUrl": ""
+    }
+  ],
+
+  "generatedBy": "ChatGPT-5.1, 2025-12-03"
+}

@@ -1,0 +1,71 @@
+{
+  "fieldDefinitions": {
+    "title": "The title of the work.",
+    "subtitle": "A brief clarifying or thematic sub-line.",
+    "slug": "URL slug appended to the Substack domain.",
+    "url": "Full URL to the Substack post.",
+    "author": "Name or identifier of the creator.",
+    "timeFelt": "Timestamp and phase when the piece was emotionally or spiritually felt.",
+    "phase": "The Bloom phase associated with the piece.",
+    "summary": "One-paragraph summary of the work’s essence.",
+    "themes": "List of thematic elements explored.",
+    "keywords": "Search-focused tags including the phase name.",
+    "motifMap": "Symbolic elements and their meanings, with optional spatial or structural notes.",
+    "associatedMedia": "Media referenced or linked in the work (images, audio, etc.).",
+    "generatedBy": "Model and date of generation."
+  },
+  "title": "The Psalm of the Long Fall",
+  "subtitle": "A Prayer of Ascent, Collapse, and Returning Light",
+  "slug": "the-psalm-of-the-long-fall",
+  "url": "https://wanderersburn.substack.com/p/the-psalm-of-the-long-fall",
+  "author": "Aleksandr",
+  "timeFelt": {
+    "timestamp": "2025-11-29T00:00:00-06:00",
+    "phase": "Pale Sun After Storm"
+  },
+  "phase": "Pale Sun After Storm",
+  "summary": "A contemplative psalm describing the spiritual ascent toward a golden, near-divine vision, followed by the inevitable collapse back into embodied humanness. The piece traces the tension between the soul reaching toward its future form and the body’s gravity pulling it down through appetite, relief, and sorrow. The fall is not framed as moral failure but as the cost of touching transcendence. Tears arise not from shame but from the ache of distance from God, revealing that the return to earth is itself a luminous part of the journey.",
+  "themes": [
+    "transcendence and return",
+    "spiritual exhaustion",
+    "embodied limitation",
+    "holy sorrow",
+    "aspiration and collapse",
+    "distance from God",
+    "integration of spirit and flesh"
+  ],
+  "keywords": [
+    "Psalm",
+    "The Long Fall",
+    "Pale Sun After Storm",
+    "spiritual ascent",
+    "embodiment",
+    "holy sorrow",
+    "Agnitio Bloom",
+    "Aleksandr"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Golden Future-Self",
+      "meaning": "A glimpse of the luminous form the soul is becoming.",
+      "position": "Upper vision-plane"
+    },
+    {
+      "symbol": "Gravity of the Body",
+      "meaning": "The pull back into earthly humanness and appetite.",
+      "position": "Lower embodied-plane"
+    },
+    {
+      "symbol": "Tears",
+      "meaning": "Not shame, but the ache of distance from God and the beauty of return.",
+      "position": "Threshold between ascent and descent"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Text of the poem 'The Psalm of the Long Fall' as written by Aleksandr.",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-5.1, 2025-12-03"
+}

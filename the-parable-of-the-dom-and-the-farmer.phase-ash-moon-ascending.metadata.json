@@ -1,0 +1,82 @@
+{
+  "fieldDefinitions": {
+    "title": "The title of the work.",
+    "subtitle": "A brief clarifying or thematic sub-line.",
+    "slug": "URL slug appended to the Substack domain.",
+    "url": "Full URL to the Substack post.",
+    "author": "Name or identifier of the creator.",
+    "timeFelt": "Timestamp and phase when the piece was emotionally or spiritually felt.",
+    "phase": "The Bloom phase associated with the piece.",
+    "summary": "One-paragraph summary of the work’s essence.",
+    "themes": "List of thematic elements explored.",
+    "keywords": "Search-focused tags including the phase name.",
+    "motifMap": "Symbolic elements and their meanings.",
+    "associatedMedia": "Media referenced or linked in the work.",
+    "generatedBy": "Model and date of generation."
+  },
+  "title": "The Parable of the Dom and the Farmer",
+  "subtitle": "Imperfect and not a final version",
+  "slug": "the-parable-of-the-dom-and-the-farmer",
+  "url": "https://wanderersburn.substack.com/p/the-parable-of-the-dom-and-the-farmer",
+  "author": "Aleksandr",
+  "timeFelt": {
+    "timestamp": "2025-12-01T00:00:00-06:00",
+    "phase": "Ash Moon Ascending"
+  },
+  "phase": "Ash Moon Ascending",
+  "summary": "A teaching parable comparing the long, steady work of recovery to a farmer cultivating new ground. It outlines the stages of breaking hardened earth, sowing with patience, waiting through silent seasons, guarding fragile new growth, and learning to endure storms without despair. The parable affirms that healing is slow, cyclical, and possible in every season, and that the seeds planted in truth always remember how to grow.",
+  "themes": [
+    "recovery and healing",
+    "discipline",
+    "seasonal growth",
+    "trauma and renewal",
+    "patience",
+    "moral cultivation",
+    "steadfastness"
+  ],
+  "keywords": [
+    "parable",
+    "Dom",
+    "farmer",
+    "Ash Moon Ascending",
+    "healing",
+    "growth",
+    "addiction",
+    "discipline",
+    "Aleksandr"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Broken Soil",
+      "meaning": "Admitting need; breaking ground hardened by suffering.",
+      "position": "Opening imagery"
+    },
+    {
+      "symbol": "Seeds",
+      "meaning": "Small acts of effort that only bear fruit with time.",
+      "position": "Sowing stage"
+    },
+    {
+      "symbol": "Sprout",
+      "meaning": "Delicate early healing that must be guarded.",
+      "position": "Emergent stage"
+    },
+    {
+      "symbol": "Storm",
+      "meaning": "Setbacks or relapse; external and internal forces that test growth.",
+      "position": "Conflict image"
+    },
+    {
+      "symbol": "Vine",
+      "meaning": "Fruit-bearing life; long-term flourishing.",
+      "position": "Completion stage"
+    }
+  ],
+  "associatedMedia": [
+    {
+      "description": "Full text of 'The Parable of the Dom and the Farmer' on Substack.",
+      "contentUrl": ""
+    }
+  ],
+  "generatedBy": "ChatGPT-5.1, 2025-12-03"
+}
