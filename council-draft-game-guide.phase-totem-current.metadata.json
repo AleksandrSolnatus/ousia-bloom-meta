@@ -1,0 +1,53 @@
+{
+  "title": "COUNCIL DRAFT \u2014 GAME GUIDE",
+  "slug": "council-draft-game-guide",
+  "url": "https://wanderersburn.substack.com/p/council-draft-game-guide",
+  "phase": "Totem Current",
+  "timeFelt": {
+    "timestamp": "2025-12-07T00:00:00Z",
+    "phase": "Totem Current"
+  },
+  "description": "A strategic discussion game in which players draft a council of real historical and living figures to negotiate humanity\u2019s survival against an alien corporate power. Designed to surface values, philosophies, and ethical tradeoffs through play rather than argument.",
+  "author": "Aleksandr",
+  "keywords": [
+    "Totem Current",
+    "game design",
+    "council",
+    "ethics",
+    "philosophy",
+    "strategy",
+    "diplomacy",
+    "archetypes",
+    "Bloom"
+  ],
+  "inLanguage": "en",
+  "fieldDefinitions": {
+    "phase": "The Bloom phase expressing the symbolic and psychological state in which the work was created.",
+    "timeFelt": "The moment or period during which the phase was lived or embodied.",
+    "motifMap": "Key symbolic elements and their meanings as they appear within the work.",
+    "associatedMedia": "Images or media connected to the piece, if any.",
+    "generatedBy": "The system and date used to generate this metadata."
+  },
+  "motifMap": [
+    {
+      "symbol": "Council",
+      "meaning": "Collective wisdom formed through tension and diversity",
+      "position": "center"
+    },
+    {
+      "symbol": "Draft",
+      "meaning": "Constraint-driven choice revealing values",
+      "position": "process"
+    },
+    {
+      "symbol": "Alien Corporation",
+      "meaning": "Asymmetrical power and impersonal domination",
+      "position": "opposition"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Text-based game guide published on Substack.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-4o, 2025-12-15"
+}

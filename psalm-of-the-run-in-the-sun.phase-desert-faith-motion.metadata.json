@@ -1,0 +1,58 @@
+{
+  "title": "Psalm of the Run in the Sun",
+  "slug": "psalm-of-the-run-in-the-sun",
+  "url": "https://wanderersburn.substack.com/p/psalm-of-the-run-in-the-sun",
+  "phase": "Desert Faith (Motion)",
+  "timeFelt": {
+    "timestamp": "2025-12-14T00:00:00Z",
+    "phase": "Desert Faith (Motion)"
+  },
+  "description": "A joyful, embodied psalm written in motion beneath the desert sun, where faith is practiced through breath, exertion, and alignment rather than waiting. Prayer expressed as movement, endurance transformed into vitality.",
+  "author": "Aleksandr",
+  "keywords": [
+    "Desert Faith (Motion)",
+    "Desert Faith",
+    "psalm",
+    "running",
+    "embodied prayer",
+    "joy",
+    "desert",
+    "faith in motion",
+    "Bloom"
+  ],
+  "inLanguage": "en",
+  "fieldDefinitions": {
+    "phase": "The Bloom phase expressing the emotional, moral, and symbolic state in which the work was created.",
+    "timeFelt": "The moment or period during which the phase was lived or embodied, not necessarily when the work was published.",
+    "motifMap": "Key symbolic elements and their meanings as they appear within the work.",
+    "associatedMedia": "Images or media connected to the piece, if any.",
+    "generatedBy": "The system and date used to generate this metadata."
+  },
+  "motifMap": [
+    {
+      "symbol": "Sun",
+      "meaning": "Exposure, honesty, and vitality without comfort",
+      "position": "overhead"
+    },
+    {
+      "symbol": "Jogging",
+      "meaning": "Humble persistence and embodied faith",
+      "position": "center"
+    },
+    {
+      "symbol": "Breath",
+      "meaning": "Prayer enacted through exertion",
+      "position": "internal"
+    },
+    {
+      "symbol": "Dust Roads",
+      "meaning": "Unfamiliar paths accepted through movement",
+      "position": "ground"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Text-only Substack psalm; no associated images.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-4o, 2025-12-14"
+}

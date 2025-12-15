@@ -1,0 +1,52 @@
+{
+  "headline": "Psalm of the Agony of Waiting",
+  "description": "A psalm written in the tension between departure and obedience, articulating the discipline of waiting, the ache of unfinished movement, and the prayer to remain present while the future presses forward.",
+  "author": "Aleksandr",
+  "datePublished": "2025-12-08",
+  "url": "https://wanderersburn.substack.com/p/psalm-of-the-agony-of-waiting",
+  "inLanguage": "en",
+  "phase": "Desert Faith",
+  "timeFelt": {
+    "timestamp": "2025-12-08T00:00:00Z",
+    "phase": "Desert Faith"
+  },
+  "keywords": [
+    "Desert Faith",
+    "waiting",
+    "psalm",
+    "obedience",
+    "transition",
+    "endurance",
+    "faith without movement",
+    "Bloom"
+  ],
+  "fieldDefinitions": {
+    "phase": "The Bloom phase expressing the spiritual and psychological state embodied in the work.",
+    "timeFelt": "The moment or period during which the phase was lived and recorded.",
+    "motifMap": "Key symbolic elements and their meanings within the piece.",
+    "associatedMedia": "Images or media connected to the work, if any.",
+    "generatedBy": "The system and date used to generate this metadata."
+  },
+  "motifMap": [
+    {
+      "symbol": "Waiting",
+      "meaning": "Obedience without movement; endurance under delayed fulfillment",
+      "position": "center"
+    },
+    {
+      "symbol": "Mind Ahead / Body Behind",
+      "meaning": "The fracture between anticipation and presence",
+      "position": "axis"
+    },
+    {
+      "symbol": "Cold Snow / Warm Desert",
+      "meaning": "The dual awareness of present hardship and promised refuge",
+      "position": "horizon"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Text-only Substack post; no associated images.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-4o, 2025-12-15"
+}

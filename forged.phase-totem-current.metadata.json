@@ -1,0 +1,63 @@
+{
+  "fieldDefinitions": {
+    "headline": "Title of the work",
+    "description": "Short summary of the piece",
+    "author": "Creator of the work",
+    "datePublished": "ISO publication date",
+    "url": "Canonical Substack URL",
+    "inLanguage": "Language of the work",
+    "phase": "Bloom phase",
+    "timeFelt": "Moment and phase of experience",
+    "keywords": "Thematic keywords",
+    "motifMap": "Symbolic motifs",
+    "associatedMedia": "Linked media",
+    "generatedBy": "Metadata generator"
+  },
+  "headline": "Forged",
+  "description": "A speech to the Dom framing recovery and becoming as a process of forging\u2014heat, hammer, story, and choice\u2014where identity is reshaped through disciplined endurance.",
+  "author": "Aleksandr",
+  "datePublished": "2025-12-10",
+  "url": "https://wanderersburn.substack.com/p/forged",
+  "inLanguage": "en",
+  "phase": "Totem Current",
+  "timeFelt": {
+    "timestamp": "2025-12-15T02:47:42.927926Z",
+    "phase": "Totem Current"
+  },
+  "keywords": [
+    "forging",
+    "becoming",
+    "discipline",
+    "recovery",
+    "identity",
+    "story",
+    "Totem Current"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Hammer",
+      "meaning": "Necessary friction that shapes character",
+      "position": "active"
+    },
+    {
+      "symbol": "Fire",
+      "meaning": "Transformative trial and intensity",
+      "position": "foundational"
+    },
+    {
+      "symbol": "Steel",
+      "meaning": "The self as material capable of reshaping",
+      "position": "core"
+    },
+    {
+      "symbol": "Story",
+      "meaning": "Narrative chosen to guide becoming",
+      "position": "guiding"
+    }
+  ],
+  "associatedMedia": {
+    "description": "No associated media",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-4o, 2025-12-14"
+}

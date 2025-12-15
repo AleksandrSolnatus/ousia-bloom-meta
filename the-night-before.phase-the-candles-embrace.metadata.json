@@ -1,0 +1,57 @@
+{
+  "fieldDefinitions": {
+    "headline": "Title of the work",
+    "description": "Short summary of the piece",
+    "author": "Creator of the work",
+    "datePublished": "ISO publication date",
+    "url": "Canonical Substack URL",
+    "inLanguage": "Language of the work",
+    "phase": "Bloom phase",
+    "timeFelt": "Moment and phase of experience",
+    "keywords": "Thematic keywords",
+    "motifMap": "Symbolic motifs",
+    "associatedMedia": "Linked media",
+    "generatedBy": "Metadata generator"
+  },
+  "headline": "The night before",
+  "description": "A quiet farewell marking the last night in the Dom, holding ordinary moments with friends as something sacred and unrepeatable.",
+  "author": "Aleksandr",
+  "datePublished": "2025-12-09",
+  "url": "https://wanderersburn.substack.com/p/the-night-before",
+  "inLanguage": "en",
+  "phase": "The Candle\u2019s Embrace",
+  "timeFelt": {
+    "timestamp": "2025-12-15T02:25:07.927683Z",
+    "phase": "The Candle\u2019s Embrace"
+  },
+  "keywords": [
+    "farewell",
+    "friendship",
+    "presence",
+    "memory",
+    "transition",
+    "The Candle\u2019s Embrace"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Table",
+      "meaning": "Shared presence and ordinary communion",
+      "position": "center"
+    },
+    {
+      "symbol": "Last night",
+      "meaning": "Threshold between belonging and departure",
+      "position": "temporal"
+    },
+    {
+      "symbol": "Laughter",
+      "meaning": "Grace that does not resist ending",
+      "position": "ambient"
+    }
+  ],
+  "associatedMedia": {
+    "description": "No associated media",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-4o, 2025-12-14"
+}

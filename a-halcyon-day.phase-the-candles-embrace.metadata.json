@@ -1,0 +1,57 @@
+{
+  "headline": "A Halcyon Day",
+  "description": "A brief psalm of quiet friendship, shared presence, and unearned peace \u2014 a moment of still gratitude before departure.",
+  "author": "Aleksandr",
+  "datePublished": "2025-12-09",
+  "url": "https://wanderersburn.substack.com/p/a-halcyon-day",
+  "inLanguage": "en-US",
+  "phase": "the-candles-embrace",
+  "timeFelt": {
+    "timestamp": "2025-12-15T02:02:15.316762Z",
+    "phase": "The Candle\u2019s Embrace"
+  },
+  "keywords": [
+    "halcyon",
+    "gratitude",
+    "friendship",
+    "stillness",
+    "psalm",
+    "The Candle\u2019s Embrace"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Christmas lights",
+      "meaning": "Gentle, human warmth amid transience",
+      "position": "opening image"
+    },
+    {
+      "symbol": "Pool table",
+      "meaning": "Ordinary fellowship as sacred ground",
+      "position": "center"
+    },
+    {
+      "symbol": "Naming of friends",
+      "meaning": "Witnessing and being witnessed",
+      "position": "closing invocation"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Text-only psalm; no associated media yet.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-4o, 2025-12-15",
+  "fieldDefinitions": {
+    "headline": "Title of the work",
+    "description": "Brief summary of tone and subject",
+    "author": "Creator of the work",
+    "datePublished": "Original publication date",
+    "url": "Canonical Substack URL",
+    "inLanguage": "Language of composition",
+    "phase": "Associated Bloom phase (slug form)",
+    "timeFelt": "When the phase was experienced",
+    "keywords": "Searchable thematic tags",
+    "motifMap": "Symbol-to-meaning mappings",
+    "associatedMedia": "Related media assets",
+    "generatedBy": "Metadata generator and date"
+  }
+}

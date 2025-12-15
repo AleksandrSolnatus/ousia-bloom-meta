@@ -1,0 +1,56 @@
+{
+  "headline": "A Seat at the Table",
+  "description": "A confrontation at the Dom that became a boundary ritual \u2014 examining belonging, trauma identity, reciprocity, and the difference between invitation and assumption.",
+  "author": "Aleksandr",
+  "datePublished": "2025-12-06",
+  "url": "https://wanderersburn.substack.com/p/a-seat-at-the-table",
+  "inLanguage": "en",
+  "keywords": [
+    "The Seat at the Table",
+    "boundary",
+    "belonging",
+    "reciprocity",
+    "trauma identity",
+    "community",
+    "Ousia Bloom"
+  ],
+  "timeFelt": {
+    "timestamp": "2025-12-15T01:42:51.892257",
+    "phase": "The Seat at the Table"
+  },
+  "motifMap": [
+    {
+      "symbol": "table",
+      "meaning": "earned belonging and shared space",
+      "position": "center"
+    },
+    {
+      "symbol": "bread",
+      "meaning": "reciprocity and contribution",
+      "position": "hand"
+    },
+    {
+      "symbol": "empty chair",
+      "meaning": "invitation without entitlement",
+      "position": "periphery"
+    }
+  ],
+  "associatedMedia": {
+    "description": "No associated media",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-4o, 2025-12-15",
+  "fieldDefinitions": {
+    "headline": "Title of the work",
+    "description": "Brief summary of the piece",
+    "author": "Creator of the work",
+    "datePublished": "Original publication date",
+    "url": "Canonical Substack URL",
+    "inLanguage": "Language of the work",
+    "keywords": "Thematic tags including phase",
+    "timeFelt": "When the phase was felt",
+    "motifMap": "Symbolic elements and meanings",
+    "associatedMedia": "Related media if any",
+    "generatedBy": "Metadata generator and date"
+  }
+}

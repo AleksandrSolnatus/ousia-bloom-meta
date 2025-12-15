@@ -1,0 +1,55 @@
+{
+  "title": "THE COUNCIL DRAFT GAME \u2014 HUMAN RULEBOOK (V2)",
+  "slug": "the-council-draft-game-human-rulebook",
+  "url": "https://wanderersburn.substack.com/p/the-council-draft-game-human-rulebook",
+  "phase": "Totem Current",
+  "timeFelt": {
+    "timestamp": "2025-12-07T00:00:00Z",
+    "phase": "Totem Current"
+  },
+  "description": "A refined rulebook for the Council Draft negotiation game, clarifying the AI\u2019s role as alien adjudicator, formalizing goals and victory conditions, and introducing modular modes of play to support different groups while keeping the game\u2019s ethical and philosophical core intact.",
+  "author": "Aleksandr",
+  "keywords": [
+    "Totem Current",
+    "Council Draft",
+    "rulebook",
+    "game design",
+    "draft",
+    "ethics",
+    "diplomacy",
+    "strategy",
+    "archetypes",
+    "AI adjudicator",
+    "Bloom"
+  ],
+  "inLanguage": "en",
+  "fieldDefinitions": {
+    "phase": "The Bloom phase expressing the symbolic and psychological state in which the work was created.",
+    "timeFelt": "The moment or period during which the phase was lived or embodied.",
+    "motifMap": "Key symbolic elements and their meanings as they appear within the work.",
+    "associatedMedia": "Images or media connected to the piece, if any.",
+    "generatedBy": "The system and date used to generate this metadata."
+  },
+  "motifMap": [
+    {
+      "symbol": "Alien Adjudicator",
+      "meaning": "A non-human epistemology judging Earth\u2019s council by value, leverage, and coherence",
+      "position": "opposition"
+    },
+    {
+      "symbol": "Modes of Play",
+      "meaning": "Modular lenses that change how identity, information, and performance affect the evaluation",
+      "position": "structure"
+    },
+    {
+      "symbol": "Council of Six",
+      "meaning": "A composite of archetypes drafted under constraint, revealing values through synergy",
+      "position": "center"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Text-based Substack rulebook post; no associated images.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-4o, 2025-12-15"
+}

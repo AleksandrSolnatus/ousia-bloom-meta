@@ -1,0 +1,68 @@
+{
+  "fieldDefinitions": {
+    "headline": "Title of the post.",
+    "description": "Short summary of the post.",
+    "author": "Author display name.",
+    "publisher": "Publication name.",
+    "datePublished": "Publication date in ISO 8601 (YYYY-MM-DD).",
+    "url": "Canonical URL to the post.",
+    "inLanguage": "Language code.",
+    "phase": "Bloom phase name for this artifact.",
+    "timeFelt": "When the phase was felt/generated: { timestamp, phase }.",
+    "keywords": "Search keywords including phase.",
+    "motifMap": "Array of symbolic motifs: { symbol, meaning, position }.",
+    "associatedMedia": "Media references: { description, contentUrl }.",
+    "generatedBy": "Tool attribution string."
+  },
+  "headline": "A day closer",
+  "description": "A brief travel prayer on the eve of arrival—weariness, hope, and faith carried through the transition into a new place.",
+  "author": "Unnamed",
+  "publisher": "Wanderer's Burn",
+  "datePublished": "2025-12-12",
+  "url": "https://wanderersburn.substack.com/p/a-day-closer",
+  "inLanguage": "en",
+  "phase": "Desert Faith",
+  "timeFelt": {
+    "timestamp": "2025-12-14T00:00:00Z",
+    "phase": "Desert Faith"
+  },
+  "keywords": [
+    "Desert Faith",
+    "transition",
+    "travel",
+    "arrival",
+    "waiting",
+    "faith without comfort",
+    "prayer",
+    "fear of the dark",
+    "homecoming",
+    "Wanderer's Burn"
+  ],
+  "motifMap": [
+    {
+      "symbol": "🌵",
+      "meaning": "Faith practiced without feeling; endurance under harsh or artificial light.",
+      "position": "center"
+    },
+    {
+      "symbol": "🛣️",
+      "meaning": "The long road of transition—movement that still feels unsettled.",
+      "position": "lower"
+    },
+    {
+      "symbol": "⭐",
+      "meaning": "Guidance and wonder—remembered sky as quiet reassurance.",
+      "position": "upper"
+    },
+    {
+      "symbol": "💡",
+      "meaning": "Choosing safety and steadiness—sleeping near the light while fear remains.",
+      "position": "right"
+    }
+  ],
+  "associatedMedia": {
+    "description": "No associated media provided for this post.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-4o, 2025-12-14"
+}

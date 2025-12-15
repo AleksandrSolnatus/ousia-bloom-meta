@@ -1,0 +1,53 @@
+{
+  "title": "A little blurb",
+  "slug": "a-little-blurb",
+  "url": "https://wanderersburn.substack.com/p/a-little-blurb",
+  "phase": "The Seat at the Table",
+  "timeFelt": {
+    "timestamp": "2025-12-05T00:00:00Z",
+    "phase": "The Seat at the Table"
+  },
+  "description": "A brief field-note recording a moment of embodied boundary-setting carried out with compassion. This piece documents an encounter where mercy was maintained without submission, marking a live calibration of discernment within the phase The Seat at the Table.",
+  "author": "Aleksandr",
+  "keywords": [
+    "The Seat at the Table",
+    "boundary",
+    "compassion",
+    "discernment",
+    "presence",
+    "field note",
+    "Bloom",
+    "interpersonal encounter",
+    "mercy with structure"
+  ],
+  "inLanguage": "en",
+  "fieldDefinitions": {
+    "phase": "The Bloom phase expressing the emotional, moral, and symbolic state in which the work was created.",
+    "timeFelt": "The moment or period during which the phase was lived or embodied, not necessarily when the work was published.",
+    "motifMap": "Key symbolic elements and their meanings as they appear within the work.",
+    "associatedMedia": "Images or media connected to the piece, if any.",
+    "generatedBy": "The system and date used to generate this metadata."
+  },
+  "motifMap": [
+    {
+      "symbol": "Boundary",
+      "meaning": "Compassion that holds its shape under pressure",
+      "position": "center"
+    },
+    {
+      "symbol": "Closeness",
+      "meaning": "Interpersonal proximity requiring rapid discernment",
+      "position": "foreground"
+    },
+    {
+      "symbol": "Stillness",
+      "meaning": "Presence maintained without escalation",
+      "position": "background"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Text-only Substack post; no associated images.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-4o, 2025-12-14"
+}

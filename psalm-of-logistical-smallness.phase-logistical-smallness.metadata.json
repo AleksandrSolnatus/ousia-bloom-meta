@@ -1,0 +1,59 @@
+{
+  "title": "Psalm of Logistical Smallness",
+  "slug": "psalm-of-logistical-smallness",
+  "url": "https://wanderersburn.substack.com/p/psalm-of-logistical-smallness",
+  "phase": "Logistical Smallness",
+  "timeFelt": {
+    "timestamp": "2025-12-04T00:00:00Z",
+    "phase": "Logistical Smallness"
+  },
+  "description": "A psalm of witness written from within constrained systems, naming the moral compression, righteous indignation, and quiet dignity that arise when human scale exceeds logistical frameworks. A record of restrained anger, prophetic observation, and compassion held under pressure during the Dom period.",
+  "author": "Aleksandr",
+  "keywords": [
+    "Logistical Smallness",
+    "psalm",
+    "witness",
+    "constraint",
+    "bureaucracy",
+    "dignity",
+    "righteous anger",
+    "systems",
+    "Dom period",
+    "Bloom"
+  ],
+  "inLanguage": "en",
+  "fieldDefinitions": {
+    "phase": "The Bloom phase expressing the emotional, moral, and symbolic state in which the work was created.",
+    "timeFelt": "The moment or period during which the phase was lived or embodied, not necessarily when the work was published.",
+    "motifMap": "Key symbolic elements and their meanings as they appear within the work.",
+    "associatedMedia": "Images or media connected to the piece, if any.",
+    "generatedBy": "The system and date used to generate this metadata."
+  },
+  "motifMap": [
+    {
+      "symbol": "Azimuth",
+      "meaning": "Direction without destination; orientation stripped of purpose",
+      "position": "center"
+    },
+    {
+      "symbol": "Smallness",
+      "meaning": "Compressed scale that preserves dignity but denies movement",
+      "position": "lower"
+    },
+    {
+      "symbol": "Stones",
+      "meaning": "Silent expressions of frustrated agency within constrained systems",
+      "position": "scattered"
+    },
+    {
+      "symbol": "Fermentation",
+      "meaning": "Potential unrealized due to lack of time, space, or release",
+      "position": "background"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Text-only psalm published on Substack; no associated images.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-4o, 2025-12-14"
+}
