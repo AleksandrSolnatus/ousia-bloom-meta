@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.0.1",
+  "id": "urn:uuid:9c7f5b15-34fa-48e3-9b44-7cf22e0e4f0c",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The Parable of the Tired Bard",
+  "subtitle": "Sleep is important",
+  "description": "A short parable about exhaustion, deferred self-care, and the irony of seeking comfort only after consequence forces rest.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-parable-of-the-tired-bard",
+  "slug": "the-parable-of-the-tired-bard",
+  "language": "en",
+  "dateCreated": "",
+  "datePublished": "2025-12-21",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2025-12-21",
+    "time": "",
+    "phase": "Trickster Prophet"
+  },
+  "phase": {
+    "name": "Trickster Prophet",
+    "family": "",
+    "sequence": null
+  },
+  "keywords": [
+    "trickster prophet",
+    "post",
+    "parable",
+    "sleep",
+    "fatigue",
+    "rest",
+    "burnout",
+    "self-care",
+    "consequence",
+    "humiliation",
+    "tar and feather",
+    "comfort",
+    "craft"
+  ],
+  "motifMap": [
+    {
+      "symbol": "feathers",
+      "meaning": "Promised comfort that arrives as consequence rather than gift; the irony of getting what you want the wrong way.",
+      "position": "foreground"
+    },
+    {
+      "symbol": "inn",
+      "meaning": "Available, ordinary mercy in the present; chosen rest that prevents collapse.",
+      "position": "background"
+    },
+    {
+      "symbol": "hay",
+      "meaning": "Humble necessity; the simple remedy desired only after injury.",
+      "position": "below"
+    },
+    {
+      "symbol": "tar",
+      "meaning": "The world's harsh pedagogy; consequence that seals the lesson into the body.",
+      "position": "foreground"
+    }
+  ],
+  "excerpt": "“At last, I have my feathers. Now find me a bed of hay.”",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Featured image: a tired bard asleep in a warm tavern, head on a lute; candlelight, scattered feathers and straw.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A weary bard sleeps at a wooden table with a lute, lit by candlelight; feathers and straw on the floor."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2025-12-23T13:52:14-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Substack post: https://wanderersburn.substack.com/p/the-parable-of-the-tired-bard",
+      "Author-provided screenshots of the published post",
+      "Local working text file: tired bard parable (meta doc).txt"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Schema V2.0.1 is forward-only. V1 artifacts remain unchanged by design. filename: the-parable-of-the-tired-bard.phase-trickster-prophet.metadata.v2.json"
+  }
+}

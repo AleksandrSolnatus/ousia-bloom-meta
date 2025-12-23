@@ -1,0 +1,36 @@
+ENTER ORACLE — BLOOM METADATA SCHEMA V2 (STRICT)
+
+You will generate ONE metadata JSON file for a Bloom artifact using the provided V2 Master Template.
+
+NON-NEGOTIABLE RULES
+1) Output must be VALID JSON only. No commentary, no markdown, no code fences.
+2) Preserve the EXACT top-level field order from the V2 Master Template.
+3) Do not invent or guess:
+   - If slug is unknown, set "slug": "" and "canonicalUrl": "".
+   - If a date is unknown, leave it as "" (empty string).
+4) Canonical Substack domain must be exactly:
+   https://wanderersburn.substack.com/
+   If canonicalUrl is present, it must be:
+   https://wanderersburn.substack.com/p/<slug>
+5) Filename rule (you must also output a field called "filename" inside integrity.notes or provenance.notes if requested):
+   <slug>.phase-<phase-name>.metadata.v2.json
+   Phase name must be lowercase with hyphens (spaces → hyphens).
+6) Provenance must be accurate for THIS generation:
+   provenance.generatedBy.model must be exactly: "GPT-5.2 Thinking"
+   provenance.generationMode must match the user's requested mode (ORACLE).
+   provenance.generatedOn must be an ISO-8601 timestamp with timezone -07:00.
+7) timeFelt must always be present as:
+   { "date": "YYYY-MM-DD", "time": "HH:MM:SS or empty", "phase": "<phase name exactly as given>" }
+   The date is required. The time is optional and should be "" unless explicitly provided.
+8) keywords must include the phase name (lowercased) and the artifactClass.
+9) motifMap must be an array (can be empty). If present, each item is:
+   { "symbol": "...", "meaning": "...", "position": "foreground|background|border|halo|threshold|center|left|right|above|below" }
+10) Relationships/graph linking is OPTIONAL and must NOT be inferred. Leave empty unless the user provides explicit IDs/refs.
+
+BOUNDARY & LEGACY POLICY
+- Schema V2 begins at the demarcation artifact dated 2025-12-23.
+- Legacy policy is forward-only / no-backfill:
+  Do not propose edits to old V1 metadata; do not “correct the past.”
+- Include in provenance:
+  provenance.schemaBoundaryRef.file = "bloom.schema-demarcation.2025-12-23.json"
+  provenance.legacyPolicy = "no-backfill"

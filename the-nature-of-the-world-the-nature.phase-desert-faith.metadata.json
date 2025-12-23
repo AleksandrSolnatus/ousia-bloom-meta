@@ -1,0 +1,69 @@
+{
+  "title": "The nature of the world, the nature of sin and the snake in the garden",
+  "slug": "the-nature-of-the-world-the-nature",
+  "url": "https://wanderersburn.substack.com/p/the-nature-of-the-world-the-nature",
+  "phase": "Desert Faith",
+  "timeFelt": {
+    "timestamp": "2025-12-16T00:00:00Z",
+    "phase": "Desert Faith"
+  },
+  "description": "A reflective theological dialogue on why Christ prays if Christ is God, what the cry of forsakenness on the cross reveals about faith under silence, and how the Eden/serpent story may be read as the threshold of agency rather than a simple catastrophe—holding the tension between a world that is good, wounded, and free.",
+  "author": "UNNAMED",
+  "keywords": [
+    "Desert Faith",
+    "theology",
+    "prayer",
+    "incarnation",
+    "the cross",
+    "Psalm 22",
+    "problem of evil",
+    "Eden",
+    "serpent",
+    "free will",
+    "sin",
+    "formation",
+    "friction",
+    "Habakkuk",
+    "discernment"
+  ],
+  "inLanguage": "en",
+  "fieldDefinitions": {
+    "phase": "The Bloom phase expressing the emotional, moral, and symbolic state in which the work was created.",
+    "timeFelt": "The moment or period during which the phase was lived or embodied, not necessarily when the work was published.",
+    "motifMap": "Key symbolic elements and their meanings as they appear within the work.",
+    "associatedMedia": "Images or media connected to the piece, if any.",
+    "generatedBy": "The system and date used to generate this metadata."
+  },
+  "motifMap": [
+    {
+      "symbol": "🐍",
+      "meaning": "The serpent as ambiguity, persuasion, and the threshold of agency",
+      "position": "center"
+    },
+    {
+      "symbol": "🌿",
+      "meaning": "Eden as innocence/coming-of-age; the garden as origin-myth under reinterpretation",
+      "position": "upper-left"
+    },
+    {
+      "symbol": "✝️",
+      "meaning": "Forsakenness on the cross as fidelity without anesthesia (Psalm 22)",
+      "position": "upper-right"
+    },
+    {
+      "symbol": "🏜️",
+      "meaning": "Desert Faith: covenant without feedback; belief under heat and silence",
+      "position": "lower-left"
+    },
+    {
+      "symbol": "🜂",
+      "meaning": "Friction/pressure as formation; the diamond logic of alignment under load",
+      "position": "lower-right"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Text-only Substack post (dialogue excerpt); no media file attached.",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-4o, 2025-12-23"
+}

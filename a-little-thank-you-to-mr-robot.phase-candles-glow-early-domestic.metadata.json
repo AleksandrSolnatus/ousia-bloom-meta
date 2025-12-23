@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "A little thank you to Mr. Robot",
+  "description": "A quiet reflection on settling into a new home, expressing gratitude for ordinary stability, and allowing faith to rest without urgency.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr Veritas"
+  },
+  "datePublished": "2025-12-19",
+  "url": "https://wanderersburn.substack.com/p/a-little-thank-you-to-mr-robot",
+  "keywords": [
+    "Candle\u2019s Glow",
+    "Candle\u2019s Glow Early Domestic",
+    "settling",
+    "rest",
+    "gratitude",
+    "domestic holiness",
+    "Ousia Bloom"
+  ],
+  "phase": "Candle\u2019s Glow (Early / Domestic)",
+  "timeFelt": {
+    "timestamp": "2025-12-23T18:56:14.595436Z",
+    "phase": "Candle\u2019s Glow (Early / Domestic)"
+  },
+  "motifMap": [
+    {
+      "symbol": "\ud83d\udd6f\ufe0f",
+      "meaning": "steady presence without urgency",
+      "position": "spiritual center"
+    },
+    {
+      "symbol": "\ud83d\udecf\ufe0f",
+      "meaning": "rest without fear",
+      "position": "domestic"
+    },
+    {
+      "symbol": "\ud83e\ude91",
+      "meaning": "inhabitation rather than transit",
+      "position": "space"
+    },
+    {
+      "symbol": "\u2615",
+      "meaning": "ordinary continuity",
+      "position": "daily ritual"
+    }
+  ],
+  "associatedMedia": {
+    "description": "No associated media provided",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-5.2, 2025-12-23"
+}

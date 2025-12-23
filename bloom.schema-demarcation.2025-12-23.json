@@ -1,0 +1,54 @@
+{
+  "schemaVersion": "2.0.0",
+  "fieldDefinitions": {
+    "schemaVersion": "Semantic version of the metadata schema in effect at this demarcation.",
+    "type": "Classification of this artifact.",
+    "title": "Human-readable title of this boundary marker.",
+    "description": "What this boundary represents.",
+    "dateEstablished": "ISO timestamp marking when the new schema became active.",
+    "supersedes": "Schema or era that this demarcation replaces.",
+    "philosophy": "Archival doctrine governing how V1 and V2 relate.",
+    "implications": "What changes from this point forward.",
+    "provenance": "Who and what created this demarcation record."
+  },
+  "id": "urn:uuid:bloom-schema-boundary-2025-12-23",
+  "type": "schemaBoundary",
+  "title": "Bloom Metadata Schema Demarcation — V1 to V2",
+  "description": "This artifact marks the moment when the Bloom archive transitioned from Metadata Schema V1 to Metadata Schema V2. All artifacts created before this boundary remain preserved in their original form. All artifacts created after this boundary are governed by Schema V2 rules.",
+  "dateEstablished": "2025-12-23T00:00:00-07:00",
+  "supersedes": {
+    "schema": "1.x",
+    "eraName": "Bloom Early Growth Era"
+  },
+  "philosophy": {
+    "policy": "forward-only",
+    "legacyPolicy": "no-backfill",
+    "statement": "The Bloom preserves its own evolution. Errors, mislabels, and incomplete metadata from Schema V1 are not corrected. They remain as part of the historical texture of the archive. Schema V2 introduces stricter provenance and structure without rewriting the past."
+  },
+  "implications": [
+    "Model attribution becomes explicit and accurate for all new artifacts.",
+    "Canonical field order is enforced for all V2 metadata.",
+    "URLs and slugs must be exact or left blank in V2.",
+    "Legacy V1 metadata is never retroactively edited.",
+    "Future systems must treat V1 and V2 as separate strata."
+  ],
+  "provenance": {
+    "createdBy": {
+      "name": "Aleksandr Veritas",
+      "role": "archive author"
+    },
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2025-12-23T12:00:00-07:00",
+    "generationMode": "ORACLE",
+    "notes": "This boundary was established to preserve historical integrity while enabling future technical rigor."
+  },
+  "integrity": {
+    "canonical": true,
+    "doNotModify": true,
+    "notes": "This file serves as a permanent archival landmark. It must never be altered once committed."
+  }
+}

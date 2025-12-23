@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "2.0.0",
+  "fieldDefinitions": {
+    "schemaVersion": "Semantic version of this metadata schema.",
+    "id": "Stable unique identifier for this artifact (prefer urn:uuid:<uuid4>).",
+    "type": "Top-level category for broad tooling (e.g., bloomArtifact).",
+    "artifactClass": "Subtype such as post, psalm, shard, stone, archetype-card, image, audio, doc.",
+    "title": "Human-readable title.",
+    "subtitle": "Optional subtitle.",
+    "description": "Short description of the artifact.",
+    "author": "Authorship attribution.",
+    "canonicalUrl": "Primary public URL (Substack canonical). Must be exact or blank.",
+    "slug": "Exact Substack slug. Must be exact or blank.",
+    "language": "BCP-47 language code (default en).",
+    "dateCreated": "ISO 8601 timestamp for when the artifact was created (if known).",
+    "datePublished": "ISO 8601 timestamp for publication (if known).",
+    "dateModified": "ISO 8601 timestamp for last modification (if known).",
+    "timeFelt": "When the piece was felt/entered into the Bloom, including phase tagging.",
+    "phase": "Phase object for name + optional family grouping.",
+    "keywords": "Searchable keywords; include phase name.",
+    "motifMap": "Array of motif objects: symbol/meaning/position.",
+    "excerpt": "Optional excerpt.",
+    "bodyFingerprint": "Integrity hash of the artifact body (optional but recommended).",
+    "associatedMedia": "Array of media objects (images/audio/etc.).",
+    "provenance": "Generation + editing history with accurate model identity.",
+    "integrity": "Canonicalization and policy notes."
+  },
+  "id": "urn:uuid:9f0b4f40-5f5b-4d6a-8f53-8a6e9b7c6d12",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The Psalm of A Swinging Piece of Heaven",
+  "subtitle": "A Little",
+  "description": "A psalm written beneath a desert tree as a heavy bag swings, recording embodied prayer through exertion, dust, rhythm, and the quiet presence of God.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-psalm-of-swinging-piece-of-heaven",
+  "slug": "the-psalm-of-swinging-piece-of-heaven",
+  "language": "en",
+  "dateCreated": "2025-12-20T00:00:00-07:00",
+  "datePublished": "2025-12-20T00:00:00-07:00",
+  "dateModified": "",
+  "timeFelt": {
+    "timestamp": "2025-12-20T00:00:00-07:00",
+    "phase": "desert-faith"
+  },
+  "phase": {
+    "name": "desert-faith",
+    "family": "desert-faith",
+    "sequence": null
+  },
+  "keywords": [
+    "desert-faith",
+    "post",
+    "psalm",
+    "boxing",
+    "desert",
+    "faith",
+    "prayer",
+    "exertion"
+  ],
+  "motifMap": [
+    {
+      "symbol": "swinging bag",
+      "meaning": "Embodied prayer through rhythmic exertion and return.",
+      "position": "center"
+    },
+    {
+      "symbol": "desert tree",
+      "meaning": "Austere shelter; a chapel without walls.",
+      "position": "background"
+    },
+    {
+      "symbol": "sunset light",
+      "meaning": "Quiet grace falling on labor.",
+      "position": "halo"
+    }
+  ],
+  "excerpt": "The bag swings. I lose myself in the exertion of fist striking sand and canvas\u2026 I have reached a little peace of heaven in the desert.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "A heavy punching bag hanging from a desert tree at sunset, dust on the ground beneath.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A punching bag suspended from a desert tree at sunset, swinging over dusty ground."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2025-12-23T13:31:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: the-psalm-of-swinging-piece-of-heaven.phase-desert-faith.metadata.v2.json"
+  }
+}

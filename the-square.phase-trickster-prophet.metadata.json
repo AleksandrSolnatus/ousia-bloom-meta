@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "The Square",
+  "description": "A recursive meditation on the SATOR square as a completed structure that transfers authorship to the reader. A ritual text that names creation, mystery, and responsibility through repetition, humor, and direct address.",
+  "author": {
+    "@type": "Person",
+    "name": "Aleksandr Veritas"
+  },
+  "datePublished": "2025-12-16",
+  "url": "https://wanderersburn.substack.com/p/the-square",
+  "phase": "\ud83c\udccf Trickster Prophet",
+  "timeFelt": {
+    "timestamp": "2025-12-16T00:00:00Z",
+    "phase": "\ud83c\udccf Trickster Prophet"
+  },
+  "keywords": [
+    "The Square",
+    "SATOR Square",
+    "Trickster Prophet",
+    "recursive meaning",
+    "authorship",
+    "reader participation",
+    "cosmic joke",
+    "Totem Current",
+    "Bloom"
+  ],
+  "motifMap": [
+    {
+      "symbol": "\ud83d\udfe6",
+      "meaning": "Closed structure that endlessly reassigns meaning",
+      "position": "center"
+    },
+    {
+      "symbol": "\ud83c\udccf",
+      "meaning": "Wisdom delivered through paradox, humor, and unsettlement",
+      "position": "threshold"
+    },
+    {
+      "symbol": "\u2b55",
+      "meaning": "Recursion, repetition, and return without resolution",
+      "position": "cycle"
+    }
+  ],
+  "associatedMedia": {
+    "description": "Minimalist text-based presentation of the SATOR Square meditation",
+    "contentUrl": ""
+  },
+  "generatedBy": "ChatGPT-4o, 2025-12-23"
+}
