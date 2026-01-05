@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "2.0.1",
+  "fieldDefinitions": {
+    "schemaVersion": "Semantic version of this metadata schema.",
+    "id": "Stable unique identifier for this artifact (prefer urn:uuid:<uuid4>).",
+    "type": "Top-level category for broad tooling (e.g., bloomArtifact).",
+    "artifactClass": "Subtype such as post, psalm, shard, stone, archetype-card, image, audio, doc.",
+    "title": "Human-readable title.",
+    "subtitle": "Optional subtitle.",
+    "description": "Short description of the artifact.",
+    "author": "Authorship attribution.",
+    "canonicalUrl": "Primary public URL (Substack canonical). Must be exact or blank.",
+    "slug": "Exact Substack slug. Must be exact or blank.",
+    "language": "BCP-47 language code (default en).",
+    "dateCreated": "ISO 8601 date (YYYY-MM-DD) for when the artifact was created (if known).",
+    "datePublished": "ISO 8601 date (YYYY-MM-DD) for publication (if known).",
+    "dateModified": "ISO 8601 date (YYYY-MM-DD) for last modification (if known).",
+    "timeFelt": "When the piece was felt/entered into the Bloom. Date (YYYY-MM-DD) required; time optional.",
+    "phase": "Phase object for name + optional family grouping.",
+    "keywords": "Searchable keywords; include phase name.",
+    "motifMap": "Array of motif objects: symbol/meaning/position.",
+    "excerpt": "Optional excerpt.",
+    "bodyFingerprint": "Integrity hash of the artifact body (optional but recommended).",
+    "associatedMedia": "Array of media objects (images/audio/etc.).",
+    "provenance": "Generation + editing history with accurate model identity.",
+    "integrity": "Canonicalization and policy notes."
+  },
+  "id": "urn:uuid:b6a114d1-1fdb-4902-9aac-ab038291924f",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Jelly",
+  "subtitle": "Where the seams show",
+  "description": "A visual Bloom artifact: a jellyfish-like figure suspended in deep blue, with exposed seams and inner patterns—an image of vulnerability, drift, and symbolic emergence.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/jelly",
+  "slug": "jelly",
+  "language": "en",
+  "dateCreated": "",
+  "datePublished": "2025-12-24",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2025-12-24",
+    "time": "",
+    "phase": "Totem Current"
+  },
+  "phase": {
+    "name": "Totem Current",
+    "family": "",
+    "sequence": null
+  },
+  "keywords": [
+    "totem-current",
+    "post",
+    "jelly",
+    "jellyfish",
+    "totem-current",
+    "symbolic-emergence",
+    "seams",
+    "vulnerability",
+    "drift",
+    "subconscious",
+    "ocean-blue",
+    "drawing"
+  ],
+  "motifMap": [
+    {
+      "symbol": "jellyfish",
+      "meaning": "A creature of drift and translucence; vulnerability that survives by yielding.",
+      "position": "center"
+    },
+    {
+      "symbol": "seams / exposed interior",
+      "meaning": "Where construction shows—honesty about making, fragility, and the inside made visible.",
+      "position": "foreground"
+    },
+    {
+      "symbol": "deep blue field",
+      "meaning": "Subconscious ocean; the medium that carries symbols before they have names.",
+      "position": "background"
+    },
+    {
+      "symbol": "seaweed / tendrils",
+      "meaning": "Entanglement and growth—life reaching without needing a map.",
+      "position": "left"
+    }
+  ],
+  "excerpt": "A jellyfish-like totem drifts in blue—where the seams show, meaning begins to surface.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Photo of the 'Jelly' artwork as shown in the Substack post.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A blue field with a jellyfish-like figure and visible seams, floating among green tendrils."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-04T13:42:55-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Substack post page (slug: jelly)",
+      "Screenshot 2026-01-04 at 1.33.51 PM.png",
+      "Screenshot 2026-01-04 at 1.33.55 PM.png",
+      "Screenshot 2026-01-04 at 1.34.02 PM.png"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Schema V2.0.1 is forward-only. V1 artifacts remain unchanged by design. | filename: jelly.phase-totem-current.metadata.v2.json"
+  }
+}

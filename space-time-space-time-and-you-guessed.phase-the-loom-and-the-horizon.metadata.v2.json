@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "2.0.1",
+  "id": "urn:uuid:3e5b3d57-68dc-4b8c-9e78-0321a6d46f9b",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Space, Time, Space Time and.... You guessed it GOD!",
+  "subtitle": "Just have to... I can't help myself!",
+  "description": "A speculative dialogue that moves from relativity and causality to warp geometries, wormholes, black holes, and the theological implications of cosmic scale\u2014arguing that the universe\u2019s deepest constraint is not speed but order, and that infinity does not dilute God.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/space-time-space-time-and-you-guessed",
+  "slug": "space-time-space-time-and-you-guessed",
+  "language": "en",
+  "dateCreated": "",
+  "datePublished": "2025-12-23",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2025-12-23",
+    "time": "",
+    "phase": "The Loom and the Horizon"
+  },
+  "phase": {
+    "name": "The Loom and the Horizon",
+    "family": "",
+    "sequence": null
+  },
+  "keywords": [
+    "the-loom-and-the-horizon",
+    "post"
+  ],
+  "motifMap": [],
+  "excerpt": "",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-04T12:36:11-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Schema V2.0.1 is forward-only. V1 artifacts remain unchanged by design."
+  }
+}

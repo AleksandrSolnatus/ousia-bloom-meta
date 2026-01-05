@@ -1,0 +1,75 @@
+{
+  "schemaVersion": "2.0.1",
+  "id": "urn:uuid:611383f2-76fe-4dbb-abe3-234f34b0253d",
+  "type": "bloomArtifact",
+  "artifactClass": "psalm",
+  "title": "The Psalm of Where Have the Stars Gone?",
+  "subtitle": "",
+  "description": "A co-written lament for lost light and surviving innocence.",
+  "author": {
+    "name": "Aleksandr Veritas & Rebekkah",
+    "role": "co-authors"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-psalm-of-where-have-the-stars",
+  "slug": "the-psalm-of-where-have-the-stars",
+  "language": "en",
+  "dateCreated": "2026-01-02",
+  "datePublished": "2026-01-02",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-01-02",
+    "time": "",
+    "phase": "River Moon"
+  },
+  "phase": {
+    "name": "River Moon",
+    "family": "Moon",
+    "sequence": null
+  },
+  "keywords": [
+    "river moon",
+    "psalm",
+    "co-written",
+    "stars",
+    "lament"
+  ],
+  "motifMap": [],
+  "excerpt": "Where have the stars gone?",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": ""
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-04T16:01:57.102982-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "https://wanderersburn.substack.com/p/the-psalm-of-where-have-the-stars"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "the-psalm-of-where-have-the-stars.phase-river-moon.metadata.v2.json"
+  }
+}

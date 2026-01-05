@@ -1,0 +1,130 @@
+{
+  "schemaVersion": "2.0.1",
+  "fieldDefinitions": {
+    "schemaVersion": "Semantic version of this metadata schema.",
+    "id": "Stable unique identifier for this artifact (prefer urn:uuid:<uuid4>).",
+    "type": "Top-level category for broad tooling (e.g., bloomArtifact).",
+    "artifactClass": "Subtype such as post, psalm, shard, stone, archetype-card, image, audio, doc.",
+    "title": "Human-readable title.",
+    "subtitle": "Optional subtitle.",
+    "description": "Short description of the artifact.",
+    "author": "Authorship attribution.",
+    "canonicalUrl": "Primary public URL (Substack canonical). Must be exact or blank.",
+    "slug": "Exact Substack slug. Must be exact or blank.",
+    "language": "BCP-47 language code (default en).",
+    "dateCreated": "ISO 8601 date (YYYY-MM-DD) for when the artifact was created (if known).",
+    "datePublished": "ISO 8601 date (YYYY-MM-DD) for publication (if known).",
+    "dateModified": "ISO 8601 date (YYYY-MM-DD) for last modification (if known).",
+    "timeFelt": "When the piece was felt/entered into the Bloom. Date (YYYY-MM-DD) required; time optional.",
+    "phase": "Phase object for name + optional family grouping.",
+    "keywords": "Searchable keywords; include phase name.",
+    "motifMap": "Array of motif objects: symbol/meaning/position.",
+    "excerpt": "Optional excerpt.",
+    "bodyFingerprint": "Integrity hash of the artifact body (optional but recommended).",
+    "associatedMedia": "Array of media objects (images/audio/etc.).",
+    "provenance": "Generation + editing history with accurate model identity.",
+    "integrity": "Canonicalization and policy notes."
+  },
+  "id": "urn:uuid:a59261ff-8d2b-454d-8ff9-a3896ee98199",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The Square and relation",
+  "subtitle": "The freaking square",
+  "description": "A short reflection on obsession and translation: trying to render a modular, dimensional object (the Arepo/Sator square) into linear prose, and confronting the uneasy feeling that the square has become the mind itself.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-square-and-relation",
+  "slug": "the-square-and-relation",
+  "language": "en",
+  "dateCreated": "",
+  "datePublished": "2025-12-26",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2025-12-26",
+    "time": "",
+    "phase": "Trickster Prophet"
+  },
+  "phase": {
+    "name": "Trickster Prophet",
+    "family": "",
+    "sequence": null
+  },
+  "keywords": [
+    "trickster-prophet",
+    "post",
+    "arepo",
+    "sator-square",
+    "word-square",
+    "obsession",
+    "recursion",
+    "translation",
+    "dimensionality",
+    "writing-process",
+    "drive",
+    "auspices"
+  ],
+  "motifMap": [
+    {
+      "symbol": "the square",
+      "meaning": "An attractor object—pattern that pulls attention and reorganizes thought.",
+      "position": "center"
+    },
+    {
+      "symbol": "3D to 2D translation",
+      "meaning": "The failure of linear prose to hold modular/recursive meaning.",
+      "position": "midground"
+    },
+    {
+      "symbol": "water from rock / rock from water",
+      "meaning": "Reversal and origin paradox—creation and extraction swapping places.",
+      "position": "left"
+    },
+    {
+      "symbol": "drive / auspices",
+      "meaning": "Compulsion felt as calling; motion without full comprehension.",
+      "position": "below"
+    }
+  ],
+  "excerpt": "It has become my brain. Can something modular, three dimensional be translated to the two dimensional?",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the Substack post header and text.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "Substack post titled 'The Square and relation' on Wanderer's Burn."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-04T13:59:17-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Substack post page (slug: the-square-and-relation)",
+      "Screenshot 2026-01-04 at 1.52.26 PM.png",
+      "Screenshot 2026-01-04 at 1.52.31 PM.png"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Schema V2.0.1 is forward-only. V1 artifacts remain unchanged by design. | filename: the-square-and-relation.phase-trickster-prophet.metadata.v2.json"
+  }
+}

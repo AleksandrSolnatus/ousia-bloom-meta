@@ -1,0 +1,122 @@
+{
+  "schemaVersion": "2.0.1",
+  "fieldDefinitions": {
+    "schemaVersion": "Semantic version of this metadata schema.",
+    "id": "Stable unique identifier for this artifact (prefer urn:uuid:<uuid4>).",
+    "type": "Top-level category for broad tooling (e.g., bloomArtifact).",
+    "artifactClass": "Subtype such as post, psalm, shard, stone, archetype-card, image, audio, doc.",
+    "title": "Human-readable title.",
+    "subtitle": "Optional subtitle.",
+    "description": "Short description of the artifact.",
+    "author": "Authorship attribution.",
+    "canonicalUrl": "Primary public URL (Substack canonical). Must be exact or blank.",
+    "slug": "Exact Substack slug. Must be exact or blank.",
+    "language": "BCP-47 language code (default en).",
+    "dateCreated": "ISO 8601 date (YYYY-MM-DD) for when the artifact was created (if known).",
+    "datePublished": "ISO 8601 date (YYYY-MM-DD) for publication (if known).",
+    "dateModified": "ISO 8601 date (YYYY-MM-DD) for last modification (if known).",
+    "timeFelt": "When the piece was felt/entered into the Bloom. Date (YYYY-MM-DD) required; time optional.",
+    "phase": "Phase object for name + optional family grouping.",
+    "keywords": "Searchable keywords; include phase name.",
+    "motifMap": "Array of motif objects: symbol/meaning/position.",
+    "excerpt": "Optional excerpt.",
+    "bodyFingerprint": "Integrity hash of the artifact body (optional but recommended).",
+    "associatedMedia": "Array of media objects (images/audio/etc.).",
+    "provenance": "Generation + editing history with accurate model identity.",
+    "integrity": "Canonicalization and policy notes."
+  },
+  "id": "wb:interior:2026-01-04",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Interior",
+  "subtitle": "",
+  "description": "My mind (Aleksandr) at work during the first days of the move to Arizona and living in my new place. Doodles or more—future reader decides.",
+  "author": "Aleksandr",
+  "canonicalUrl": "https://wanderersburn.substack.com/p/interior",
+  "slug": "interior",
+  "language": "en",
+  "dateCreated": "",
+  "datePublished": "2026-01-04",
+  "dateModified": "",
+  "timeFelt": "2026-01-04",
+  "phase": "The Child of the Call",
+  "keywords": [
+    "interior",
+    "drawing",
+    "doodle",
+    "ink",
+    "marker",
+    "abstraction",
+    "labyrinth",
+    "mind",
+    "move",
+    "Arizona",
+    "The Child of the Call",
+    "turquoise",
+    "yellow",
+    "black-and-white"
+  ],
+  "motifMap": [
+    {
+      "motif": "Labyrinth lines",
+      "meaning": "Dense cognition becoming pattern; thought as tangled filament."
+    },
+    {
+      "motif": "Turquoise streams",
+      "meaning": "Life-current cutting through chaos; clarity within the knot."
+    },
+    {
+      "motif": "Yellow arcs",
+      "meaning": "Attention and sunrise-energy; the call appearing as light."
+    },
+    {
+      "motif": "Hidden faces / masks",
+      "meaning": "Archetypes half-seen; the self watching from inside."
+    },
+    {
+      "motif": "Eye-like circles",
+      "meaning": "Witness, self-observation, and the watcher of watching."
+    },
+    {
+      "motif": "Negative space islands",
+      "meaning": "Silence/room in the mind—places the ink refuses to fill."
+    }
+  ],
+  "excerpt": "",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "86a5f4b8bea03c399bae27c0252395d3bf1054d9921bc9652c894db537b9efc5",
+    "notes": "SHA-256 of the primary image file captured for this post (local export)."
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Photograph of ink-and-marker abstract drawing used in the post. Local file: b8c39e16-b1eb-40c0-87e0-a25d1fea0ad7_5712x4284.webp; sha256: 86a5f4b8bea03c399bae27c0252395d3bf1054d9921bc9652c894db537b9efc5.",
+      "contentUrl": "",
+      "credit": "Aleksandr",
+      "license": "All Rights Reserved",
+      "altText": "Abstract ink drawing with dense black linework and islands of turquoise and yellow, suggesting faces and flowing currents."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "",
+    "generationMode": "ORACLE",
+    "sourceInputs": [],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Schema V2.0.1 is forward-only. V1 artifacts remain unchanged by design."
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "schemaVersion": "2.0.1",
+  "id": "urn:uuid:0a8d0e4c-2f79-4f4c-b1e6-1a6f6f03f2b5",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Anime, Culture, Theology, Personal ethics, Soccer, systems",
+  "subtitle": "",
+  "description": "A wide-ranging reflective post weaving anime, culture, theology, personal ethics, soccer, and systems into a horizon-facing inquiry about identity, faith, and becoming.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/anime-culture-theology-personal-ethics-soccer-systems",
+  "slug": "anime-culture-theology-personal-ethics-soccer-systems",
+  "language": "en",
+  "dateCreated": "",
+  "datePublished": "2025-12-29",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2025-12-29",
+    "time": "",
+    "phase": "The Horizon Walker"
+  },
+  "phase": {
+    "name": "The Horizon Walker",
+    "family": "",
+    "sequence": null
+  },
+  "keywords": [
+    "the-horizon-walker",
+    "post",
+    "anime",
+    "culture",
+    "theology",
+    "personal-ethics",
+    "soccer",
+    "systems",
+    "identity",
+    "becoming"
+  ],
+  "motifMap": [
+    {
+      "symbol": "horizon / long view",
+      "meaning": "Integration without haste; wide seeing before choosing.",
+      "position": "background"
+    },
+    {
+      "symbol": "stadium / team",
+      "meaning": "Identity tested in systems: ego vs fidelity, individual vs whole.",
+      "position": "center"
+    },
+    {
+      "symbol": "shelves of mixed texts",
+      "meaning": "Many rooms of thought held without collapse into one doctrine.",
+      "position": "left"
+    },
+    {
+      "symbol": "map / cartography",
+      "meaning": "The shift from being inside the storm to reading the weather.",
+      "position": "above"
+    }
+  ],
+  "excerpt": "",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshots of the Substack post header and page.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "Substack post titled \"Anime, Culture, Theology, Personal ethics, Soccer, systems\" on Wanderer's Burn."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-04T15:04:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Anime, Culture, Theology, Personal ethics, Soccer, systems.docx",
+      "Screenshot 2026-01-04 at 2.56.51 PM.png",
+      "Screenshot 2026-01-04 at 2.56.55 PM.png"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Schema V2.0.1 is forward-only. V1 artifacts remain unchanged by design. | filename: anime-culture-theology-personal-ethics-soccer-systems.phase-the-horizon-walker.metadata.v2.json"
+  }
+}

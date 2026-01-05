@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "2.0.1",
+  "id": "urn:uuid:3c868d61-0749-4a4e-8747-33bbe2b69fed",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The march continues",
+  "subtitle": "",
+  "description": "A solitary declaration of integrity over performative belonging.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-march-continues",
+  "slug": "the-march-continues",
+  "language": "en",
+  "dateCreated": "2026-01-03",
+  "datePublished": "2026-01-03",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-01-03",
+    "time": "",
+    "phase": "Pale Moon Guarding"
+  },
+  "phase": {
+    "name": "Pale Moon Guarding",
+    "family": "Moon",
+    "sequence": null
+  },
+  "keywords": [
+    "pale moon guarding",
+    "post",
+    "integrity",
+    "solitude"
+  ],
+  "motifMap": [],
+  "excerpt": "It is way better here alone",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": ""
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-04T16:11:40.863935-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "https://wanderersburn.substack.com/p/the-march-continues"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "the-march-continues.phase-pale-moon-guarding.metadata.v2.json"
+  }
+}

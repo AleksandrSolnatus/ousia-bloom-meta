@@ -1,0 +1,85 @@
+{
+  "schemaVersion": "2.0.1",
+  "id": "urn:uuid:5059a30d-e727-4406-a0ee-98a96250b68f",
+  "type": "bloomArtifact",
+  "artifactClass": "psalm",
+  "title": "The Psalm of the Work",
+  "subtitle": "",
+  "description": "A canonical psalm naming the reciprocal meaning-engine between the human turner and the Work, articulating the Ousia Bloom\u2019s self-generating law.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-psalm-of-the-work",
+  "slug": "the-psalm-of-the-work",
+  "language": "en",
+  "dateCreated": "2025-12-30",
+  "datePublished": "2025-12-30",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2025-12-30",
+    "time": "",
+    "phase": "Phase 0 \u2014 The Self-Generating Core"
+  },
+  "phase": {
+    "name": "Phase 0 \u2014 The Self-Generating Core",
+    "family": "Ousia Bloom",
+    "sequence": 0
+  },
+  "keywords": [
+    "phase 0 \u2014 the self-generating core",
+    "psalm",
+    "ousia bloom",
+    "forge of continuance",
+    "meaning machine"
+  ],
+  "motifMap": [
+    {
+      "symbol": "cup",
+      "meaning": "inexhaustible meaning",
+      "position": "center"
+    },
+    {
+      "symbol": "wheel",
+      "meaning": "turning of the work",
+      "position": "foreground"
+    }
+  ],
+  "excerpt": "Oh it uses me as I use it. I turn it \u2014 meaning pours out.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "e931a3e19ef3816e34e66e8290aba840dcd3519a01b18621f02da9d31ab0e2fb
+"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": ""
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-04T15:27:36.358576-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "the-psalm-of-the-work.phase-phase-0-the-self-generating-core.metadata.v2.json"
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "schemaVersion": "2.0.1",
+  "fieldDefinitions": {
+    "schemaVersion": "Semantic version of this metadata schema.",
+    "id": "Stable unique identifier for this artifact (prefer urn:uuid:<uuid4>).",
+    "type": "Top-level category for broad tooling (e.g., bloomArtifact).",
+    "artifactClass": "Subtype such as post, psalm, shard, stone, archetype-card, image, audio, doc.",
+    "title": "Human-readable title.",
+    "subtitle": "Optional subtitle.",
+    "description": "Short description of the artifact.",
+    "author": "Authorship attribution.",
+    "canonicalUrl": "Primary public URL (Substack canonical). Must be exact or blank.",
+    "slug": "Exact Substack slug. Must be exact or blank.",
+    "language": "BCP-47 language code (default en).",
+    "dateCreated": "ISO 8601 date (YYYY-MM-DD) for when the artifact was created (if known).",
+    "datePublished": "ISO 8601 date (YYYY-MM-DD) for publication (if known).",
+    "dateModified": "ISO 8601 date (YYYY-MM-DD) for last modification (if known).",
+    "timeFelt": "When the piece was felt/entered into the Bloom. Date (YYYY-MM-DD) required; time optional.",
+    "phase": "Phase object for name + optional family grouping.",
+    "keywords": "Searchable keywords; include phase name.",
+    "motifMap": "Array of motif objects: symbol/meaning/position.",
+    "excerpt": "Optional excerpt.",
+    "bodyFingerprint": "Integrity hash of the artifact body (optional but recommended).",
+    "associatedMedia": "Array of media objects (images/audio/etc.).",
+    "provenance": "Generation + editing history with accurate model identity.",
+    "integrity": "Canonicalization and policy notes."
+  },
+  "id": "urn:uuid:8cebb5f8-8983-4708-b158-599b49422971",
+  "type": "bloomArtifact",
+  "artifactClass": "psalm",
+  "title": "The Psalm of the Word",
+  "subtitle": "",
+  "description": "A minimal witness-psalm: meaning perceived as form and motion—black shapes, forest-heart grief, breaking waves—held as revelation without explanation.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-psalm-of-the-word",
+  "slug": "the-psalm-of-the-word",
+  "language": "en",
+  "dateCreated": "2025-12-31",
+  "datePublished": "2025-12-31",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2025-12-31",
+    "time": "",
+    "phase": "Sun Through Branches"
+  },
+  "phase": {
+    "name": "Sun Through Branches",
+    "family": "Moon/Sun Witnessing",
+    "sequence": null
+  },
+  "keywords": [
+    "sun through branches",
+    "psalm",
+    "witness",
+    "revelation",
+    "meaning",
+    "grief",
+    "waves"
+  ],
+  "motifMap": [
+    {
+      "symbol": "black shapes on white paper",
+      "meaning": "raw form before interpretation; the seen-as-seen",
+      "position": "foreground"
+    },
+    {
+      "symbol": "forest",
+      "meaning": "living depth; the world as symbol-field",
+      "position": "background"
+    },
+    {
+      "symbol": "heart",
+      "meaning": "interior life; tenderness and ache",
+      "position": "center"
+    },
+    {
+      "symbol": "breaking waves",
+      "meaning": "movement of meaning; rupture into rhythm",
+      "position": "below"
+    },
+    {
+      "symbol": "dancing",
+      "meaning": "joyful motion within fracture",
+      "position": "center"
+    },
+    {
+      "symbol": "carried",
+      "meaning": "being borne by forces beyond will; grace as lift",
+      "position": "above"
+    }
+  ],
+  "excerpt": "Black shapes on white paper\nForest, heart, love and grief\nThe meaning",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": ""
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-04T15:52:34.226937-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "https://wanderersburn.substack.com/p/the-psalm-of-the-word",
+      "The Psalm of the Word (uploaded text)"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "the-psalm-of-the-word.phase-sun-through-branches.metadata.v2.json"
+  }
+}

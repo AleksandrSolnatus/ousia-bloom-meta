@@ -1,0 +1,73 @@
+{
+  "schemaVersion": "2.0.1",
+  "id": "urn:uuid:348bc233-898f-49e8-854a-7c0764c74932",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The Parable of the Woman and the Coin",
+  "subtitle": "",
+  "description": "A parable of positional mercy where kindness remains possible without the giver crossing back into self-betrayal.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-parable-of-the-woman-and-the",
+  "slug": "the-parable-of-the-woman-and-the",
+  "language": "en",
+  "dateCreated": "2025-12-30",
+  "datePublished": "2025-12-30",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2025-12-30",
+    "time": "",
+    "phase": "Pale Moon Guarding"
+  },
+  "phase": {
+    "name": "Pale Moon Guarding",
+    "family": "Moon",
+    "sequence": null
+  },
+  "keywords": [
+    "pale moon guarding",
+    "post",
+    "parable",
+    "mercy",
+    "boundary"
+  ],
+  "motifMap": [],
+  "excerpt": "",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": ""
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-04T15:47:11.365568-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "the-parable-of-the-woman-and-the.phase-pale-moon-guarding.metadata.v2.json"
+  }
+}
