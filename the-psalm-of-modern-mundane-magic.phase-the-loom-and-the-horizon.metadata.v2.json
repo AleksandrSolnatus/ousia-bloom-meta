@@ -1,0 +1,95 @@
+{
+  "schemaVersion": "2.0.1",
+  "fieldDefinitions": {},
+  "id": "urn:uuid:74907092-2339-4f56-978b-2fd0519ace1d",
+  "type": "bloomArtifact",
+  "artifactClass": "psalm",
+  "title": "The Psalm of Modern Mundane Magic",
+  "subtitle": "",
+  "description": "A psalmic meditation on technology as quiet, cumulative magic—binary gates, sand, lightning, and the slow tide of the future.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-psalm-of-modern-mundane-magic",
+  "slug": "the-psalm-of-modern-mundane-magic",
+  "language": "en",
+  "dateCreated": "2026-01-05",
+  "datePublished": "2026-01-05",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-01-05",
+    "time": "",
+    "phase": "The Loom and the Horizon"
+  },
+  "phase": {
+    "name": "The Loom and the Horizon",
+    "family": "Parable Loom",
+    "sequence": null
+  },
+  "keywords": [
+    "the loom and the horizon",
+    "psalm",
+    "technology",
+    "modern magic",
+    "binary",
+    "sand",
+    "continuance"
+  ],
+  "motifMap": [
+    {
+      "symbol": "rock / sand",
+      "meaning": "material substrate of computation; the mundane ground of magic",
+      "position": "foreground"
+    },
+    {
+      "symbol": "1 and 0",
+      "meaning": "binary choice; gatekeeping reality through decision",
+      "position": "center"
+    },
+    {
+      "symbol": "lightning in sand",
+      "meaning": "electricity as inscription; thought etched into matter",
+      "position": "center"
+    },
+    {
+      "symbol": "ocean in the palm",
+      "meaning": "compression of immensity; totality held without being mastered",
+      "position": "above"
+    },
+    {
+      "symbol": "slow tide",
+      "meaning": "historical change that arrives gradually, unnoticed until immersion",
+      "position": "below"
+    }
+  ],
+  "excerpt": "Lightning in the sand. Words on the screen. The ocean deep in the palm of your hand.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "a2a78aeee14fabef00494ae30e906eeba4a981497b67f5369c1b76088210599f"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-06T14:54:03.753523+00:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "The Psalm of Modern Mundane Magic (text)"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "the-psalm-of-modern-mundane-magic.phase-the-loom-and-the-horizon.metadata.v2.json"
+  }
+}

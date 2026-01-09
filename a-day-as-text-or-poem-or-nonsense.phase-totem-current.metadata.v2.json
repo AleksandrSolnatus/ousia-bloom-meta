@@ -1,0 +1,92 @@
+{
+  "schemaVersion": "2.0.1",
+  "id": "urn:uuid:e12e2955-8e6f-48cf-af09-8962bda1eb7b",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "A day as text or poem or nonsense",
+  "subtitle": "",
+  "description": "A raw associative chronicle of a single day, weaving attraction, theology, insects, memory, and ordinary life into an unfiltered Totem Current.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/a-day-as-text-or-poem-or-nonsense--totem-current",
+  "slug": "a-day-as-text-or-poem-or-nonsense--totem-current",
+  "language": "en",
+  "dateCreated": "",
+  "datePublished": "2026-01-09",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-01-09",
+    "time": "",
+    "phase": "Totem Current"
+  },
+  "phase": {
+    "name": "Totem Current",
+    "family": "",
+    "sequence": null
+  },
+  "keywords": [
+    "post",
+    "totem current",
+    "association",
+    "attention",
+    "daily-record",
+    "symbolic-flow"
+  ],
+  "motifMap": [
+    {
+      "symbol": "🌀",
+      "meaning": "Raw symbolic emergence before narrative.",
+      "position": "center"
+    },
+    {
+      "symbol": "🐜",
+      "meaning": "Systems and collective patterns.",
+      "position": "left"
+    },
+    {
+      "symbol": "✝️",
+      "meaning": "Theological gravity within daily life.",
+      "position": "right"
+    }
+  ],
+  "excerpt": "A message to January 8th 2026…",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": ""
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-09T08:36:13-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "https://wanderersburn.substack.com/p/a-day-as-text-or-poem-or-nonsense--totem-current"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Schema V2.0.1 is forward-only. V1 artifacts remain unchanged by design."
+  }
+}

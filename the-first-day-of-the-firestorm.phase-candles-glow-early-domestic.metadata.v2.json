@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "2.0.1",
+  "id": "urn:uuid:3f387100-69fa-4cff-b2ea-ce48f22eb55e",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The first day of the Firestorm",
+  "subtitle": "",
+  "description": "A brief initiation-note marking Aleksandr’s first day of school: choosing stability, growth, and the work of the saved amid the surrounding firestorm of youth, temptation, and new beginnings.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-first-day-of-the-firestorm",
+  "slug": "the-first-day-of-the-firestorm",
+  "language": "en",
+  "dateCreated": "",
+  "datePublished": "2026-01-06",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-01-06",
+    "time": "",
+    "phase": "Candle’s Glow (Early / Domestic)"
+  },
+  "phase": {
+    "name": "Candle’s Glow (Early / Domestic)",
+    "family": "",
+    "sequence": null
+  },
+  "keywords": [
+    "post",
+    "candle’s glow (early / domestic)",
+    "first day of school",
+    "initiation",
+    "stability",
+    "discipline",
+    "growth not death",
+    "work of the saved",
+    "wilderness of youth",
+    "new beginnings"
+  ],
+  "motifMap": [
+    {
+      "symbol": "🕯️",
+      "meaning": "Ordinary continuity; small steady light that does not need drama.",
+      "position": "center"
+    },
+    {
+      "symbol": "🔥",
+      "meaning": "The surrounding storm of desire, youth, and chaos—entered without joining.",
+      "position": "background"
+    },
+    {
+      "symbol": "🎓",
+      "meaning": "Structure and vocation; learning as a disciplined path into adulthood.",
+      "position": "threshold"
+    }
+  ],
+  "excerpt": "Today I embark on my first day of school. The introduction for new students. It will be me and young kids with their parents.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": ""
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-09T08:22:57-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "https://wanderersburn.substack.com/p/the-first-day-of-the-firestorm"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Schema V2.0.1 is forward-only. V1 artifacts remain unchanged by design."
+  }
+}

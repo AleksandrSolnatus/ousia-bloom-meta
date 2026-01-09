@@ -1,0 +1,93 @@
+{
+  "schemaVersion": "2.0.1",
+  "id": "urn:uuid:f3ad46ba-93bb-447d-9743-2eeb4ce573ed",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "A litany or confession or something",
+  "subtitle": "",
+  "description": "A candid record of Aleksandr’s second day of classes, holding temptation and memory alongside disciplined forward motion through study, prayer, and embodied effort.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/a-litany-or-confession-or-something--desert-faith-motion",
+  "slug": "a-litany-or-confession-or-something--desert-faith-motion",
+  "language": "en",
+  "dateCreated": "",
+  "datePublished": "2026-01-07",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-01-07",
+    "time": "",
+    "phase": "Desert Faith (Motion)"
+  },
+  "phase": {
+    "name": "Desert Faith (Motion)",
+    "family": "",
+    "sequence": null
+  },
+  "keywords": [
+    "post",
+    "desert faith (motion)",
+    "discipline",
+    "temptation",
+    "study",
+    "faith-in-motion",
+    "memory"
+  ],
+  "motifMap": [
+    {
+      "symbol": "🌵",
+      "meaning": "Faith practiced under exposure and strain.",
+      "position": "center"
+    },
+    {
+      "symbol": "📖",
+      "meaning": "Scripture as chosen direction.",
+      "position": "left"
+    },
+    {
+      "symbol": "🏋️",
+      "meaning": "Embodied will and discipline.",
+      "position": "right"
+    }
+  ],
+  "excerpt": "The first day of Class it was more then I could have wanted…",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": ""
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-09T08:31:40-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "https://wanderersburn.substack.com/p/a-litany-or-confession-or-something--desert-faith-motion"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Schema V2.0.1 is forward-only. V1 artifacts remain unchanged by design."
+  }
+}
