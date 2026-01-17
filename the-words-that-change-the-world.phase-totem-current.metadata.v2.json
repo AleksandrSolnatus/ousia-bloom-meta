@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.0.1",
+  "fieldDefinitions": {
+    "schemaVersion": "Semantic version of this metadata schema.",
+    "id": "Stable unique identifier for this artifact (prefer urn:uuid:<uuid4>).",
+    "type": "Top-level category for broad tooling (e.g., bloomArtifact).",
+    "artifactClass": "Subtype such as post, psalm, shard, stone, archetype-card, image, audio, doc.",
+    "title": "Human-readable title.",
+    "subtitle": "Optional subtitle.",
+    "description": "Short description of the artifact.",
+    "author": "Authorship attribution.",
+    "canonicalUrl": "Primary public URL (Substack canonical). Must be exact or blank.",
+    "slug": "Exact Substack slug. Must be exact or blank.",
+    "language": "BCP-47 language code (default en).",
+    "dateCreated": "ISO 8601 date (YYYY-MM-DD) for when the artifact was created (if known).",
+    "datePublished": "ISO 8601 date (YYYY-MM-DD) for publication (if known).",
+    "dateModified": "ISO 8601 date (YYYY-MM-DD) for last modification (if known).",
+    "timeFelt": "When the piece was felt/entered into the Bloom. Date (YYYY-MM-DD) required; time optional.",
+    "phase": "Phase object for name + optional family grouping.",
+    "keywords": "Searchable keywords; include phase name.",
+    "motifMap": "Array of motif objects: symbol/meaning/position.",
+    "excerpt": "Optional excerpt.",
+    "bodyFingerprint": "Integrity hash of the artifact body (optional but recommended).",
+    "associatedMedia": "Array of media objects (images/audio/etc.).",
+    "provenance": "Generation + editing history with accurate model identity.",
+    "integrity": "Canonicalization and policy notes."
+  },
+  "id": "urn:uuid:29ae08bd-b39a-47b3-9af6-ab60ec24ef96",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The parable of the words that change the world",
+  "subtitle": "",
+  "description": "A parable about how truths that reshape the world also alter their own meaning through time.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-words-that-change-the-world",
+  "slug": "the-words-that-change-the-world",
+  "language": "en",
+  "dateCreated": "",
+  "datePublished": "2026-01-09",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-01-09",
+    "time": "",
+    "phase": "Totem Current"
+  },
+  "phase": {
+    "name": "Totem Current",
+    "family": "",
+    "sequence": null
+  },
+  "keywords": [
+    "post",
+    "totem-current",
+    "parable",
+    "tradition",
+    "truth",
+    "recursion"
+  ],
+  "motifMap": [
+    {
+      "symbol": "river",
+      "meaning": "Time reshaping meaning after consequences.",
+      "position": "background"
+    },
+    {
+      "symbol": "foundation stones",
+      "meaning": "Words that become structure in a world.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "That what made it true was changed by it being true.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": ""
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-16T22:14:57-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "https://wanderersburn.substack.com/p/the-words-that-change-the-world"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Schema V2.0.1 is forward-only. V1 artifacts remain unchanged by design. Filename: the-words-that-change-the-world.phase-totem-current.metadata.v2.json"
+  }
+}

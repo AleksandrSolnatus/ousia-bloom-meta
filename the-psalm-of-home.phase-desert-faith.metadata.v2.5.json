@@ -1,0 +1,91 @@
+{
+  "schemaVersion": "2.5",
+  "id": "urn:uuid:7e4f0d9a-7d6b-4d6b-9c41-9c4c6a9e9f7b",
+  "type": "bloomArtifact",
+  "artifactClass": "psalm",
+  "title": "The Psalm of Home",
+  "subtitle": "",
+  "description": "A psalm of wandering, renunciation, repentance, and settled belonging in God, voiced through desert imagery and patient readiness.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-psalm-of-home",
+  "slug": "the-psalm-of-home",
+  "language": "en",
+  "dateCreated": "2026-01-16",
+  "datePublished": "2026-01-16",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-01-16",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "subcurrent": "",
+    "family": "",
+    "sequence": null
+  },
+  "keywords": [
+    "desert faith",
+    "psalm",
+    "home",
+    "wandering",
+    "repentance",
+    "adaptation"
+  ],
+  "motifMap": [
+    {
+      "symbol": "desert",
+      "meaning": "Spiritual endurance and faith without comfort",
+      "position": "background"
+    },
+    {
+      "symbol": "saguaro",
+      "meaning": "Self-containment, patience, and God-given sustenance",
+      "position": "center"
+    },
+    {
+      "symbol": "road",
+      "meaning": "Chosen wandering and rejection of false homes",
+      "position": "below"
+    }
+  ],
+  "excerpt": "I have heard that home is where the heart is / My home is with God",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Saguaro cactus standing in a desert landscape at dusk",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A tall saguaro cactus in the desert, holding its own water beneath a quiet sky"
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-16T23:55:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: the-psalm-of-home.phase-desert-faith.metadata.v2.5.json"
+  }
+}

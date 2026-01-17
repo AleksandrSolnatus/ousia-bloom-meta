@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "2.5",
+  "id": "urn:uuid:23c155f4-6fdc-4021-944e-3935bae7352d",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Under the weather",
+  "subtitle": "",
+  "description": "A brief reflective utterance written while physically ill; neither storm nor clarity, but a muted middle state of being.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/under-the-weather",
+  "slug": "under-the-weather",
+  "language": "en",
+  "dateCreated": "2026-01-14",
+  "datePublished": "2026-01-14",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-01-14",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "subcurrent": "",
+    "family": "",
+    "sequence": null
+  },
+  "keywords": [
+    "desert faith",
+    "post",
+    "sickness",
+    "liminality",
+    "weather"
+  ],
+  "motifMap": [
+    {
+      "symbol": "cloud cover",
+      "meaning": "Diminished clarity without full collapse; endurance without drama.",
+      "position": "above"
+    }
+  ],
+  "excerpt": "Under the weather. Not rain. Not hail. But not pure sunshine.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-17T06:28:52-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Under the weather Substack post text",
+      "User instruction: written while sick"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Written during physical sickness; classified under Desert Faith without subphase or marker."
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "artifactClass": "psalm",
+  "title": "A Psalm of Desert of Adaptation",
+  "subtitle": "",
+  "slug": "a-psalm-of-desert-of-adaptation",
+  "canonicalUrl": "https://wanderersburn.substack.com/p/a-psalm-of-desert-of-adaptation",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "datePublished": "2026-01-13",
+  "dateModified": "",
+  "inLanguage": "en",
+  "phase": {
+    "name": "Desert Faith",
+    "subcurrent": "Adaptive Witness"
+  },
+  "timeFelt": {
+    "date": "2026-01-13",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "description": "A psalm written from within Desert Faith, reflecting on adaptation, fatigue, humility, and the struggle to believe honestly while resisting pride and impatience.",
+  "keywords": [
+    "desert faith",
+    "adaptive witness",
+    "psalm",
+    "faith seeking understanding",
+    "doubt",
+    "adaptation",
+    "humility",
+    "spiritual formation"
+  ],
+  "motifMap": [],
+  "relationships": [],
+  "provenance": {
+    "generatedBy": {
+      "model": "GPT-5.2 Thinking"
+    },
+    "generationMode": "ORACLE",
+    "generatedOn": "2026-01-16T23:15:00-07:00",
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json"
+    },
+    "legacyPolicy": "no-backfill"
+  }
+}

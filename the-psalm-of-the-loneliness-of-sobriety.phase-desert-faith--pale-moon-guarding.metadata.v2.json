@@ -1,0 +1,33 @@
+{
+  "schemaVersion": "2.0.1",
+  "id": "urn:uuid:3a8b4d6c-4c7a-4c7a-9e4f-9d9f0a5c1e21",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The Psalm of the Loneliness of Sobriety",
+  "description": "A psalm written in the quiet discipline of sobriety, naming loneliness not as failure but as the cost of patience, restraint, and choosing life while waiting for connection to ripen.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-psalm-of-the-loneliness-of-sobriety",
+  "slug": "the-psalm-of-the-loneliness-of-sobriety",
+  "language": "en",
+  "datePublished": "2026-01-11",
+  "phase": {
+    "name": "Desert Faith",
+    "subcurrent": "Pale Moon Guarding"
+  },
+  "keywords": [
+    "desert faith",
+    "pale moon guarding",
+    "sobriety",
+    "loneliness",
+    "patience",
+    "faith"
+  ],
+  "excerpt": "Mostly though it is impatience.",
+  "provenance": {
+    "generatedBy": "ChatGPT GPT-5.2",
+    "generatedOn": "2026-01-16"
+  }
+}

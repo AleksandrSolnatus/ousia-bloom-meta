@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "2.5",
+  "id": "urn:uuid:8f5b3b7a-9c6a-4b9a-9f2a-1c9f5c6c2d31",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Blarg",
+  "subtitle": "",
+  "description": "A minimal, exhausted utterance written while sick\u2014headache, long day, and enforced rest rendered as sound and fragment rather than argument.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/blarg",
+  "slug": "blarg",
+  "language": "en",
+  "dateCreated": "2026-01-15",
+  "datePublished": "2026-01-15",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-01-15",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "subcurrent": "",
+    "family": "",
+    "sequence": null
+  },
+  "keywords": [
+    "desert faith",
+    "post",
+    "sickness",
+    "fatigue",
+    "rest",
+    "minimalism"
+  ],
+  "motifMap": [
+    {
+      "symbol": "fragmented speech",
+      "meaning": "speech reduced to noise under illness and exhaustion",
+      "position": "center"
+    }
+  ],
+  "excerpt": "Blarg blah / Bah Blarh / Sick Headache",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-16T23:38:12.687588-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Substack post: https://wanderersburn.substack.com/p/blarg"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Written during illness (headache) and a forced rest day. Filename: blarg.phase-desert-faith.metadata.v2.5.json"
+  }
+}
