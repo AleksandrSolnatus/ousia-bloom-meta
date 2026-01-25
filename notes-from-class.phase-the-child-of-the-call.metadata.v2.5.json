@@ -1,0 +1,113 @@
+{
+  "schemaVersion": "2.5",
+  "fieldDefinitions": {
+    "schemaVersion": "Semantic version of this metadata schema.",
+    "id": "Stable unique identifier for this artifact (prefer urn:uuid:<uuid4>).",
+    "type": "Top-level category for broad tooling (e.g., bloomArtifact).",
+    "artifactClass": "Subtype such as post, psalm, shard, stone, archetype-card, image, audio, doc.",
+    "title": "Human-readable title.",
+    "subtitle": "Optional subtitle.",
+    "description": "Short description of the artifact.",
+    "author": "Authorship attribution.",
+    "canonicalUrl": "Primary public URL (Substack canonical). Must be exact or blank.",
+    "slug": "Exact Substack slug. Must be exact or blank.",
+    "language": "BCP-47 language code (default en).",
+    "dateCreated": "ISO 8601 date (YYYY-MM-DD) for when the artifact was created (if known).",
+    "datePublished": "ISO 8601 date (YYYY-MM-DD) for publication (if known).",
+    "dateModified": "ISO 8601 date (YYYY-MM-DD) for last modification (if known).",
+    "timeFelt": "When the piece was felt/entered into the Bloom.",
+    "phase": "Phase object for name + optional subcurrent + optional family grouping.",
+    "keywords": "Searchable keywords; include phase name.",
+    "motifMap": "Array of motif objects.",
+    "excerpt": "Optional excerpt.",
+    "bodyFingerprint": "Integrity hash of the artifact body (optional but recommended).",
+    "associatedMedia": "Array of media objects.",
+    "provenance": "Generation + editing history with accurate model identity.",
+    "integrity": "Canonicalization and policy notes."
+  },
+  "id": "urn:uuid:df14bfc5-5d85-4180-8746-a13b99b453bb",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Notes from class",
+  "subtitle": "",
+  "description": "A visual cognition map produced during live instruction\u2014thought captured mid-formation rather than after resolution.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/notes-from-class",
+  "slug": "notes-from-class",
+  "language": "en",
+  "dateCreated": "2026-01-17",
+  "datePublished": "2026-01-17",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-01-17",
+    "time": "",
+    "phase": "The Child of the Call"
+  },
+  "phase": {
+    "name": "The Child of the Call",
+    "subcurrent": "",
+    "family": "Bloom",
+    "sequence": null
+  },
+  "keywords": [
+    "the-child-of-the-call",
+    "post",
+    "class-notes",
+    "visual-theology",
+    "cognitive-map"
+  ],
+  "motifMap": [
+    {
+      "symbol": "knot",
+      "meaning": "Thought under pressure; cognition before clarity",
+      "position": "center"
+    },
+    {
+      "symbol": "red fault lines",
+      "meaning": "Moments of strain, decision, or theological tension",
+      "position": "foreground"
+    }
+  ],
+  "excerpt": "These are not notes meant to be read back\u2014only to keep pace with thinking while it happened.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Hand-drawn cognitive map created during class",
+      "contentUrl": "",
+      "credit": "Aleksandr Veritas",
+      "license": "",
+      "altText": "Dense hand-drawn map of looping lines and symbols representing live cognition during lecture"
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-17T19:47:29.193011-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Substack post: Notes from class",
+      "User-provided phase corpus"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: notes-from-class.phase-the-child-of-the-call.metadata.v2.5.json"
+  }
+}

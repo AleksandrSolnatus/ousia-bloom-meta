@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "2.5.1",
+  "fieldDefinitions": {
+    "schemaVersion": "Semantic version of this metadata schema.",
+    "id": "Stable unique identifier for this artifact (prefer urn:uuid:<uuid4>).",
+    "type": "Top-level category for broad tooling (e.g., bloomArtifact).",
+    "artifactClass": "Subtype such as post, psalm, shard, stone, archetype-card, image, audio, doc.",
+    "title": "Human-readable title.",
+    "subtitle": "Optional subtitle.",
+    "description": "Short description of the artifact.",
+    "author": "Authorship attribution.",
+    "canonicalUrl": "Primary public URL (Substack canonical). Must be exact or blank.",
+    "slug": "Exact Substack slug. Must be exact or blank.",
+    "language": "BCP-47 language code (default en).",
+    "dateCreated": "ISO 8601 date (YYYY-MM-DD) for when the artifact was created (if known).",
+    "datePublished": "ISO 8601 date (YYYY-MM-DD) for publication (if known).",
+    "dateModified": "ISO 8601 date (YYYY-MM-DD) for last modification (if known).",
+    "timeFelt": "When the piece was felt/entered into the Bloom. Date (YYYY-MM-DD) required; time optional.",
+    "phase": "Phase object for name + optional subcurrent + optional family grouping.",
+    "keywords": "Searchable keywords; include phase name.",
+    "motifMap": "Array of motif objects.",
+    "excerpt": "Optional excerpt.",
+    "bodyFingerprint": "Integrity hash of the artifact body (optional).",
+    "associatedMedia": "Array of media objects.",
+    "provenance": "Generation + editing history.",
+    "integrity": "Canonicalization and policy notes."
+  },
+  "id": "urn:uuid:d461849a-6135-4fd2-a5db-66729902a65d",
+  "type": "bloomArtifact",
+  "artifactClass": "marker",
+  "title": "Desert Faith (Methodic Self-Watching)",
+  "subtitle": "",
+  "description": "Marker noting the internal discipline of epistemic restraint within Desert Faith.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "",
+  "slug": "",
+  "language": "en",
+  "dateCreated": "2026-01-22",
+  "datePublished": "",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-01-22",
+    "time": "",
+    "phase": "desert-faith"
+  },
+  "phase": {
+    "name": "desert-faith",
+    "subcurrent": "methodic-self-watching",
+    "family": "",
+    "sequence": null
+  },
+  "keywords": [
+    "desert-faith",
+    "marker"
+  ],
+  "motifMap": [],
+  "excerpt": "Endurance gives way to disciplined perception; faith guarded against self-deception.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-24T21:13:10.770959-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Schema v2.5.1 forward-only marker artifact."
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "schemaVersion": "2.5.1",
+  "fieldDefinitions": {
+    "schemaVersion": "Semantic version of this metadata schema.",
+    "id": "Stable unique identifier for this artifact (prefer urn:uuid:<uuid4>).",
+    "type": "Top-level category for broad tooling (e.g., bloomArtifact).",
+    "artifactClass": "Subtype such as post, psalm, shard, stone, archetype-card, image, audio, doc.",
+    "title": "Human-readable title.",
+    "subtitle": "Optional subtitle.",
+    "description": "Short description of the artifact.",
+    "author": "Authorship attribution.",
+    "canonicalUrl": "Primary public URL (Substack canonical). Must be exact or blank.",
+    "slug": "Exact Substack slug. Must be exact or blank.",
+    "language": "BCP-47 language code (default en).",
+    "dateCreated": "ISO 8601 date (YYYY-MM-DD) for when the artifact was created (if known).",
+    "datePublished": "ISO 8601 date (YYYY-MM-DD) for publication (if known).",
+    "dateModified": "ISO 8601 date (YYYY-MM-DD) for last modification (if known).",
+    "timeFelt": "When the piece was felt/entered into the Bloom. Date (YYYY-MM-DD) required; time optional.",
+    "phase": "Phase object for name + optional subcurrent + optional family grouping. Subcurrent may be blank.",
+    "keywords": "Searchable keywords; include phase name.",
+    "motifMap": "Array of motif objects: symbol/meaning/position.",
+    "excerpt": "Optional excerpt.",
+    "bodyFingerprint": "Integrity hash of the artifact body (optional but recommended).",
+    "associatedMedia": "Array of media objects (images/audio/etc.).",
+    "provenance": "Generation + editing history with accurate model identity.",
+    "integrity": "Canonicalization and policy notes."
+  },
+  "id": "urn:uuid:4a0b2a70-8e64-4d2d-9c55-57c7a0c0f6a2",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Report: The day of staying.",
+  "subtitle": "Little wins",
+  "description": "A quiet report of choosing presence over retreat: truth-telling, staying on campus, lifting, writing, and attending conversation even while God feels quiet. Ordinary fidelity recorded as a small, durable win.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/report-the-day-of-staying",
+  "slug": "report-the-day-of-staying",
+  "language": "en",
+  "dateCreated": "2026-01-21",
+  "datePublished": "2026-01-21",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-01-21",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "subcurrent": "",
+    "family": "",
+    "sequence": null
+  },
+  "keywords": [
+    "desert faith",
+    "post",
+    "report",
+    "staying",
+    "presence",
+    "truth",
+    "discipline",
+    "ordinary fidelity",
+    "gratitude"
+  ],
+  "motifMap": [
+    {
+      "symbol": "staying on campus",
+      "meaning": "fidelity expressed as presence rather than escape",
+      "position": "center"
+    },
+    {
+      "symbol": "interview truth-telling",
+      "meaning": "integrity without performance or strategy",
+      "position": "foreground"
+    },
+    {
+      "symbol": "gym / writing / discussion",
+      "meaning": "embodied and intellectual practice held together in one day",
+      "position": "background"
+    },
+    {
+      "symbol": "desert sun and drive",
+      "meaning": "habitation in the new place; ordinary beauty as quiet affirmation",
+      "position": "halo"
+    }
+  ],
+  "excerpt": "I stayed today.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": ""
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-24T20:27:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "https://wanderersburn.substack.com/p/report-the-day-of-staying"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: report-the-day-of-staying.phase-desert-faith.metadata.v2.5.1.json"
+  }
+}

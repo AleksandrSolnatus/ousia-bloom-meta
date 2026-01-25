@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "2.5",
+  "id": "urn:uuid:64be9c05-4491-4169-a1f5-5df739b7f7ba",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Hallucinations and Bad Prompting",
+  "subtitle": "FUTBOL as the ostensible material",
+  "description": "A reflective examination of AI hallucination, correction, and epistemic responsibility, using football memory, error, and verification as a lived case study.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/hallucinations-and-bad-prompting",
+  "slug": "hallucinations-and-bad-prompting",
+  "language": "en",
+  "dateCreated": "2026-01-19",
+  "datePublished": "2026-01-19",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-01-19",
+    "time": "",
+    "phase": "Pale Moon Guarding"
+  },
+  "phase": {
+    "name": "Pale Moon Guarding",
+    "subcurrent": "",
+    "family": "",
+    "sequence": null
+  },
+  "keywords": [
+    "pale moon guarding",
+    "post",
+    "ai hallucination",
+    "verification",
+    "epistemology",
+    "futbol",
+    "correction",
+    "desert faith context"
+  ],
+  "motifMap": [
+    {
+      "symbol": "watchfulness",
+      "meaning": "Standing guard over truth through correction rather than narrative escalation.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "You didn\u2019t misremember out of nowhere \u2014 you just remembered the power structure instead of the result.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshots of search results and chat transcript illustrating correction of an AI hallucination.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": ""
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2025-12-23.json",
+      "dateEstablished": "2025-12-23"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-21T10:09:43.969103-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Hallucinations and Bad Prompting.txt",
+      "Phase Analysis 2.0 (Pale Moon Guarding)"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: hallucinations-and-bad-prompting.phase-pale-moon-guarding.metadata.v2.5.json. Written during Desert Faith period; phase enacted is Pale Moon Guarding. Markers referenced: Relational, Adaptive Witness."
+  }
+}

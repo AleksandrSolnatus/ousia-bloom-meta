@@ -1,0 +1,45 @@
+{
+  "schemaVersion": "2.5",
+  "id": "urn:uuid:7f9a2f7c-7e8e-4b0a-9c4f-3b0d4e9b7c61",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The Psalm of Tuesday Thoughts",
+  "subtitle": "",
+  "description": "A contemporary psalm observing consumer idols, privilege, and identity signaling under late-capitalist abundance, written from within the system rather than outside it. A witness of faith practiced under artificial light.",
+  "author": {
+    "name": "Aleksandr Veritas",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-psalm-of-tuesday-thoughts",
+  "slug": "the-psalm-of-tuesday-thoughts",
+  "language": "en",
+  "dateCreated": "2026-01-20",
+  "datePublished": "2026-01-20",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-01-20",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "subcurrent": "Logistical Smallness",
+    "family": "",
+    "sequence": null
+  },
+  "keywords": [
+    "desert faith",
+    "logistical smallness",
+    "post",
+    "psalm",
+    "consumerism",
+    "idolatry",
+    "late capitalism",
+    "witness",
+    "fidelity"
+  ],
+  "excerpt": "Finger click\nkeys tap\nThe basketball interrupts the commercials",
+  "integrity": {
+    "notes": "the-psalm-of-tuesday-thoughts.phase-desert-faith--logistical-smallness.metadata.v2.5.json"
+  }
+}

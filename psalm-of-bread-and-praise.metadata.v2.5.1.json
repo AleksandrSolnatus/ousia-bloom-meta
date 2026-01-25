@@ -1,0 +1,118 @@
+{
+  "schemaVersion": "2.5.1",
+  "fieldDefinitions": {
+    "schemaVersion": "Semantic version of this metadata schema.",
+    "id": "Stable unique identifier for this artifact (prefer urn:uuid:<uuid4>).",
+    "type": "Top-level category for broad tooling (e.g., bloomArtifact).",
+    "artifactClass": "Subtype such as post, psalm, shard, stone, archetype-card, image, audio, doc.",
+    "title": "Human-readable title.",
+    "subtitle": "Optional subtitle.",
+    "description": "Short description of the artifact.",
+    "author": "Authorship attribution.",
+    "canonicalUrl": "Primary public URL (Substack canonical). Must be exact or blank.",
+    "slug": "Exact Substack slug. Must be exact or blank.",
+    "language": "BCP-47 language code (default en).",
+    "dateCreated": "ISO 8601 date (YYYY-MM-DD) for when the artifact was created (if known).",
+    "datePublished": "ISO 8601 date (YYYY-MM-DD) for publication (if known).",
+    "dateModified": "ISO 8601 date (YYYY-MM-DD) for last modification (if known).",
+    "timeFelt": "When the piece was felt/entered into the Bloom. Date (YYYY-MM-DD) required; time optional.",
+    "phase": "Phase object for name + optional subcurrent + optional family grouping. Subcurrent may be blank.",
+    "keywords": "Searchable keywords; include phase name.",
+    "motifMap": "Array of motif objects: symbol/meaning/position.",
+    "excerpt": "Optional excerpt.",
+    "bodyFingerprint": "Integrity hash of the artifact body (optional but recommended).",
+    "associatedMedia": "Array of media objects (images/audio/etc.).",
+    "provenance": "Generation + editing history with accurate model identity.",
+    "integrity": "Canonicalization and policy notes."
+  },
+  "id": "urn:uuid:9a2c0e6b-0a3c-4e6e-9c6e-3f7a0f8a6b2d",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Psalm of Bread and Praise",
+  "subtitle": "",
+  "description": "A short psalm of communal worship centered on bread, wine, praise, and Trinitarian devotion.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/psalm-of-bread-and-praise",
+  "slug": "psalm-of-bread-and-praise",
+  "language": "en",
+  "dateCreated": "2026-01-23",
+  "datePublished": "2026-01-23",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-01-23",
+    "time": "",
+    "phase": "the-candles-embrace"
+  },
+  "phase": {
+    "name": "The Candle’s Embrace",
+    "subcurrent": "",
+    "family": "Candle Phases",
+    "sequence": null
+  },
+  "keywords": [
+    "the candle’s embrace",
+    "post",
+    "psalm",
+    "worship",
+    "bread",
+    "praise"
+  ],
+  "motifMap": [
+    {
+      "symbol": "bread and wine",
+      "meaning": "Communion, sustenance, and participation in divine grace",
+      "position": "foreground"
+    },
+    {
+      "symbol": "cross of light",
+      "meaning": "Redemption and divine presence",
+      "position": "above"
+    },
+    {
+      "symbol": "gathered crowd",
+      "meaning": "Communal worship and shared faith",
+      "position": "background"
+    }
+  ],
+  "excerpt": "Set your place at the table / Drink his wine / Eat of his Bread",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Painterly image of Christ in radiant light above a gathered crowd, with bread, wine, candle, and scripture in the foreground.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "Radiant Christ above a worshiping crowd, with bread, chalice, candle, and open book symbolizing communion and praise."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-01-24T16:00:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Substack post: Psalm of Bread and Praise"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Schema v2.5.1 begins at the demarcation dated 2026-01-26. Forward-only; no backfill."
+  }
+}
