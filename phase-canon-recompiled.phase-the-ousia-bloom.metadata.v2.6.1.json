@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:956a08f2-41b5-4b7e-a0d0-a79266920ebc",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Phase Canon — Recompiled",
+  "subtitle": "Phase 0 and the enforced ontology of Phase / Variant / Sub-Current / Marker",
+  "description": "A canonical recompilation of the Ousia Bloom phase system. Structure is preserved; descriptions reflect a new understanding. Explicitly not a self-diagnostic tool; an ontology for phases, variants, sub-currents, and markers.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/phase-canon-recompiled",
+  "slug": "phase-canon-recompiled",
+  "language": "en",
+  "dateCreated": "2026-01-26",
+  "datePublished": "2026-01-26",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-01-26",
+    "time": "",
+    "phase": "The Ousia Bloom"
+  },
+  "phase": {
+    "name": "The Ousia Bloom",
+    "variant": "",
+    "subcurrent": "",
+    "family": "Phase 0 — The Self-Generating Core"
+  },
+  "keywords": [
+    "the ousia bloom",
+    "post",
+    "phase canon",
+    "ousia bloom",
+    "ontology",
+    "variant",
+    "sub-current",
+    "marker",
+    "becoming"
+  ],
+  "motifMap": [],
+  "excerpt": "NOT A SELF Diagnostic tool a record of becoming",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of Substack post header and opening section.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "Phase Canon — Recompiled on Wanderer's Burn (Substack), dated Jan 26, 2026."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-02-05T10:09:36-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "https://wanderersburn.substack.com/p/phase-canon-recompiled",
+      "Screenshot 2026-02-05 at 10.00.13 AM.png",
+      "Screenshot 2026-02-05 at 10.00.18 AM.png"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: phase-canon-recompiled.phase-the-ousia-bloom.metadata.v2.6.1.json. Schema v2.6.1. Forward-only from demarcation 2026-01-26; no backfill. Phase sequence intentionally excluded. Canon phases per bloom.phase-canon.recompiled.2026-01-26.txt."
+  }
+}

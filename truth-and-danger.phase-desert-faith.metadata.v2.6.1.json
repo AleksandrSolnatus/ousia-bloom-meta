@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:83cb4b8c-be60-4205-a9d4-461adf8d99dc",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Truth and Danger",
+  "subtitle": "",
+  "description": "A meditation on truth as both liberating and destabilizing\u2014examining responsibility, interpretation, scripture, perfection, and the risks inherent in honest inquiry.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/truth-and-danger",
+  "slug": "truth-and-danger",
+  "language": "en",
+  "dateCreated": "2026-02-04",
+  "datePublished": "2026-02-04",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-02-04",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "",
+    "subcurrent": "Truth as Risk",
+    "family": ""
+  },
+  "keywords": [
+    "Desert Faith",
+    "truth",
+    "danger",
+    "theology",
+    "interpretation",
+    "scripture",
+    "responsibility",
+    "freedom"
+  ],
+  "motifMap": [
+    {
+      "symbol": "truth",
+      "meaning": "Revelation that frees while destabilizing certainty",
+      "position": "throughline"
+    },
+    {
+      "symbol": "danger",
+      "meaning": "The ethical and existential risk of honest inquiry",
+      "position": "refrain"
+    }
+  ],
+  "excerpt": "The truth is something that is the most freeing and the most dangerous.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-02-05",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Truth and Danger (Substack post)",
+      "Phase Analysis: Desert Faith"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Schema v2.6.1 compliant. Forward-only."
+  }
+}

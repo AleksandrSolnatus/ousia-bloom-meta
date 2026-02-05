@@ -1,0 +1,97 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:6d082820-29db-4c06-9f36-09c7ed7c1ce8",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Sitting in the watchtower",
+  "subtitle": "",
+  "description": "A short meditation on vocation-as-distance: the speaker in a self-chosen watchtower, tending a waning inner fire while struggling to shift to the 'frequency of the room.'",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/sitting-in-the-watchtower",
+  "slug": "sitting-in-the-watchtower",
+  "language": "en",
+  "dateCreated": "2026-01-31",
+  "datePublished": "2026-01-31",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "",
+    "time": "",
+    "phase": ""
+  },
+  "phase": {
+    "name": "Pale Moon Guarding",
+    "variant": "",
+    "subcurrent": "",
+    "family": "Pale Moon"
+  },
+  "keywords": [],
+  "motifMap": [],
+  "excerpt": "",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "title": "",
+      "creator": "",
+      "source": "",
+      "contentUrl": "",
+      "altText": "",
+      "license": "",
+      "notes": ""
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": "ChatGPT (GPT-5.2 Thinking)",
+    "generatedOn": "2026-02-05",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      {
+        "type": "url",
+        "ref": "https://wanderersburn.substack.com/p/sitting-in-the-watchtower",
+        "notes": "Substack post URL (from screenshot)."
+      }
+    ],
+    "editHistory": [],
+    "promptTemplate": "ORACLE_PROMPT_METADATA_V2.6.1.strict-canon"
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Schema v2.6.1. Forward-only from demarcation 2026-01-26; no backfill. Phase sequence intentionally excluded. Canon phases per bloom.phase-canon.recompiled.2026-01-26.txt.",
+    "sha256": "",
+    "sha256Note": "Optional: compute after exporting final text/media package."
+  },
+  "authors": [
+    {
+      "name": "UNNAMED",
+      "role": "author"
+    }
+  ],
+  "subcurrents": [],
+  "markers": [],
+  "tags": [
+    "Pale Moon Guarding",
+    "watchtower",
+    "solitude",
+    "vocation",
+    "witness",
+    "social-frequency",
+    "inner-fire"
+  ]
+}

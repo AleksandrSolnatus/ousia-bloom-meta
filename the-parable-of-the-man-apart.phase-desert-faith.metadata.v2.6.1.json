@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:a1c3b9a5-472b-4009-9a52-b1cb171ae6af",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The parable of the man apart",
+  "subtitle": null,
+  "description": "A parable about loneliness, exile, and the slow re-learning of trust—choosing patience and goodness while waiting for companionship and God’s timing.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-parable-of-the-man-apart",
+  "slug": "",
+  "language": "en",
+  "dateCreated": "",
+  "datePublished": "",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "",
+    "time": "",
+    "phase": ""
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": null,
+    "subCurrent": null,
+    "marker": null,
+    "confidence": 0.71,
+    "rationale": "The piece holds faith and moral intent under loneliness and long exile—endurance without comfort, waiting for God’s timing rather than chasing relief."
+  },
+  "keywords": [],
+  "motifMap": [],
+  "excerpt": "",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": ""
+    }
+  ],
+  "provenance": {
+    "generatedBy": "ChatGPT",
+    "model": "GPT-5.2 Thinking",
+    "generatedAt": "2026-02-05",
+    "sourceInputs": [
+      {
+        "type": "url",
+        "value": "https://wanderersburn.substack.com/p/the-parable-of-the-man-apart"
+      },
+      {
+        "type": "screenshot",
+        "value": "Screenshot 2026-02-05 at 10.46.55 AM.png"
+      }
+    ],
+    "notes": "Metadata generated from user-provided screenshot of the Substack post."
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Schema v2.6.1. Forward-only from demarcation 2026-01-26; no backfill. Phase sequence intentionally excluded. Canon phases per bloom.phase-canon.recompiled.2026-01-26.txt."
+  },
+  "authors": [
+    {
+      "name": "UNNAMED",
+      "role": "author"
+    }
+  ],
+  "createdAt": "2026-01-30",
+  "publishedAt": "2026-01-30",
+  "content": {
+    "format": "markdown",
+    "excerpt": "There once was man who walked alone and more then anything he wished for a partner to walk through life with…",
+    "body": "(Stored in Substack canonical URL; content not duplicated in metadata.)",
+    "wordCount": null,
+    "readingTimeMinutes": null
+  },
+  "tags": [
+    "parable",
+    "loneliness",
+    "exile",
+    "desert faith",
+    "waiting",
+    "trust",
+    "patience",
+    "becoming"
+  ],
+  "motifs": [
+    "the desert",
+    "exile",
+    "Egypt / wandering",
+    "posture within time",
+    "companionship",
+    "trust in God"
+  ],
+  "scriptureRefs": [],
+  "relatedArtifacts": [],
+  "assets": []
+}

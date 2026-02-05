@@ -1,0 +1,91 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:8729c760-11f9-40b8-9b02-0b7cf716f988",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "A little daily wrote writing",
+  "subtitle": "On drought, discipline, and remaining faithful without fire",
+  "description": "A reflective post written during a prolonged creative drought, articulating faithfulness without inspiration, the acceptance of routine, and the refusal to canonize stagnation. The piece records Desert Faith as practiced rather than resolved.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/a-little-daily-wrote-writing",
+  "slug": "a-little-daily-wrote-writing",
+  "language": "en",
+  "dateCreated": "2026-02-02",
+  "datePublished": "2026-02-02",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-02-02",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "",
+    "subcurrent": "",
+    "family": "Candle"
+  },
+  "keywords": [
+    "Desert Faith",
+    "post",
+    "creative drought",
+    "faithfulness",
+    "discipline",
+    "routine",
+    "writing practice"
+  ],
+  "motifMap": [
+    {
+      "symbol": "drought",
+      "meaning": "absence of inspiration without loss of vocation",
+      "position": "opening"
+    },
+    {
+      "symbol": "routine",
+      "meaning": "faith enacted through repetition",
+      "position": "middle"
+    },
+    {
+      "symbol": "hopeful insufficiency",
+      "meaning": "orientation toward growth without guarantee",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "SO future, take what you will from this. Hopefully it is enough?",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-02-05",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "A little daily wrote writing (Substack post)",
+      "Phase Analysis: Desert Faith"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Schema v2.6.1 compliant. Forward-only. No speculative subcurrents. Phase sequence intentionally excluded."
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:f497a96b-0ff0-4776-a508-c428b07abe99",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Squiggles Or Doodles or something not great",
+  "subtitle": "",
+  "description": "An intuitive drawing surfaced during Trickster Prophet energy: fragmented forms, playful misdirection, and meaning that refuses premature fixing.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/squiggles-or-doodles-or-something",
+  "slug": "squiggles-or-doodles-or-something",
+  "language": "en",
+  "dateCreated": "2026-01-29",
+  "datePublished": "2026-01-29",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-01-29",
+    "time": "",
+    "phase": "\ud83c\udccf Trickster Prophet"
+  },
+  "phase": {
+    "name": "\ud83c\udccf Trickster Prophet",
+    "variant": "",
+    "subcurrent": "",
+    "family": "Totem / Liminal"
+  },
+  "keywords": [
+    "Trickster Prophet",
+    "drawing",
+    "intuition",
+    "Totem-adjacent",
+    "post"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Fragmented mask",
+      "meaning": "Playful deception revealing hidden structure",
+      "position": "center"
+    },
+    {
+      "symbol": "Red/Blue currents",
+      "meaning": "Competing drives held in tension",
+      "position": "field"
+    }
+  ],
+  "excerpt": "Sometimes meaning arrives sideways, laughing at our need to name it too quickly.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Hand-drawn abstract doodle with layered color fields",
+      "contentUrl": "",
+      "credit": "Aleksandr",
+      "license": "",
+      "altText": "Abstract hand-drawn image with interwoven red, blue, and black patterns forming a mask-like shape"
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-02-05",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Substack post image and title"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Schema v2.6.1. Phase assigned as Trickster Prophet rather than Totem Current due to playful misdirection and unresolved archetypal exposure."
+  }
+}

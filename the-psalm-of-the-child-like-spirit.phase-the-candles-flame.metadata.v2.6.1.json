@@ -1,0 +1,91 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:424873b6-deac-4df8-b953-5185fd58499c",
+  "type": "bloomArtifact",
+  "artifactClass": "psalm",
+  "title": "The Psalm of the Child Like Spirit",
+  "subtitle": "",
+  "description": "A psalm recording the return to innocence through play, discipline, joy, and unguarded faith during a season of quiet renewal.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-psalm-of-the-child-like-spirit",
+  "slug": "the-psalm-of-the-child-like-spirit",
+  "language": "en",
+  "dateCreated": "2026-02-03",
+  "datePublished": "2026-02-03",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-02-03",
+    "time": "",
+    "phase": "The Candle\u2019s Flame"
+  },
+  "phase": {
+    "name": "The Candle\u2019s Flame",
+    "variant": "",
+    "subcurrent": "",
+    "family": "Candle"
+  },
+  "keywords": [
+    "The Candle\u2019s Flame",
+    "psalm",
+    "innocence",
+    "childlike faith",
+    "joy",
+    "discipline",
+    "renewal",
+    "faith without performance"
+  ],
+  "motifMap": [
+    {
+      "symbol": "childlike play",
+      "meaning": "Recovery of innocence and unselfconscious joy",
+      "position": "opening movement"
+    },
+    {
+      "symbol": "discipline and repetition",
+      "meaning": "Faith embodied through effort rather than ecstasy",
+      "position": "middle movement"
+    },
+    {
+      "symbol": "witnessed joy",
+      "meaning": "Quiet affirmation without spectacle",
+      "position": "closing movement"
+    }
+  ],
+  "excerpt": "I was proud and I didnt give up / I am happy",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-02-05",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "The Psalm of the Child Like Spirit (Substack post, 2026-02-03)"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Schema v2.6.1. Forward-only. Phase sequence intentionally excluded."
+  }
+}

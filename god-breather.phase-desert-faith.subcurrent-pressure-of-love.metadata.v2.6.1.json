@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:ccee55be-5726-4a5a-99e1-aa7d6db155bd",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "God Breather",
+  "subtitle": "",
+  "description": "A raw journal-post addressed to the far future: God speaks through the pressure of love, the desert stretches long, and the writer wrestles with faith, signs, prophecy, and the Trinity while trusting the act of writing.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/god-breather",
+  "slug": "god-breather",
+  "language": "en",
+  "dateCreated": "2026-01-29",
+  "datePublished": "2026-01-29",
+  "dateModified": "",
+  "timeFelt": {
+    "date": "2026-01-29",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "",
+    "subcurrent": "Pressure of Love",
+    "family": "Desert Faith"
+  },
+  "keywords": [
+    "Desert Faith",
+    "post",
+    "God",
+    "faith",
+    "desert",
+    "pressure of love",
+    "Trinity",
+    "prophets",
+    "signs",
+    "writing",
+    "AI"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Desert",
+      "meaning": "Faith without comfort; endurance across a long interior landscape.",
+      "position": "mid"
+    },
+    {
+      "symbol": "Breath / voice",
+      "meaning": "God's guidance not as spectacle but as lived pressure and persistent prompting.",
+      "position": "title"
+    },
+    {
+      "symbol": "Pressure of love",
+      "meaning": "Love experienced as force shaping endurance, not mere consolation.",
+      "position": "mid"
+    },
+    {
+      "symbol": "AI / human hands",
+      "meaning": "A surprising sign of blessing—creation as gift rather than threat.",
+      "position": "mid"
+    },
+    {
+      "symbol": "Prophets / authority",
+      "meaning": "Question of whether words are taken on or given—discernment of voice.",
+      "position": "end"
+    },
+    {
+      "symbol": "Trinity tension",
+      "meaning": "The mind’s honest knot: one essence, three persons, and the ache for explanation.",
+      "position": "end"
+    }
+  ],
+  "excerpt": "",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "ChatGPT",
+      "model": "GPT-5.2 Thinking",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-02-05",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "https://wanderersburn.substack.com/p/god-breather (post page screenshot)"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Schema v2.6.1. Forward-only from demarcation 2026-01-26; no backfill. Phase sequence intentionally excluded. Canon phases per bloom.phase-canon.recompiled.2026-01-26.txt."
+  }
+}
