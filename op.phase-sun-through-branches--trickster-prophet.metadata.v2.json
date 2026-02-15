@@ -1,0 +1,81 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:709cc295-d33d-4ff5-982a-ee2712618057",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "OP",
+  "subtitle": "Resurrection theology disguised as anime commentary",
+  "description": "A reconciliation of absurdity and gravity, treating 'One Piece' as a theological object lesson where joy survives contact with suffering and glory appears through foolishness.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/op",
+  "slug": "op",
+  "language": "en-US",
+  "dateCreated": "2026-02-14",
+  "datePublished": "2026-02-14",
+  "dateModified": "2026-02-14",
+  "timeFelt": {
+    "date": "2026-02-14",
+    "time": "",
+    "phase": "Sun Through Branches"
+  },
+  "phase": {
+    "name": "Sun Through Branches",
+    "variant": "Trickster Prophet Undertone",
+    "subcurrent": "",
+    "family": "Pale Moon & Sun"
+  },
+  "keywords": [
+    "Sun Through Branches",
+    "Trickster Prophet",
+    "One Piece",
+    "theology",
+    "absurdity",
+    "integration",
+    "joy",
+    "resurrection"
+  ],
+  "motifMap": [
+    {
+      "symbol": "A carnival passing through a graveyard",
+      "meaning": "Laughter does not erase the stones, but light moves between them; joy that survives contact with suffering",
+      "position": "Central"
+    },
+    {
+      "symbol": "Grotesque vessels (Chopper, Se\u00f1or Pink)",
+      "meaning": "Vessels carrying unbearable tenderness; clown theology",
+      "position": "Symbolic"
+    }
+  ],
+  "excerpt": "I can finally love what does not apologize for being strange.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 1.5 Pro",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-02-14",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 OP"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0 for OP. Phase identified as Sun Through Branches with Trickster Prophet undertones."
+  }
+}

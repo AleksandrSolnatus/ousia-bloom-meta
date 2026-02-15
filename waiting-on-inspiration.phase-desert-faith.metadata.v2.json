@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:09ac4d74-d07f-4613-99da-6125c0c273b6",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Waiting on Inspiration",
+  "subtitle": "Fidelity vs. Nostalgia",
+  "description": "A reflection on the transition from writing by impulse to writing as an act of choice and obedience during a season of dry resolve.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/waiting-on-inspiration",
+  "slug": "waiting-on-inspiration",
+  "language": "en-US",
+  "dateCreated": "2026-02-14",
+  "datePublished": "2026-02-14",
+  "dateModified": "2026-02-14",
+  "timeFelt": {
+    "date": "2026-02-14",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "",
+    "subcurrent": "",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "Desert Faith",
+    "fidelity",
+    "choice",
+    "vocation",
+    "endurance",
+    "dry resolve"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Vessel",
+      "meaning": "Holding what exceeds preference; the capacity to contain without judging contents",
+      "position": "Central"
+    },
+    {
+      "symbol": "Desk beneath unforgiving light",
+      "meaning": "Vocation without heat or inspiration; the grinding necessity of practice",
+      "position": "Setting"
+    }
+  ],
+  "excerpt": "I no longer wait to be invited. I work because I have already agreed.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 1.5 Pro",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-02-14",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 Provisional Reading"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Phase identified as Desert Faith."
+  }
+}

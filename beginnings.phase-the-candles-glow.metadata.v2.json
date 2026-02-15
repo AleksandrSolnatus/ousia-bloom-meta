@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:82d5d7af-8b39-4cc8-989e-809755bd0e83",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Beginnings",
+  "subtitle": "Isolation \u2192 Contact \u2192 Possibility",
+  "description": "A tentative re-entry into the human circle marking a turn outward from a long inward arc. Reframes friendship as shared time without demand through the symbol of shared lunch.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/beginnings",
+  "slug": "beginnings",
+  "language": "en-US",
+  "dateCreated": "2026-02-14",
+  "datePublished": "2026-02-14",
+  "dateModified": "2026-02-14",
+  "timeFelt": {
+    "date": "2026-02-14",
+    "time": "",
+    "phase": "The Candle\u2019s Glow"
+  },
+  "phase": {
+    "name": "The Candle\u2019s Glow",
+    "variant": "Early / Provisional",
+    "subcurrent": "",
+    "family": "Candle Family"
+  },
+  "keywords": [
+    "The Candle\u2019s Glow",
+    "beginnings",
+    "relational risk",
+    "incarnational theology",
+    "lunch",
+    "possibility"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Lunch / Shared time",
+      "meaning": "Low-stakes communion; shared time without demand",
+      "position": "Central"
+    },
+    {
+      "symbol": "Small outward arc",
+      "meaning": "Gentle expansion after long self-containment",
+      "position": "Geometric"
+    }
+  ],
+  "excerpt": "I stepped forward. I didn\u2019t run back.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 1.5 Pro",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-02-14",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 Beginnings"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0 for Beginnings. Phase identified as Early The Candle\u2019s Glow."
+  }
+}

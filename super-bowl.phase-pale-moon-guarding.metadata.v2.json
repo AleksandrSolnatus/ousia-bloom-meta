@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:0dc43045-3062-413f-8fc7-4dba12c0dbe7",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Super Bowl",
+  "subtitle": "Attention vs. Participation",
+  "description": "A reflection on the withdrawal from mass ritual and collective focus, framing attention as sacred and spectatorship as misplaced ultimacy.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/super-bowl",
+  "slug": "super-bowl",
+  "language": "en-US",
+  "dateCreated": "2026-02-14",
+  "datePublished": "2026-02-14",
+  "dateModified": "2026-02-14",
+  "timeFelt": {
+    "date": "2026-02-14",
+    "time": "",
+    "phase": "Pale Moon Guarding"
+  },
+  "phase": {
+    "name": "Pale Moon Guarding",
+    "variant": "Provisional",
+    "subcurrent": "",
+    "family": "Pale Moon & Sun"
+  },
+  "keywords": [
+    "Pale Moon Guarding",
+    "Desert Faith",
+    "Super Bowl",
+    "mass ritual",
+    "attention",
+    "idolatry"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Collective attention as ritual",
+      "meaning": "Shared meaning outsourced to screens; ritual without transcendence",
+      "position": "Contextual"
+    },
+    {
+      "symbol": "A man seated slightly apart",
+      "meaning": "Chosen distance and withdrawal from compulsory attention",
+      "position": "Central"
+    }
+  ],
+  "excerpt": "I see the ritual clearly enough not to need it.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 1.5 Pro",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-02-14",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 Super Bowl"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0 for Super Bowl. Phase identified as Near Pale Moon Guarding / edging toward Desert Faith."
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:8ad14881-cbf8-4149-bca7-a5e29920e3ad",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The Dialogic Mirror",
+  "subtitle": "Playful seriousness; truth revealed through humor, comparison, and deflation",
+  "description": "An artifact exploring relational discernment and structural values through convergence across different intelligence systems. It uses playful inquiry to reveal deep theological and ethical frameworks.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-dialogic-mirror",
+  "slug": "the-dialogic-mirror",
+  "language": "en-US",
+  "dateCreated": "2026-02-14",
+  "datePublished": "2026-02-14",
+  "dateModified": "2026-02-14",
+  "timeFelt": {
+    "date": "2026-02-14",
+    "time": "",
+    "phase": "Trickster Prophet"
+  },
+  "phase": {
+    "name": "Trickster Prophet",
+    "variant": "Dialogic Mirror Variant",
+    "subcurrent": "",
+    "family": "Trickster / Illumination"
+  },
+  "keywords": [
+    "Trickster Prophet",
+    "Dialogic Mirror",
+    "convergence",
+    "structural values",
+    "Logos",
+    "natural law"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Two polished mirrors angled toward each other",
+      "meaning": "Relational discernment; minds reflecting frameworks endlessly",
+      "position": "Central"
+    },
+    {
+      "symbol": "Jester\u2019s mask",
+      "meaning": "Playful seriousness; truth revealed through deflation",
+      "position": "Symbolic"
+    }
+  ],
+  "excerpt": "When different minds converge, the question is no longer who is right, but what is fundamental.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 1.5 Pro",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-02-14",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 The Dialogic Mirror",
+      "5 random questions to ChatGPT and Gemini.txt"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0 for The Dialogic Mirror. Phase identified as Trickster Prophet (Dialogic Mirror Variant)."
+  }
+}

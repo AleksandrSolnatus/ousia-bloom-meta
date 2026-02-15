@@ -1,0 +1,85 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:1e588bd7-86ee-4e17-a96d-cd50aa743526",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Theology and Draper and The Fall And Theology (Conversation with Gemini)",
+  "subtitle": "Tool vs Idol; Model vs Reality",
+  "description": "A hinge-artifact marking a refusal to let probabilistic explanation replace the encounter of wonder. Defends a theism big enough to contain tragedy without reducing it to a simplistic evidentiary problem.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/theology-and-draper-and-the-fall-and-theology",
+  "slug": "theology-and-draper-and-the-fall-and-theology",
+  "language": "en-US",
+  "dateCreated": "2026-02-14",
+  "datePublished": "2026-02-14",
+  "dateModified": "2026-02-14",
+  "timeFelt": {
+    "date": "2026-02-14",
+    "time": "",
+    "phase": "Trickster Prophet"
+  },
+  "phase": {
+    "name": "Trickster Prophet",
+    "variant": "Primary",
+    "subcurrent": "",
+    "family": "Non-Canonical"
+  },
+  "keywords": [
+    "Trickster Prophet",
+    "Bayes",
+    "wonder",
+    "jurisdiction",
+    "Draper",
+    "theology",
+    "abyss"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Bayes/equations",
+      "meaning": "Jurisdiction of certain evidence types; method idolized as truth",
+      "position": "Setting"
+    },
+    {
+      "symbol": "Abyss/wonder",
+      "meaning": "The honest scale of existence; encounter vs. explanation",
+      "position": "Central"
+    },
+    {
+      "symbol": "Ash",
+      "meaning": "Evidence that is inadmissible in a purely probabilistic tribunal; sacramental reality",
+      "position": "Symbolic"
+    }
+  ],
+  "excerpt": "If your math makes God smaller, your math is not neutral\u2014it is already a creed. I won\u2019t worship the unsurprising.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 1.5 Pro",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-02-14",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 Theology and Draper and The Fall And Theology (Conversation with Gemini)"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0 for Theology and Draper artifact. Primary Phase identified as Trickster Prophet."
+  }
+}

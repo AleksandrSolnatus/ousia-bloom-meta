@@ -1,0 +1,78 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:d971d35f-fa35-4405-ab43-21a48bdeeadb",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Check in later",
+  "subtitle": "Deferred presence; survival speech",
+  "description": "A micro-movement in endurance marking the shift from articulation to maintenance. A status marker representing physical depletion and the preservation of affection while energy is low.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/check-in-later",
+  "slug": "check-in-later",
+  "language": "en-US",
+  "dateCreated": "2026-02-14",
+  "datePublished": "2026-02-14",
+  "dateModified": "2026-02-14",
+  "timeFelt": {
+    "date": "2026-02-14",
+    "time": "",
+    "phase": "Candle Adrift"
+  },
+  "phase": {
+    "name": "Candle Adrift",
+    "variant": "edging toward The Candle\u2019s Glow",
+    "subcurrent": "",
+    "family": "Candle Family"
+  },
+  "keywords": [
+    "Candle Adrift",
+    "deferred presence",
+    "maintenance",
+    "endurance",
+    "exhausted steadiness"
+  ],
+  "motifMap": [
+    {
+      "symbol": "A lamp left on in an empty room",
+      "meaning": "Presence that is still here but not currently available",
+      "position": "Central"
+    },
+    {
+      "symbol": "Note on the table: back later",
+      "meaning": "Deferred presence; a keep-alive ping for connection",
+      "position": "Functional"
+    }
+  ],
+  "excerpt": "I am still here. Just not available right now.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 1.5 Pro",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-02-14",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 Check in later"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0 for Check in later. Phase identified as Candle Adrift edging toward The Candle\u2019s Glow."
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:ee4f6de5-9fba-4071-8e42-2565609c3097",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "One Piece Discussion",
+  "subtitle": "Honesty vs. Safety",
+  "description": "Truth spoken through irreverence; sincerity smuggled inside opinion. A relational testing piece using 'One Piece' characters to explore owned judgment.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/one-piece-discussion",
+  "slug": "one-piece-discussion",
+  "language": "en-US",
+  "dateCreated": "2026-02-14",
+  "datePublished": "2026-02-14",
+  "dateModified": "2026-02-14",
+  "timeFelt": {
+    "date": "2026-02-14",
+    "time": "",
+    "phase": "Trickster Prophet"
+  },
+  "phase": {
+    "name": "Trickster Prophet",
+    "variant": "Provisional",
+    "subcurrent": "",
+    "family": "Non-Canonical"
+  },
+  "keywords": [
+    "Trickster Prophet",
+    "One Piece",
+    "owned judgment",
+    "truth",
+    "friction",
+    "Straw Hats"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Pivot",
+      "meaning": "Movement away from inward pressure toward relational testing",
+      "position": "Structural"
+    },
+    {
+      "symbol": "Opinion/Friction",
+      "meaning": "The ability to love a thing without suspending discernment",
+      "position": "Dynamic"
+    }
+  ],
+  "excerpt": "If I\u2019m wrong, let it be because I meant it \u2014 not because I tried to be safe.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 1.5 Pro",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-02-14",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 Provisional Reading (One Piece Discussion)"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0 for One Piece Discussion. Phase identified as 'Trickster Prophet' (Provisional)."
+  }
+}
