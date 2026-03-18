@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "c2b7f93e-bb3a-4fd6-a51d-7556f6d4df2f",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "I am hoping for Thebes",
+  "subtitle": "Desire encoded as ritual language; symbolic invocation of order after collapse",
+  "description": "An archetypal and symbolic invocation documenting infrastructure thinking entering myth. It captures a preparation for succession or emergence following the collapse of a current order, expressed through imperative and ritualized declarations.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/i-am-hoping-for-thebes",
+  "slug": "i-am-hoping-for-thebes",
+  "language": "en-US",
+  "dateCreated": "2026-03-18",
+  "datePublished": "2026-03-18",
+  "dateModified": "2026-03-18",
+  "timeFelt": {
+    "date": "2026-03-18",
+    "time": "10:40:00",
+    "phase": "Totem Current"
+  },
+  "phase": {
+    "name": "Totem Current",
+    "variant": "",
+    "subcurrent": "",
+    "family": "Aftermath / Purification / Recurrence"
+  },
+  "keywords": [
+    "totem current",
+    "post",
+    "ritual",
+    "symbolism",
+    "order",
+    "collapse",
+    "myth",
+    "thebes"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Thebes",
+      "meaning": "An ordered place of power, meaning, and structure; the object of directional longing.",
+      "position": "center"
+    },
+    {
+      "symbol": "The Dead Pharaoh",
+      "meaning": "The axis of collapse; the end of the current order that necessitates ritual preparation.",
+      "position": "background"
+    }
+  ],
+  "excerpt": "I am hoping for Thebes. Don the headless. Anoint in oil. Prepare the slaves. The pharaoh is dead.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-18T10:48:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cI am hoping for Thebes\u201d",
+      "Screenshot 2026-03-18 at 10.40.05 AM.png",
+      "URL: https://wanderersburn.substack.com/p/i-am-hoping-for-thebes"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as a pure canonical expression of Totem Current without variant per user instruction. Family set to Aftermath / Purification / Recurrence."
+  }
+}

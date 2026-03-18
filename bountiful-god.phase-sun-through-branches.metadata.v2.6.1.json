@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:3919b1ae-5ea6-4cd4-996a-887b68975c14",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Bountiful God",
+  "subtitle": "Stability without effort; recognized and accepted",
+  "description": "An artifact documenting a shift into stability where the self is no longer tracking phases or monitoring changes. It represents unfiltered gratitude within illumination, receiving grace without resistance or analysis.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/bountiful-god",
+  "slug": "bountiful-god",
+  "language": "en-US",
+  "dateCreated": "2026-03-18",
+  "datePublished": "2026-03-18",
+  "dateModified": "2026-03-18",
+  "timeFelt": {
+    "date": "2026-03-18",
+    "time": "10:28:00",
+    "phase": "Sun Through Branches"
+  },
+  "phase": {
+    "name": "Sun Through Branches",
+    "variant": "",
+    "subcurrent": "",
+    "family": "Pale Moon & Sun"
+  },
+  "keywords": [
+    "sun through branches",
+    "post",
+    "bountiful god",
+    "stability",
+    "gratitude",
+    "grace"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Light received and acknowledged",
+      "meaning": "Illumination without intensity; being seen and allowing it without analysis.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "I haven\u2019t thought about seasons or changes or even the bloom as much. I have been enjoying life. I think this is a good thing.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-18T10:35:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cBountiful God\u201d",
+      "Screenshot 2026-03-18 at 10.28.50 AM.png",
+      "URL: https://wanderersburn.substack.com/p/bountiful-god"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as a pure canonical expression of Sun Through Branches without variant per user instruction."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:694f792b-dfa8-4e45-a7a3-58dacdd6951e",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "A Psalm for Charlie",
+  "subtitle": "Love held steady in the presence of death; faith without control",
+  "description": "An anchor artifact documenting intimacy with the divine through the care of another at the end of life. It captures a state of being meaning through presence, avoiding theological abstraction in favor of grounded, physical love and a farewell without certainty.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/a-psalm-for-charlie",
+  "slug": "a-psalm-for-charlie",
+  "language": "en-US",
+  "dateCreated": "2026-03-18",
+  "datePublished": "2026-03-18",
+  "dateModified": "2026-03-18",
+  "timeFelt": {
+    "date": "2026-03-18",
+    "time": "10:50:00",
+    "phase": "The Candle's Embrace"
+  },
+  "phase": {
+    "name": "The Candle's Embrace",
+    "variant": "",
+    "subcurrent": "",
+    "family": "Candle Family"
+  },
+  "keywords": [
+    "the candle's embrace",
+    "post",
+    "presence",
+    "love",
+    "death",
+    "uncertainty",
+    "groundedness"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Holding hands",
+      "meaning": "Embodied, physical love in the face of suffering and indignity; presence over abstraction.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "I do not know... I held your hand... He is Love.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-18T10:55:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cA Psalm for Charlie\u201d",
+      "Screenshot 2026-03-18 at 10.50.49 AM.png",
+      "URL: https://wanderersburn.substack.com/p/a-psalm-for-charlie"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as a pure canonical expression of The Candle's Embrace without variant per user intent."
+  }
+}

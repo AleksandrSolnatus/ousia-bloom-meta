@@ -1,0 +1,81 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "7dfd193d-985c-4166-9090-216598cdc4ee",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The Psalm of Trash",
+  "subtitle": "Everything diminishes in scale\u2014but not in meaning",
+  "description": "An exploration of scale collapse and meaning retention. It reframes decay and refuse not as waste, but as a continuous process of transformation within a transcendent ordering intelligence.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-psalm-of-trash",
+  "slug": "the-psalm-of-trash",
+  "language": "en-US",
+  "dateCreated": "2026-03-18",
+  "datePublished": "2026-03-18",
+  "dateModified": "2026-03-18",
+  "timeFelt": {
+    "date": "2026-03-18",
+    "time": "08:14:00",
+    "phase": "Sun Through Branches"
+  },
+  "phase": {
+    "name": "Sun Through Branches",
+    "variant": "Cosmic Reduction",
+    "subcurrent": "",
+    "family": "Pale Moon & Sun"
+  },
+  "keywords": [
+    "sun through branches",
+    "post",
+    "cosmic reduction",
+    "transformation",
+    "scale",
+    "ideonella",
+    "meaning"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Plastic dissolving under microscopic life",
+      "meaning": "The temporary nature of human 'permanence' within a larger biological and cosmic order.",
+      "position": "center"
+    },
+    {
+      "symbol": "The Cosmological Ladder",
+      "meaning": "Progressive reduction of human centrality to find transcendent coherence.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "Perhaps the night sky was made dark by our light\u2026 All fades / All is reduced / but nothing is gone / It only transforms",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-18T08:22:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cThe Psalm of Trash\u201d",
+      "Screenshot 2026-03-18 at 8.14.39 AM.png"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Title and URL inferred from the analysis text and naming conventions."
+  }
+}

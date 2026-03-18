@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "9b1b343d-e762-49f0-93f7-1b71ac02fa73",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "I am going on a desert walk",
+  "subtitle": "Chosen Withdrawal; intentional reduction of stimulation to recover clarity",
+  "description": "An artifact documenting a voluntary movement into a state of less. It marks a shift from endurance-based Desert Faith to chosen withdrawal, prioritizing the reestablishment of signal by lowering environmental noise.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/i-am-going-on-a-desert-walk",
+  "slug": "i-am-going-on-a-desert-walk",
+  "language": "en-US",
+  "dateCreated": "2026-03-18",
+  "datePublished": "2026-03-18",
+  "dateModified": "2026-03-18",
+  "timeFelt": {
+    "date": "2026-03-18",
+    "time": "08:29:00",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "Chosen Withdrawal",
+    "subcurrent": "",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "desert faith",
+    "post",
+    "chosen withdrawal",
+    "intentionality",
+    "simplification",
+    "reorientation"
+  ],
+  "motifMap": [
+    {
+      "symbol": "A man sitting by a quiet pool in the desert",
+      "meaning": "Intentional reduction of environment to recover clarity; book unopened signaling pre-meaning.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "I am going where less is happening.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-18T08:35:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cI am going on a desert walk\u201d",
+      "Screenshot 2026-03-18 at 8.29.48 AM.png",
+      "URL: https://wanderersburn.substack.com/p/i-am-going-on-a-desert-walk"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as 'Chosen Withdrawal' variant of Desert Faith. Family set to Desert Family."
+  }
+}

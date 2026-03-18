@@ -1,0 +1,80 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:9c894487-5e46-44c3-b980-8f4dde2182a8",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "I have horrible food poisoning",
+  "subtitle": "Continuity under discomfort; the body as a stress test of the system",
+  "description": "An artifact documenting physical disruption and the resulting friction within a period of Desert Faith. It captures the struggle of maintaining orientation and observational awareness when the body limits execution and productivity.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/i-have-horrible-food-poisoning",
+  "slug": "i-have-horrible-food-poisoning",
+  "language": "en-US",
+  "dateCreated": "2026-03-18",
+  "datePublished": "2026-03-18",
+  "dateModified": "2026-03-18",
+  "timeFelt": {
+    "date": "2026-03-18",
+    "time": "08:51:00",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "Disturbed / Physical Disruption",
+    "subcurrent": "Logistical Smallness",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "desert faith",
+    "post",
+    "logistical-smallness",
+    "signal-withdrawal",
+    "physical disruption",
+    "methodic self-watching"
+  ],
+  "motifMap": [
+    {
+      "symbol": "The Body as Stress Test",
+      "meaning": "Physical sickness testing the resilience and orientation of the internal system.",
+      "position": "center"
+    },
+    {
+      "symbol": "Ideological Leak",
+      "meaning": "Unintegrated spikes of irritation bleeding into expression due to reduced polish.",
+      "position": "threshold"
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-18T08:56:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cI have horrible food poisoning\u201d",
+      "Screenshot 2026-03-18 at 8.51.54 AM.png",
+      "URL: https://wanderersburn.substack.com/p/i-have-horrible-food-poisoning"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Primary phase: Desert Faith (Disturbed/Physical Disruption variant). Subcurrent Logistical Smallness identified as dominant friction."
+  }
+}

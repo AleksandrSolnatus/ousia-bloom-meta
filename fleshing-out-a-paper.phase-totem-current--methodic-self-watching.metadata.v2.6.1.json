@@ -1,0 +1,81 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:6ca8f702-8d4b-4a5c-912b-63a2a6797f2c",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Fleshing out a paper",
+  "subtitle": "Pre-Argument Field Formation; uncovering the engine of thought",
+  "description": "An architectural session documenting the transition from intuitive to structured theology. It involves the excavation of conceptual pillars—freedom, development, suffering, and telos—while testing their structural integrity under active pressure.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/fleshing-out-a-paper",
+  "slug": "fleshing-out-a-paper",
+  "language": "en-US",
+  "dateCreated": "2026-03-18",
+  "datePublished": "2026-03-18",
+  "dateModified": "2026-03-18",
+  "timeFelt": {
+    "date": "2026-03-18",
+    "time": "08:45:00",
+    "phase": "Totem Current"
+  },
+  "phase": {
+    "name": "Totem Current",
+    "variant": "Pre-Argument Field Formation",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Aftermath / Purification / Recurrence"
+  },
+  "keywords": [
+    "totem current",
+    "post",
+    "theology",
+    "architecture",
+    "telos",
+    "developmental humanity"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Conceptual Pillars",
+      "meaning": "Freedom, Development, Revelation, and Meta-Critique; the load-bearing elements of the argument.",
+      "position": "center"
+    },
+    {
+      "symbol": "Telos",
+      "meaning": "The missing pillar; the final cause and direction that aligns the system.",
+      "position": "threshold"
+    }
+  ],
+  "excerpt": "You are not inventing the argument—you are recognizing it. The artist is king because what lives in my mind is better than all of these.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-18T08:49:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 — “Fleshing out a paper”",
+      "Screenshot 2026-03-18 at 8.45.12 AM.png",
+      "URL: https://wanderersburn.substack.com/p/fleshing-out-a-paper"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Primary phase corrected to Totem Current. Identified as Pre-Argument Field Formation. Sub-currents Methodic Self-Watching and Adaptive Witness noted as active."
+  }
+}

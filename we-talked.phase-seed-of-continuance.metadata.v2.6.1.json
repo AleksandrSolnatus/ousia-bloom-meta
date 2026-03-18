@@ -1,0 +1,75 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:c1841ef6-491a-448e-93ef-bcde9b88ff69",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "We talked",
+  "subtitle": "Contact without possession; planting a moment and leaving it unforced",
+  "description": "An artifact documenting a significant relational moment held without projection or mythologizing. It represents a pure expression of Seed of Continuance, grounding openness in a restrained acknowledgment of reality.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/we-talked",
+  "slug": "we-talked",
+  "language": "en-US",
+  "dateCreated": "2026-03-18",
+  "datePublished": "2026-03-18",
+  "dateModified": "2026-03-18",
+  "timeFelt": {
+    "date": "2026-03-18",
+    "time": "10:04:00",
+    "phase": "Seed of Continuance"
+  },
+  "phase": {
+    "name": "Seed of Continuance",
+    "variant": "",
+    "subcurrent": "",
+    "family": "Phase 0 \u2014 The Self-Generating Core"
+  },
+  "keywords": [
+    "seed of continuance",
+    "post",
+    "contact",
+    "restraint",
+    "we talked"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Planting a moment",
+      "meaning": "Establishing contact without forcing meaning or future projection.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "I am scared and unsure, but we talked.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-18T10:09:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cWe talked\u201d",
+      "Screenshot 2026-03-18 at 10.04.29 AM.png",
+      "URL: https://wanderersburn.substack.com/p/we-talked"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as a pure canonical expression of Seed of Continuance without variant per user instruction."
+  }
+}

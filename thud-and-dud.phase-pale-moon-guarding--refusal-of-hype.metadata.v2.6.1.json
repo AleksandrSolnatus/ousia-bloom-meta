@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "cdb735b9-f97e-49e0-ae6d-7bd92b20d072",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Thud and Dud",
+  "subtitle": "Expectation meeting reality\u2014and reality refusing spectacle",
+  "description": "An artifact of quiet discernment and perceptual independence. It documents the refusal of collective hype and the evaluation of experience based on direct perception rather than consensus narratives.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/thud-and-dud",
+  "slug": "thud-and-dud",
+  "language": "en-US",
+  "dateCreated": "2026-03-18",
+  "datePublished": "2026-03-18",
+  "dateModified": "2026-03-18",
+  "timeFelt": {
+    "date": "2026-03-18",
+    "time": "09:13:00",
+    "phase": "Pale Moon Guarding"
+  },
+  "phase": {
+    "name": "Pale Moon Guarding",
+    "variant": "Refusal of Hype",
+    "subcurrent": "",
+    "family": "Pale Moon & Sun"
+  },
+  "keywords": [
+    "pale moon guarding",
+    "post",
+    "refusal of hype",
+    "discernment",
+    "perceptual independence",
+    "thud and dud"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Stillness in the Stadium",
+      "meaning": "Hearing the collective noise but not absorbing its meaning; internal authority over interpretation.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "It don\u2019t know who is right. Both might be... But it was a dud to me.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-18T09:30:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cThud and Dud\u201d",
+      "Screenshot 2026-03-18 at 9.13.17 AM.png",
+      "URL: https://wanderersburn.substack.com/p/thud-and-dud"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as 'Refusal of Hype' variant of Pale Moon Guarding."
+  }
+}

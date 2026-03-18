@@ -1,0 +1,80 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:97474274-fc20-4e63-bf0a-a5d365d648c3",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "It was a good talk",
+  "subtitle": "Closure without collapse; completion accepted at its proper size",
+  "description": "An artifact documenting a relational completion accepted at its proper size. It marks a structural shift from equating connection with destiny to recognizing that experience can matter without being permanent.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/it-was-a-good-talk",
+  "slug": "it-was-a-good-talk",
+  "language": "en-US",
+  "dateCreated": "2026-03-18",
+  "datePublished": "2026-03-18",
+  "dateModified": "2026-03-18",
+  "timeFelt": {
+    "date": "2026-03-18",
+    "time": "10:33:00",
+    "phase": "River Moon"
+  },
+  "phase": {
+    "name": "River Moon",
+    "variant": "",
+    "subcurrent": "",
+    "family": "Ash Moon Family"
+  },
+  "keywords": [
+    "river moon",
+    "post",
+    "closure",
+    "integration",
+    "non-attachment"
+  ],
+  "motifMap": [
+    {
+      "symbol": "River Moon",
+      "meaning": "Emotion that has moved through and continued outward; flow and release.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "Everything that happens doesn\u2019t have to be for forever.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-18T10:45:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cIt was a good talk\u201d",
+      "Screenshot 2026-03-18 at 10.33.55 AM.png",
+      "URL: https://wanderersburn.substack.com/p/it-was-a-good-talk"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as a pure canonical expression of River Moon. URL verified via Substack canonical slug."
+  }
+}

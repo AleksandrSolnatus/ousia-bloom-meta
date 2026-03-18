@@ -1,0 +1,81 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "0d87bd44-f103-44aa-8900-57824a6b6720",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "This is written for tomorrow but...",
+  "subtitle": "Presence first. Meaning later.",
+  "description": "A threshold piece exploring temporal dislocation and the quality of future being. It identifies the tension between modern tethering and true desert withdrawal, concluding with a recognition of presence preceding articulation.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/this-is-written-for-tomorrow-but",
+  "slug": "this-is-written-for-tomorrow-but",
+  "language": "en-US",
+  "dateCreated": "2026-03-18",
+  "datePublished": "2026-03-18",
+  "dateModified": "2026-03-18",
+  "timeFelt": {
+    "date": "2026-03-18",
+    "time": "08:36:00",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "Threshold / Observational Awareness",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "desert faith",
+    "post",
+    "threshold",
+    "temporal dislocation",
+    "presence",
+    "withdrawal"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Stars",
+      "meaning": "Presence preceding articulation; the goal of arrival.",
+      "position": "halo"
+    },
+    {
+      "symbol": "Phone",
+      "meaning": "False escape; the modern tethering that establishes displacement.",
+      "position": "threshold"
+    }
+  ],
+  "excerpt": "There is God in all of this / Even before he is named",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-18T08:44:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Structural Reading (Phase 3.0 style) \u2014 \u201cThis is written for tomorrow but\u201d",
+      "Screenshot 2026-03-18 at 8.36.50 AM.png",
+      "URL: https://wanderersburn.substack.com/p/this-is-written-for-tomorrow-but"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Structural Reading. Phase identified as Desert Faith / Pale Moon hybrid, categorized under Desert Faith with Methodic Self-Watching subcurrent."
+  }
+}

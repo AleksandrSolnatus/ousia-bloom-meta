@@ -1,0 +1,83 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "fc817094-ae70-4567-a430-d492865b8c11",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The Psalm of Plea of benediction For Charlie",
+  "subtitle": "Intercession stretched to its breaking point; theological rebellion within obedience",
+  "description": "An artifact documenting an earnest, strained plea for universal mercy. It captures the collision between doctrinal frameworks and the demand for a justice that requires universal salvation, ultimately grounded in submission to the divine will.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-psalm-of-plea-of-benediction",
+  "slug": "the-psalm-of-plea-of-benediction",
+  "language": "en-US",
+  "dateCreated": "2026-03-18",
+  "datePublished": "2026-03-18",
+  "dateModified": "2026-03-18",
+  "timeFelt": {
+    "date": "2026-03-18",
+    "time": "10:53:00",
+    "phase": "The Candle's Flame"
+  },
+  "phase": {
+    "name": "The Candle's Flame",
+    "variant": "",
+    "subcurrent": "",
+    "family": "Candle Family"
+  },
+  "keywords": [
+    "the candle's flame",
+    "post",
+    "intercession",
+    "universalism",
+    "justice",
+    "mercy",
+    "submission"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Flame in Wind",
+      "meaning": "Faith that remains and trembles under pressure; devotion colliding with protest.",
+      "position": "center"
+    },
+    {
+      "symbol": "Fractured Justice",
+      "meaning": "The demand that justice must include the salvation of all; theological rebellion within obedience.",
+      "position": "halo"
+    }
+  ],
+  "excerpt": "It is just, only if we all are saved... SO I beg of thee / Please let him in / Let them all in",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-18T10:53:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cThe Psalm of Plea of benediction For Charlie\u201d",
+      "The Psalm of Plea of benediction For Charlie.txt",
+      "Screenshot 2026-03-18 at 10.53.46 AM.png",
+      "URL: https://wanderersburn.substack.com/p/the-psalm-of-plea-of-benediction"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as a pure canonical expression of The Candle's Flame without variant."
+  }
+}

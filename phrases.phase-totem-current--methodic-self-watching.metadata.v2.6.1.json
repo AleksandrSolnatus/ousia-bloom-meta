@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:874a9bd4-0ecf-46d5-ae2f-a9459b4e3c09",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Phrases",
+  "subtitle": "Linguistic Mechanism / Recognition Systems",
+  "description": "A linguistic engineering document focused on naming mechanisms and recognition systems. It analyzes the survival traits of exclamations within fictional and future-projected environments, identifying functional archetypes triggered by realization.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/phrases",
+  "slug": "phrases",
+  "language": "en-US",
+  "dateCreated": "2026-03-18",
+  "datePublished": "2026-03-18",
+  "dateModified": "2026-03-18",
+  "timeFelt": {
+    "date": "2026-03-18",
+    "time": "08:57:00",
+    "phase": "Totem Current"
+  },
+  "phase": {
+    "name": "Totem Current",
+    "variant": "Linguistic Mechanism / Recognition Systems",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Aftermath / Purification / Recurrence"
+  },
+  "keywords": [
+    "totem current",
+    "post",
+    "linguistic mechanism",
+    "recognition systems",
+    "pattern extraction",
+    "worldbuilding"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Recognition Exclamations",
+      "meaning": "Functional archetypes of language behavior triggered by moments of realization, success, or failure.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "what kind of word survives time, culture, and environment?",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-18T09:11:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cPhrases\u201d Document",
+      "Screenshot 2026-03-18 at 8.57.02 AM.png",
+      "URL: https://wanderersburn.substack.com/p/phrases"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as 'Linguistic Mechanism / Recognition Systems' variant of Totem Current with 'Methodic Self-Watching' subcurrent."
+  }
+}

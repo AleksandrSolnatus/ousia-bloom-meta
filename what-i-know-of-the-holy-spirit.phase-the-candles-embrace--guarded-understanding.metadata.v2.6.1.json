@@ -1,0 +1,77 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "56010d43-c304-4dc4-a92c-7f14d6c3d6de",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "What I know of the Holy Spirit",
+  "subtitle": "Guarded Understanding; structured belief under active revision",
+  "description": "An artifact documenting a theological orientation through humility. It explores the tension between structured doctrinal formulation and the destabilizing encounter with divine mystery, emphasizing reverence over mastery.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/what-i-know-of-the-holy-spirit",
+  "slug": "what-i-know-of-the-holy-spirit",
+  "language": "en-US",
+  "dateCreated": "2026-03-18",
+  "datePublished": "2026-03-18",
+  "dateModified": "2026-03-18",
+  "timeFelt": {
+    "date": "2026-03-18",
+    "time": "09:40:00",
+    "phase": "The Candle\u2019s Embrace"
+  },
+  "phase": {
+    "name": "The Candle\u2019s Embrace",
+    "variant": "Guarded Understanding",
+    "subcurrent": "",
+    "family": "Candle Family"
+  },
+  "keywords": [
+    "the candle\u2019s embrace",
+    "post",
+    "guarded understanding",
+    "trinity",
+    "holy spirit",
+    "humility",
+    "mystery"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Reading by Candlelight",
+      "meaning": "Structured thought illuminating a small circle while acknowledging the surrounding shadow of mystery.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "The moment I think I truly understand God\u2026 is the moment I have gone wrong.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-18T09:40:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cWhat I know of the Holy Spirit\u201d",
+      "Screenshot 2026-03-18 at 9.26.03 AM.png",
+      "URL: https://wanderersburn.substack.com/p/what-i-know-of-the-holy-spirit"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as 'Guarded Understanding' variant of The Candle's Embrace. Family set to Candle Family."
+  }
+}

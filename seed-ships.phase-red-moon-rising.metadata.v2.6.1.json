@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "4a82d006-254b-49b2-8679-0b0a25e334d9",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Seed Ships",
+  "subtitle": "Imagination captured and willingly followed; identity testing through existential projection",
+  "description": "An artifact documenting a moment of ignition where an idea takes hold and begins to direct the self. It explores the existential pull of one-way missions and the willingness to leave without guarantee of return, marking a transition from planting into propulsion.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/seed-ships",
+  "slug": "seed-ships",
+  "language": "en-US",
+  "dateCreated": "2026-03-18",
+  "datePublished": "2026-03-18",
+  "dateModified": "2026-03-18",
+  "timeFelt": {
+    "date": "2026-03-18",
+    "time": "10:46:00",
+    "phase": "Red Moon Rising"
+  },
+  "phase": {
+    "name": "Red Moon Rising",
+    "variant": "",
+    "subcurrent": "Imagination Captured",
+    "family": "Red Moon Family"
+  },
+  "keywords": [
+    "red moon rising",
+    "post",
+    "ignition",
+    "propulsion",
+    "existential projection",
+    "seed ships"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Seed Ship",
+      "meaning": "The vehicle of existential projection; leaving without return to establish legacy beyond presence.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "Would you go? I think I would.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-18T10:49:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cSeed Ships\u201d",
+      "Screenshot 2026-03-18 at 10.46.21 AM.png",
+      "URL: https://wanderersburn.substack.com/p/seed-ships"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as a pure canonical expression of Red Moon Rising without variant."
+  }
+}
