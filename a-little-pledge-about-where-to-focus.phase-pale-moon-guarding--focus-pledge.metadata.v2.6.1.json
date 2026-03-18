@@ -1,0 +1,75 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "9f09278e-5e1c-4262-8ae5-2747a74ecfed",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "A little pledge about where to focus",
+  "subtitle": "A conscious narrowing of attention after a period of drift or expansion.",
+  "description": "An artifact documenting a deliberate structural narrowing of focus. It marks a course correction from future projections back to immediate reality and responsibility.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/a-little-pledge-about-where-to-focus",
+  "slug": "a-little-pledge-about-where-to-focus",
+  "language": "en-US",
+  "dateCreated": "2026-03-17",
+  "datePublished": "2026-03-17",
+  "dateModified": "2026-03-17",
+  "timeFelt": {
+    "date": "2026-03-17",
+    "time": "20:52:00",
+    "phase": "Pale Moon Guarding"
+  },
+  "phase": {
+    "name": "Pale Moon Guarding",
+    "variant": "Focus Pledge",
+    "subcurrent": "",
+    "family": "Pale Moon & Sun"
+  },
+  "keywords": [
+    "pale moon guarding",
+    "post",
+    "focus pledge",
+    "restraint",
+    "intentionality",
+    "re-anchoring"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Closing multiple open doors",
+      "meaning": "A conscious narrowing of attention; leaving only one lit room to remain within.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "I am pledging to refocus on the important things now. My idea of where I want to go for school has made me lose sight of what matters here. Which is here.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-17T20:52:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cA little pledge about where to focus\u201d",
+      "URL: https://wanderersburn.substack.com/p/a-little-pledge-about-where-to-focus"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Title and URL verified via Substack canonical slug."
+  }
+}

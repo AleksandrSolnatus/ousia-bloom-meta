@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:68e7f1e2-b88a-4d2a-9f81-5991879c9324",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "A Conversation about Imperialism",
+  "subtitle": "Historical Compression; insufficiency of simplified moral frameworks",
+  "description": "A dense, searching exploration of collapsed histories and identities. Analyzes the ethics of power structures, liturgical imperialism, and the search for an orientation that survives historical drift.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/a-conversation-about-imperialism",
+  "slug": "a-conversation-about-imperialism",
+  "language": "en-US",
+  "dateCreated": "2026-03-17",
+  "datePublished": "2026-03-17",
+  "dateModified": "2026-03-17",
+  "timeFelt": {
+    "date": "2026-03-17",
+    "time": "20:58:00",
+    "phase": "Totem Current"
+  },
+  "phase": {
+    "name": "Totem Current",
+    "variant": "Historical Compression",
+    "subcurrent": "",
+    "family": "Aftermath / Purification / Recurrence"
+  },
+  "keywords": [
+    "totem current",
+    "post",
+    "historical compression",
+    "imperialism",
+    "identity",
+    "ethics",
+    "chesterton"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Layered maps",
+      "meaning": "Multiple claims to truth from different centuries projected over one another; none fully erasing others.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "If all things are built on what came before, where does judgment begin?",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-17T21:05:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 — “A Conversation about Imperialism”",
+      "URL: https://wanderersburn.substack.com/p/a-conversation-about-imperialism",
+      "A Conversation about Imperialism and Gilbert K Chesterton.txt"
+    ],
+    "editHistory": [
+      {
+        "date": "2026-03-17",
+        "action": "Corrected primary phase to Totem Current per user instruction."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Corrected primary phase to Totem Current with Historical Compression as the variant per user instruction. Family set to Aftermath / Purification / Recurrence."
+  }
+}

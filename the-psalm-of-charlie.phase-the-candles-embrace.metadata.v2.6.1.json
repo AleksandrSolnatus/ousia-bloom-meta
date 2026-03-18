@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:b2d6125d-f17d-46d5-ab8d-0bdff48aaeeb",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The Psalm of Charlie",
+  "subtitle": "Love extended outward; responsibility for another soul without control over outcome",
+  "description": "A liturgical intercession for a man named Charlie, exploring the tension between the impulse to save and the reality of being a vessel. It documents a shift from self-regulation to other-directed care.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-psalm-of-charlie",
+  "slug": "the-psalm-of-charlie",
+  "language": "en-US",
+  "dateCreated": "2026-03-17",
+  "datePublished": "2026-03-17",
+  "dateModified": "2026-03-17",
+  "timeFelt": {
+    "date": "2026-03-17",
+    "time": "20:23:00",
+    "phase": "The Candle\u2019s Embrace"
+  },
+  "phase": {
+    "name": "The Candle\u2019s Embrace",
+    "variant": "Intercessory Fire",
+    "subcurrent": "",
+    "family": "Candle Family"
+  },
+  "keywords": [
+    "the candle\u2019s embrace",
+    "post",
+    "intercession",
+    "responsibility",
+    "liturgy",
+    "charlie"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Intercession under uncertainty",
+      "meaning": "Standing between a human and eternity without the ability to bridge it oneself.",
+      "position": "center"
+    },
+    {
+      "symbol": "Anticipatory spiritual grief",
+      "meaning": "Mourning the chance that a soul will depart without God.",
+      "position": "halo"
+    }
+  ],
+  "excerpt": "But Charlie / I won\u2019t give up on you / Never / Not Ever",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-17T20:23:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 The Candle\u2019s Embrace (Intercessory Fire)",
+      "Screenshot 2026-03-17 at 8.18.26 PM.png",
+      "Screenshot 2026-03-17 at 8.18.22 PM.png",
+      "URL: https://wanderersburn.substack.com/p/the-psalm-of-charlie"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Title 'The Psalm of Charlie' and URL verified via user provided slug and screenshots."
+  }
+}

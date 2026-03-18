@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "ed881571-0eca-4ffb-84c7-129742494613",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Working on Mamabird",
+  "subtitle": "Fractured Translation; frustration at the gap between vision and execution",
+  "description": "An exploration of mediated creation and the compression loss of imagination when translating internal vision into machine-generated form. It asserts the superiority of the internal image over its approximations.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/working-on-mamabird",
+  "slug": "working-on-mamabird",
+  "language": "en-US",
+  "dateCreated": "2026-03-17",
+  "datePublished": "2026-03-17",
+  "dateModified": "2026-03-17",
+  "timeFelt": {
+    "date": "2026-03-17",
+    "time": "20:45:00",
+    "phase": "Trickster Prophet"
+  },
+  "phase": {
+    "name": "Trickster Prophet",
+    "variant": "Fractured Translation",
+    "subcurrent": "",
+    "family": "Trickster Family"
+  },
+  "keywords": [
+    "trickster prophet",
+    "fractured translation",
+    "post",
+    "mamabird",
+    "creation",
+    "vision",
+    "execution"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Machine printing degraded copies",
+      "meaning": "The inability to cleanly transmit internal vision; original remains unseen.",
+      "position": "background"
+    },
+    {
+      "symbol": "The Artist as King",
+      "meaning": "Assertion that internal vision is the true source, superior to any tool or output.",
+      "position": "foreground"
+    }
+  ],
+  "excerpt": "The artist is king because what lives in my mind is better than all of these.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-17T20:45:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cWorking on Mamabird\u201d",
+      "Screenshot 2026-03-17 at 8.36.23 PM.png",
+      "URL: https://wanderersburn.substack.com/p/working-on-mamabird"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Title and URL verified via Substack canonical slug and user provided text."
+  }
+}

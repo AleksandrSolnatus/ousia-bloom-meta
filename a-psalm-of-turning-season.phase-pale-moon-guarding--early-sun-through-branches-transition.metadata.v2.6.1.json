@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "f2ba1f0d-56ee-4aba-bd5a-7ac62f9c4ecb",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "A Psalm of Turning Season",
+  "subtitle": "Safe re-entry after interior stripping; the turn from isolation to relationship",
+  "description": "An artifact documenting a complex transition structure from Desert Faith through Pale Moon Guarding toward Sun Through Branches. It captures the 'descent of the ladder' from abstraction into lived life and relationship without losing the alignment gained in isolation.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/a-psalm-of-turning-season",
+  "slug": "a-psalm-of-turning-season",
+  "language": "en-US",
+  "dateCreated": "2026-03-17",
+  "datePublished": "2026-03-17",
+  "dateModified": "2026-03-17",
+  "timeFelt": {
+    "date": "2026-03-17",
+    "time": "20:48:47",
+    "phase": "Pale Moon Guarding"
+  },
+  "phase": {
+    "name": "Pale Moon Guarding",
+    "variant": "Early Sun Through Branches Transition",
+    "subcurrent": "",
+    "family": "Pale Moon & Sun"
+  },
+  "keywords": [
+    "pale moon guarding",
+    "desert faith",
+    "sun through branches",
+    "post",
+    "transition",
+    "re-entry",
+    "relationship"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Descending Ladder",
+      "meaning": "The hinge from abstraction and isolation into lived life, ground, and people.",
+      "position": "center"
+    },
+    {
+      "symbol": "Sun Through Branches",
+      "meaning": "Controlled reopening; allowing relationship again without craving it.",
+      "position": "halo"
+    }
+  ],
+  "excerpt": "I am descending a ladder. I am inviting a friend. I feel the new season coming in the wind.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-17T20:48:47-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cA Psalm of Turning Season\u201d",
+      "Screenshot 2026-03-17 at 8.44.36 PM.png",
+      "URL: https://wanderersburn.substack.com/p/a-psalm-of-turning-season"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Transition structure identified: Desert Faith \u2192 Guarding \u2192 Early Sun Through Branches."
+  }
+}

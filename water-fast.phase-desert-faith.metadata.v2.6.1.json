@@ -1,0 +1,87 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:68e7f1e2-b88a-4d2a-9f81-5991879c9324",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Water Fast",
+  "subtitle": "Faith enacted without emotional confirmation; discipline as doorway, not expression",
+  "description": "A commitment document binding internal desire for reset and alignment into a 72-hour fast for Lent. It focuses on the body as a gate and reorientation through discipline without emotional surge.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/water-fast",
+  "slug": "water-fast",
+  "language": "en-US",
+  "dateCreated": "2026-02-16",
+  "datePublished": "2026-02-16",
+  "dateModified": "2026-03-17",
+  "timeFelt": {
+    "date": "2026-02-16",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "Ritual Initiation",
+    "subcurrent": "",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "Desert Faith",
+    "Ritual Initiation",
+    "Lent",
+    "fasting",
+    "discipline",
+    "accountability",
+    "Water Fast"
+  ],
+  "motifMap": [
+    {
+      "symbol": "The Body as Gate",
+      "meaning": "Using hunger and craving as a mechanism to access something beyond them.",
+      "position": "Central"
+    },
+    {
+      "symbol": "Accountability",
+      "meaning": "Writing as operational language to bind oneself publicly and create witness.",
+      "position": "Functional"
+    }
+  ],
+  "excerpt": "I write this to hold myself accountable.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-17",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0",
+      "Screenshot 2026-03-17 at 7.30.28 PM.png",
+      "Screenshot 2026-03-17 at 7.30.34 PM.png"
+    ],
+    "editHistory": [
+      {
+        "date": "2026-03-17",
+        "action": "Corrected title and canonicalUrl based on user feedback."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Updated to reflect the correct title 'Water Fast' and Substack URL."
+  }
+}

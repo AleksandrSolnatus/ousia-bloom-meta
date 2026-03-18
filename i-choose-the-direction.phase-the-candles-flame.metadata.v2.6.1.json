@@ -1,0 +1,81 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:181414d9-2b19-4687-b234-e09590fdeaa5",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "I choose the direction",
+  "subtitle": "Small but real light; choice maintained without control over feeling",
+  "description": "An artifact documenting the shift from drift to directional will. It emphasizes the power of orientation toward God and love as a usable control mechanism under emotional constraint.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/i-choose-the-direction",
+  "slug": "i-choose-the-direction",
+  "language": "en-US",
+  "dateCreated": "2026-03-17",
+  "datePublished": "2026-03-17",
+  "dateModified": "2026-03-17",
+  "timeFelt": {
+    "date": "2026-03-17",
+    "time": "20:12:00",
+    "phase": "The Candle\u2019s Flame"
+  },
+  "phase": {
+    "name": "The Candle\u2019s Flame",
+    "variant": "Directional Will",
+    "subcurrent": "",
+    "family": "Candle Family"
+  },
+  "keywords": [
+    "the candle\u2019s flame",
+    "post",
+    "directional will",
+    "orientation",
+    "choice",
+    "agency"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Held Flame",
+      "meaning": "Will that remains lit without emotional surge; deliberate placement.",
+      "position": "center"
+    },
+    {
+      "symbol": "Incremental Continuity",
+      "meaning": "One step at a time; realism over overwhelm.",
+      "position": "halo"
+    }
+  ],
+  "excerpt": "I can\u2019t fix my mood exactly. But I can pick the direction I orient myself. It is toward God and thus toward love and God.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-17T20:12:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 The Candle\u2019s Flame (Directional Will)",
+      "Screenshot 2026-03-17 at 8.09.08 PM.png",
+      "URL: https://wanderersburn.substack.com/p/i-choose-the-direction"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Title 'I choose the direction' and URL verified via slug and screenshot."
+  }
+}

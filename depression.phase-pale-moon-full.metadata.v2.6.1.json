@@ -1,0 +1,85 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:911d9ca4-1783-4b82-baea-81219f5d68a6",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Depression",
+  "subtitle": "Weight Without Drama",
+  "description": "A reflection on grounded, non-dramatic heaviness and the choice to maintain discipline and self-continuity in the absence of emotional reward.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/depression",
+  "slug": "depression",
+  "language": "en-US",
+  "dateCreated": "2026-03-17",
+  "datePublished": "2026-03-17",
+  "dateModified": "2026-03-17",
+  "timeFelt": {
+    "date": "2026-03-17",
+    "time": "19:54:00",
+    "phase": "Pale Moon Full"
+  },
+  "phase": {
+    "name": "Pale Moon Full",
+    "variant": "Grounded Non-Dramatic Form",
+    "subcurrent": "",
+    "family": "Pale Moon & Sun"
+  },
+  "keywords": [
+    "pale moon full",
+    "post",
+    "depression",
+    "discipline",
+    "endurance",
+    "self-continuity"
+  ],
+  "motifMap": [
+    {
+      "symbol": "A man lifting in a dim room before dawn",
+      "meaning": "Showing up and moving weight without inspiration or energy.",
+      "position": "center"
+    },
+    {
+      "symbol": "Pale Moon",
+      "meaning": "Full clarity without the feeling of being alive; vitality dimmed.",
+      "position": "halo"
+    }
+  ],
+  "excerpt": "It is there and I don\u2019t abandon it. I am finding difficulty finding a reason why... but I will.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 1.5 Pro",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-17T19:54:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0",
+      "URL Provided: https://wanderersburn.substack.com/p/depression"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated for Pale Moon Full phase. Corrected URL and Title per explicit user instruction."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "957527bd-ca56-46e3-bc92-5b4735c52704",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Writing Book",
+  "subtitle": "The Quiet Output Gate",
+  "description": "An intentional reduction of outward expression and transmission to preserve bandwidth for unobserved construction and deeper work.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/writing-book",
+  "slug": "writing-book",
+  "language": "en-US",
+  "dateCreated": "2026-03-17",
+  "datePublished": "2026-03-17",
+  "dateModified": "2026-03-17",
+  "timeFelt": {
+    "date": "2026-03-17",
+    "time": "20:28:47",
+    "phase": "Signal Withdrawal"
+  },
+  "phase": {
+    "name": "Signal Withdrawal",
+    "variant": "The Quiet Output Gate",
+    "subcurrent": "Signal Withdrawal",
+    "family": "Candle Family"
+  },
+  "keywords": [
+    "signal withdrawal",
+    "post",
+    "bandwidth",
+    "silence",
+    "construction"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Radio tower dimming transmission",
+      "meaning": "Signal is reduced but power is still maintained; intentional silence for resource reallocation.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "It will be intermittent for awhile.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-17T20:28:47-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 Signal Withdrawal",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "Screenshot 2026-03-17 at 8.21.58 PM.png",
+      "URL: https://wanderersburn.substack.com/p/writing-book"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified 'Signal Withdrawal' as a sub-current as per user instruction and Phase Canon 1.5."
+  }
+}

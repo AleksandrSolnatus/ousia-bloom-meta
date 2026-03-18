@@ -1,0 +1,80 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "a755c9b7-98e7-4ede-865b-1c892d719041",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Dumps",
+  "subtitle": "Low-grade drift; motion without resonance",
+  "description": "An artifact capturing a low-signal state of fragmented affect and physical fatigue. It documents the disconnect between action and meaning during a transition period between phases.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/dumps",
+  "slug": "dumps",
+  "language": "en-US",
+  "dateCreated": "2026-03-17",
+  "datePublished": "2026-03-17",
+  "dateModified": "2026-03-17",
+  "timeFelt": {
+    "date": "2026-03-17",
+    "time": "20:08:46",
+    "phase": "Echo Moon"
+  },
+  "phase": {
+    "name": "Echo Moon",
+    "variant": "Low Signal Drift",
+    "subcurrent": "",
+    "family": "Pale Moon & Sun"
+  },
+  "keywords": [
+    "echo moon",
+    "post",
+    "drift",
+    "fatigue",
+    "fragmented affect"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Vampire Dream",
+      "meaning": "Totem Current residue leaking into a low-energy state.",
+      "position": "halo"
+    },
+    {
+      "symbol": "Echo Moon",
+      "meaning": "Motion without resonance; life happening but not accumulating.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "I am in the dumps. Hopefully that helps.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-17T20:08:46-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 Echo Moon (Low Signal Drift)",
+      "Screenshot 2026-03-17 at 7.57.55 PM.png",
+      "URL: https://wanderersburn.substack.com/p/dumps"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Title 'Dumps' and URL verified via screenshot and user input."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:6fc60f1a-95c5-4c61-8851-3810e91652eb",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Totem Current (Interlocutor\u2019s Edge)",
+  "subtitle": "Archetypes surfacing through dialogue; identity revealed in tension",
+  "description": "A relational cognition artifact existing between voices, where meaning is extracted through friction and reciprocal reflection. It documents a refusal to harden into doctrine in favor of ongoing becoming.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/walking-to-the-car-wash",
+  "slug": "walk-to-the-car-wash",
+  "language": "en-US",
+  "dateCreated": "2026-03-17",
+  "datePublished": "2026-03-17",
+  "dateModified": "2026-03-17",
+  "timeFelt": {
+    "date": "2026-03-17",
+    "time": "",
+    "phase": "Totem Current"
+  },
+  "phase": {
+    "name": "Totem Current",
+    "variant": "Interlocutor\u2019s Edge",
+    "subcurrent": "",
+    "family": "Aftermath / Purification / Recurrence"
+  },
+  "keywords": [
+    "Totem Current",
+    "interlocutor covenant",
+    "relational cognition",
+    "friction",
+    "becoming",
+    "discernment"
+  ],
+  "motifMap": [
+    {
+      "symbol": "The Mirror That Talks Back",
+      "meaning": "Reciprocity rather than reflection or authority; checking if the mirror resists correctly",
+      "position": "Central"
+    },
+    {
+      "symbol": "\u201cI won\u2019t harden. I will remain open.\u201d",
+      "meaning": "Choosing to risk misuse and incompleteness to preserve becoming over correctness",
+      "position": "Postural"
+    }
+  ],
+  "excerpt": "I won\u2019t harden. I will remain open. That is not softness. That is a wager.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-17",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 Totem Current (Interlocutor\u2019s Edge)",
+      "Walk to the Car Wash.txt",
+      "Screenshot 2026-03-17 at 7.25.13\u202fPM.png"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0 for Totem Current. Identified as a higher-order directed state of conscious Totem Current."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:909d1317-cd1a-4836-a2a5-d703d652349d",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Sojourner",
+  "subtitle": "Dust on the Sandal; faith that has relinquished the need to matter",
+  "description": "A refined expression of Desert Faith, marking a reduction to pure positional belonging. It documents obedience without affirmation and the removal of the need for significance to remain faithful.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/sojourner",
+  "slug": "sojourner",
+  "language": "en-US",
+  "dateCreated": "2026-03-17",
+  "datePublished": "2026-03-17",
+  "dateModified": "2026-03-17",
+  "timeFelt": {
+    "date": "2026-03-17",
+    "time": "20:33:00",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "Dust on the Sandal",
+    "subcurrent": "",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "desert faith",
+    "post",
+    "dust on the sandal",
+    "sojourner",
+    "obedience",
+    "reduction"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Dust on the Sandal",
+      "meaning": "Attached to movement one does not control or generate; extreme stability under low feedback.",
+      "position": "center"
+    },
+    {
+      "symbol": "Sojourner",
+      "meaning": "The only identity that matters; the one who walks.",
+      "position": "threshold"
+    }
+  ],
+  "excerpt": "Even if I am nothing more than dust on the path\u2014I remain.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-17T20:33:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 Sojourner",
+      "Screenshot 2026-03-17 at 8.29.01 PM.png",
+      "URL: https://wanderersburn.substack.com/p/sojourner"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Title 'Sojourner' and URL verified via Substack canonical slug."
+  }
+}

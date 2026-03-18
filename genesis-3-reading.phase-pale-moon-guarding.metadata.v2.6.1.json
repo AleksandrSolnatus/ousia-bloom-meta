@@ -1,0 +1,82 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:7de1874c-2436-4be2-830d-8bc8e103ef6b",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Genesis 3 Reading",
+  "subtitle": "Clarity held under restraint; thought disciplined into structure rather than expression",
+  "description": "An exegetical reading of Genesis 3, focusing on the structural movement of the text from distortion to relational questioning. It represents a shift from meaning-maker to meaning-receiver, prioritizing epistemic integrity over devotional gloss.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/thinking-about-genesis-3",
+  "slug": "genesis-3-reading",
+  "language": "en-US",
+  "dateCreated": "2026-02-18",
+  "datePublished": "2026-02-18",
+  "dateModified": "2026-03-17",
+  "timeFelt": {
+    "date": "2026-02-18",
+    "time": "",
+    "phase": "Pale Moon Guarding"
+  },
+  "phase": {
+    "name": "Pale Moon Guarding",
+    "variant": "Exegetical Form",
+    "subcurrent": "",
+    "family": "Pale Moon & Sun"
+  },
+  "keywords": [
+    "pale moon guarding",
+    "post",
+    "exegesis",
+    "genesis 3",
+    "epistemic integrity",
+    "ordered perception"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Pattern and Sequence",
+      "meaning": "Structure replaces symbol; quieter but more stable meaning-making.",
+      "position": "center"
+    },
+    {
+      "symbol": "Resistant Reader",
+      "meaning": "Slowing down and tracking structure without fully surrendering interpretation.",
+      "position": "foreground"
+    }
+  ],
+  "excerpt": "I\u2019ll treat this as an exegetical reading, not a devotional gloss\u2014tracking what the text actually does\u2026",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-17",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 Pale Moon Guarding (Exegetical Form)",
+      "Screenshot 2026-03-17 at 7.35.12\u202fPM.png",
+      "Screenshot 2026-03-17 at 7.35.02\u202fPM.png",
+      "Screenshot 2026-03-17 at 7.35.07\u202fPM.png"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0 for Pale Moon Guarding \u2014 Exegetical Form. Focus on text-constrained meaning and epistemic integrity."
+  }
+}

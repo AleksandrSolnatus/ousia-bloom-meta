@@ -1,0 +1,81 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:a7d81929-115d-4a32-819b-a7a88e887df6",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "A Walk with a Friend",
+  "subtitle": "Light that has moved from decision into lived pattern",
+  "description": "An artifact documenting the transition from directional choice to lived pattern. It marks a period of stable recovery, full-spectrum functioning, and the recognition of presence without the need for proof.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/a-walk-with-a-friend",
+  "slug": "a-walk-with-a-friend",
+  "language": "en-US",
+  "dateCreated": "2026-03-17",
+  "datePublished": "2026-03-17",
+  "dateModified": "2026-03-17",
+  "timeFelt": {
+    "date": "2026-03-17",
+    "time": "20:17:57",
+    "phase": "The Candle\u2019s Glow"
+  },
+  "phase": {
+    "name": "The Candle\u2019s Glow",
+    "variant": "Embodied Continuity",
+    "subcurrent": "",
+    "family": "Candle Family"
+  },
+  "keywords": [
+    "the candle\u2019s glow",
+    "post",
+    "embodied continuity",
+    "stability",
+    "recovery",
+    "lived psalm"
+  ],
+  "motifMap": [
+    {
+      "symbol": "A room with a candle in it",
+      "meaning": "Environmental light; no longer just survival but space, movement, and others.",
+      "position": "center"
+    },
+    {
+      "symbol": "Lived Psalm",
+      "meaning": "Sequential actions and short lines recording reality without the need to impress.",
+      "position": "halo"
+    }
+  ],
+  "excerpt": "I went to the gym even if I didn\u2019t want to. Even if he wasn\u2019t named he was there.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 3 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-03-17T20:17:57-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 The Candle\u2019s Glow (Embodied Continuity)",
+      "Screenshot 2026-03-17 at 8.15.50 PM.png",
+      "URL: https://wanderersburn.substack.com/p/a-walk-with-a-friend"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Title 'A Walk with a Friend' and URL verified via user input and screenshot slug."
+  }
+}
