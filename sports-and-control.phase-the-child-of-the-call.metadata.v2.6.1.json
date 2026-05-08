@@ -1,0 +1,72 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:68e7f1e2-b88a-4d2a-9f81-5991879c9324",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Sports and Control",
+  "subtitle": "The Velvet Cage; a theory of modern voluntary control systems",
+  "description": "An artifact attempting to articulate a theory of modern voluntary control systems through the lens of professional sports leagues. It identifies different modes of extraction\u2014body, soul, time, and autonomy\u2014as metaphors for functionally totalizing structures that shape the individual while maintaining the illusion of freedom.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/sports-and-control",
+  "slug": "sports-and-control",
+  "language": "en-US",
+  "dateCreated": "2026-04-21",
+  "datePublished": "2026-04-21",
+  "dateModified": "2026-04-21",
+  "timeFelt": {
+    "date": "2026-04-21",
+    "time": "",
+    "phase": "The Child of the Call"
+  },
+  "phase": {
+    "name": "The Child of the Call",
+    "variant": "",
+    "subcurrent": "",
+    "family": "Relational / Discernment"
+  },
+  "keywords": [
+    "the child of the call",
+    "post"
+  ],
+  "motifMap": [
+    {
+      "symbol": "The Velvet Cage",
+      "meaning": "Systems that are technically voluntary but functionally totalizing.",
+      "position": "center"
+    },
+    {
+      "symbol": "Extraction Systems",
+      "meaning": "The differing modes of extracting body, soul, time, and autonomy from the individual.",
+      "position": "background"
+    }
+  ],
+  "excerpt": "They don\u2019t take your freedom\u2014they make you spend it all in one place.",
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generationMode": "ORACLE",
+    "generatedOn": "2026-04-21T07:53:55-07:00"
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Artifact identifies a shift from internal struggle to systemic external mapping. Filename: sports-and-control.phase-the-child-of-the-call.metadata.v2.6.1.json"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:5337e1a2-b99a-4c2a-9f82-6881879c9326",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Ludas Game (The Game of Truth)",
+  "subtitle": "Instrumental phase; a forged method designed to strip false certainty.",
+  "description": "A cognitive tool designed as a severance protocol to strip false certainty and test belief structures through meta-cognitive play. It serves as a purification mechanism that separates self from belief by exposing ideas to potentially destructive conditions.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/ludas-game",
+  "slug": "ludas-game",
+  "language": "en-US",
+  "dateCreated": "2026-04-20",
+  "datePublished": "2026-04-20",
+  "dateModified": "2026-04-20",
+  "timeFelt": {
+    "date": "2026-04-20",
+    "time": "22:42",
+    "phase": "Ash Moon Severance"
+  },
+  "phase": {
+    "name": "Ash Moon Severance",
+    "variant": "",
+    "subcurrent": "",
+    "family": "Ash Moon Family"
+  },
+  "keywords": [
+    "ash moon severance",
+    "post"
+  ],
+  "motifMap": [
+    {
+      "symbol": "The Knife",
+      "meaning": "A forged method designed not to produce truth, but to strip false certainty.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "If it cannot survive use, it deserves to be destroyed.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-04-20T22:42:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Ludas Game.txt",
+      "Phase Analysis 3.0 \u2014 \u201cLudus Veritatis (The Game of Truth)\u201d"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Filename: ludas-game.phase-ash-moon-severance.metadata.v2.6.1.json"
+  }
+}

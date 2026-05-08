@@ -1,0 +1,93 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:f68ee8a4-767a-4869-8eb4-327399615748",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "This has been an interesting time",
+  "subtitle": "Quiet stability, grounded gratitude",
+  "description": "An artifact documenting a state of stabilization and life coherence. It marks the transition from processing growth to inhabiting it, characterized by a healthy withdrawal from constant articulation in favor of lived fullness.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/this-has-been-an-interesting-time",
+  "slug": "this-has-been-an-interesting-time",
+  "language": "en-US",
+  "dateCreated": "2026-04-20",
+  "datePublished": "2026-04-20",
+  "dateModified": "2026-04-20",
+  "timeFelt": {
+    "date": "2026-04-20",
+    "time": "10:35:00",
+    "phase": "Candle’s Glow"
+  },
+  "phase": {
+    "name": "Candle’s Glow",
+    "variant": "",
+    "subcurrent": "Signal Withdrawal",
+    "family": "Candle Family"
+  },
+  "keywords": [
+    "candle’s glow",
+    "post",
+    "signal-withdrawal",
+    "stability",
+    "inhabitation"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Quiet Glow",
+      "meaning": "Living inside something that is holding together; stabilization without the need for constant narration.",
+      "position": "center"
+    },
+    {
+      "symbol": "The Gap",
+      "meaning": "A space of fullness that exists between lived experience and its documentation.",
+      "position": "threshold"
+    }
+  ],
+  "excerpt": "This gap… isn’t missing anything. It is full.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Wanderer's Burn Substack Header",
+      "contentUrl": "https://wanderersburn.substack.com/p/this-has-been-an-interesting-time",
+      "credit": "Aleksandr",
+      "license": "All Rights Reserved",
+      "altText": "A screenshot associated with 'This has been an interesting time' post"
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-04-20T10:30:40+00:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 — “The Gap”",
+      "URL correction turn April 20, 2026"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0 and URL correction. Identified as Candle’s Glow with active Signal Withdrawal. Filename: this-has-been-an-interesting-time.phase-candles-glow--signal-withdrawal.metadata.v2.6.1.json"
+  }
+}

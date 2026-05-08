@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:769f08c2-c397-43ce-9341-ecdcf72321b5",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The Propaganda of War",
+  "subtitle": "The collapse of image-trust; truth as humility and interpretive struggle",
+  "description": "An artifact documenting the collapse of easy credibility structures in the age of AI. It captures the transition from passive visual consumption to the mandatory humility of interpretive struggle, identifying the use of proximity as authenticity theater and the distributed habit of speaking beyond one's warrant.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-propaganda-of-war",
+  "slug": "the-propaganda-of-war",
+  "language": "en-US",
+  "dateCreated": "2026-04-21",
+  "datePublished": "2026-04-21",
+  "dateModified": "2026-04-21",
+  "timeFelt": {
+    "date": "2026-04-21",
+    "time": "08:06",
+    "phase": "Ash Moon Ascending"
+  },
+  "phase": {
+    "name": "Ash Moon Ascending",
+    "variant": "",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Ash Moon Family"
+  },
+  "keywords": [
+    "ash moon ascending",
+    "post",
+    "methodic self-watching",
+    "propaganda",
+    "epistemology"
+  ],
+  "motifMap": [
+    {
+      "symbol": "AI Image",
+      "meaning": "A revelation machine that unmasks the fragility of evidentiary trust and the death of false obviousness.",
+      "position": "center"
+    },
+    {
+      "symbol": "Former Troop prop",
+      "meaning": "The public's use of proximity as authenticity theater; turning individuals into interchangeable moral symbols.",
+      "position": "halo"
+    }
+  ],
+  "excerpt": "AI did not kill truth; it killed the illusion that truth could be passively consumed through images without interpretive struggle.",
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Wanderer's Burn Substack Header",
+      "contentUrl": "https://wanderersburn.substack.com/p/the-propaganda-of-war",
+      "credit": "Aleksandr",
+      "license": "All Rights Reserved",
+      "altText": "A screenshot associated with 'The Propaganda of War' post"
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-04-21T08:11:40+00:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis — “The Propaganda of War”",
+      "Screenshot 2026-04-21 at 8.06.24 AM.png",
+      "URL: https://wanderersburn.substack.com/p/the-propaganda-of-war"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis for 'The Propaganda of War'. Identified as Ash Moon Ascending with Methodic Self-Watching sub-current. Filename: the-propaganda-of-war.phase-ash-moon-ascending--methodic-self-watching.metadata.v2.6.1.json"
+  }
+}

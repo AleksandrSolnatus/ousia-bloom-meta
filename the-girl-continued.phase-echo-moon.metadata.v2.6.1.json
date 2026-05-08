@@ -1,0 +1,94 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:f34ac27d-d2c5-42b1-8b3e-26c978a94ba4",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The Girl Continued",
+  "subtitle": "The Return of the Pattern; conflict between discernment and drift",
+  "description": "An artifact documenting a movement of clarity followed by re-entry and justification. It captures the internal negotiation of a forming loop where attraction and awareness collide, marking an exposure of unstable discipline through controlled proximity to a known pattern.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-girl-continued",
+  "slug": "the-girl-continued",
+  "language": "en-US",
+  "dateCreated": "2026-04-04",
+  "datePublished": "2026-04-04",
+  "dateModified": "2026-04-04",
+  "timeFelt": {
+    "date": "2026-04-04",
+    "time": "08:02",
+    "phase": "Echo Moon"
+  },
+  "phase": {
+    "name": "Echo Moon",
+    "variant": "",
+    "subcurrent": "",
+    "family": "Ash Moon Family"
+  },
+  "keywords": [
+    "echo moon",
+    "post",
+    "pattern",
+    "discernment",
+    "loop"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Controlled Proximity",
+      "meaning": "Trusting one's ability to manage a pull while remaining inside the pattern.",
+      "position": "center"
+    },
+    {
+      "symbol": "The Loop",
+      "meaning": "The repetition of attraction, awareness, and partial restraint leading back to re-engagement.",
+      "position": "halo"
+    }
+  ],
+  "excerpt": "I recognized the pattern—and chose to step back into it, just more carefully.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Wanderer's Burn Substack Header",
+      "contentUrl": "https://wanderersburn.substack.com/p/the-girl-continued",
+      "credit": "Aleksandr",
+      "license": "All Rights Reserved",
+      "altText": "A screenshot associated with 'The Girl Continued' post"
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-04-21T08:06:45-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis — “A Girl” (April 4)",
+      "Screenshot 2026-04-21 at 8.02.21 AM.png",
+      "URL: https://wanderersburn.substack.com/p/the-girl-continued"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis for 'A Girl' (April 4). Identified as Echo Moon: early loop recognition and pattern repetition. Filename: the-girl-continued.phase-echo-moon.metadata.v2.6.1.json"
+  }
+}

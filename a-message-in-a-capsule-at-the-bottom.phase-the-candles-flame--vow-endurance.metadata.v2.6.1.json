@@ -1,0 +1,93 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:769f08c2-c397-43ce-9341-ecdcf72321b5",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "a message in a capsule at the bottom",
+  "subtitle": "Holding desire without surrendering the center; the ignition of mature risk",
+  "description": "An artifact documenting a structural correction in the management of desire. It captures a moment of active restraint where identity is intentionally separated from outcome, marking a shift from reactive over-investment or avoidance to a disciplined, observant entry into experience.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/a-message-in-a-capsule-at-the-bottom",
+  "slug": "a-message-in-a-capsule-at-the-bottom",
+  "language": "en-US",
+  "dateCreated": "2026-04-21",
+  "datePublished": "2026-04-21",
+  "dateModified": "2026-04-21",
+  "timeFelt": {
+    "date": "2026-04-21",
+    "time": "09:41",
+    "phase": "The Candle’s Flame"
+  },
+  "phase": {
+    "name": "The Candle’s Flame",
+    "variant": "Adaptive Witness",
+    "subcurrent": "Vow (Endurance)",
+    "family": "Candle Family"
+  },
+  "keywords": [
+    "the candle's flame",
+    "post",
+    "restraint",
+    "identity",
+    "mature risk"
+  ],
+  "motifMap": [
+    {
+      "symbol": "The Capsule",
+      "meaning": "The internal center that remains unsurrendered despite deep feeling.",
+      "position": "center"
+    },
+    {
+      "symbol": "Mature Risk",
+      "meaning": "Entering experience carefully without collapsing or running.",
+      "position": "halo"
+    }
+  ],
+  "excerpt": "I am not placing my identity in the success of this.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Wanderer's Burn Substack Header",
+      "contentUrl": "https://wanderersburn.substack.com/p/a-message-in-a-capsule-at-the-bottom",
+      "credit": "Aleksandr",
+      "license": "All Rights Reserved",
+      "altText": "A screenshot associated with the Substack post 'a message in a capsule at the bottom'."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-04-21T09:45:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis — “a message in a capsule at the bottom”",
+      "URL: https://wanderersburn.substack.com/p/a-message-in-a-capsule-at-the-bottom"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on the analysis provided. Identified as The Candle's Flame (Adaptive Witness variant) with Vow (Endurance) sub-current. Filename: a-message-in-a-capsule-at-the-bottom.phase-the-candles-flame--vow-endurance.metadata.v2.6.1.json"
+  }
+}

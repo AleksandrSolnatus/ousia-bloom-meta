@@ -1,0 +1,95 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:c94f60ab-2bc6-453b-93ce-e8bc31d76fc4",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "More dark each time but the trick",
+  "subtitle": "Symbolic emergence and intentional disengagement; pattern recognition without repetition",
+  "description": "An artifact documenting the active surfacing of relational patterns through dream symbolism. It captures the transition from experiencing an intensifying symbolic figure to the conscious decision of separation and grounding in physical discipline.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/more-dark-each-time-but-the-trick",
+  "slug": "more-dark-each-time-but-the-trick",
+  "language": "en-US",
+  "dateCreated": "2026-04-20",
+  "datePublished": "2026-04-20",
+  "dateModified": "2026-04-20",
+  "timeFelt": {
+    "date": "2026-04-20",
+    "time": "10:24:21",
+    "phase": "Totem Current"
+  },
+  "phase": {
+    "name": "Totem Current",
+    "variant": "Active Surfacing",
+    "subcurrent": "Echo Moon",
+    "family": "Aftermath / Purification / Recurrence"
+  },
+  "keywords": [
+    "totem-current",
+    "post",
+    "echo-moon",
+    "vow-endurance",
+    "pattern-recognition",
+    "disengagement"
+  ],
+  "motifMap": [
+    {
+      "symbol": "The Intensifying Figure",
+      "meaning": "Condensation of past relational imprints into a symbolic figure replaying under increasing intensity.",
+      "position": "center"
+    },
+    {
+      "symbol": "The Choke Practice",
+      "meaning": "Return to the body and real-world control; rebalancing after symbolic intensity.",
+      "position": "below"
+    }
+  ],
+  "excerpt": "the trick is to get away completely",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Substack post header for More dark each time but the trick",
+      "contentUrl": "https://wanderersburn.substack.com/p/more-dark-each-time-but-the-trick",
+      "credit": "Aleksandr",
+      "license": "All Rights Reserved",
+      "altText": "A screenshot associated with the More dark each time post."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-04-20T10:44:08+00:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 — “More dark each time but the trick”",
+      "Screenshot 2026-04-20 at 10.24.21 AM.png",
+      "URL: https://wanderersburn.substack.com/p/more-dark-each-time-but-the-trick"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as Totem Current with Echo Moon sub-current. Filename: more-dark-each-time-but-the-trick.phase-totem-current--echo-moon.metadata.v2.6.1.json"
+  }
+}

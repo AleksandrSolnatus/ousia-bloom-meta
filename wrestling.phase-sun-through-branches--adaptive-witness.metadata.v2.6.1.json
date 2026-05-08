@@ -1,0 +1,94 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:ba6a43f3-dbe7-455c-85f8-67ac87000c2f",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Wrestling",
+  "subtitle": "The 'Fake' Barrier and Fully Inhabited Realness",
+  "description": "An artifact documenting external pattern recognition and the 'fake' barrier phenomenon. It captures the realization that realness in performance (specifically Stone Cold Steve Austin) is not about realism but about the coherence between intent, body, and voice—being fully inhabited within a performative structure.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/wrestling",
+  "slug": "wrestling",
+  "language": "en-US",
+  "dateCreated": "2026-04-21",
+  "datePublished": "2026-04-21",
+  "dateModified": "2026-04-21",
+  "timeFelt": {
+    "date": "2026-04-21",
+    "time": "12:40",
+    "phase": "Sun Through Branches"
+  },
+  "phase": {
+    "name": "Sun Through Branches",
+    "variant": "External Pattern Recognition",
+    "subcurrent": "Adaptive Witness",
+    "family": "Pale Moon & Sun"
+  },
+  "keywords": [
+    "sun-through-branches",
+    "post",
+    "wrestling",
+    "authenticity",
+    "performance",
+    "pattern-recognition"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Stone Cold",
+      "meaning": "Presence and conviction that pushes downward, acting as if the role is already inhabited truth.",
+      "position": "center"
+    },
+    {
+      "symbol": "The PPV Structure",
+      "meaning": "The moment where illusion shifts into recognized system.",
+      "position": "background"
+    }
+  ],
+  "excerpt": "Realness isn't about truth vs fiction—it's about whether something is fully inhabited.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Wanderer's Burn Substack Header",
+      "contentUrl": "https://wanderersburn.substack.com/p/wrestling",
+      "credit": "Aleksandr",
+      "license": "All Rights Reserved",
+      "altText": "A screenshot associated with the Substack post 'Wrestling'."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-04-21T12:45:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 — “Wrestling”",
+      "URL: https://wanderersburn.substack.com/p/wrestling"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as a move into higher-level external pattern recognition within Sun Through Branches. Filename: wrestling.phase-sun-through-branches--adaptive-witness.metadata.v2.6.1.json"
+  }
+}

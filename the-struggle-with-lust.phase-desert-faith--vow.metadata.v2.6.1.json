@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:68e7f1a2-b98a-4d2a-9f81-5991879c9324",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The Struggle with Lust",
+  "subtitle": "Confession under tension; restraint without emotional reward",
+  "description": "An artifact documenting confession under tension. It captures the split between immediate desire, post-act clarity, and chosen restraint, identifying a deeper fracture between the principle of connection and the fear of intimacy.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-struggle-with-lust",
+  "slug": "the-struggle-with-lust",
+  "language": "en-US",
+  "dateCreated": "2026-04-20",
+  "datePublished": "2026-04-20",
+  "dateModified": "2026-04-20",
+  "timeFelt": {
+    "date": "2026-04-20",
+    "time": "10:19:56",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "",
+    "subcurrent": "Vow (Endurance)",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "desert faith",
+    "post",
+    "vow",
+    "endurance",
+    "confession",
+    "restraint"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Holding the line",
+      "meaning": "Choosing restraint without emotional reward; binding across time through a promise.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "I wanna beat off. I just can\u2019t help it. I am not. ... I love and trust marriage\u2026 but I am scared of intimacy.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Substack post header for The Struggle with Lust",
+      "contentUrl": "https://wanderersburn.substack.com/p/the-struggle-with-lust",
+      "credit": "Aleksandr",
+      "license": "All Rights Reserved",
+      "altText": "A screenshot associated with the The Struggle with Lust post."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-04-20T10:28:30-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cThe Struggle with Lust\u201d",
+      "Screenshot 2026-04-20 at 10.19.56 AM.png",
+      "URL: https://wanderersburn.substack.com/p/the-struggle-with-lust"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as Desert Faith with a strong Vow (Endurance) subcurrent. Filename: the-struggle-with-lust.phase-desert-faith--vow.metadata.v2.6.1.json"
+  }
+}

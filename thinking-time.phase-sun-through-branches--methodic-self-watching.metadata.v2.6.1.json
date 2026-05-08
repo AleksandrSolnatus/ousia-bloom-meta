@@ -1,0 +1,95 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:3b7b79ef-c744-4c15-a476-4c7eca1fd736",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Thinking time",
+  "subtitle": "The Cartographer of the Soul; meta-cognitive stabilization and the grand integration",
+  "description": "An artifact documenting the transition from experiencing an arc to mapping its structural logic. It captures a moment of lucid integration where previous phases (Candle, Desert, Sun) are recognized as a single coherent movement of formation, shifting the focus from articulation to the architecture of becoming.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/thinking-time",
+  "slug": "thinking-time",
+  "language": "en-US",
+  "dateCreated": "2026-04-21",
+  "datePublished": "2026-04-21",
+  "dateModified": "2026-04-21",
+  "timeFelt": {
+    "date": "2026-04-21",
+    "time": "09:58",
+    "phase": "Sun Through Branches"
+  },
+  "phase": {
+    "name": "Sun Through Branches",
+    "variant": "The Grand Integration",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Pale Moon & Sun"
+  },
+  "keywords": [
+    "sun-through-branches",
+    "post",
+    "meta-cognition",
+    "integration",
+    "mapping",
+    "formation"
+  ],
+  "motifMap": [
+    {
+      "symbol": "The Floor Map",
+      "meaning": "Seeing the geometry of the path already taken; recognizing the logic of one's own becoming.",
+      "position": "center"
+    },
+    {
+      "symbol": "The Grand Integration",
+      "meaning": "Merging narrative (Ploion) and responsiveness (Child of the Call) into a single architectural whole.",
+      "position": "halo"
+    }
+  ],
+  "excerpt": "I am mapping the movement of the candle through the desert and into the sun. This is not just a record of what happened, but a record of how I am becoming.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Wanderer's Burn Substack Header",
+      "contentUrl": "https://wanderersburn.substack.com/p/thinking-time",
+      "credit": "Aleksandr",
+      "license": "All Rights Reserved",
+      "altText": "A screenshot associated with the Substack post 'Thinking time'."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-04-21T09:59:13+00:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 — “Thinking time”",
+      "Screenshot 2026-04-21 at 9.58.45 AM.png",
+      "URL: https://wanderersburn.substack.com/p/thinking-time"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as the Grand Integration point of the arc. Filename: thinking-time.phase-sun-through-branches--methodic-self-watching.metadata.v2.6.1.json"
+  }
+}

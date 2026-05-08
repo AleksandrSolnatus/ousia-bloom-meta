@@ -1,0 +1,81 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:b3e2e732-3915-4af6-a937-38d884d82b08",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The Psalm of Songs",
+  "subtitle": "The Man Who Knows Love but Cannot Yet Receive It",
+  "description": "An artifact documenting a confessional-aspirational phase of self-revelation in the presence of an ideal. It captures the tension between the clarity of what love is and the current lack of readiness to inhabit it, marking a threshold of moral restraint and honest misalignment.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-psalm-of-songs",
+  "slug": "the-psalm-of-songs",
+  "language": "en-US",
+  "dateCreated": "2026-04-20",
+  "datePublished": "2026-04-20",
+  "dateModified": "2026-04-20",
+  "timeFelt": {
+    "date": "2026-04-20",
+    "time": "22:50",
+    "phase": "The Hollow"
+  },
+  "phase": {
+    "name": "The Hollow",
+    "variant": "",
+    "subcurrent": "Vow (Endurance)",
+    "family": "Liminal / Cosmological Rooms"
+  },
+  "keywords": [
+    "the hollow",
+    "post"
+  ],
+  "motifMap": [
+    {
+      "symbol": "The Man Outside the Lit Room",
+      "meaning": "A state of seeing the ideal of love and intimacy clearly while knowing one is not yet ready to inhabit it.",
+      "position": "threshold"
+    }
+  ],
+  "excerpt": "I am not the man who can accept it yet / I am years away / I still am ruled by my lust / I cannot yet rule my heart",
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Wanderer's Burn Substack Header",
+      "contentUrl": "https://wanderersburn.substack.com/p/the-psalm-of-songs",
+      "credit": "Aleksandr",
+      "license": "All Rights Reserved",
+      "altText": "A screenshot associated with 'The Psalm of Songs' post"
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-04-20T22:50:32+00:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 — “The Psalm of Songs”",
+      "URL: https://wanderersburn.substack.com/p/the-psalm-of-songs"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as The Hollow phase with Vow (Endurance) sub-current. Filename: the-psalm-of-songs.phase-the-hollow--vow-endurance.metadata.v2.6.1.json"
+  }
+}

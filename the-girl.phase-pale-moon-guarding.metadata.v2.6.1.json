@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:cbb5112b-0401-444f-a1bc-52f9e76daba3",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The Girl",
+  "subtitle": "Applied discernment; chosen incompletion and embodied decision",
+  "description": "An artifact documenting a moment of applied discernment where values cost something but are held regardless. It captures the transition from insight and internal struggle to a quiet, controlled embodied decision of restraint and boundary-setting.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-girl",
+  "slug": "the-girl",
+  "language": "en-US",
+  "dateCreated": "2026-04-21",
+  "datePublished": "2026-04-21",
+  "dateModified": "2026-04-21",
+  "timeFelt": {
+    "date": "2026-04-21",
+    "time": "07:55",
+    "phase": "Pale Moon Guarding"
+  },
+  "phase": {
+    "name": "Pale Moon Guarding",
+    "variant": "",
+    "subcurrent": "",
+    "family": "Pale Moon & Sun"
+  },
+  "keywords": [
+    "pale moon guarding",
+    "post"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Fork in the road",
+      "meaning": "A moment where impulse does not equal action; perception leading to evaluation and stillness.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "I chose distance, not because I didn’t feel it—but because I finally did.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Wanderer's Burn Substack Header",
+      "contentUrl": "https://wanderersburn.substack.com/p/the-girl",
+      "credit": "Aleksandr",
+      "license": "All Rights Reserved",
+      "altText": "A screenshot associated with 'The Girl' post"
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-04-21T07:57:59+00:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis — “The Girl”",
+      "Screenshot 2026-04-21 at 7.55.11 AM.png",
+      "URL: https://wanderersburn.substack.com/p/the-girl"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis for 'The Girl'. Identified as Pale Moon Guarding: perception → evaluation → boundary → stillness. Filename: the-girl.phase-pale-moon-guarding.metadata.v2.6.1.json"
+  }
+}

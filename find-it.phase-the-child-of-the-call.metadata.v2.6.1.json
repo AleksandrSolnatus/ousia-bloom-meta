@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:1a4172bf-a251-4ee1-aac6-10fa676fafc4",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Find it",
+  "subtitle": "The Map Before the Path Exists",
+  "description": "A proto-symbolic artifact documenting the formation of thought itself. It serves as a cognitive map and containment field for scattered insights, utilizing spatial thinking to discover internal structures before they stabilize into language.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/find-it",
+  "slug": "find-it",
+  "language": "en-US",
+  "dateCreated": "2026-04-21",
+  "datePublished": "2026-04-21",
+  "dateModified": "2026-04-21",
+  "timeFelt": {
+    "date": "2026-04-21",
+    "time": "07:47",
+    "phase": "The Child of the Call"
+  },
+  "phase": {
+    "name": "The Child of the Call",
+    "variant": "",
+    "subcurrent": "",
+    "family": "Relational / Discernment"
+  },
+  "keywords": [
+    "the child of the call",
+    "post"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Central Eye",
+      "meaning": "Awareness of being observed or observing; meta-cognition; the watcher of watching.",
+      "position": "center"
+    },
+    {
+      "symbol": "Segmented Lines/Arrows",
+      "meaning": "Decision-making and branching logic; movement without a clear endpoint.",
+      "position": "foreground"
+    },
+    {
+      "symbol": "Dense Margin Text",
+      "meaning": "Language attempting to catch up to structural insight rather than leading it.",
+      "position": "border"
+    }
+  ],
+  "excerpt": "I found something\u2014but it is still finding me back.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Hand-drawn cognitive map featuring an eye and segmented paths.",
+      "contentUrl": "https://wanderersburn.substack.com/p/find-it",
+      "credit": "Aleksandr",
+      "license": "All Rights Reserved",
+      "altText": "A hand-drawn map with dense text and geometric patterns."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-04-21T07:49:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cFind it\u201d",
+      "Screenshot 2026-04-21 at 7.47.14 AM.png",
+      "URL: https://wanderersburn.substack.com/p/find-it"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as a threshold artifact in the Child of the Call phase. Filename: find-it.phase-the-child-of-the-call.metadata.v2.6.1.json"
+  }
+}

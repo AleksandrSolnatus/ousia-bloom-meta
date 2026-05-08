@@ -1,0 +1,74 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:f68ee8a4-767a-4869-8eb4-327399615748",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Hard times",
+  "subtitle": "Declarative under strain; ritual cutting and self-issued correction",
+  "description": "An artifact documenting a self-issued correction order under strain. It captures the recognition of drift and the immediate, punitive removal of stimulation and comfort as a means of regaining control, identifying the tension between traditional discipline and an emergent, non-linear path.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/hard-times",
+  "slug": "hard-times",
+  "language": "en-US",
+  "dateCreated": "2026-04-21",
+  "datePublished": "2026-04-21",
+  "dateModified": "2026-04-21",
+  "timeFelt": {
+    "date": "2026-04-21",
+    "time": "10:22",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "The Centering Cut",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "desert faith",
+    "post",
+    "discipline",
+    "restraint",
+    "ritual cutting"
+  ],
+  "motifMap": [
+    {
+      "symbol": "No Cigars, No Coffee",
+      "meaning": "Ritual cutting of stimulation and comfort to regain perceived control over drift.",
+      "position": "center"
+    },
+    {
+      "symbol": "The Big Man",
+      "meaning": "Internalized authority and the weight of disappointment in relation to a higher standard.",
+      "position": "threshold"
+    }
+  ],
+  "excerpt": "I have been letting myself down and you down.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-04-21T10:22:38-07:00",
+    "generationMode": "ORACLE"
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis for 'Hard times'. Filename: hard-times.phase-desert-faith--methodic-self-watching.metadata.v2.6.1.json"
+  }
+}

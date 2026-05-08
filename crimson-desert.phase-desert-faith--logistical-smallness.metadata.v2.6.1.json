@@ -1,0 +1,95 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:67f8e1a2-b99a-4c2a-9f82-5991879c9325",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Crimson Desert",
+  "subtitle": "Adaptation under constraint; finding value under limitation",
+  "description": "An artifact documenting faithful continuation under suboptimal environmental and technical conditions. It captures the structural shift from rejection to adaptation, recalibrating expectations to maintain engagement without collapse.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/crimson-desert",
+  "slug": "crimson-desert",
+  "language": "en-US",
+  "dateCreated": "2026-04-20",
+  "datePublished": "2026-04-20",
+  "dateModified": "2026-04-20",
+  "timeFelt": {
+    "date": "2026-04-20",
+    "time": "10:08:54",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "Motion (light)",
+    "subcurrent": "Logistical Smallness",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "desert-faith",
+    "post",
+    "logistical-smallness",
+    "motion",
+    "endurance",
+    "adaptation"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Constraint",
+      "meaning": "Environmental and technical limitations testing operational capacity.",
+      "position": "background"
+    },
+    {
+      "symbol": "Adjustment",
+      "meaning": "Recalibrating expectation to maintain engagement.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "Even on low settings the game looks damn nice.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Substack post header for Crimson Desert",
+      "contentUrl": "https://wanderersburn.substack.com/p/crimson-desert",
+      "credit": "Aleksandr",
+      "license": "All Rights Reserved",
+      "altText": "A screenshot or header associated with the Crimson Desert post."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-04-20T10:13:30-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cCrimson Desert\u201d (Post 2 Style)",
+      "Screenshot 2026-04-20 at 10.08.54 AM.png",
+      "URL: https://wanderersburn.substack.com/p/crimson-desert"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Comparative Phase Analysis. Filename: crimson-desert.phase-desert-faith--logistical-smallness.metadata.v2.6.1.json"
+  }
+}

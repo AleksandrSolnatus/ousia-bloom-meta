@@ -1,0 +1,94 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:05b71af7-8ef3-429c-af99-71a93135d1fc",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Three Separate Conversations - Hineni",
+  "subtitle": "Availability without clarity; offering self before understanding",
+  "description": "An artifact exploring the threshold posture of 'Hineni' (Here I am) as a pre-strategic self-offering. It contrasts human responsiveness with divine identity declaration, testing the willingness to be available for a call before understanding its requirements.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/three-separate-conversations-hinenii",
+  "slug": "three-separate-conversations-hinenii",
+  "language": "en-US",
+  "dateCreated": "2026-04-20",
+  "datePublished": "2026-04-20",
+  "dateModified": "2026-04-20",
+  "timeFelt": {
+    "date": "2026-04-20",
+    "time": "22:30:00",
+    "phase": "The Candle’s Flame"
+  },
+  "phase": {
+    "name": "The Candle’s Flame",
+    "variant": "Hineni / I AM / Posture of Firm Humility",
+    "subcurrent": "The Child of the Call",
+    "family": "Candle Family"
+  },
+  "keywords": [
+    "the candle's flame",
+    "post",
+    "hineni",
+    "availability",
+    "child of the call",
+    "self-offering"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Hineni",
+      "meaning": "Offering oneself as responsive rather than explaining or locating oneself.",
+      "position": "center"
+    },
+    {
+      "symbol": "Dim light",
+      "meaning": "Standing in the threshold of a call without a map.",
+      "position": "background"
+    }
+  ],
+  "excerpt": "Hineni is not locating yourself—it is offering yourself.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Wanderer's Burn Substack Header",
+      "contentUrl": "https://wanderersburn.substack.com/p/three-separate-conversations-hinenii",
+      "credit": "Aleksandr",
+      "license": "All Rights Reserved",
+      "altText": "A screenshot associated with the Hineni post"
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-04-20T22:35:04+00:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 — “Three Separate Conversations - Hineni”",
+      "User summary turn April 20, 2026"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as The Candle's Flame with subcurrent The Child of the Call. Filename: three-separate-conversations-hinenii.phase-the-candles-flame--the-child-of-the-call.metadata.v2.6.1.json"
+  }
+}

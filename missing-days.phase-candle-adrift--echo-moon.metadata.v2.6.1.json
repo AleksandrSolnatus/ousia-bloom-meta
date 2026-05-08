@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:c207556a-d863-4d51-8132-fd4b16c3dd65",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Missing Days",
+  "subtitle": "The Gap That Feels Like Loss; temporal anxiety meeting identity drift",
+  "description": "An artifact documenting a maintenance phase characterized by temporal anxiety and the questioning of identity through consistency. It captures the redistribution of energy from internal writing to external real-life engagement, identifying the shift from compulsion to choice in creative production.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/missing-days",
+  "slug": "missing-days",
+  "language": "en-US",
+  "dateCreated": "2026-04-21",
+  "datePublished": "2026-04-21",
+  "dateModified": "2026-04-21",
+  "timeFelt": {
+    "date": "2026-04-21",
+    "time": "07:58",
+    "phase": "Candle Adrift"
+  },
+  "phase": {
+    "name": "Candle Adrift",
+    "variant": "",
+    "subcurrent": "Echo Moon",
+    "family": "Candle Family"
+  },
+  "keywords": [
+    "candle adrift",
+    "post",
+    "echo moon",
+    "maintenance",
+    "identity",
+    "consistency"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Missing Entries",
+      "meaning": "The feeling that something is slipping when a pattern breaks; equating production with presence.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "I am still here, even when the page is not.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Wanderer's Burn Substack Header",
+      "contentUrl": "https://wanderersburn.substack.com/p/missing-days",
+      "credit": "Aleksandr",
+      "license": "All Rights Reserved",
+      "altText": "A screenshot associated with 'Missing Days' post"
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-04-21T08:01:45+00:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis — “Missing Days”",
+      "Screenshot 2026-04-21 at 7.58.14 AM.png",
+      "URL: https://wanderersburn.substack.com/p/missing-days"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis for 'Missing Days'. Identified as Candle Adrift with Echo Moon sub-current. Filename: missing-days.phase-candle-adrift--echo-moon.metadata.v2.6.1.json"
+  }
+}

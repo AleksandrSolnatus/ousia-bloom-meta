@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:5d8015bc-72eb-486a-880b-bfb9357a0550",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "I got confirmed",
+  "subtitle": "Fragile conviction, unresolved tension; identity claimed in the middle of struggle",
+  "description": "An artifact documenting a pivot point from endurance to identity. It captures a moment of spiritual ignition where a specific direction\u2014Anglicanism and the Christian life\u2014is claimed and declared despite ongoing internal struggle and future uncertainty.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/i-got-confirmed",
+  "slug": "i-got-confirmed",
+  "language": "en-US",
+  "dateCreated": "2026-04-20",
+  "datePublished": "2026-04-20",
+  "dateModified": "2026-04-20",
+  "timeFelt": {
+    "date": "2026-04-20",
+    "time": "10:26:00",
+    "phase": "The Candle's Flame"
+  },
+  "phase": {
+    "name": "The Candle's Flame",
+    "variant": "",
+    "subcurrent": "Vow (Endurance)",
+    "family": "Candle Family"
+  },
+  "keywords": [
+    "the candle's flame",
+    "post",
+    "confirmation",
+    "anglican",
+    "identity",
+    "vow",
+    "endurance"
+  ],
+  "motifMap": [
+    {
+      "symbol": "The Fragile Flame",
+      "meaning": "A small, real ignition of identity that does not yet warm the room.",
+      "position": "center"
+    },
+    {
+      "symbol": "The Anchor of Identity",
+      "meaning": "Moving from resisting something to becoming someone; identity as a deeper binding.",
+      "position": "halo"
+    }
+  ],
+  "excerpt": "I am an Anglican\u2026 I have confessed truly that I am to live a christian life\u2026 I want to hold and be held\u2026 I see no time that is coming soon",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Substack post header for I got confirmed",
+      "contentUrl": "https://wanderersburn.substack.com/p/i-got-confirmed",
+      "credit": "Aleksandr",
+      "license": "All Rights Reserved",
+      "altText": "A screenshot associated with the I got confirmed post."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-04-20T10:30:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cI got confirmed\u201d",
+      "Screenshot 2026-04-20 at 10.26.04 AM.png",
+      "URL: https://wanderersburn.substack.com/p/i-got-confirmed"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as a pivot point in the formation arc: from resisting to becoming. Filename: i-got-confirmed.phase-the-candles-flame--vow-endurance.metadata.v2.6.1.json"
+  }
+}

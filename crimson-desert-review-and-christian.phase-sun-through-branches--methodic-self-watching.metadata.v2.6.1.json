@@ -1,0 +1,95 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:a504a183-2da4-4d50-af9e-75eedd8980c6",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Crimson Desert Review and Christian",
+  "subtitle": "Partial light is not a weakness; interpreting emerging meaning",
+  "description": "An artifact documenting a transition from endurance to discernment. It captures the process of engaging with a moral structure without collapsing into premature certainty, utilizing a structured hypothesis-and-test loop.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/crimson-desert-review-and-christian",
+  "slug": "crimson-desert-review-and-christian",
+  "language": "en-US",
+  "dateCreated": "2026-04-20",
+  "datePublished": "2026-04-20",
+  "dateModified": "2026-04-20",
+  "timeFelt": {
+    "date": "2026-04-20",
+    "time": "10:16:04",
+    "phase": "Sun Through Branches"
+  },
+  "phase": {
+    "name": "Sun Through Branches",
+    "variant": "",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Pale Moon & Sun"
+  },
+  "keywords": [
+    "sun through branches",
+    "post",
+    "methodic self-watching",
+    "adaptive witness",
+    "logistical smallness",
+    "discernment"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Partial Light",
+      "meaning": "The correct condition for honest discernment; engaging meaning while withholding final judgment.",
+      "position": "center"
+    },
+    {
+      "symbol": "Self-Correction Loop",
+      "meaning": "Guarding against projection by treating interpretation as a hypothesis to be tested.",
+      "position": "halo"
+    }
+  ],
+  "excerpt": "it might be projection but I am going to keep checking back",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Substack post header for Crimson Desert Review and Christian",
+      "contentUrl": "https://wanderersburn.substack.com/p/crimson-desert-review-and-christian",
+      "credit": "Aleksandr",
+      "license": "All Rights Reserved",
+      "altText": "A screenshot associated with the Crimson Desert Review and Christian post."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-04-20T10:25:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cCrimson Desert Review and Christian\u201d",
+      "Screenshot 2026-04-20 at 10.16.04 AM.png",
+      "URL: https://wanderersburn.substack.com/p/crimson-desert-review-and-christian"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as Sun Through Branches with dominant Methodic Self-Watching subcurrent. Filename: crimson-desert-review-and-christian.phase-sun-through-branches--methodic-self-watching.metadata.v2.6.1.json"
+  }
+}

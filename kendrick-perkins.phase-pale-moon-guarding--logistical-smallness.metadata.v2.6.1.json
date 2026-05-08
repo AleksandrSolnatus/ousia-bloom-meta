@@ -1,0 +1,75 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:d6bf78ab-0afb-4b10-b85f-9d3021e5fe89",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Kendrick Perkins",
+  "subtitle": "Irritated clarity; the recognition of degraded communication structures",
+  "description": "An artifact documenting a light expression of Pale Moon Guarding characterized by irritated clarity and a restrained dismissal of degraded communication systems. It identifies a pattern of withdrawal following the recognition of falseness.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/kendrick-perkins",
+  "slug": "kendrick-perkins",
+  "language": "en-US",
+  "dateCreated": "2026-04-20",
+  "datePublished": "2026-04-20",
+  "dateModified": "2026-04-20",
+  "timeFelt": {
+    "date": "2026-04-20",
+    "time": "09:58:21",
+    "phase": "Pale Moon Guarding"
+  },
+  "phase": {
+    "name": "Pale Moon Guarding",
+    "variant": "",
+    "subcurrent": "Logistical Smallness",
+    "family": "Pale Moon & Sun"
+  },
+  "keywords": [
+    "pale moon guarding",
+    "post",
+    "logistical smallness",
+    "irritated clarity",
+    "boundary"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Boundary",
+      "meaning": "The decision to cease engagement with systems recognized as false or degraded.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "Not all systems deserve engagement once seen clearly.",
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-04-20T10:06:49-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 \u2014 \u201cKendrick Perkins\u201d",
+      "Screenshot 2026-04-20 at 9.58.21 AM.png",
+      "URL: https://wanderersburn.substack.com/p/kendrick-perkins"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as a light expression of Pale Moon Guarding. Filename: kendrick-perkins.phase-pale-moon-guarding--logistical-smallness.metadata.v2.6.1.json"
+  }
+}

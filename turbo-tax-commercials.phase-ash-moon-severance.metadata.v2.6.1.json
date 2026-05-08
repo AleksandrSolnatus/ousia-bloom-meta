@@ -1,0 +1,86 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:ad382b4a-3487-4105-9b6a-1240afc84e98",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Turbo Tax Commercials",
+  "subtitle": "The First Misuse of the Blade; reactive discernment and truth-sensitivity",
+  "description": "An artifact documenting reactive discernment following the acquisition of 'Ludus Veritatis'. It captures a calibration moment where truth-recognition is misapplied outward as irritation and critique of media manipulation, marking the threshold before the blade is turned inward.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/turbo-tax-commercials",
+  "slug": "turbo-tax-commercials",
+  "language": "en-US",
+  "dateCreated": "2026-04-20",
+  "datePublished": "2026-04-20",
+  "dateModified": "2026-04-20",
+  "timeFelt": {
+    "date": "2026-04-20",
+    "time": "22:42",
+    "phase": "Ash Moon Severance"
+  },
+  "phase": {
+    "name": "Ash Moon Severance",
+    "variant": "",
+    "subcurrent": "",
+    "family": "Ash Moon Family"
+  },
+  "keywords": [
+    "ash moon severance",
+    "post"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Testing the knife",
+      "meaning": "Applying truth-recognition externally to confirm tool efficacy before inward application.",
+      "position": "center"
+    }
+  ],
+  "excerpt": "I learned to see through things—and for a moment, that made me angry instead of wise.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Wanderer's Burn Substack Header",
+      "contentUrl": "https://wanderersburn.substack.com/p/turbo-tax-commercials",
+      "credit": "Aleksandr",
+      "license": "All Rights Reserved",
+      "altText": "A screenshot associated with 'Turbo Tax Commercials' post"
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-04-20T22:47:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 — “Turbo Tax Commercials”",
+      "Screenshot 2026-04-20 at 10.42.56 PM.png",
+      "URL: https://wanderersburn.substack.com/p/turbo-tax-commercials"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as a transitional misuse of Ludus Veritatis, placed within Ash Moon Severance (misdirected outward). Filename: turbo-tax-commercials.phase-ash-moon-severance.metadata.v2.6.1.json"
+  }
+}

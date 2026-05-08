@@ -1,0 +1,95 @@
+{
+  "schemaVersion": "2.6.1",
+  "id": "urn:uuid:e216b17b-5c7a-42dc-b5f2-d123cfc2bd0c",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "This are just amazing",
+  "subtitle": "Simple joy, receptive clarity",
+  "description": "An artifact documenting a moment of alignment and joy. It marks the transition from solving to receiving, characterized by a direct encounter with meaningful truth without internal resistance or overanalysis.",
+  "author": {
+    "name": "Aleksandr",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/this-are-just-amazing",
+  "slug": "this-are-just-amazing",
+  "language": "en-US",
+  "dateCreated": "2026-04-20",
+  "datePublished": "2026-04-20",
+  "dateModified": "2026-04-20",
+  "timeFelt": {
+    "date": "2026-04-20",
+    "time": "22:19:31",
+    "phase": "The Candle's Embrace"
+  },
+  "phase": {
+    "name": "The Candle's Embrace",
+    "variant": "",
+    "subcurrent": "The Candle's Glow",
+    "family": "Candle Family"
+  },
+  "keywords": [
+    "the candle's embrace",
+    "post",
+    "the candle's glow",
+    "joy",
+    "reception",
+    "alignment"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Simple Joy",
+      "meaning": "Direct encounter with goodness without the need for analysis or defense.",
+      "position": "center"
+    },
+    {
+      "symbol": "Childlike Simplicity",
+      "meaning": "Contact with the divine that is oriented toward receiving rather than solving.",
+      "position": "halo"
+    }
+  ],
+  "excerpt": "So much is awesome… beautiful for how to live",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": ""
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Wanderer's Burn Substack Header",
+      "contentUrl": "https://wanderersburn.substack.com/p/this-are-just-amazing",
+      "credit": "Aleksandr",
+      "license": "All Rights Reserved",
+      "altText": "A screenshot associated with 'This are just amazing' post"
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.0",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "GPT-5.2 Thinking",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-04-20T22:21:45+00:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "Phase Analysis 3.0 — “this are just amazing”",
+      "Screenshot 2026-04-20 at 10.19.31 PM.png",
+      "URL: https://wanderersburn.substack.com/p/this-are-just-amazing"
+    ],
+    "editHistory": []
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Generated based on Phase Analysis 3.0. Identified as The Candle's Embrace with The Candle's Glow as a stabilizing foundation. Filename: this-are-just-amazing.phase-the-candles-embrace--the-candles-glow.metadata.v2.6.1.json"
+  }
+}
