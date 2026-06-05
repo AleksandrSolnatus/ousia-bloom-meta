@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.6.4",
+  "id": "urn:uuid:e3ecb50f-d93b-4837-be2c-71526e3377b8",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Talky from stubborn dumb guy",
+  "subtitle": "",
+  "description": "A philosophical pressure artifact tracing Socratic deconstruction, conceptual instability, probability, reality's strangeness, and the attempt to preserve wonder without collapsing logic.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/talky-from-stubborn-dumb-guy",
+  "slug": "talky-from-stubborn-dumb-guy",
+  "language": "en",
+  "dateCreated": "2026-04-28",
+  "datePublished": "2026-04-28",
+  "dateModified": "2026-04-28",
+  "timeFelt": {
+    "date": "2026-04-28",
+    "time": "",
+    "phase": "The Loom and the Horizon"
+  },
+  "phase": {
+    "name": "The Loom and the Horizon",
+    "variant": "Ordered Fullness",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Liminal / Cosmological Rooms"
+  },
+  "keywords": [
+    "the loom and the horizon",
+    "ordered fullness",
+    "methodic self-watching",
+    "post",
+    "socrates",
+    "deconstruction",
+    "probability",
+    "law of non-contradiction",
+    "reality"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Socratic Marsh Ground",
+      "meaning": "Concepts that appeared solid become unstable under questioning, revealing the need for definitions that can survive pressure.",
+      "position": "foreground"
+    },
+    {
+      "symbol": "Stable Sun, Strange World",
+      "meaning": "The post distinguishes physical regularity from conceptual instability while preserving the felt strangeness of both.",
+      "position": "center"
+    },
+    {
+      "symbol": "The Way and Non-Contradiction",
+      "meaning": "The artifact tests the intuition that a way appears through impossibility, then tightens that intuition against the requirements of coherence.",
+      "position": "background"
+    }
+  ],
+  "excerpt": "Reality remains strange even when explained, but the post refuses to let wonder become incoherence; it searches for a way that preserves both mystery and structure.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "e1083a0b4319b2753c7094479fa35dede57b6181b42c6f64ccd52dafde03faee"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A Wanderer's Burn Substack post titled 'Talky from stubborn dumb guy' by Unnamed, published April 28, 2026, discussing Socrates, deconstruction, physical uncertainty, conceptual instability, and the law of non-contradiction."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-05T15:18:10-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.4.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/talky-from-stubborn-dumb-guy",
+      "work/live-run/talky-from-stubborn-dumb-guy.source.json",
+      "work/live-run/talky-from-stubborn-dumb-guy.source.txt",
+      "work/live-run/talky-from-stubborn-dumb-guy.html"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-05T15:18:10-07:00",
+        "editor": "Codex",
+        "notes": "Batch v2.6.4 metadata run. Classified as The Loom and the Horizon with Ordered Fullness and Methodic Self-Watching because the artifact tests large-scale metaphysical intuition against Socratic pressure, probability, and the law of non-contradiction."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-04-28.talky-from-stubborn-dumb-guy.phase-the-loom-and-the-horizon.variant-ordered-fullness.subcurrent-methodic-self-watching.metadata.v2.6.4.json. Screenshot remains optional provenance support."
+  }
+}

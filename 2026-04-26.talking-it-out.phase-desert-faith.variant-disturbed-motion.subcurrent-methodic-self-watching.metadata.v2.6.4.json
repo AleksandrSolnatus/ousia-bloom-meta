@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.6.4",
+  "id": "urn:uuid:b9fca878-e302-4fb6-8ca1-a05e3e9d0da2",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Talking it out",
+  "subtitle": "",
+  "description": "A desert reorientation artifact that confronts relapse, derealization, longing for soothing, and the need to turn back toward God through honest self-checking.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/talking-it-out",
+  "slug": "talking-it-out",
+  "language": "en",
+  "dateCreated": "2026-04-26",
+  "datePublished": "2026-04-26",
+  "dateModified": "2026-04-26",
+  "timeFelt": {
+    "date": "2026-04-26",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "Disturbed Motion",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "desert faith",
+    "disturbed motion",
+    "methodic self-watching",
+    "post",
+    "reorientation",
+    "weed",
+    "God",
+    "self-checking",
+    "loneliness"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Checking Feeling Against Fact",
+      "meaning": "The artifact repeatedly tests perception against evidence, texts, and recovery accountability rather than letting fear alone define reality.",
+      "position": "foreground"
+    },
+    {
+      "symbol": "The Long Desert",
+      "meaning": "The speaker names the season as desert: not brief, not consoling, but a place where faith must be pointed back toward God.",
+      "position": "center"
+    },
+    {
+      "symbol": "The Soothing Figure",
+      "meaning": "The desire for a woman or mother figure to make everything better is recognized as a temptation that cannot replace reorientation.",
+      "position": "background"
+    }
+  ],
+  "excerpt": "I need to reorient myself toward God. I am struggling to let go of weed and the desire for a woman who will soothe everything.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "9c08b12b4114ba1c1dc3d120ca30d9d0b0c2dfc30f103dbf56d05449520f926a"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A Wanderer's Burn Substack post titled 'Talking it out' by Unnamed, published April 26, 2026, about dark self-questioning, reorienting toward God, weed, loneliness, and recovery honesty."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-05T15:18:10-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.4.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/talking-it-out",
+      "work/live-run/talking-it-out.source.json",
+      "work/live-run/talking-it-out.source.txt",
+      "work/live-run/talking-it-out.html"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-05T15:18:10-07:00",
+        "editor": "Codex",
+        "notes": "Batch v2.6.4 metadata run. Classified as Desert Faith with Disturbed Motion and Methodic Self-Watching because the post records disorientation, relapse pressure, and explicit self-correction back toward God through evidence-checking and recovery honesty."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-04-26.talking-it-out.phase-desert-faith.variant-disturbed-motion.subcurrent-methodic-self-watching.metadata.v2.6.4.json. Screenshot remains optional provenance support."
+  }
+}

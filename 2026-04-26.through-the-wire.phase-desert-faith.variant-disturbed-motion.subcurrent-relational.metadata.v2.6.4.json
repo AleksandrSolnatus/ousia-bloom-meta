@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.6.4",
+  "id": "urn:uuid:73ee5e66-2e1e-4b74-b740-542b3bfa84c6",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Through the wire",
+  "subtitle": "If I had a chance to be with you",
+  "description": "A relational desert artifact recording loneliness, recovery after drift, the collapse of weed as refuge, and the painful desire for care without returning to a false world.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/through-the-wire",
+  "slug": "through-the-wire",
+  "language": "en",
+  "dateCreated": "2026-04-26",
+  "datePublished": "2026-04-26",
+  "dateModified": "2026-04-26",
+  "timeFelt": {
+    "date": "2026-04-26",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "Disturbed Motion",
+    "subcurrent": "Relational",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "desert faith",
+    "disturbed motion",
+    "relational",
+    "post",
+    "loneliness",
+    "weed",
+    "recovery",
+    "false world",
+    "care"
+  ],
+  "motifMap": [
+    {
+      "symbol": "The Failed Crutch",
+      "meaning": "Weed no longer works as refuge; it returns the speaker to wasted time and forces gratitude that the old escape cannot hold.",
+      "position": "foreground"
+    },
+    {
+      "symbol": "The Mother-Woman Longing",
+      "meaning": "Relational desire appears as a wish for care, steadiness, and being held, while the speaker recognizes the danger of turning people into idols.",
+      "position": "center"
+    },
+    {
+      "symbol": "The Long Desert",
+      "meaning": "The artifact accepts emptiness, routine, and loneliness as the season through which faith must continue without easy fulfillment.",
+      "position": "background"
+    }
+  ],
+  "excerpt": "I am free now, though the scar remains. I still want a version of that love--real, whole, and honest.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "379b9c43003f723a1a2fce22f4ed578960eb96adc233313edd64ac5c0f13817f"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A Wanderer's Burn Substack post titled 'Through the wire' by Unnamed, published April 26, 2026, reflecting on loneliness, weed, relational longing, God, and the desire for honest care."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-05T15:18:10-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.4.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/through-the-wire",
+      "work/live-run/through-the-wire.source.json",
+      "work/live-run/through-the-wire.source.txt",
+      "work/live-run/through-the-wire.html"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-05T15:18:10-07:00",
+        "editor": "Codex",
+        "notes": "Batch v2.6.4 metadata run. Classified as Desert Faith with Disturbed Motion and Relational subcurrent due to the long dry struggle with routine, failed refuge, recovery honesty, and the gravity of desired care."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-04-26.through-the-wire.phase-desert-faith.variant-disturbed-motion.subcurrent-relational.metadata.v2.6.4.json. Screenshot remains optional provenance support."
+  }
+}

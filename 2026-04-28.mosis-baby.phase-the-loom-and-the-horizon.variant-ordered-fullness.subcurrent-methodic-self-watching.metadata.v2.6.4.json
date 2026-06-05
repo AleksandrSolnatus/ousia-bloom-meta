@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.6.4",
+  "id": "urn:uuid:eea131fc-11ad-4b36-9cc7-00d86a822dfe",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Mosis BABY~",
+  "subtitle": "",
+  "description": "A structured imaginal-doctrinal artifact in which a ritual room, summoned theological figures, and questions of will, agency, doctrine, and contradiction become a disciplined inquiry into reality's deeper order.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/mosis-baby",
+  "slug": "mosis-baby",
+  "language": "en",
+  "dateCreated": "2026-04-28",
+  "datePublished": "2026-04-28",
+  "dateModified": "2026-04-28",
+  "timeFelt": {
+    "date": "2026-04-28",
+    "time": "",
+    "phase": "The Loom and the Horizon"
+  },
+  "phase": {
+    "name": "The Loom and the Horizon",
+    "variant": "Ordered Fullness",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Liminal / Cosmological Rooms"
+  },
+  "keywords": [
+    "the loom and the horizon",
+    "ordered fullness",
+    "methodic self-watching",
+    "post",
+    "mosis",
+    "pelagius",
+    "doctrine",
+    "agency",
+    "non-contradiction"
+  ],
+  "motifMap": [
+    {
+      "symbol": "The Seven Loci",
+      "meaning": "The ritual room organizes inquiry into positions rather than spectacle, turning imagination into a disciplined structure for doctrinal examination.",
+      "position": "foreground"
+    },
+    {
+      "symbol": "Pelagius as Agency Pressure",
+      "meaning": "The summoned figure tests helplessness, will, and responsibility, forcing the speaker to distinguish wound from excuse.",
+      "position": "center"
+    },
+    {
+      "symbol": "The Way Through Apparent Contradiction",
+      "meaning": "The artifact presses mystery and logic against each other while preserving the need for coherence, distinction, and deeper structure.",
+      "position": "background"
+    }
+  ],
+  "excerpt": "The room becomes a theological instrument: seven positions, a bowl of water, and a doctrine of agency tested without letting mystery dissolve into incoherence.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "09a1c719ec5b12dd69519cfa514f7f528186ba2b1d7247991ec289e2d05c1fa7"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A Wanderer's Burn Substack post titled 'Mosis BABY~' by Unnamed, published April 28, 2026, describing an imaginal mountain room, a ritual call, Pelagius, doctrine, agency, and philosophical pressure around contradiction."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-05T15:18:10-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.4.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/mosis-baby",
+      "work/live-run/mosis-baby.source.json",
+      "work/live-run/mosis-baby.source.txt",
+      "work/live-run/mosis-baby.html"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-05T15:18:10-07:00",
+        "editor": "Codex",
+        "notes": "Batch v2.6.4 metadata run. Classified as The Loom and the Horizon with Ordered Fullness and Methodic Self-Watching because the artifact uses a liminal room to organize doctrine, agency, and contradiction into structured theological inquiry."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-04-28.mosis-baby.phase-the-loom-and-the-horizon.variant-ordered-fullness.subcurrent-methodic-self-watching.metadata.v2.6.4.json. Screenshot remains optional provenance support."
+  }
+}

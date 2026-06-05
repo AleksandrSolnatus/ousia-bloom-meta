@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.6.4",
+  "id": "urn:uuid:ea9c8df0-8448-4dda-8c75-d3fd88688a0a",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "MALA! !but spelled wrong!",
+  "subtitle": "",
+  "description": "A brief departure artifact marking travel, anticipation, uncertainty about posting, and the first motion toward seeing people and entering a changed place.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/mala-but-spelled-wrong",
+  "slug": "mala-but-spelled-wrong",
+  "language": "en",
+  "dateCreated": "2026-04-30",
+  "datePublished": "2026-04-30",
+  "dateModified": "2026-04-30",
+  "timeFelt": {
+    "date": "2026-04-30",
+    "time": "",
+    "phase": "Red Moon Rising"
+  },
+  "phase": {
+    "name": "Red Moon Rising",
+    "variant": "Motion",
+    "subcurrent": "",
+    "family": "Red Moon Family"
+  },
+  "keywords": [
+    "red moon rising",
+    "motion",
+    "post",
+    "travel",
+    "anticipation",
+    "people",
+    "phone"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Going on a Trip",
+      "meaning": "The artifact begins in outward movement, naming departure before the destination or posting rhythm is fully known.",
+      "position": "foreground"
+    },
+    {
+      "symbol": "Returning to People",
+      "meaning": "Excitement centers on seeing people again and measuring how different the place feels after time has passed.",
+      "position": "center"
+    },
+    {
+      "symbol": "Phone as Continuity",
+      "meaning": "The mention of phone suggests a smaller, mobile mode of recording if the laptop does not travel.",
+      "position": "background"
+    }
+  ],
+  "excerpt": "Going on a trip. Not sure if I will post there. I am excited to go see the people.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "5dab4228f535879e15fb688a045949acc1d74ae3563f9fe65f5e761f94f658d2"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A short Wanderer's Burn Substack post titled 'MALA! !but spelled wrong!' by Unnamed, published April 30, 2026, noting an upcoming trip, uncertainty about posting, excitement to see people, and using the phone."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-05T15:18:10-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.4.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/mala-but-spelled-wrong",
+      "work/live-run/mala-but-spelled-wrong.source.json",
+      "work/live-run/mala-but-spelled-wrong.source.txt",
+      "work/live-run/mala-but-spelled-wrong.html"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-05T15:18:10-07:00",
+        "editor": "Codex",
+        "notes": "Batch v2.6.4 metadata run. Classified as Red Moon Rising with Motion variant because the artifact marks an outward departure, anticipatory travel, and a shift from contained uncertainty into movement."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-04-30.mala-but-spelled-wrong.phase-red-moon-rising.variant-motion.metadata.v2.6.4.json. Screenshot remains optional provenance support."
+  }
+}
