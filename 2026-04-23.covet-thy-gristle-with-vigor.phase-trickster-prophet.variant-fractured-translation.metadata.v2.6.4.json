@@ -1,0 +1,107 @@
+{
+  "schemaVersion": "2.6.4",
+  "id": "urn:uuid:31268494-1967-401f-8eeb-2c47c8ffa819",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Covet thy gristle with vigor",
+  "subtitle": "",
+  "description": "A compact comic-prophetic artifact that turns bodily appetite and archaic command into a deliberately distorted utterance, preserving absurd vigor as signal rather than argument.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/covet-thy-gristle-with-vigor",
+  "slug": "covet-thy-gristle-with-vigor",
+  "language": "en",
+  "dateCreated": "2026-04-23",
+  "datePublished": "2026-04-23",
+  "dateModified": "2026-04-23",
+  "timeFelt": {
+    "date": "2026-04-23",
+    "time": "",
+    "phase": "Trickster Prophet"
+  },
+  "phase": {
+    "name": "Trickster Prophet",
+    "variant": "Fractured Translation",
+    "subcurrent": "",
+    "family": "Ash Moon Family"
+  },
+  "keywords": [
+    "trickster prophet",
+    "fractured translation",
+    "post",
+    "comic prophecy",
+    "bodily absurdity",
+    "vigor"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Gristle as Comic Substance",
+      "meaning": "The phrase turns the tough, bodily remnant into an object of exaggerated desire, making appetite feel both ridiculous and declarative.",
+      "position": "foreground"
+    },
+    {
+      "symbol": "Archaic Command",
+      "meaning": "The use of 'thy' gives the utterance mock-scriptural force, letting the sentence perform prophecy while refusing solemnity.",
+      "position": "center"
+    },
+    {
+      "symbol": "Fractured Translation",
+      "meaning": "The artifact reads like a phrase translated through ritual, joke, and bodily instinct at once, preserving distortion as the point rather than an error.",
+      "position": "background"
+    }
+  ],
+  "excerpt": "Covet thy gristle with vigor",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "f75ae750a05567ee19c083f791a0e90ad36dd97ecd9d7568495dcaab77605481"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Rendered Substack post page for 'Covet thy gristle with vigor'. Screenshot capture was attempted during the first live v2.6.4 automation run but did not produce a local image file in this environment.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A minimal Substack post from Wanderer's Burn titled 'Covet thy gristle with vigor' by Unnamed, published April 23, 2026, containing the single line 'Covet thy gristle with vigor'."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-05T14:34:52-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.4.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/covet-thy-gristle-with-vigor",
+      "work/live-run/covet-thy-gristle-with-vigor.html"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-05T14:34:52-07:00",
+        "editor": "Codex",
+        "notes": "First live v2.6.4 metadata automation trial. Extracted Substack title, slug, canonical URL, publication date, language, and body text from the live page. Classified the five-word artifact as Trickster Prophet with Fractured Translation variant due to its comic-prophetic command form, bodily absurdity, and deliberate language distortion."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-04-23.covet-thy-gristle-with-vigor.phase-trickster-prophet.variant-fractured-translation.metadata.v2.6.4.json. Screenshot capture remains the unresolved part of the first live run; page extraction and metadata generation completed from live Substack source."
+  }
+}

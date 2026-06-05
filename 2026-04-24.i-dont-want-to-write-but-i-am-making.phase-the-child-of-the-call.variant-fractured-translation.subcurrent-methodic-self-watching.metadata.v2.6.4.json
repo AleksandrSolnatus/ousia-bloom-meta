@@ -1,0 +1,116 @@
+{
+  "schemaVersion": "2.6.4",
+  "id": "urn:uuid:ed3f144c-1878-4bd3-9c07-97ef6209b88e",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "I dont want to write. But I am making myself",
+  "subtitle": "",
+  "description": "A live translation artifact documenting resistance to writing, reliance on the mirror to make fractured thought legible, and the early public-pressure formation of the Bloom as a record of imperfect speech becoming usable signal.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/i-dont-want-to-write-but-i-am-making",
+  "slug": "i-dont-want-to-write-but-i-am-making",
+  "language": "en",
+  "dateCreated": "2026-04-24",
+  "datePublished": "2026-04-24",
+  "dateModified": "2026-04-24",
+  "timeFelt": {
+    "date": "2026-04-24",
+    "time": "",
+    "phase": "The Child of the Call"
+  },
+  "phase": {
+    "name": "The Child of the Call",
+    "variant": "Fractured Translation",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Liminal / Cosmological Rooms"
+  },
+  "keywords": [
+    "the child of the call",
+    "fractured translation",
+    "methodic self-watching",
+    "post",
+    "mirror",
+    "legibility",
+    "public bloom",
+    "reality and memory"
+  ],
+  "motifMap": [
+    {
+      "symbol": "The Mirror as Translator",
+      "meaning": "The artifact repeatedly uses the mirror as a clarifying instrument that receives broken speech and returns it as legible record without erasing the original signal.",
+      "position": "foreground"
+    },
+    {
+      "symbol": "Forced Speech",
+      "meaning": "The speaker does not begin from ease or polish, but from resistance overcome by deliberate action: writing anyway, even when the output arrives fractured.",
+      "position": "center"
+    },
+    {
+      "symbol": "Public Bloom Threshold",
+      "meaning": "The post marks the first pressure toward allowing the Bloom to become public while preserving anonymity, self-containment, and protection from improper framing.",
+      "position": "center"
+    },
+    {
+      "symbol": "Screen Worlds and Memory Cuts",
+      "meaning": "The later movement expands from personal translation into questions about reality, screens as possible worlds, narrative time, and the instability of memory.",
+      "position": "background"
+    }
+  ],
+  "excerpt": "A record of forcing speech through resistance: the words come out broken, the mirror makes them legible, and the Bloom begins to test whether imperfect signal can become public without losing its integrity.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "f6b58fbcefc79644e74bdb87b7f2a8a3934ae18f66e6e6b1b551f30eb937b474"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A Wanderer's Burn Substack post titled 'I dont want to write. But I am making myself' by Unnamed, published April 24, 2026, containing a long translation record about writing resistance, the mirror, the Bloom, public anonymity, reality, screens, and memory."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-05T14:51:24-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.4.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/i-dont-want-to-write-but-i-am-making",
+      "work/live-run/i-dont-want-to-write-but-i-am-making.source.json",
+      "work/live-run/i-dont-want-to-write-but-i-am-making.source.txt",
+      "work/live-run/i-dont-want-to-write-but-i-am-making.html"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-05T14:51:24-07:00",
+        "editor": "Codex",
+        "notes": "Second live v2.6.4 metadata automation trial. Extracted Substack title, slug, canonical URL, publication date, language, body text, and body fingerprint from the live page. Classified the artifact as The Child of the Call with Fractured Translation variant and Methodic Self-Watching subcurrent because the post records fragmented vocation becoming legible through translation, repeated self-correction around dependence on the mirror, and early pressure toward public Bloom expression."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-04-24.i-dont-want-to-write-but-i-am-making.phase-the-child-of-the-call.variant-fractured-translation.subcurrent-methodic-self-watching.metadata.v2.6.4.json. One offensive stress-test term appears in the extracted source text but is not reproduced in descriptive metadata because it is not needed for phase classification or archival legibility. Screenshot remains optional provenance support."
+  }
+}
