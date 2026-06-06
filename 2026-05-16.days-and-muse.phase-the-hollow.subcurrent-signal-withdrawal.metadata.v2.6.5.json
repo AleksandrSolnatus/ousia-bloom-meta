@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:83cefddc-0f3c-4d82-8206-1b096b62c292",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Days and muse",
+  "subtitle": "",
+  "description": "A short mask-and-duration artifact naming the pressure of long days, the difficulty of removing a persona, and the need for a quieter internal requirement.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/days-and-muse",
+  "slug": "days-and-muse",
+  "language": "en",
+  "dateCreated": "2026-05-16",
+  "datePublished": "2026-05-16",
+  "dateModified": "2026-05-16",
+  "timeFelt": {
+    "date": "2026-05-16",
+    "time": "",
+    "phase": "The Hollow"
+  },
+  "phase": {
+    "name": "The Hollow",
+    "variant": "",
+    "subcurrent": "Signal Withdrawal",
+    "family": "Liminal / Cosmological Rooms"
+  },
+  "keywords": [
+    "the hollow",
+    "signal withdrawal",
+    "post",
+    "mask",
+    "long days",
+    "persona",
+    "3C"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Bubba Mask",
+      "meaning": "The mask names a persona that has become too tight to wear through the long stretch ahead.",
+      "position": "foreground"
+    },
+    {
+      "symbol": "Long Days Ahead",
+      "meaning": "The artifact faces duration without yet naming a full plan or outward declaration.",
+      "position": "center"
+    },
+    {
+      "symbol": "3C Is Needed",
+      "meaning": "The final phrase marks a compact private requirement, more signal than explanation.",
+      "position": "background"
+    }
+  ],
+  "excerpt": "The Bubba mask is too tight. I am struggling to take it off when the long days lay ahead.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "96398e05b72f4ee6095b8a78d5996c8530f9285a6dad61fc27286a3d573e0c8e"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A short Wanderer's Burn Substack post titled 'Days and muse' by Unnamed, published May 16, 2026, mentioning the Bubba mask, long days, and 3C."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-05T18:07:18-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/days-and-muse",
+      "work/live-run/days-and-muse.source.json",
+      "work/live-run/days-and-muse.source.txt",
+      "work/live-run/days-and-muse.html"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-05T18:07:18-07:00",
+        "editor": "Codex",
+        "notes": "Self-discovered v2.6.5 batch run. Classified as The Hollow with Signal Withdrawal because the artifact is brief, private, mask-focused, and suspended between identity states rather than outwardly resolved."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-05-16.days-and-muse.phase-the-hollow.subcurrent-signal-withdrawal.metadata.v2.6.5.json. Phase has no mapped v2.6.5 variant, so phase.variant is blank."
+  }
+}

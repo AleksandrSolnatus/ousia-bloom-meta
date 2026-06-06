@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:fee8754c-c062-4bf0-9f80-9e4d2bf032c5",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The Sea",
+  "subtitle": "",
+  "description": "A comic stage artifact set on Titan's methane seas, using archaic speech, sci-fi setting, romantic refusal, and bodily absurdity to turn heartbreak into theatrical prophecy-joke.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-sea",
+  "slug": "the-sea",
+  "language": "en",
+  "dateCreated": "2026-05-12",
+  "datePublished": "2026-05-12",
+  "dateModified": "2026-05-12",
+  "timeFelt": {
+    "date": "2026-05-12",
+    "time": "",
+    "phase": "Trickster Prophet"
+  },
+  "phase": {
+    "name": "Trickster Prophet",
+    "variant": "Fractured Translation",
+    "subcurrent": "",
+    "family": "Ash Moon Family"
+  },
+  "keywords": [
+    "trickster prophet",
+    "fractured translation",
+    "post",
+    "titan",
+    "stage play",
+    "comic heartbreak",
+    "archaic speech"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Methane Sea Theater",
+      "meaning": "The Titan setting makes the emotional scene strange enough to hold comedy, distance, and myth at once.",
+      "position": "foreground"
+    },
+    {
+      "symbol": "Archaic Broken Speech",
+      "meaning": "The dialogue performs fractured translation through mock-Shakespearean phrasing, sci-fi work speech, and bodily comedy.",
+      "position": "center"
+    },
+    {
+      "symbol": "Beef Farts as Severance",
+      "meaning": "Romantic refusal is displaced into an absurd bodily cause, preserving heartbreak while refusing solemnity.",
+      "position": "background"
+    }
+  ],
+  "excerpt": "Tis wilting Joy this life. Once buoyancy was my heart. Between these breasts a new sadder heart.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "a07c6b73fbea2e3b890fcfc817fb2d7ea7a608ac4e97877e0cc30eedeca508b6"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A Wanderer's Burn Substack post titled 'The Sea' by Unnamed, published May 12, 2026, presenting a comic sci-fi stage scene on Titan's methane seas."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-05T18:07:18-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/the-sea",
+      "work/live-run/the-sea.source.json",
+      "work/live-run/the-sea.source.txt",
+      "work/live-run/the-sea.html"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-05T18:07:18-07:00",
+        "editor": "Codex",
+        "notes": "Self-discovered v2.6.5 batch run. Classified as Trickster Prophet with Fractured Translation because the artifact turns theatrical heartbreak into comic prophecy through archaic diction, sci-fi staging, and bodily absurdity."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-05-12.the-sea.phase-trickster-prophet.variant-fractured-translation.metadata.v2.6.5.json. Variant assignment follows v2.6.5 phase-variant compatibility."
+  }
+}

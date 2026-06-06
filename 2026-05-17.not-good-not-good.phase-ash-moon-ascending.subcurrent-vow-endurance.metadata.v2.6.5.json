@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:eef97e71-3787-427e-baf7-2321c101a660",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Not Good, Not Good",
+  "subtitle": "",
+  "description": "A recovery-threshold artifact moving from smoke, blur, bad plays, and a drying well toward gratitude, emergence, and the decision to wait and keep working.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/not-good-not-good",
+  "slug": "not-good-not-good",
+  "language": "en",
+  "dateCreated": "2026-05-17",
+  "datePublished": "2026-05-17",
+  "dateModified": "2026-05-17",
+  "timeFelt": {
+    "date": "2026-05-17",
+    "time": "",
+    "phase": "Ash Moon Ascending"
+  },
+  "phase": {
+    "name": "Ash Moon Ascending",
+    "variant": "",
+    "subcurrent": "Vow (Endurance)",
+    "family": "Ash Moon Family"
+  },
+  "keywords": [
+    "ash moon ascending",
+    "vow endurance",
+    "post",
+    "emergence",
+    "gratitude",
+    "bad poetry",
+    "keep working",
+    "recovery"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Gasoline Taste",
+      "meaning": "The pleasurable joint turns bitter, marking the edge where refuge begins to reveal its cost.",
+      "position": "foreground"
+    },
+    {
+      "symbol": "Almost Ready to Emerge",
+      "meaning": "The post names a threshold toward a new season after blur, smoke, and stalled output.",
+      "position": "center"
+    },
+    {
+      "symbol": "Keep Working",
+      "meaning": "The ending chooses endurance over collapse, fantasy return, or theatrical exit.",
+      "position": "background"
+    }
+  ],
+  "excerpt": "Or wait. Keep working and hope that like the worst playwright in all of creation I might write one deed that is remembered for a moment.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "66807e2caf6eef85b543cc327493301452f1ca397201589119f930ef4d511d76"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A Wanderer's Burn Substack post titled 'Not Good, Not Good' by Unnamed, published May 17, 2026, reflecting on smoke, emergence, bad plays, gratitude, and continuing to work."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-05T18:07:18-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/not-good-not-good",
+      "work/live-run/not-good-not-good.source.json",
+      "work/live-run/not-good-not-good.source.txt",
+      "work/live-run/not-good-not-good.html"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-05T18:07:18-07:00",
+        "editor": "Codex",
+        "notes": "Self-discovered v2.6.5 batch run. Classified as Ash Moon Ascending with Vow (Endurance) because the artifact names a move toward emergence after smoke and blur, then chooses waiting, work, and gratitude."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-05-17.not-good-not-good.phase-ash-moon-ascending.subcurrent-vow-endurance.metadata.v2.6.5.json. Phase has no mapped v2.6.5 variant, so phase.variant is blank."
+  }
+}
