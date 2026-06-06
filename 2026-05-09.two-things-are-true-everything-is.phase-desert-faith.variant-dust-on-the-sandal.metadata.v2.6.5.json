@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:9693e463-c78a-4bca-b210-0d6783746a82",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Two Things are True. Everything is meaningless. Meaning is made.",
+  "subtitle": "This are ordered out of sync but close enough for synchronization in a larger historical context",
+  "description": "A road-and-faith artifact holding meaninglessness and made meaning together while receiving only a sliver of grace through travel, music, gratitude, and survival.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/two-things-are-true-everything-is",
+  "slug": "two-things-are-true-everything-is",
+  "language": "en",
+  "dateCreated": "2026-05-09",
+  "datePublished": "2026-05-09",
+  "dateModified": "2026-05-09",
+  "timeFelt": {
+    "date": "2026-05-09",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "Dust on the Sandal",
+    "subcurrent": "",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "desert faith",
+    "dust on the sandal",
+    "post",
+    "qoheleth",
+    "meaning",
+    "gratitude",
+    "guatemala",
+    "survival"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Qoheleth on the Road",
+      "meaning": "The artifact invokes wisdom and purposelessness while moving through a foreign landscape.",
+      "position": "foreground"
+    },
+    {
+      "symbol": "Sliver of Grace",
+      "meaning": "Grace arrives not as fullness but as a thin sustaining line through sights, music, and gratitude.",
+      "position": "center"
+    },
+    {
+      "symbol": "Road from Antigua",
+      "meaning": "Travel becomes the ground where survival and faith continue without resolving the contradiction of meaning and meaninglessness.",
+      "position": "background"
+    }
+  ],
+  "excerpt": "All of life is meaningful meaningless. God offers a sliver of grace. To get by I must survive.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "bc9134842be7813a0ef13228bb5879384eb4fe471381fba6b8a8d463a283aea8"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A Wanderer's Burn Substack post titled 'Two Things are True. Everything is meaningless. Meaning is made.' by Unnamed, published May 9, 2026, reflecting on meaning, Qoheleth, gratitude, the road from Antigua to Guatemala, and survival."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-05T17:45:11-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/two-things-are-true-everything-is",
+      "work/live-run/two-things-are-true-everything-is.source.json",
+      "work/live-run/two-things-are-true-everything-is.source.txt",
+      "work/live-run/two-things-are-true-everything-is.html"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-05T17:45:11-07:00",
+        "editor": "Codex",
+        "notes": "Batch v2.6.5 metadata run. Classified as Desert Faith with Dust on the Sandal variant because the post frames faith, survival, and gratitude through travel, road imagery, and the dust of lived movement."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-05-09.two-things-are-true-everything-is.phase-desert-faith.variant-dust-on-the-sandal.metadata.v2.6.5.json. Variant assignment follows v2.6.5 phase-variant compatibility."
+  }
+}

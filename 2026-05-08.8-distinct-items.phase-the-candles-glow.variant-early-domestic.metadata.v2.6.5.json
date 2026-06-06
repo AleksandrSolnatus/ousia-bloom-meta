@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:5d1217dd-842c-4f9f-8328-3db3df075d79",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "8 distinct items:",
+  "subtitle": "",
+  "description": "A small inventory artifact recording ordinary objects, food, books, doodles, coffee, poems, and film as a modest field of daily continuity.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/8-distinct-items",
+  "slug": "8-distinct-items",
+  "language": "en",
+  "dateCreated": "2026-05-08",
+  "datePublished": "2026-05-08",
+  "dateModified": "2026-05-08",
+  "timeFelt": {
+    "date": "2026-05-08",
+    "time": "",
+    "phase": "The Candle's Glow"
+  },
+  "phase": {
+    "name": "The Candle's Glow",
+    "variant": "Early / Domestic",
+    "subcurrent": "",
+    "family": "Candle Family"
+  },
+  "keywords": [
+    "the candle's glow",
+    "early domestic",
+    "post",
+    "inventory",
+    "books",
+    "coffee",
+    "small objects",
+    "ordinary continuity"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Eight Objects",
+      "meaning": "The list gathers small anchors of attention without forcing them into a larger argument.",
+      "position": "foreground"
+    },
+    {
+      "symbol": "Mocha Latte and Chocolate Cake",
+      "meaning": "Food and drink hold the domestic warmth of ordinary presence.",
+      "position": "center"
+    },
+    {
+      "symbol": "Poems of Images",
+      "meaning": "The artifact frames simple observation as a small creative record rather than a full confession.",
+      "position": "background"
+    }
+  ],
+  "excerpt": "Books. Small Books. English section in Guatemala. Chocolate cake. Journal Doodles. Mocha latte.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "79896a50c3f6cb8f648abcf822006352490546fa03810c4fc087356a0444b89c"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A short Wanderer's Burn Substack post titled '8 distinct items:' by Unnamed, published May 8, 2026, listing books, chocolate cake, journal doodles, a mocha latte, poems of images, and Uncut Gems."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-05T17:45:11-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/8-distinct-items",
+      "work/live-run/8-distinct-items.source.json",
+      "work/live-run/8-distinct-items.source.txt",
+      "work/live-run/8-distinct-items.html"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-05T17:45:11-07:00",
+        "editor": "Codex",
+        "notes": "Batch v2.6.5 metadata run. Classified as The Candle's Glow with Early / Domestic variant because the post records a small ordinary inventory of daily objects, tastes, and creative anchors."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-05-08.8-distinct-items.phase-the-candles-glow.variant-early-domestic.metadata.v2.6.5.json. Variant assignment follows v2.6.5 phase-variant compatibility."
+  }
+}

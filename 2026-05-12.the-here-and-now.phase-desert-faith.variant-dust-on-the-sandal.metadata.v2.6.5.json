@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:2e6289fe-59e1-4308-9fe4-f308676558e2",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The Here and now",
+  "subtitle": "",
+  "description": "A heat-and-neglect artifact where the self becomes ruler and subject of a tiny damaged domain, enduring grime, waste, freedom, and the command not to be weak.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-here-and-now",
+  "slug": "the-here-and-now",
+  "language": "en",
+  "dateCreated": "2026-05-12",
+  "datePublished": "2026-05-12",
+  "dateModified": "2026-05-12",
+  "timeFelt": {
+    "date": "2026-05-12",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "Dust on the Sandal",
+    "subcurrent": "",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "desert faith",
+    "dust on the sandal",
+    "post",
+    "heat",
+    "neglect",
+    "tiny domain",
+    "unmoored",
+    "survival"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Tiny Domain",
+      "meaning": "The self is both king and subject, ruling a small interior kingdom that has fallen into disrepair.",
+      "position": "foreground"
+    },
+    {
+      "symbol": "Heat and Grime",
+      "meaning": "Physical discomfort grounds the artifact in ordinary exposure rather than abstract despair.",
+      "position": "center"
+    },
+    {
+      "symbol": "Do Not Be Weak",
+      "meaning": "The final command turns endurance into a blunt discipline inside an unglamorous present tense.",
+      "position": "background"
+    }
+  ],
+  "excerpt": "I am the king of this tiny domain. I rule the only subject: me. Yet I am unruly.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "03b28950fc659fd8b5ac51e2ef00db34c9d264e021217527ff4c8413f97ded95"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A Wanderer's Burn Substack post titled 'The Here and now' by Unnamed, published May 12, 2026, describing heat, grime, a tiny domain of self-rule, wasted days, being unmoored, and the command not to be weak."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-05T17:45:11-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/the-here-and-now",
+      "work/live-run/the-here-and-now.source.json",
+      "work/live-run/the-here-and-now.source.txt",
+      "work/live-run/the-here-and-now.html"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-05T17:45:11-07:00",
+        "editor": "Codex",
+        "notes": "Batch v2.6.5 metadata run. Classified as Desert Faith with Dust on the Sandal because the artifact is grounded in heat, grime, bodily discomfort, endurance, and the unglamorous present step."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-05-12.the-here-and-now.phase-desert-faith.variant-dust-on-the-sandal.metadata.v2.6.5.json. Variant assignment follows v2.6.5 phase-variant compatibility."
+  }
+}

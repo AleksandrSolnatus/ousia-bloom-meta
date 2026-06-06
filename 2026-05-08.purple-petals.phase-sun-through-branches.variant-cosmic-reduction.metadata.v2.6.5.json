@@ -1,0 +1,110 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:ffed1005-5da4-41b7-a42e-c345b8b9ae73",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Purple petals",
+  "subtitle": "",
+  "description": "A brief image-artifact where fallen petals, hard concrete, leaf green, and blue sky reduce attention to a small visible fragment of beauty in motion and decay.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/purple-petals",
+  "slug": "purple-petals",
+  "language": "en",
+  "dateCreated": "2026-05-08",
+  "datePublished": "2026-05-08",
+  "dateModified": "2026-05-08",
+  "timeFelt": {
+    "date": "2026-05-08",
+    "time": "",
+    "phase": "Sun Through Branches"
+  },
+  "phase": {
+    "name": "Sun Through Branches",
+    "variant": "Cosmic Reduction",
+    "subcurrent": "",
+    "family": "Pale Moon & Sun"
+  },
+  "keywords": [
+    "sun through branches",
+    "cosmic reduction",
+    "post",
+    "purple petals",
+    "concrete",
+    "small image",
+    "attention"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Fallen Petals",
+      "meaning": "Beauty becomes most visible once scattered, lowered, and caught against hard ground.",
+      "position": "foreground"
+    },
+    {
+      "symbol": "Leaf Green and Azul Sky",
+      "meaning": "The larger living field and open sky frame the small falling pieces without overtaking them.",
+      "position": "center"
+    },
+    {
+      "symbol": "One or Two Caught by Wind",
+      "meaning": "The artifact preserves partial motion and selective lift rather than full rescue or full collapse.",
+      "position": "background"
+    }
+  ],
+  "excerpt": "Their color more vibrant strewn and wilting, alive they are overshadowed by leaf green.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "73ac9c18aec01b2a3cd4c121fd3604502adaf57f822dd5d36bbcfd8e923f2610"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A short Wanderer's Burn Substack post titled 'Purple petals' by Unnamed, published May 8, 2026, describing purple petals falling to concrete beneath green leaves and blue sky."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-05T17:45:11-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/purple-petals",
+      "work/live-run/purple-petals.source.json",
+      "work/live-run/purple-petals.source.txt",
+      "work/live-run/purple-petals.html"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-05T17:45:11-07:00",
+        "editor": "Codex",
+        "notes": "Batch v2.6.5 metadata run. Classified as Sun Through Branches with Cosmic Reduction because the artifact filters attention through a small natural image, reducing a whole field of sky, leaves, concrete, wind, and decay into a compact visible sign."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-05-08.purple-petals.phase-sun-through-branches.variant-cosmic-reduction.metadata.v2.6.5.json. Variant assignment follows v2.6.5 phase-variant compatibility."
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:cb0813b7-2b02-41b8-b79a-61147053fcd3",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Smoke first",
+  "subtitle": "",
+  "description": "A compressed desert artifact where morning weed lowers the gnaw but disturbs the day's motion, muting social contact and making church feel visibly strange.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/smoke-first",
+  "slug": "smoke-first",
+  "language": "en",
+  "dateCreated": "2026-05-11",
+  "datePublished": "2026-05-11",
+  "dateModified": "2026-05-11",
+  "timeFelt": {
+    "date": "2026-05-11",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "Disturbed Motion",
+    "subcurrent": "",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "desert faith",
+    "disturbed motion",
+    "post",
+    "weed",
+    "smoke",
+    "waste",
+    "church",
+    "muted"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Burning Red in the Bowl",
+      "meaning": "The morning smoke becomes a small ignition that cools the brain while displacing the day.",
+      "position": "foreground"
+    },
+    {
+      "symbol": "Whole Day to Waste",
+      "meaning": "Freedom is present but turned sideways into drift, errands, snacks, and muted conversation.",
+      "position": "center"
+    },
+    {
+      "symbol": "Weird at Church",
+      "meaning": "The altered state becomes visible in a sacred-social setting, marking disturbance rather than relief.",
+      "position": "background"
+    }
+  ],
+  "excerpt": "Smoke hot. Brain cool. The gnaw at bay. Whole day is mine to waste.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "c857672c3bf7e8fb35875036108c3efd3ce32340374c7d8d3538a589456b5ca4"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A short Wanderer's Burn Substack post titled 'Smoke first' by Unnamed, published May 11, 2026, describing morning weed, errands, muted conversation, and feeling weird at church."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-05T17:45:11-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/smoke-first",
+      "work/live-run/smoke-first.source.json",
+      "work/live-run/smoke-first.source.txt",
+      "work/live-run/smoke-first.html"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-05T17:45:11-07:00",
+        "editor": "Codex",
+        "notes": "Batch v2.6.5 metadata run. Classified as Desert Faith with Disturbed Motion because the post records a day diverted by smoke, muted contact, and disturbed ordinary practice."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-05-11.smoke-first.phase-desert-faith.variant-disturbed-motion.metadata.v2.6.5.json. Variant assignment follows v2.6.5 phase-variant compatibility."
+  }
+}
