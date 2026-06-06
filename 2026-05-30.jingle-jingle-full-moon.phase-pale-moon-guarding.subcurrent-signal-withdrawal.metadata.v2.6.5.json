@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:a1f70790-c836-40fb-9429-87210a123d55",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Jingle Jingle Full moon",
+  "subtitle": "",
+  "description": "A sparse Pale Moon Guarding fragment where full-moon influence feels thin, displaced, or softened into partial withdrawal.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/jingle-jingle-full-moon",
+  "slug": "jingle-jingle-full-moon",
+  "language": "en",
+  "dateCreated": "2026-05-30",
+  "datePublished": "2026-05-30",
+  "dateModified": "2026-05-30",
+  "timeFelt": {
+    "date": "2026-05-30",
+    "time": "",
+    "phase": "Pale Moon Guarding"
+  },
+  "phase": {
+    "name": "Pale Moon Guarding",
+    "variant": "",
+    "subcurrent": "Signal Withdrawal",
+    "family": "Pale Moon & Sun"
+  },
+  "keywords": [
+    "full moon",
+    "thin influence",
+    "attention elsewhere",
+    "softener",
+    "signal withdrawal",
+    "pale moon"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Full Moon with Thin Influence",
+      "meaning": "The expected lunar pressure is present by name but weakened in force.",
+      "position": "center"
+    },
+    {
+      "symbol": "Attention Elsewhere",
+      "meaning": "The speaker senses that the governing attention may have shifted away.",
+      "position": "question"
+    },
+    {
+      "symbol": "Softener",
+      "meaning": "The possibility of dulling the noise frames withdrawal as both protection and uncertainty.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "The Moon is full of But the influence is thin her attention is elsewhere or am I dulling the noise with the softener?",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "849a0df6c4b3444ed5d077d651ad01344a5027371fb6e0cec22a50410ac382a8"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A short Wanderer's Burn Substack post titled 'Jingle Jingle Full moon' by Unnamed, published May 30, 2026, describing thin full-moon influence."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-06T11:21:08-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/jingle-jingle-full-moon",
+      "work/live-run/jingle-jingle-full-moon.source.json",
+      "work/live-run/jingle-jingle-full-moon.source.txt"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-06T11:21:08-07:00",
+        "editor": "Codex",
+        "notes": "Nightly cached-source v2.6.5 batch run. Live Substack extraction was attempted first and failed because DNS could not resolve wanderersburn.substack.com, so this metadata used the matching cached local source packet. Classified as Pale Moon Guarding with Signal Withdrawal because the artifact names full-moon influence while registering its thinness, displacement, and possible dulling."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-05-30.jingle-jingle-full-moon.phase-pale-moon-guarding.subcurrent-signal-withdrawal.metadata.v2.6.5.json. No variant assigned because the applicable pressure is recorded as a subcurrent rather than a mapped Pale Moon Guarding variant."
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:24820095-df35-41c1-86df-88980fad5a6a",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "toom uch madden",
+  "subtitle": "",
+  "description": "A minimal Desert Faith motion note contrasting too much Madden with yoga as the better bodily current.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/toom-uch-madden",
+  "slug": "toom-uch-madden",
+  "language": "en",
+  "dateCreated": "2026-05-31",
+  "datePublished": "2026-05-31",
+  "dateModified": "2026-05-31",
+  "timeFelt": {
+    "date": "2026-05-31",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "Motion",
+    "subcurrent": "",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "Madden",
+    "yoga",
+    "motion",
+    "preference",
+    "desert faith"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Too Much Madden",
+      "meaning": "The gaming saturation is named as excess without elaboration.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Better Yoga",
+      "meaning": "Yoga is positioned as the preferable movement or practice current after the excess.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "so much madden. better then that is yoga",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "a27e8def6e2e6d648a5d19be53dc796d5ad19ea65f276a9ec39f6bcc267f6f99"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A very short Wanderer's Burn Substack post titled 'toom uch madden' by Unnamed, published May 31, 2026, contrasting Madden with yoga."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-06T11:21:08-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/toom-uch-madden",
+      "work/live-run/toom-uch-madden.source.json",
+      "work/live-run/toom-uch-madden.source.txt"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-06T11:21:08-07:00",
+        "editor": "Codex",
+        "notes": "Nightly cached-source v2.6.5 batch run. Live Substack extraction was attempted first and failed because DNS could not resolve wanderersburn.substack.com, so this metadata used the matching cached local source packet. Classified as Desert Faith with Motion because the artifact is a small preference pivot away from gaming saturation toward yoga."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-05-31.toom-uch-madden.phase-desert-faith.variant-motion.metadata.v2.6.5.json. Variant assignment follows v2.6.5 phase-variant compatibility."
+  }
+}

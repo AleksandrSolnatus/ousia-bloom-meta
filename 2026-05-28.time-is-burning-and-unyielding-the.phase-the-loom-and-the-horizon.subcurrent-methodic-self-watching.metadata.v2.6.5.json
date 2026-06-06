@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:caa48bf3-9fa3-4ff9-827c-b6a7d46ec418",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Time is burning and unyielding. The tides are drawn out as the waves begin to crest full moon with the face of the lady.",
+  "subtitle": "",
+  "description": "A Loom and Horizon process note about time, curation fatigue, reduced monitoring, trust in storage, and the practical pressure of metadata catch-up.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/time-is-burning-and-unyielding-the",
+  "slug": "time-is-burning-and-unyielding-the",
+  "language": "en",
+  "dateCreated": "2026-05-28",
+  "datePublished": "2026-05-28",
+  "dateModified": "2026-05-28",
+  "timeFelt": {
+    "date": "2026-05-28",
+    "time": "",
+    "phase": "The Loom and the Horizon"
+  },
+  "phase": {
+    "name": "The Loom and the Horizon",
+    "variant": "",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Liminal / Cosmological Rooms"
+  },
+  "keywords": [
+    "time",
+    "curation",
+    "metadata",
+    "monitoring",
+    "storage",
+    "process trust",
+    "methodic self-watching"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Burning Time",
+      "meaning": "The opening pressure is temporal, making the artifact feel like a process check under constraint.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Less Active Monitoring",
+      "meaning": "The speaker registers a shift from active curation toward trust in the underlying process.",
+      "position": "center"
+    },
+    {
+      "symbol": "Metadata Catch-Up",
+      "meaning": "The practical backlog becomes the concrete task through which the larger system is measured.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "I am devoting almost no energy to the curation. I am monitoring it less actively. I am trusting the processes are in line...",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "02f53d5f25ad81123f88b56a247322433f71224258ccfe46a0f1aa653393d6eb"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A Wanderer's Burn Substack post with a long title beginning 'Time is burning and unyielding,' published May 28, 2026, reflecting on curation, monitoring, storage, and metadata catch-up."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-06T11:21:08-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/time-is-burning-and-unyielding-the",
+      "work/live-run/time-is-burning-and-unyielding-the.source.json",
+      "work/live-run/time-is-burning-and-unyielding-the.source.txt"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-06T11:21:08-07:00",
+        "editor": "Codex",
+        "notes": "Nightly cached-source v2.6.5 batch run. Live Substack extraction was attempted first and failed because DNS could not resolve wanderersburn.substack.com, so this metadata used the matching cached local source packet. Classified as The Loom and the Horizon with Methodic Self-Watching because the artifact observes its own curation, storage, monitoring, and metadata backlog as a system under time pressure."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-05-28.time-is-burning-and-unyielding-the.phase-the-loom-and-the-horizon.subcurrent-methodic-self-watching.metadata.v2.6.5.json. No variant assigned because v2.6.5 maps no variant to The Loom and the Horizon."
+  }
+}

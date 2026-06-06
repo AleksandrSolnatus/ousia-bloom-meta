@@ -1,0 +1,109 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:172816dc-7128-4217-a3c9-cb3599e92915",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Arepo Jones",
+  "subtitle": "",
+  "description": "A strategic Sun Through Branches artifact about team-building, hidden geometry, generational transition, porous defense, offensive storm, and engineered contradiction.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/arepo-jones",
+  "slug": "arepo-jones",
+  "language": "en",
+  "dateCreated": "2026-05-28",
+  "datePublished": "2026-05-28",
+  "dateModified": "2026-05-28",
+  "timeFelt": {
+    "date": "2026-05-28",
+    "time": "",
+    "phase": "Sun Through Branches"
+  },
+  "phase": {
+    "name": "Sun Through Branches",
+    "variant": "Ordered Fullness",
+    "subcurrent": "",
+    "family": "Pale Moon & Sun"
+  },
+  "keywords": [
+    "Arepo Jones",
+    "hidden geometry",
+    "team building",
+    "misfits",
+    "new current",
+    "contradictions",
+    "ordered fullness"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Hidden Geometry",
+      "meaning": "Drafting and roster construction are treated as pattern-recognition rather than mere acquisition.",
+      "position": "early"
+    },
+    {
+      "symbol": "Old Kings Leaving",
+      "meaning": "Succession becomes part of the system's renewal as the new current arrives.",
+      "position": "center"
+    },
+    {
+      "symbol": "Contradictions",
+      "meaning": "The desired team is not just victorious but structurally difficult to parse or answer.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "Draft misfits with hidden geometry. Let old kings leave when the new current arrives. Build big bodies that move like small bodies.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "795f9d35cc73245a742d58c8972007d3cc3043df736b0728d426c835a659b1c1"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A short Wanderer's Burn Substack post titled 'Arepo Jones' by Unnamed, published May 28, 2026, describing roster-building through hidden geometry and contradictions."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-06T11:21:08-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/arepo-jones",
+      "work/live-run/arepo-jones.source.json",
+      "work/live-run/arepo-jones.source.txt"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-06T11:21:08-07:00",
+        "editor": "Codex",
+        "notes": "Nightly cached-source v2.6.5 batch run. Live Substack extraction was attempted first and failed because DNS could not resolve wanderersburn.substack.com, so this metadata used the matching cached local source packet. Classified as Sun Through Branches with Ordered Fullness because the artifact arranges misfits, bodies, succession, offense, defense, and contradiction into a coherent strategic pattern."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-05-28.arepo-jones.phase-sun-through-branches.variant-ordered-fullness.metadata.v2.6.5.json. Variant assignment follows v2.6.5 phase-variant compatibility."
+  }
+}

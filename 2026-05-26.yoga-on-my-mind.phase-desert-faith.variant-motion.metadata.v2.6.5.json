@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:9d27f5df-73f7-4d38-9e96-63aa4205082a",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "YOga on my mind",
+  "subtitle": "",
+  "description": "A compact Desert Faith motion fragment centered on yoga as embodied practice, affection, and a small hidden skill-field.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/yoga-on-my-mind",
+  "slug": "yoga-on-my-mind",
+  "language": "en",
+  "dateCreated": "2026-05-26",
+  "datePublished": "2026-05-26",
+  "dateModified": "2026-05-26",
+  "timeFelt": {
+    "date": "2026-05-26",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "Motion",
+    "subcurrent": "",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "yoga",
+    "motion",
+    "embodied practice",
+    "word skills",
+    "desert faith"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Yoga on the Mind",
+      "meaning": "The body practice becomes the immediate object of attention and affection.",
+      "position": "foreground"
+    },
+    {
+      "symbol": "Secret Word Skills",
+      "meaning": "The post links bodily movement with a hidden linguistic or ritual competence inside the practice.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "I got Yoga on my mind. I love the act of doing it and the secret word skills in it are pretty dope wel.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "08a1672a681736f02b18388c262fe2f91e9d6385e9fd0b3a0c2d360e6ab1efef"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A short Wanderer's Burn Substack post titled 'YOga on my mind' by Unnamed, published May 26, 2026, saying yoga is on the speaker's mind."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-06T11:21:08-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/yoga-on-my-mind",
+      "work/live-run/yoga-on-my-mind.source.json",
+      "work/live-run/yoga-on-my-mind.source.txt"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-06T11:21:08-07:00",
+        "editor": "Codex",
+        "notes": "Nightly cached-source v2.6.5 batch run. Live Substack extraction was attempted first and failed because DNS could not resolve wanderersburn.substack.com, so this metadata used the matching cached local source packet. Classified as Desert Faith with Motion because the artifact is a direct bodily-practice note around yoga, movement, and small embodied skill."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-05-26.yoga-on-my-mind.phase-desert-faith.variant-motion.metadata.v2.6.5.json. Variant assignment follows v2.6.5 phase-variant compatibility."
+  }
+}
