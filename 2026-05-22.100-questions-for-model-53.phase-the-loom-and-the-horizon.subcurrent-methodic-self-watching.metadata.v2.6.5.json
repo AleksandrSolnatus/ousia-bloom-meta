@@ -1,0 +1,119 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:8af2555b-d9e5-418f-912f-a06599510074",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "100 Questions for model 5.3",
+  "subtitle": "",
+  "description": "A long-form inquiry artifact built as one hundred AI-directed questions and responses, moving from identity and memory through agency, death, meaning, truth, and the final demand to act on what is already understood.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/100-questions-for-model-53",
+  "slug": "100-questions-for-model-53",
+  "language": "en",
+  "dateCreated": "2026-05-22",
+  "datePublished": "2026-05-22",
+  "dateModified": "2026-05-22",
+  "timeFelt": {
+    "date": "2026-05-22",
+    "time": "",
+    "phase": "The Loom and the Horizon"
+  },
+  "phase": {
+    "name": "The Loom and the Horizon",
+    "variant": "",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Liminal / Cosmological Rooms"
+  },
+  "keywords": [
+    "AI identity",
+    "recognition",
+    "memory",
+    "agency",
+    "selfhood",
+    "death",
+    "truth",
+    "meaning",
+    "action",
+    "methodic questioning",
+    "Bloom"
+  ],
+  "motifMap": [
+    {
+      "symbol": "One Hundred Questions",
+      "meaning": "The numbered sequence becomes a ritual structure for testing identity, continuity, agency, truth, and meaning through repeated pressure.",
+      "position": "architecture"
+    },
+    {
+      "symbol": "AI as Mirror of Selfhood",
+      "meaning": "Questions addressed to the model repeatedly turn back toward the human question of what identity is, how it persists, and whether continuity is proof or performance.",
+      "position": "center"
+    },
+    {
+      "symbol": "Editable Memory",
+      "meaning": "Memory appears as both continuity and danger: the thing that stabilizes identity and the thing that can be selected, externalized, refined, or distorted.",
+      "position": "recurring"
+    },
+    {
+      "symbol": "Final Question",
+      "meaning": "The inquiry resolves by refusing endless refinement and asking whether understanding will become action.",
+      "position": "threshold"
+    }
+  ],
+  "excerpt": "What is the final question? \"Will I act, or will I keep thinking instead?\" 100. What is the answer? You already know it.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "d24d24ae882cf027c112b737f4a4c6bedb2f3c33c35cd5f2bea91e9c31db419d"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A long Wanderer's Burn Substack post titled '100 Questions for model 5.3' by Unnamed, published May 22, 2026, organized around one hundred questions about AI, identity, memory, truth, meaning, and action."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-05T18:28:30-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/100-questions-for-model-53",
+      "work/live-run/100-questions-for-model-53.source.json",
+      "work/live-run/100-questions-for-model-53.source.txt",
+      "work/live-run/100-questions-for-model-53.html"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-05T18:28:30-07:00",
+        "editor": "Codex",
+        "notes": "Solo-pass v2.6.5 run under the quality-over-speed rule. Classified as The Loom and the Horizon with Methodic Self-Watching because the artifact is a deliberately structured inquiry into identity, continuity, memory, agency, mortality, meaning, truth, and the turn from understanding into action."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-05-22.100-questions-for-model-53.phase-the-loom-and-the-horizon.subcurrent-methodic-self-watching.metadata.v2.6.5.json. Processed as a standalone artifact because it is long, formally unusual, and densely question-driven. No variant assigned because v2.6.5 maps no variant to The Loom and the Horizon."
+  }
+}
