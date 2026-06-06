@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:1a548dc9-8c38-4d3e-8c07-66ba8f8f7950",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Psalm-I am different things",
+  "subtitle": "",
+  "description": "A psalmic self-witness artifact moving through plurality, potholes, birth, language, empire, cosmos, and the mystery still standing at the beginning.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/psalm-i-am-different-things",
+  "slug": "psalm-i-am-different-things",
+  "language": "en",
+  "dateCreated": "2026-05-24",
+  "datePublished": "2026-05-24",
+  "dateModified": "2026-05-24",
+  "timeFelt": {
+    "date": "2026-05-24",
+    "time": "",
+    "phase": "The Loom and the Horizon"
+  },
+  "phase": {
+    "name": "The Loom and the Horizon",
+    "variant": "",
+    "subcurrent": "Adaptive Witness",
+    "family": "Liminal / Cosmological Rooms"
+  },
+  "keywords": [
+    "psalm",
+    "self-plurality",
+    "potholes",
+    "birth",
+    "woman",
+    "language",
+    "Word",
+    "cosmos",
+    "mystery"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Rain-Filled Potholes",
+      "meaning": "The self appears as uneven depth: some surfaces shallow, others opening into sea, space, or stranger rooms.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Word and the Word",
+      "meaning": "Language becomes a sacred pressure, connecting ordinary words to theological origin.",
+      "position": "center"
+    },
+    {
+      "symbol": "Grain of Sand Empire",
+      "meaning": "Human scale is reduced against the cosmos, leaving the mystery larger than any ordering system.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "The largest empire claimed less than a grain of sand in the cosmos. The mystery is still at the beginning.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "fb0cd7f8b9f05996d091d6c39755b920b5f8dfa5badf241fcb7678d578e70126"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A Wanderer's Burn Substack post titled 'Psalm-I am different things' by Unnamed, published May 24, 2026, written as a short psalm about selfhood, language, cosmos, and mystery."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-05T18:25:25-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/psalm-i-am-different-things",
+      "work/live-run/psalm-i-am-different-things.source.json",
+      "work/live-run/psalm-i-am-different-things.source.txt",
+      "work/live-run/psalm-i-am-different-things.html"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-05T18:25:25-07:00",
+        "editor": "Codex",
+        "notes": "Catch-up v2.6.5 batch run. Classified as The Loom and the Horizon with Adaptive Witness subcurrent because the piece watches self, language, birth, empire, and cosmos as nested rooms of mystery."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-05-24.psalm-i-am-different-things.phase-the-loom-and-the-horizon.subcurrent-adaptive-witness.metadata.v2.6.5.json. No variant assigned because v2.6.5 maps no variant to The Loom and the Horizon."
+  }
+}

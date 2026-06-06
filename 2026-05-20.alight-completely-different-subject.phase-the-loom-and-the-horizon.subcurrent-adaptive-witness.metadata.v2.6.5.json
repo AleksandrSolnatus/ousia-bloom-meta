@@ -1,0 +1,111 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:a22802a5-9f05-4f47-ac06-3bf0e229ba39",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Alight  completely different subject and I feel compelled to talk about it",
+  "subtitle": "",
+  "description": "A quick cosmological pressure note gathering government files, possible hoax, Epstein, AI datacenters, and the changing meaning of thingness into one unstable horizon.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/alight-completely-different-subject",
+  "slug": "alight-completely-different-subject",
+  "language": "en",
+  "dateCreated": "2026-05-20",
+  "datePublished": "2026-05-20",
+  "dateModified": "2026-05-20",
+  "timeFelt": {
+    "date": "2026-05-20",
+    "time": "",
+    "phase": "The Loom and the Horizon"
+  },
+  "phase": {
+    "name": "The Loom and the Horizon",
+    "variant": "",
+    "subcurrent": "Adaptive Witness",
+    "family": "Liminal / Cosmological Rooms"
+  },
+  "keywords": [
+    "government files",
+    "UFO disclosure",
+    "hoax uncertainty",
+    "Epstein",
+    "AI datacenters",
+    "embedded AI",
+    "thingness",
+    "cosmological pressure"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Released Files",
+      "meaning": "Possible disclosure appears as unstable evidence, hovering between revelation and hoax.",
+      "position": "foreground"
+    },
+    {
+      "symbol": "Datacenters Everywhere",
+      "meaning": "AI infrastructure becomes the material sign of a world changing beneath ordinary categories.",
+      "position": "center"
+    },
+    {
+      "symbol": "Whatever Thing Means",
+      "meaning": "The central ontological pressure is not one event but the alteration of what counts as a thing at all.",
+      "position": "threshold"
+    }
+  ],
+  "excerpt": "AI is building huge datacenters and it is getting closer and closer to everywhere. Embedded. It is also closer to changing whatever thing means.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "1a491a57ba19e35845d6700a2bc3c510166e587a9589bc394592bb6ed2a61407"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A Wanderer's Burn Substack post titled 'Alight completely different subject and I feel compelled to talk about it' by Unnamed, published May 20, 2026, discussing disclosure, Epstein, and AI datacenters."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-05T18:25:25-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/alight-completely-different-subject",
+      "work/live-run/alight-completely-different-subject.source.json",
+      "work/live-run/alight-completely-different-subject.source.txt",
+      "work/live-run/alight-completely-different-subject.html"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-05T18:25:25-07:00",
+        "editor": "Codex",
+        "notes": "Catch-up v2.6.5 batch run. Classified as The Loom and the Horizon with Adaptive Witness subcurrent because the post watches several destabilizing public-world signals and gathers them into an ontological horizon."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-05-20.alight-completely-different-subject.phase-the-loom-and-the-horizon.subcurrent-adaptive-witness.metadata.v2.6.5.json. No variant assigned because v2.6.5 maps no variant to The Loom and the Horizon."
+  }
+}

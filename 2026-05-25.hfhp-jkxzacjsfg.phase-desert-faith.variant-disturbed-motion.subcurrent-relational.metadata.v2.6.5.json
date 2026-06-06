@@ -1,0 +1,112 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:aeaee70a-8083-4612-bd55-32f20a8bc0ec",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "HFhp jk;xzacjsfg",
+  "subtitle": "",
+  "description": "A heat-struck Desert Faith fragment registering church, altered perception, felt distance, the absence of Rutt, sweat, no AC, and the question of making it through.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/hfhp-jkxzacjsfg",
+  "slug": "hfhp-jkxzacjsfg",
+  "language": "en",
+  "dateCreated": "2026-05-25",
+  "datePublished": "2026-05-25",
+  "dateModified": "2026-05-25",
+  "timeFelt": {
+    "date": "2026-05-25",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "Disturbed Motion",
+    "subcurrent": "Relational",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "desert faith",
+    "disturbed motion",
+    "church",
+    "stoned",
+    "distance",
+    "Rutt",
+    "heat",
+    "no AC",
+    "endurance"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Church Stoned",
+      "meaning": "Sacred space is filtered through altered perception, making the day smaller, stranger, and unstable.",
+      "position": "foreground"
+    },
+    {
+      "symbol": "Absence of Rutt",
+      "meaning": "Relational absence is the deepest felt pressure inside the physical and spiritual discomfort.",
+      "position": "center"
+    },
+    {
+      "symbol": "No AC",
+      "meaning": "Heat and sweat become the bodily test of whether the speaker can carry on.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "I feel the distance. It was a smaller stranger surface and the absence of Rutt was felt most deeply. But carry on it is so hot...",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "c183f9853afd2b4c5698c07903106aa466a7c04c542e1ad4d41d780e37adc3ee"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Screenshot of the published Substack post page, if available in the local screenshot archive. Screenshot capture remains optional provenance support and was not required for validation in this run.",
+      "contentUrl": "",
+      "credit": "",
+      "license": "",
+      "altText": "A short Wanderer's Burn Substack post titled 'HFhp jk;xzacjsfg' by Unnamed, published May 25, 2026, describing church, distance, the absence of Rutt, heat, sweat, and no AC."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-05T18:25:25-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/hfhp-jkxzacjsfg",
+      "work/live-run/hfhp-jkxzacjsfg.source.json",
+      "work/live-run/hfhp-jkxzacjsfg.source.txt",
+      "work/live-run/hfhp-jkxzacjsfg.html"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-05T18:25:25-07:00",
+        "editor": "Codex",
+        "notes": "Catch-up v2.6.5 batch run. Classified as Desert Faith with Disturbed Motion because the artifact is a bodily endurance note under heat, altered perception, and friction; Relational subcurrent is retained because the absence of Rutt is explicitly the deepest felt element."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-05-25.hfhp-jkxzacjsfg.phase-desert-faith.variant-disturbed-motion.subcurrent-relational.metadata.v2.6.5.json. Variant assignment follows v2.6.5 phase-variant compatibility."
+  }
+}
