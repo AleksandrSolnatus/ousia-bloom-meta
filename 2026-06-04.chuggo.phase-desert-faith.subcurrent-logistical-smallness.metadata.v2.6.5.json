@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:665620fc-4220-4df6-bf69-c76e6006cb9f",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Chuggo\\",
+  "subtitle": "",
+  "description": "A Desert Faith logistical note about the reluctant care of a car, practical hassle, expense, and affection for what still needs maintenance.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/chuggo",
+  "slug": "chuggo",
+  "language": "en",
+  "dateCreated": "2026-06-04",
+  "datePublished": "2026-06-04",
+  "dateModified": "2026-06-04",
+  "timeFelt": {
+    "date": "2026-06-04",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "",
+    "subcurrent": "Logistical Smallness",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "car care",
+    "maintenance",
+    "hassle",
+    "labor",
+    "practical obligation",
+    "logistical smallness"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Car",
+      "meaning": "The owned object becomes a practical responsibility that cannot be avoided.",
+      "position": "center"
+    },
+    {
+      "symbol": "Laborious Care",
+      "meaning": "Maintenance is experienced as costly, effortful, and outside the author's knowledge.",
+      "position": "center"
+    },
+    {
+      "symbol": "Love",
+      "meaning": "Affection for the car keeps the mundane obligation from being merely resentment.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "I hope my car is ok' it needs care I hate doing it it is laborious and I dont know anything about cars",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "a7a6755dc4526240a434fddc61a62ccbf3a417acd6215a27391f12961477a220"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-06T20:01:26-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/chuggo",
+      "work/live-run/chuggo.source.json",
+      "work/live-run/chuggo.source.txt"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-06T20:01:26-07:00",
+        "editor": "Codex",
+        "notes": "Nightly cached-source v2.6.5 batch run. Live Substack extraction was attempted first and failed because DNS could not resolve wanderersburn.substack.com, so this metadata used the matching cached local source packet. Classified as Desert Faith with Logistical Smallness because the artifact centers a mundane but emotionally charged maintenance obligation."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-06-04.chuggo.phase-desert-faith.subcurrent-logistical-smallness.metadata.v2.6.5.json. No variant assigned because the dominant pressure is logistical rather than a mapped Desert Faith motion variant."
+  }
+}

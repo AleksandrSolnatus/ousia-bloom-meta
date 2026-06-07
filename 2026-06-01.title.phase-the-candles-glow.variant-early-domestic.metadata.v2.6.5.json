@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:9747e058-da57-4650-a140-6390aea86057",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Title",
+  "subtitle": "",
+  "description": "A brief Candle's Glow domestic note marking a good day with friendship, ease, and ordinary social warmth.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/title",
+  "slug": "title",
+  "language": "en",
+  "dateCreated": "2026-06-01",
+  "datePublished": "2026-06-01",
+  "dateModified": "2026-06-01",
+  "timeFelt": {
+    "date": "2026-06-01",
+    "time": "",
+    "phase": "The Candle's Glow"
+  },
+  "phase": {
+    "name": "The Candle's Glow",
+    "variant": "Early / Domestic",
+    "subcurrent": "",
+    "family": "Candle Family"
+  },
+  "keywords": [
+    "good day",
+    "friendship",
+    "making friends",
+    "ordinary warmth",
+    "domestic glow"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Good Day",
+      "meaning": "The artifact records a simple positive close without converting it into a larger argument.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Bud",
+      "meaning": "Friendship and hanging out provide the post's central warmth.",
+      "position": "center"
+    },
+    {
+      "symbol": "Girls",
+      "meaning": "Romantic or social attention remains lightly present as part of the day's ordinary human texture.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "Good end to a good day. Hangin with my bud. Making friends. Thinking about girls.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "63689e2ab63e8a25090a0caabd442443c7e632922b277ab8fb66759b6211ac2f"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-06T20:01:26-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/title",
+      "work/live-run/title.source.json",
+      "work/live-run/title.source.txt"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-06T20:01:26-07:00",
+        "editor": "Codex",
+        "notes": "Nightly cached-source v2.6.5 batch run. Live Substack extraction was attempted first and failed because DNS could not resolve wanderersburn.substack.com, so this metadata used the matching cached local source packet. Classified as The Candle's Glow with Early / Domestic because the artifact is a short record of ordinary social warmth and a good day's close."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-06-01.title.phase-the-candles-glow.variant-early-domestic.metadata.v2.6.5.json. Variant assignment follows v2.6.5 phase-variant compatibility."
+  }
+}

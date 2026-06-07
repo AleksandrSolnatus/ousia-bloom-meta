@@ -1,0 +1,98 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:d988eda3-9769-469b-ad75-bb3aebcf0a92",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "God",
+  "subtitle": "",
+  "description": "A Lightning Mask artifact about being underestimated, performing reliability, and noticing the gap between one's shown self and hidden self.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/god",
+  "slug": "god",
+  "language": "en",
+  "dateCreated": "2026-06-02",
+  "datePublished": "2026-06-02",
+  "dateModified": "2026-06-02",
+  "timeFelt": {
+    "date": "2026-06-02",
+    "time": "",
+    "phase": "The Lightning Mask Phase"
+  },
+  "phase": {
+    "name": "The Lightning Mask Phase",
+    "variant": "",
+    "subcurrent": "",
+    "family": "Relational / Discernment"
+  },
+  "keywords": [
+    "faith",
+    "reliability",
+    "underestimation",
+    "partial self",
+    "relational mask"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Snack Bringer",
+      "meaning": "A small responsibility becomes the test case for how others read the author.",
+      "position": "opening"
+    },
+    {
+      "symbol": "No Faith",
+      "meaning": "The repeated lack of faith names a relational misrecognition that both insults and reveals.",
+      "position": "center"
+    },
+    {
+      "symbol": "Different Part",
+      "meaning": "The author recognizes that others only see a selected portion of the self.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "I was supposed to be the snack bringer. I just did it. But they didnt have faith I would do it.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "3962210a56494cd77cec5dad46e2949088944c1b967aa5042b6a1c56226fd0ea"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-06T20:01:26-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/god",
+      "work/live-run/god.source.json",
+      "work/live-run/god.source.txt"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-06T20:01:26-07:00",
+        "editor": "Codex",
+        "notes": "Nightly cached-source v2.6.5 batch run. Live Substack extraction was attempted first and failed because DNS could not resolve wanderersburn.substack.com, so this metadata used the matching cached local source packet. Classified as The Lightning Mask Phase because the artifact turns on relational perception, underestimated reliability, and the visible mask versus the hidden self."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-06-02.god.phase-the-lightning-mask-phase.metadata.v2.6.5.json. No variant assigned because The Lightning Mask Phase has no mapped v2.6.5 variant."
+  }
+}

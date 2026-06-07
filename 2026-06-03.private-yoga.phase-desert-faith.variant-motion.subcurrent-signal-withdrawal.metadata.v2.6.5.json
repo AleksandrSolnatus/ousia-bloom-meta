@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:3c67c697-56ba-4180-8bec-3b4eb5628c28",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Private Yoga",
+  "subtitle": "",
+  "description": "A Desert Faith yoga artifact about difficult practice, bodily strengthening, journal discipline, and the wish to keep the work private.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/private-yoga",
+  "slug": "private-yoga",
+  "language": "en",
+  "dateCreated": "2026-06-03",
+  "datePublished": "2026-06-03",
+  "dateModified": "2026-06-03",
+  "timeFelt": {
+    "date": "2026-06-03",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "Motion",
+    "subcurrent": "Signal Withdrawal",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "yoga",
+    "practice",
+    "strength",
+    "journaling",
+    "privacy",
+    "signal withdrawal"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Yoga",
+      "meaning": "The body practice is the concrete discipline producing difficulty, happiness, strength, and flexibility.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Notes",
+      "meaning": "The summer is framed as a season of journal-focused output and forced attention.",
+      "position": "center"
+    },
+    {
+      "symbol": "Private Place",
+      "meaning": "The post withdraws from growth and outward-facing performance toward protected private practice.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "The thing is yoga. And the smiles it brings and the happiness even as it is hard.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "56bf932fbe62e8a5d08af24447dfb209d133bdba758750ead4a47d0d5b321490"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-06T20:01:26-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/private-yoga",
+      "work/live-run/private-yoga.source.json",
+      "work/live-run/private-yoga.source.txt"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-06T20:01:26-07:00",
+        "editor": "Codex",
+        "notes": "Nightly cached-source v2.6.5 batch run. Live Substack extraction was attempted first and failed because DNS could not resolve wanderersburn.substack.com, so this metadata used the matching cached local source packet. Classified as Desert Faith with Motion because yoga is the central bodily practice, with Signal Withdrawal because the artifact explicitly prefers private journal-focused output over outward-facing growth."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-06-03.private-yoga.phase-desert-faith.variant-motion.subcurrent-signal-withdrawal.metadata.v2.6.5.json. Variant assignment follows v2.6.5 phase-variant compatibility."
+  }
+}
