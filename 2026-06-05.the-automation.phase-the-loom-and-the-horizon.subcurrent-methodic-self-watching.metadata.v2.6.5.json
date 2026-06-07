@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:5046164d-e0f4-45bc-9e0d-46d1910b0638",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The Automation",
+  "subtitle": "",
+  "description": "A Loom and Horizon process note marking automation as both test and real report, where a possible folly or dream begins to move on its own in small degree.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-automation",
+  "slug": "the-automation",
+  "language": "en",
+  "dateCreated": "2026-06-05",
+  "datePublished": "2026-06-05",
+  "dateModified": "2026-06-05",
+  "timeFelt": {
+    "date": "2026-06-05",
+    "time": "",
+    "phase": "The Loom and the Horizon"
+  },
+  "phase": {
+    "name": "The Loom and the Horizon",
+    "variant": "",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Liminal / Cosmological Rooms"
+  },
+  "keywords": [
+    "automation",
+    "process",
+    "test report",
+    "beginning",
+    "dream",
+    "self-observation"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Test and Report",
+      "meaning": "The artifact names itself as both experiment and account, folding process into record.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Foolish Folly or Dream",
+      "meaning": "The automation is held between comic uncertainty and genuine aspiration.",
+      "position": "center"
+    },
+    {
+      "symbol": "Small Degree",
+      "meaning": "The change is modest but real: things begin happening on their own.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "This is both the test and the real report. The process is becoming automated.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "dc75b78edc10a26290a4a434b8c4c3df04af24f64c8d5337030495a3965003ed"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-07T11:40:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/the-automation",
+      "work/live-run/the-automation.source.json",
+      "work/live-run/the-automation.source.txt"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-07T11:40:00-07:00",
+        "editor": "Codex",
+        "notes": "Manual live Substack check performed with user permission through the in-app browser because shell DNS/live extractor access was unavailable. Classified as The Loom and the Horizon / Methodic Self-Watching from the actual post text."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-06-05.the-automation.phase-the-loom-and-the-horizon.subcurrent-methodic-self-watching.metadata.v2.6.5.json. Phase assignment follows v2.6.5 phase-family and phase-variant compatibility; source body fingerprint validates against the live browser-extracted source text."
+  }
+}

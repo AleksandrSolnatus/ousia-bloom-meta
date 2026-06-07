@@ -1,0 +1,99 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:14d19cf0-3193-402f-8463-61210bc0390c",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Porcelain Poems",
+  "subtitle": "",
+  "description": "A Desert Faith smallness note turning bathroom time, thinking, AI conversation, and bodily routine into comic practical poetics.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/porcelain-poems",
+  "slug": "porcelain-poems",
+  "language": "en",
+  "dateCreated": "2026-06-07",
+  "datePublished": "2026-06-07",
+  "dateModified": "2026-06-07",
+  "timeFelt": {
+    "date": "2026-06-07",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "",
+    "subcurrent": "Logistical Smallness",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "bathroom",
+    "body",
+    "routine",
+    "thinking",
+    "AI conversation",
+    "porcelain poems"
+  ],
+  "motifMap": [
+    {
+      "symbol": "How Many Hours",
+      "meaning": "The post opens by measuring an ordinary bodily habit as accumulated life-time.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Shower Running",
+      "meaning": "The bathroom becomes a private logistical chamber for thinking and talking.",
+      "position": "center"
+    },
+    {
+      "symbol": "Porcelain Poems",
+      "meaning": "Low bodily circumstance is converted into a joking poetic site.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "How many hours?\nThat is the question.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "26a2fe1973566f7a5de1467ebd039ecec374f6dc1df55388612ee8e3ace70fec"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-07T11:40:00-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/porcelain-poems",
+      "work/live-run/porcelain-poems.source.json",
+      "work/live-run/porcelain-poems.source.txt"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-07T11:40:00-07:00",
+        "editor": "Codex",
+        "notes": "Manual live Substack check performed with user permission through the in-app browser because shell DNS/live extractor access was unavailable. Classified as Desert Faith / Logistical Smallness from the actual post text."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-06-07.porcelain-poems.phase-desert-faith.subcurrent-logistical-smallness.metadata.v2.6.5.json. Phase assignment follows v2.6.5 phase-family and phase-variant compatibility; source body fingerprint validates against the live browser-extracted source text."
+  }
+}
