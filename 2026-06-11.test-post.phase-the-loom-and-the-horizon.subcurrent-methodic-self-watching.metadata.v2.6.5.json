@@ -1,0 +1,94 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Test post",
+  "subtitle": "",
+  "description": "A live workflow test post that explicitly asks whether a command can trigger robot analysis, robot handoff, metadata file creation, and GitHub upload.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/test-post",
+  "slug": "test-post",
+  "language": "en",
+  "dateCreated": "",
+  "datePublished": "2026-06-11",
+  "dateModified": "2026-06-11",
+  "timeFelt": {
+    "date": "",
+    "time": "",
+    "phase": ""
+  },
+  "phase": {
+    "name": "The Loom and the Horizon",
+    "variant": "",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Liminal / Cosmological Rooms"
+  },
+  "keywords": [
+    "workflow test",
+    "robot handoff",
+    "metadata generation",
+    "GitHub upload",
+    "system change",
+    "methodic self-watching"
+  ],
+  "motifMap": [
+    {
+      "symbol": "command",
+      "meaning": "The post begins from the practical act of entering a command to initiate the workflow.",
+      "position": "opening"
+    },
+    {
+      "symbol": "robot handoff",
+      "meaning": "Sequential robot analysis and file creation become the central object being tested and observed.",
+      "position": "middle"
+    },
+    {
+      "symbol": "change in the system",
+      "meaning": "The closing claim frames a successful upload as proof that the workflow has become a new operating pattern.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "To see if I can enter a command and a robot finds this analyzes it, and hands that to another robot...",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "8e407a243d42a360f73132bf65d2a9609ed5b640702a3c5102b65acb00bd95ae"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Gemini",
+      "model": "Gemini 1.5 Flash",
+      "provider": "Google"
+    },
+    "generatedOn": "2026-06-11T19:15:28-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "work/live-run/test-post.source.json",
+      "work/live-run/test-post.source.txt"
+    ],
+    "editHistory": [
+      "Source mode: live-url-extraction.",
+      "Phase analysis completed before Gemini generation: The Loom and the Horizon / Methodic Self-Watching, based on the post's explicit command-to-analysis-to-metadata-to-GitHub workflow test.",
+      "Post-Gemini review filled sparse descriptive fields and corrected generatedOn timestamp while preserving the validated phase call, canonical field order, and body fingerprint."
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-06-11.test-post.phase-the-loom-and-the-horizon.subcurrent-methodic-self-watching.metadata.v2.6.5.json. Phase assignment follows v2.6.5 phase-family compatibility; no variant is mapped for The Loom and the Horizon. Body fingerprint validates against work/live-run/test-post.source.txt."
+  }
+}
