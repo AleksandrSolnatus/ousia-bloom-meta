@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "IM A BOY, IM 35!",
+  "subtitle": "",
+  "description": "A sports-culture reflection on Mike Gundy, Michael Chandler, identity, and how a quoted cadence becomes folklore beyond its original context.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/im-a-boy-im-35",
+  "slug": "im-a-boy-im-35",
+  "language": "en",
+  "dateCreated": "2026-06-15",
+  "datePublished": "2026-06-15",
+  "dateModified": "2026-06-15",
+  "timeFelt": {
+    "date": "2026-06-15",
+    "time": "",
+    "phase": "Totem Current"
+  },
+  "phase": {
+    "name": "Totem Current",
+    "variant": "Historical Compression",
+    "subcurrent": "Adaptive Witness",
+    "family": "Ash Moon Family"
+  },
+  "keywords": [
+    "Mike Gundy",
+    "Michael Chandler",
+    "sports folklore",
+    "cadence",
+    "identity",
+    "mullet",
+    "college football",
+    "cultural memory"
+  ],
+  "motifMap": [
+    {
+      "symbol": "The Mullet",
+      "meaning": "The hair becomes an outward totem of Oklahoma State weirdness, stubbornness, and performed identity.",
+      "position": "opening"
+    },
+    {
+      "symbol": "I’m a man! I’m 40!",
+      "meaning": "The phrase compresses a 2007 press-conference moment into a reusable cadence in American sports memory.",
+      "position": "center"
+    },
+    {
+      "symbol": "Compressed File",
+      "meaning": "The post explicitly frames cadence as carrying person, context, masculinity, absurdity, sincerity, and internet memory at once.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "The cadence itself has become the reference. You don’t need the exact words, and you don’t need the context.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "ef5da10f2cc5efadec799ac687c3c617e030a8e3ecc20c174209112ac0eac058"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-15T15:04:55-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/im-a-boy-im-35?r=6ga86i",
+      "work/live-run/im-a-boy-im-35.source.json",
+      "work/live-run/im-a-boy-im-35.source.txt"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-15T15:04:55-07:00",
+        "editor": "Codex",
+        "notes": "Established live extractor failed because shell DNS could not resolve wanderersburn.substack.com; source text was acquired through a live in-app browser read of the supplied URL, then cached as local source packets for validation."
+      },
+      {
+        "timestamp": "2026-06-15T15:04:55-07:00",
+        "editor": "Codex",
+        "notes": "Classified independently as Totem Current / Historical Compression / Adaptive Witness because the post studies a sports phrase and cadence becoming a reusable cultural totem detached from its original context."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-06-15.im-a-boy-im-35.phase-totem-current.variant-historical-compression.subcurrent-adaptive-witness.metadata.v2.6.5.json. Phase assignment follows v2.6.5 phase-family and phase-variant compatibility; body fingerprint validates against work/live-run/im-a-boy-im-35.source.txt. Neighboring posts did not influence this phase call."
+  }
+}

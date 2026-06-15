@@ -1,0 +1,106 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Tidbits #1",
+  "subtitle": "",
+  "description": "A sequence of cultural tidbits that compress comedy, politics, sports media, UFOs, AI, design, prices, Christianity, and basketball into fragmentary observational judgment.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/tidbits-1",
+  "slug": "tidbits-1",
+  "language": "en",
+  "dateCreated": "2026-06-12",
+  "datePublished": "2026-06-12",
+  "dateModified": "2026-06-12",
+  "timeFelt": {
+    "date": "2026-06-12",
+    "time": "",
+    "phase": "Sun Through Branches"
+  },
+  "phase": {
+    "name": "Sun Through Branches",
+    "variant": "Cosmic Reduction",
+    "subcurrent": "Adaptive Witness",
+    "family": "Pale Moon & Sun"
+  },
+  "keywords": [
+    "tidbits",
+    "cultural observation",
+    "comedy",
+    "sports media",
+    "AI controversy",
+    "UFO files",
+    "Christianity",
+    "fragmentary discernment"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Tidbits",
+      "meaning": "The numbered form gathers partial cultural signals without forcing them into one totalizing argument.",
+      "position": "throughout"
+    },
+    {
+      "symbol": "Not Importantsville",
+      "meaning": "The speaker marks the limits of his vantage while still trying to read public signs from ordinary distance.",
+      "position": "early"
+    },
+    {
+      "symbol": "Inflection Point",
+      "meaning": "The list repeatedly senses broad transition across technology, culture, economics, religion, and sports.",
+      "position": "late"
+    }
+  ],
+  "excerpt": "Everyone is aware that things are at some sort of inflection point.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "b6480f612965efe9f8d6cdbf5d408b9243a7edb717f5964a11bc2c7e0b60fc01"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-15T15:04:55-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/tidbits-1",
+      "work/live-run/tidbits-1.source.json",
+      "work/live-run/tidbits-1.source.txt"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-15T15:04:55-07:00",
+        "editor": "Codex",
+        "notes": "Established live extractor failed because shell DNS could not resolve wanderersburn.substack.com; source text was acquired through a live in-app browser read of the supplied URL, then cached as local source packets for validation."
+      },
+      {
+        "timestamp": "2026-06-15T15:04:55-07:00",
+        "editor": "Codex",
+        "notes": "Classified independently as Sun Through Branches / Cosmic Reduction / Adaptive Witness because the post reduces many cultural signs into fragmentary, partial illumination while repeatedly marking the observer’s limited vantage."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-06-12.tidbits-1.phase-sun-through-branches.variant-cosmic-reduction.subcurrent-adaptive-witness.metadata.v2.6.5.json. Phase assignment follows v2.6.5 phase-family and phase-variant compatibility; body fingerprint validates against work/live-run/tidbits-1.source.txt. Neighboring posts did not influence this phase call."
+  }
+}
