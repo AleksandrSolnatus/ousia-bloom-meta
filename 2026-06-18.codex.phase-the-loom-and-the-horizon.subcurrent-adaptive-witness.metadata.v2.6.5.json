@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:8526d7e5-3370-4f24-a45e-7e8f6433e1b6",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "COdex",
+  "subtitle": "",
+  "description": "A short witness note about discovering Codex's still-unharnessed practical power, from money-making projects to a quick whale-song waveform experiment.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/codex",
+  "slug": "codex",
+  "language": "en",
+  "dateCreated": "2026-06-18",
+  "datePublished": "2026-06-18",
+  "dateModified": "2026-06-18",
+  "timeFelt": {
+    "date": "2026-06-18",
+    "time": "",
+    "phase": "The Loom and the Horizon"
+  },
+  "phase": {
+    "name": "The Loom and the Horizon",
+    "variant": "",
+    "subcurrent": "Adaptive Witness",
+    "family": "Liminal / Cosmological Rooms"
+  },
+  "keywords": [
+    "Codex",
+    "tool learning",
+    "practical power",
+    "projects",
+    "money-making",
+    "whale song",
+    "waveform",
+    "adaptive witness"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Barely Harnessed Power",
+      "meaning": "Codex is framed as a capability whose full practical range is only beginning to become visible.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Money or Projects",
+      "meaning": "The tool horizon is practical as well as exploratory, pointing toward work, income, and future construction.",
+      "position": "middle"
+    },
+    {
+      "symbol": "Whale Song Waveform",
+      "meaning": "A quick, imperfect experiment becomes evidence that inquiry can rapidly turn into artifact and notes.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "I am still learning the full power of codex but I am sure that I have barely harnessed the things it can do...",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "837b710f12b4f41892b656ec60ea2f8b999930c4116f4307eaf1ffdbfd6998fb"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-17T20:38:18-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/codex",
+      "work/live-run/codex.source.json",
+      "work/live-run/codex.source.txt",
+      "work/live-run/codex.html"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-17T20:38:18-07:00",
+        "editor": "Codex",
+        "notes": "Manual live Substack extraction performed with user permission from the public canonical URL recovered from the RSS feed after the provided share-center URL resolved to a private sign-in page. Classified from the actual post text as The Loom and the Horizon with Adaptive Witness subcurrent because the piece watches Codex's emerging practical and exploratory horizon through a concrete, imperfect whale-song workflow example."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-06-18.codex.phase-the-loom-and-the-horizon.subcurrent-adaptive-witness.metadata.v2.6.5.json. No variant assigned because v2.6.5 maps no variant to The Loom and the Horizon. Body fingerprint validates against work/live-run/codex.source.txt."
+  }
+}
