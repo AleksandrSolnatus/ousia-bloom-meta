@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:db57b828-c08c-4647-9f6d-2aed04ba499d",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Edison Becomes the Machine",
+  "subtitle": "",
+  "description": "A continuation of the Cardinals dynasty chronicle, contrasting Jaxon Dart's heroic improvisation with Edison and the larger offensive machine that outlasts the old king.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/edison-becomes-the-machine",
+  "slug": "edison-becomes-the-machine",
+  "language": "en",
+  "dateCreated": "2026-06-20",
+  "datePublished": "2026-06-20",
+  "dateModified": "2026-06-20",
+  "timeFelt": {
+    "date": "2026-06-20",
+    "time": "",
+    "phase": "Totem Current"
+  },
+  "phase": {
+    "name": "Totem Current",
+    "variant": "Historical Compression",
+    "subcurrent": "Adaptive Witness",
+    "family": "Ash Moon Family"
+  },
+  "keywords": [
+    "Madden dynasty",
+    "Edison",
+    "Jaxon Dart",
+    "Arepo Jones",
+    "machine",
+    "franchise history",
+    "quarterback succession",
+    "historical compression"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Hero and Machine",
+      "meaning": "Dart represents improvisational star power while Edison reveals the team as a larger structure that can survive beyond one hero.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Impossible Offensive Season",
+      "meaning": "The post compresses simulated statistics into legendary scale, making game numbers read like historical proof of a system's emergence.",
+      "position": "middle"
+    },
+    {
+      "symbol": "The Old King Stopped at the Gate",
+      "meaning": "The championship rematch turns succession into myth: Dart nearly returns, but the machine outlasts him through collective force.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "That game revealed the difference between a hero and a machine more clearly than any blowout could have.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "3c256b5db2666c913c40fb1ed15f495f41bf7ecf120722bc8082f62a5b94d633"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-21T11:17:08-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/edison-becomes-the-machine",
+      "work/live-run/edison-becomes-the-machine.source.json",
+      "work/live-run/edison-becomes-the-machine.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-21T11:17:08-07:00",
+        "editor": "Codex",
+        "notes": "Manual live feed extraction performed with user permission. Classified from the actual post text as Totem Current with Historical Compression because the post reveals the structural engine beneath the Cardinals dynasty by compressing simulated seasons, statistical legends, quarterback succession, and the hero-versus-machine pattern into franchise myth."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-06-20.edison-becomes-the-machine.phase-totem-current.variant-historical-compression.subcurrent-adaptive-witness.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/edison-becomes-the-machine.source.txt."
+  }
+}

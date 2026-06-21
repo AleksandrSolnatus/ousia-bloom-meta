@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:c3430f47-c6ea-42fc-b9aa-26b5770cd735",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "The Cardinals, After the Real Names Were Gone",
+  "subtitle": "",
+  "description": "A Madden dynasty chronicle that turns a long-running Arizona Cardinals save into franchise myth, tracing Arepo Jones, Jaxon Dart, and the system logic beneath a simulated team's rise.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/the-cardinals-after-the-real-names",
+  "slug": "the-cardinals-after-the-real-names",
+  "language": "en",
+  "dateCreated": "2026-06-19",
+  "datePublished": "2026-06-19",
+  "dateModified": "2026-06-19",
+  "timeFelt": {
+    "date": "2026-06-19",
+    "time": "",
+    "phase": "Totem Current"
+  },
+  "phase": {
+    "name": "Totem Current",
+    "variant": "Historical Compression",
+    "subcurrent": "Adaptive Witness",
+    "family": "Ash Moon Family"
+  },
+  "keywords": [
+    "Madden dynasty",
+    "Arizona Cardinals",
+    "Arepo Jones",
+    "Jaxon Dart",
+    "franchise myth",
+    "simulation history",
+    "AI-assisted writing",
+    "historical compression"
+  ],
+  "motifMap": [
+    {
+      "symbol": "After the Real Names",
+      "meaning": "The simulated league has outlived real-world roster anchors and become its own mythic historical field.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Arepo Jones",
+      "meaning": "The coach becomes the structural totem of the franchise, the figure who makes the system legible and binding.",
+      "position": "middle"
+    },
+    {
+      "symbol": "Jaxon Dart",
+      "meaning": "The early quarterback becomes heroic origin material, a player whose improvisational style defines the first myth of the Cardinals rise.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "At first, Arepo was just a name. Later, it became the easiest way to describe the franchise's logic.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "a9cd12f070e3c8907e6cd34f44ca22cde64f826e4d229d940b5da6f760b47ffb"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-21T11:17:08-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/the-cardinals-after-the-real-names",
+      "work/live-run/the-cardinals-after-the-real-names.source.json",
+      "work/live-run/the-cardinals-after-the-real-names.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-21T11:17:08-07:00",
+        "editor": "Codex",
+        "notes": "Manual live feed extraction performed with user permission. Classified from the actual post text as Totem Current with Historical Compression because the post converts many seasons of simulated Madden continuity into an archetypal franchise history, with Arepo Jones and Jaxon Dart functioning as structural drivers rather than simple game details."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-06-19.the-cardinals-after-the-real-names.phase-totem-current.variant-historical-compression.subcurrent-adaptive-witness.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/the-cardinals-after-the-real-names.source.txt."
+  }
+}

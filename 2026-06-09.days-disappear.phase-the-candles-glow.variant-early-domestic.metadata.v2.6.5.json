@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:8d8307b1-8a53-4c17-a9d3-252299c12321",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Days disappear",
+  "subtitle": "",
+  "description": "A brief domestic time-note about ordinary days returning, pop-cultural slop becoming strangely enjoyable, and life becoming one's own again as time keeps rolling.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/days-disappear",
+  "slug": "days-disappear",
+  "language": "en",
+  "dateCreated": "2026-06-09",
+  "datePublished": "2026-06-09",
+  "dateModified": "2026-06-09",
+  "timeFelt": {
+    "date": "2026-06-09",
+    "time": "",
+    "phase": "The Candle's Glow"
+  },
+  "phase": {
+    "name": "The Candle's Glow",
+    "variant": "Early / Domestic",
+    "subcurrent": "",
+    "family": "Candle Family"
+  },
+  "keywords": [
+    "days",
+    "time",
+    "ordinary life",
+    "music",
+    "South Arcade",
+    "slop",
+    "domestic return",
+    "pleasantly lived"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Days Rolling On",
+      "meaning": "Time is felt as returning and disappearing at once, a small rhythm of ordinary life becoming available again.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Human Slop",
+      "meaning": "Derivative pop culture becomes both horrible and glorious, accepted as part of the day's living texture.",
+      "position": "middle"
+    },
+    {
+      "symbol": "Pleasantly Lived Days",
+      "meaning": "The post closes by treating disappearance not as crisis but as the trace of days actually inhabited.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "But time rolls on the days disappear.  Even as they are pleasantly lived",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "de0f6056b06d15b016aa16c67f1078b3f804894b6bf8afdff7cba0548112d592"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-21T11:17:08-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/days-disappear",
+      "work/live-run/days-disappear.source.json",
+      "work/live-run/days-disappear.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-21T11:17:08-07:00",
+        "editor": "Codex",
+        "notes": "Manual live feed extraction performed with user permission. Classified from the actual post text as The Candle's Glow with Early / Domestic variant because the piece locates renewed life and time inside a small ordinary scene of music, bathroom solitude, and pleasantly disappearing days."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-06-09.days-disappear.phase-the-candles-glow.variant-early-domestic.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/days-disappear.source.txt."
+  }
+}

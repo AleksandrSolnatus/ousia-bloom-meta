@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:e9893b59-4917-4ab3-9ebc-aa140d23330a",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "UFC 250 The Highlight is the walkout",
+  "subtitle": "",
+  "description": "A short ecstatic witness note about a UFC walkout whose music, environment, flag, nihilism, belief, and work ethic make television feel newly worthwhile.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/ufc-250-the-highlight-is-the-walkout",
+  "slug": "ufc-250-the-highlight-is-the-walkout",
+  "language": "en",
+  "dateCreated": "2026-06-21",
+  "datePublished": "2026-06-21",
+  "dateModified": "2026-06-21",
+  "timeFelt": {
+    "date": "2026-06-21",
+    "time": "",
+    "phase": "Red Moon Rising"
+  },
+  "phase": {
+    "name": "Red Moon Rising",
+    "variant": "Wildfire Mind",
+    "subcurrent": "",
+    "family": "Red Moon Family"
+  },
+  "keywords": [
+    "UFC 250",
+    "walkout",
+    "music",
+    "television",
+    "flag",
+    "belief",
+    "nihilism",
+    "work ethic"
+  ],
+  "motifMap": [
+    {
+      "symbol": "The Walkout",
+      "meaning": "The entrance becomes the concentrated action-threshold where music, environment, belief, and bodily commitment ignite together.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Flag Around Shoulders",
+      "meaning": "The visual image carries identity and charge, turning a sports broadcast into a repeated personal signal.",
+      "position": "middle"
+    },
+    {
+      "symbol": "Television Becomes Great",
+      "meaning": "A mass medium is redeemed for a moment because it preserves and repeats the spectacle's living intensity.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "The combination of innocence, nilhism, belief and no fucks given and a work ethic to rival anyone.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "e02f2ef6ea9722d5b299b39d82dc489b736c838b3caf4d8a8aed9dfaa239e419"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-06-21T11:17:08-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/ufc-250-the-highlight-is-the-walkout",
+      "work/live-run/ufc-250-the-highlight-is-the-walkout.source.json",
+      "work/live-run/ufc-250-the-highlight-is-the-walkout.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-06-21T11:17:08-07:00",
+        "editor": "Codex",
+        "notes": "Manual live feed extraction performed with user permission. Classified from the actual post text as Red Moon Rising with Wildfire Mind variant because the note centers on charged performance ignition: music, flag, belief, nihilism, work ethic, and the repeated desire to rewatch the walkout's intensity."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-06-21.ufc-250-the-highlight-is-the-walkout.phase-red-moon-rising.variant-wildfire-mind.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/ufc-250-the-highlight-is-the-walkout.source.txt."
+  }
+}
