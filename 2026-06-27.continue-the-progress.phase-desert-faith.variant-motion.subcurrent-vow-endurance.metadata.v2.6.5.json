@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:8ec451ad-7d59-4ca8-885d-ec794e45249d",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Continue the progress",
+  "subtitle": "",
+  "description": "A compact persistence note repeating the need for slow progress while admitting uncertainty about how continuation will happen.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/continue-the-progress",
+  "slug": "continue-the-progress",
+  "language": "en",
+  "dateCreated": "2026-06-27",
+  "datePublished": "2026-06-27",
+  "dateModified": "2026-06-27",
+  "timeFelt": {
+    "date": "2026-06-27",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "Motion",
+    "subcurrent": "Vow (Endurance)",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "slow progress",
+    "continuation",
+    "uncertainty",
+    "GTA 6",
+    "motion",
+    "endurance",
+    "persistence"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Slow Progress Repeated",
+      "meaning": "Repetition turns continuation into a small vow rather than a claim of inspiration.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Unclear Continuation",
+      "meaning": "The route remains unknown, but uncertainty does not cancel the commitment to move.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "Continue the slow progress. Continue the slow progress.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "b1dafbbb06b8e6133e386e8a24fe2916e662414149fe40a447c2ad32cca8d923"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-07-06T07:24:02-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/continue-the-progress",
+      "work/live-run/continue-the-progress.source.json",
+      "work/live-run/continue-the-progress.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-07-06T07:24:02-07:00",
+        "editor": "Codex",
+        "notes": "Manual live RSS extraction performed with user permission. Classified from the actual post text as Desert Faith with Motion and Vow (Endurance) because the post repeats a commitment to slow progress even while admitting that the means of continuation are unclear."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-06-27.continue-the-progress.phase-desert-faith.variant-motion.subcurrent-vow-endurance.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/continue-the-progress.source.txt."
+  }
+}

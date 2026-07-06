@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:b022f84f-67b4-40d1-a5eb-e1ea0f54c24b",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Been busy creating finishing. Hosting the muse whatever that is and my muse may suck",
+  "subtitle": "",
+  "description": "A music-driven self-reading that uses Kanye West's Bully to examine recurring creative cycles, increased agency, self-aggrandizement, memory, mania, and recency bias.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/been-busy-creating-finishing-hosting",
+  "slug": "been-busy-creating-finishing-hosting",
+  "language": "en",
+  "dateCreated": "2026-07-01",
+  "datePublished": "2026-07-01",
+  "dateModified": "2026-07-01",
+  "timeFelt": {
+    "date": "2026-07-01",
+    "time": "",
+    "phase": "Totem Current"
+  },
+  "phase": {
+    "name": "Totem Current",
+    "variant": "Historical Compression",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Ash Moon Family"
+  },
+  "keywords": [
+    "creative cycles",
+    "muse",
+    "Kanye West",
+    "Bully",
+    "self-aggrandizement",
+    "recency bias",
+    "mania",
+    "music"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Similar Cycles, More Control",
+      "meaning": "A recurring rhythm is recognized without being treated as destiny because the writer now feels more agency within it.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Bully on Repeat",
+      "meaning": "The album becomes a totemic mirror for temperament, ambition, mania, and the writer's own creative pattern.",
+      "position": "middle"
+    },
+    {
+      "symbol": "Tour Through the Past",
+      "meaning": "The music compresses an artist's history into a present explanation while the writer checks his own interpretation and recency bias.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "But this is still important but im more in charge now even if the cycles are similar.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "3dab65e5f624ae3f2f4cb3651cd62858a85b366493826d12be3968741bb06013"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-07-06T07:24:02-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/been-busy-creating-finishing-hosting",
+      "work/live-run/been-busy-creating-finishing-hosting.source.json",
+      "work/live-run/been-busy-creating-finishing-hosting.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-07-06T07:24:02-07:00",
+        "editor": "Codex",
+        "notes": "Manual live RSS extraction performed with user permission. Classified from the actual post text as Totem Current with Historical Compression and Methodic Self-Watching because the writer recognizes recurring creative rhythms through an album that compresses Kanye's past, while explicitly testing self-aggrandizement and recency bias."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-07-01.been-busy-creating-finishing-hosting.phase-totem-current.variant-historical-compression.subcurrent-methodic-self-watching.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/been-busy-creating-finishing-hosting.source.txt."
+  }
+}

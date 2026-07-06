@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:22b032c0-cfa6-44f2-aba9-82a183c79316",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "ghjgjh",
+  "subtitle": "",
+  "description": "A fragmentary relational utterance about continuation, changed names, apology, and an effort to keep hold of an addressed other.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/ghjgjh",
+  "slug": "ghjgjh",
+  "language": "en",
+  "dateCreated": "2026-07-03",
+  "datePublished": "2026-07-03",
+  "dateModified": "2026-07-03",
+  "timeFelt": {
+    "date": "2026-07-03",
+    "time": "",
+    "phase": "The Child of the Call"
+  },
+  "phase": {
+    "name": "The Child of the Call",
+    "variant": "",
+    "subcurrent": "Relational",
+    "family": "Liminal / Cosmological Rooms"
+  },
+  "keywords": [
+    "fragment",
+    "changed name",
+    "apology",
+    "address",
+    "continuation",
+    "keeping",
+    "relational gravity"
+  ],
+  "motifMap": [
+    {
+      "symbol": "The Name Changed",
+      "meaning": "Identity and address arrive as unstable fragments rather than a settled account.",
+      "position": "middle"
+    },
+    {
+      "symbol": "I Tried to Keep You",
+      "meaning": "A direct relational pull organizes the otherwise disordered utterance.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "it goes on the name changed my baby I its. roar sorry S.I I tried to keep you",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "119c86a267bc935882c1220cb5fee2b4cec82c60916683358f98b30b0555124f"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-07-06T07:24:02-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/ghjgjh",
+      "work/live-run/ghjgjh.source.json",
+      "work/live-run/ghjgjh.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-07-06T07:24:02-07:00",
+        "editor": "Codex",
+        "notes": "Manual live RSS extraction performed with user permission. Classified from the actual post text as The Child of the Call with Relational subcurrent because the piece arrives as a raw, disordered fragment whose clearest organizing force is its apology and attempt to keep an addressed other."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-07-03.ghjgjh.phase-the-child-of-the-call.subcurrent-relational.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/ghjgjh.source.txt."
+  }
+}

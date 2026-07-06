@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:cd33bbf0-37dd-429d-896c-c72818106a56",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "A little blab.",
+  "subtitle": "",
+  "description": "A physically unsettled phase note about illness, altered self-recognition, nihilist comedy, and accepting that the current inner state cannot yet be sampled cleanly.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/a-little-blab",
+  "slug": "a-little-blab",
+  "language": "en",
+  "dateCreated": "2026-06-24",
+  "datePublished": "2026-06-24",
+  "dateModified": "2026-06-24",
+  "timeFelt": {
+    "date": "2026-06-24",
+    "time": "",
+    "phase": "The Hollow"
+  },
+  "phase": {
+    "name": "The Hollow",
+    "variant": "",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Liminal / Cosmological Rooms"
+  },
+  "keywords": [
+    "phase work",
+    "illness",
+    "vomiting",
+    "self-recognition",
+    "nihilism",
+    "comedy",
+    "core samples",
+    "self-watching"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Failed Core Samples",
+      "meaning": "The inability to take a clean reading becomes honest evidence that the current phase remains unassigned.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Self and Not Self",
+      "meaning": "Identity is felt in suspension after an unnamed alteration, without forcing a replacement narrative.",
+      "position": "middle"
+    },
+    {
+      "symbol": "Laughter at a Cost",
+      "meaning": "Nihilist comedy offers relief while the writer watches its emotional price and possible evasiveness.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "I am in a strange phase. I feel myself and not myself. Last night something altered.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "bc1dce2582147b1160d075633db0a01f0805478ec33b0a46c9ac8efd1ac51d94"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-07-06T07:24:02-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/a-little-blab",
+      "work/live-run/a-little-blab.source.json",
+      "work/live-run/a-little-blab.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-07-06T07:24:02-07:00",
+        "editor": "Codex",
+        "notes": "Manual live RSS extraction performed with user permission. Classified from the actual post text as The Hollow with Methodic Self-Watching because the writer explicitly inhabits a suspended identity, accepts an unclear phase reading, and observes illness and nihilist laughter without forcing coherence."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-06-24.a-little-blab.phase-the-hollow.subcurrent-methodic-self-watching.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/a-little-blab.source.txt."
+  }
+}

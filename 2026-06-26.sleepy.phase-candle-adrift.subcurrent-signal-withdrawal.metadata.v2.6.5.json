@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:c91adb02-597a-411d-a694-b2efa4596b3a",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Sleepy",
+  "subtitle": "",
+  "description": "A tiny note of benign fatigue in which having little to say and wanting abundant sleep feel restorative rather than alarming.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/sleepy",
+  "slug": "sleepy",
+  "language": "en",
+  "dateCreated": "2026-06-26",
+  "datePublished": "2026-06-26",
+  "dateModified": "2026-06-26",
+  "timeFelt": {
+    "date": "2026-06-26",
+    "time": "",
+    "phase": "Candle Adrift"
+  },
+  "phase": {
+    "name": "Candle Adrift",
+    "variant": "",
+    "subcurrent": "Signal Withdrawal",
+    "family": "Candle Family"
+  },
+  "keywords": [
+    "sleep",
+    "rest",
+    "fatigue",
+    "quiet",
+    "few words",
+    "restoration",
+    "signal withdrawal"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Little to Say",
+      "meaning": "Expression is reduced without suggesting collapse; the quiet is sufficient.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Sleeping a Lot",
+      "meaning": "Rest becomes a gentle surrender to what the body is asking for.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "I dont have much to say but I feel like sleeping a lot. But in a good way",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "a8700ce845087029e08acb0117704f073480e3f81810e7dc17dd9da5f6e0e803"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-07-06T07:24:02-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/sleepy",
+      "work/live-run/sleepy.source.json",
+      "work/live-run/sleepy.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-07-06T07:24:02-07:00",
+        "editor": "Codex",
+        "notes": "Manual live RSS extraction performed with user permission. Classified from the actual post text as Candle Adrift with Signal Withdrawal because the piece relinquishes output and direction in favor of benign, restorative sleep while explicitly lowering transmission."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-06-26.sleepy.phase-candle-adrift.subcurrent-signal-withdrawal.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/sleepy.source.txt."
+  }
+}
