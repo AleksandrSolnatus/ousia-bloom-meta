@@ -1,0 +1,90 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:9db3efe1-d838-4e7f-999a-b54919ebd2d3",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "lil'4th",
+  "subtitle": "",
+  "description": "A two-word domestic holiday greeting marking the Fourth of July with uncomplicated warmth.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/lil4th",
+  "slug": "lil4th",
+  "language": "en",
+  "dateCreated": "2026-07-05",
+  "datePublished": "2026-07-05",
+  "dateModified": "2026-07-05",
+  "timeFelt": {
+    "date": "2026-07-05",
+    "time": "",
+    "phase": "The Candle's Glow"
+  },
+  "phase": {
+    "name": "The Candle's Glow",
+    "variant": "Early / Domestic",
+    "subcurrent": "",
+    "family": "Candle Family"
+  },
+  "keywords": [
+    "Fourth of July",
+    "holiday",
+    "greeting",
+    "celebration",
+    "domestic warmth",
+    "small note"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Happy Fourth",
+      "meaning": "A minimal holiday greeting lets ordinary communal warmth stand without explanation or spectacle.",
+      "position": "complete"
+    }
+  ],
+  "excerpt": "happy 4th",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "8278653dd2e3df0743aa7c9d060217d41c6e892e22aa22391cd4f16900e430f2"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-07-06T07:24:02-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/lil4th",
+      "work/live-run/lil4th.source.json",
+      "work/live-run/lil4th.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-07-06T07:24:02-07:00",
+        "editor": "Codex",
+        "notes": "Manual live RSS extraction performed with user permission. Classified from the actual post text as The Candle's Glow with Early / Domestic variant because the entire artifact is a small, ordinary holiday greeting whose meaning is continuity and shared warmth."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-07-05.lil4th.phase-the-candles-glow.variant-early-domestic.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/lil4th.source.txt."
+  }
+}

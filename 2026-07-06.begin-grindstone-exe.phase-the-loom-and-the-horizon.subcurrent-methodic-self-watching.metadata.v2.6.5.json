@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:d0a2a93b-6dcf-46f8-b010-052a53847dce",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "BEGIN GRINDSTONe. EXE",
+  "subtitle": "",
+  "description": "Three linked observations move from skepticism about a celebrity marriage to artificial light, lost stars, and a mature society's obligation to preserve access to the cosmos.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/begin-grindstone-exe",
+  "slug": "begin-grindstone-exe",
+  "language": "en",
+  "dateCreated": "2026-07-06",
+  "datePublished": "2026-07-06",
+  "dateModified": "2026-07-06",
+  "timeFelt": {
+    "date": "2026-07-06",
+    "time": "",
+    "phase": "The Loom and the Horizon"
+  },
+  "phase": {
+    "name": "The Loom and the Horizon",
+    "variant": "",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Liminal / Cosmological Rooms"
+  },
+  "keywords": [
+    "celebrity marriage",
+    "skepticism",
+    "artificial light",
+    "stars",
+    "night sky",
+    "cosmos",
+    "light pollution",
+    "public right"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Marriage at MSG",
+      "meaning": "A public spectacle is noticed skeptically while the writer carefully marks the absence of evidence.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Artificial Light in the Sky",
+      "meaning": "A bright human-made object becomes the hinge between local observation and the loss of natural darkness.",
+      "position": "middle"
+    },
+    {
+      "symbol": "The Right to See the Cosmos",
+      "meaning": "The inquiry expands into a civic claim that mature society should protect access to the stars.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "What is lost with the light at night? why did we shut of the stars?",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "d6f09818f6a530f19daa65be4b08635561afb2c35f2b4e65cc5018a0e41a6b50"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-07-06T07:24:02-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/begin-grindstone-exe",
+      "work/live-run/begin-grindstone-exe.source.json",
+      "work/live-run/begin-grindstone-exe.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-07-06T07:24:02-07:00",
+        "editor": "Codex",
+        "notes": "Manual live RSS extraction performed with user permission. Classified from the actual post text as The Loom and the Horizon with Methodic Self-Watching because the post turns a witnessed light into questions about erased stars, cosmic access, and social maturity, while explicitly separating observation from unsupported certainty."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-07-06.begin-grindstone-exe.phase-the-loom-and-the-horizon.subcurrent-methodic-self-watching.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/begin-grindstone-exe.source.txt."
+  }
+}
