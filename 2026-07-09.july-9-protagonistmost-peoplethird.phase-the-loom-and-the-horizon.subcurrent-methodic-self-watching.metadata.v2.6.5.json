@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:d173cc0d-f5a1-450c-bdad-4a5847ba2bcc",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "July 9 Protagonist/most people/Third Allegory",
+  "subtitle": "",
+  "description": "A noticing artifact about refusing overbroad claims, the social cost of being right before recognition, and the need for lead-in before asking for buy-in.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/july-9-protagonistmost-peoplethird",
+  "slug": "july-9-protagonistmost-peoplethird",
+  "language": "en",
+  "dateCreated": "2026-07-09",
+  "datePublished": "2026-07-09",
+  "dateModified": "2026-07-09",
+  "timeFelt": {
+    "date": "2026-07-09",
+    "time": "",
+    "phase": "The Loom and the Horizon"
+  },
+  "phase": {
+    "name": "The Loom and the Horizon",
+    "variant": "",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Liminal / Cosmological Rooms"
+  },
+  "keywords": [
+    "noticing",
+    "most people",
+    "claims",
+    "protagonist",
+    "being called crazy",
+    "recognition",
+    "third allegory",
+    "buy-in"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Most People",
+      "meaning": "The writer catches a generalizing phrase at the moment it begins to feel ethically or epistemically imprecise.",
+      "position": "opening"
+    },
+    {
+      "symbol": "The Crazy Protagonist",
+      "meaning": "A movie pattern becomes a question about real people who are right before others can tolerate their perception.",
+      "position": "middle"
+    },
+    {
+      "symbol": "Lead-in Before Buy-in",
+      "meaning": "The closing note turns attention toward pacing, persuasion, and how recognition has to be prepared.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "I notice that I don't want to say &#8220;most people&#8221; anymore when making claims.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "b0434d4902865eef05f091add36370884628ac72fb135e4813158830f242c5c4"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-07-10T15:05:40-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/july-9-protagonistmost-peoplethird",
+      "work/live-run/july-9-protagonistmost-peoplethird.source.json",
+      "work/live-run/july-9-protagonistmost-peoplethird.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-07-10T15:05:40-07:00",
+        "editor": "Codex",
+        "notes": "Manual live RSS extraction performed with user permission. Classified from the actual post text as The Loom and the Horizon with Methodic Self-Watching because the post watches its own claim-making discipline while widening into questions of recognition, disbelief, and the conditions for buy-in."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-07-09.july-9-protagonistmost-peoplethird.phase-the-loom-and-the-horizon.subcurrent-methodic-self-watching.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/july-9-protagonistmost-peoplethird.source.txt."
+  }
+}

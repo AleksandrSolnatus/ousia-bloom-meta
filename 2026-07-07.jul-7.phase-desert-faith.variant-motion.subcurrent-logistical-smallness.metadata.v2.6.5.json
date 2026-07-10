@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:89b3b59d-9b78-4d29-8920-24bf6369e294",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Jul 7",
+  "subtitle": "",
+  "description": "A compact sports-noticing artifact that turns roster movement, depth anxiety, and summer's outdoor pull into a question about seasonal attention.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/jul-7",
+  "slug": "jul-7",
+  "language": "en",
+  "dateCreated": "2026-07-07",
+  "datePublished": "2026-07-07",
+  "dateModified": "2026-07-07",
+  "timeFelt": {
+    "date": "2026-07-07",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "Motion",
+    "subcurrent": "Logistical Smallness",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "Miami Heat",
+    "Bam",
+    "Giannis",
+    "NBA depth",
+    "player movement",
+    "summer sports",
+    "outdoors",
+    "seasonal attention"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Deep League",
+      "meaning": "Claims of insufficient depth are measured against a league that already feels broadly stocked with talent.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Moving Players",
+      "meaning": "Roster mobility becomes the post's simplest principle of motion and instability.",
+      "position": "middle"
+    },
+    {
+      "symbol": "Outdoors in Summer",
+      "meaning": "The final question reframes sport as an attention problem shaped by season and habit.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "Players move a lot.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "8cfc0ddd5f8b7725f859abd39809f754135ba6bb8137d967ba087ab79ea27780"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-07-10T15:05:40-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/jul-7",
+      "work/live-run/jul-7.source.json",
+      "work/live-run/jul-7.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-07-10T15:05:40-07:00",
+        "editor": "Codex",
+        "notes": "Manual live RSS extraction performed with user permission. Classified from the actual post text as Desert Faith with Motion and Logistical Smallness because the piece stays close to the practical movement of players, roster depth, and the seasonal logistics of sports attention."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-07-07.jul-7.phase-desert-faith.variant-motion.subcurrent-logistical-smallness.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/jul-7.source.txt."
+  }
+}

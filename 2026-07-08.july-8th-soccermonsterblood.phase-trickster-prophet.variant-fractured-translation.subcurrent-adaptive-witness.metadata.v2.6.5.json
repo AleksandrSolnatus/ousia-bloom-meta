@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:d10f65dd-5e50-467e-856f-25f3081bf526",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "July 8th soccer/Monsterblood",
+  "subtitle": "",
+  "description": "A two-part noticing artifact linking soccer's tolerated tactical dishonesty to human interaction, then pivoting into a question about a neglected fantasy series.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/july-8th-soccermonsterblood",
+  "slug": "july-8th-soccermonsterblood",
+  "language": "en",
+  "dateCreated": "2026-07-08",
+  "datePublished": "2026-07-08",
+  "dateModified": "2026-07-08",
+  "timeFelt": {
+    "date": "2026-07-08",
+    "time": "",
+    "phase": "Trickster Prophet"
+  },
+  "phase": {
+    "name": "Trickster Prophet",
+    "variant": "Fractured Translation",
+    "subcurrent": "Adaptive Witness",
+    "family": "Ash Moon Family"
+  },
+  "keywords": [
+    "soccer",
+    "allowed cheating",
+    "rules",
+    "freedom",
+    "moral scruple",
+    "human interaction",
+    "Monster Blood Tattoo",
+    "neglected books"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Allowed Cheating",
+      "meaning": "Soccer appears as a rule-bound field where tactical deception becomes socially legible rather than merely forbidden.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Morally Scrupulous Advantage",
+      "meaning": "The post translates sport into a model of human interaction where virtue and advantage do not cleanly align.",
+      "position": "middle"
+    },
+    {
+      "symbol": "Monster Blood Tattoo",
+      "meaning": "The closing pivot keeps the artifact deliberately discontinuous, preserving a second unresolved judgment about cultural reception.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "Soccer might better represent the state of human interaction than any other sport.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "2ace8324006a660081e0ec110b14e766becea9d9b301f2517fdbc993e8ede38f"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-07-10T15:05:40-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/july-8th-soccermonsterblood",
+      "work/live-run/july-8th-soccermonsterblood.source.json",
+      "work/live-run/july-8th-soccermonsterblood.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-07-10T15:05:40-07:00",
+        "editor": "Codex",
+        "notes": "Manual live RSS extraction performed with user permission. Classified from the actual post text as Trickster Prophet with Fractured Translation and Adaptive Witness because the post converts sport into a moral-social translation problem, then preserves a sharp discontinuous literary question without forcing synthesis."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-07-08.july-8th-soccermonsterblood.phase-trickster-prophet.variant-fractured-translation.subcurrent-adaptive-witness.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/july-8th-soccermonsterblood.source.txt."
+  }
+}

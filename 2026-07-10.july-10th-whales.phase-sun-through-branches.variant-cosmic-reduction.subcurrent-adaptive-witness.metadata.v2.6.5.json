@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:d3322915-c817-46d6-a91e-d7c0fd44d732",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "JULY 10TH whales",
+  "subtitle": "",
+  "description": "A nonhuman-intelligence noticing artifact that stays with squid opacity, whale social ceremony, and whales playing skill games with seaweed.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/july-10th-whales",
+  "slug": "july-10th-whales",
+  "language": "en",
+  "dateCreated": "2026-07-10",
+  "datePublished": "2026-07-10",
+  "dateModified": "2026-07-10",
+  "timeFelt": {
+    "date": "2026-07-10",
+    "time": "",
+    "phase": "Sun Through Branches"
+  },
+  "phase": {
+    "name": "Sun Through Branches",
+    "variant": "Cosmic Reduction",
+    "subcurrent": "Adaptive Witness",
+    "family": "Pale Moon & Sun"
+  },
+  "keywords": [
+    "colossal squid",
+    "scientists",
+    "sperm whales",
+    "war heroes",
+    "seaweed games",
+    "animal intelligence",
+    "nonhuman agency",
+    "not knowing"
+  ],
+  "motifMap": [
+    {
+      "symbol": "The Colossal Squid",
+      "meaning": "An encounter with nonhuman behavior is held as real while its particulars remain beyond the writer's grasp.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Returning War Heroes",
+      "meaning": "Whale social behavior is noticed through a human analogy without collapsing fully into explanation.",
+      "position": "middle"
+    },
+    {
+      "symbol": "Seaweed Games",
+      "meaning": "Play and skill become the final evidence of a wider intelligence glimpsed in ordinary material.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "Sperm whales play games with seaweed. Games of skill.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "7e77fa253a93326e02ac50fef4649111c3341a542dbe6161f1ae299f221b8737"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-07-10T15:05:40-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/july-10th-whales",
+      "work/live-run/july-10th-whales.source.json",
+      "work/live-run/july-10th-whales.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-07-10T15:05:40-07:00",
+        "editor": "Codex",
+        "notes": "Manual live RSS extraction performed with user permission. Classified from the actual post text as Sun Through Branches with Cosmic Reduction and Adaptive Witness because the post reduces vast nonhuman intelligence into three clear observed particulars while preserving humility about what cannot be grasped."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-07-10.july-10th-whales.phase-sun-through-branches.variant-cosmic-reduction.subcurrent-adaptive-witness.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/july-10th-whales.source.txt."
+  }
+}
