@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:1b0a0215-665c-459a-b603-16a6c823cb20",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "July 12th",
+  "subtitle": "",
+  "description": "A three-note practice artifact moving through yoga-teacher judgment and correction, a question about talking through the past, and the surprise of a basic left hook becoming novel.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/july-12th",
+  "slug": "july-12th",
+  "language": "en",
+  "dateCreated": "2026-07-12",
+  "datePublished": "2026-07-12",
+  "dateModified": "2026-07-12",
+  "timeFelt": {
+    "date": "2026-07-12",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "Motion",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "yoga teacher",
+    "correction",
+    "past",
+    "talking",
+    "Alex Pereira",
+    "left hook",
+    "basic movement",
+    "self-watching"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Male Yoga Teacher",
+      "meaning": "A judgment about embodied instruction is immediately revised, showing the observation correcting itself in public.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Talking About the Past",
+      "meaning": "The second note turns the attention back toward why old material is surfacing now.",
+      "position": "middle"
+    },
+    {
+      "symbol": "Left Hook Surprise",
+      "meaning": "A basic movement becomes newly impactful through timing and surprise.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "I have yet to have a really great male yoga teacher. [correction I've had very good ones.]",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "57fe6dce8693b1f84a0a2a7977e7d540d7eb16c42be79b7d42e86f94cfe323dd"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-07-14T10:31:51-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/july-12th",
+      "work/live-run/july-12th.source.json",
+      "work/live-run/july-12th.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-07-14T10:31:51-07:00",
+        "editor": "Codex",
+        "notes": "Manual live RSS extraction performed with user permission. Classified from the actual post text as Desert Faith with Motion and Methodic Self-Watching because the post joins embodied practice, revision of judgment, past-oriented self-inquiry, and the novelty of basic physical movement."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-07-12.july-12th.phase-desert-faith.variant-motion.subcurrent-methodic-self-watching.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/july-12th.source.txt."
+  }
+}

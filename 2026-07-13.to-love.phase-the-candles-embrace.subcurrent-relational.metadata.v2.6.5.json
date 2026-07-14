@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:9814a88f-ec30-4103-98ad-997d4350b60d",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "To love",
+  "subtitle": "",
+  "description": "A devotional compression equating love of God with love of the world through the offered son as the sign of divine relation.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/to-love",
+  "slug": "to-love",
+  "language": "en",
+  "dateCreated": "2026-07-13",
+  "datePublished": "2026-07-13",
+  "dateModified": "2026-07-13",
+  "timeFelt": {
+    "date": "2026-07-13",
+    "time": "",
+    "phase": "The Candle's Embrace"
+  },
+  "phase": {
+    "name": "The Candle's Embrace",
+    "variant": "",
+    "subcurrent": "Relational",
+    "family": "Candle Family"
+  },
+  "keywords": [
+    "love God",
+    "love the world",
+    "devotion",
+    "only son",
+    "John 3:16",
+    "world-love",
+    "divine relation"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Love God, Love the World",
+      "meaning": "The central equation makes devotion inseparable from care for the created world.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Only Son",
+      "meaning": "The scriptural allusion grounds worldly love in divine offering and relation.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "To love God, is to love the world.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "9cfedea785fa603ff059655d735f9aba9e3b0326aa7cbd813e49cf16f5d7c49f"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-07-14T10:31:51-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/to-love",
+      "work/live-run/to-love.source.json",
+      "work/live-run/to-love.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-07-14T10:31:51-07:00",
+        "editor": "Codex",
+        "notes": "Manual live RSS extraction performed with user permission. Classified from the actual post text as The Candle's Embrace with Relational subcurrent because the entire artifact defines divine love as embrace of the world through a scriptural relation."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-07-13.to-love.phase-the-candles-embrace.subcurrent-relational.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/to-love.source.txt."
+  }
+}

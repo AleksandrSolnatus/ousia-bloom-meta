@@ -1,0 +1,95 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:98bbb35f-7a72-4246-9aa9-6723eb6205ff",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Hey Baby",
+  "subtitle": "",
+  "description": "A title-only relational call whose empty body leaves address, intimacy, and invocation as the whole artifact.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/hey-baby",
+  "slug": "hey-baby",
+  "language": "en",
+  "dateCreated": "2026-07-11",
+  "datePublished": "2026-07-11",
+  "dateModified": "2026-07-11",
+  "timeFelt": {
+    "date": "2026-07-11",
+    "time": "",
+    "phase": "The Child of the Call"
+  },
+  "phase": {
+    "name": "The Child of the Call",
+    "variant": "",
+    "subcurrent": "Relational",
+    "family": "Liminal / Cosmological Rooms"
+  },
+  "keywords": [
+    "address",
+    "baby",
+    "relational call",
+    "empty body",
+    "invocation",
+    "minimal artifact"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Hey Baby",
+      "meaning": "The artifact consists entirely of an intimate address, making the call itself the content.",
+      "position": "complete"
+    },
+    {
+      "symbol": "Empty Body",
+      "meaning": "The absence of body text leaves relational contact unresolved rather than explained.",
+      "position": "complete"
+    }
+  ],
+  "excerpt": "Hey Baby",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-07-14T10:31:51-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/hey-baby",
+      "work/live-run/hey-baby.source.json",
+      "work/live-run/hey-baby.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-07-14T10:31:51-07:00",
+        "editor": "Codex",
+        "notes": "Manual live RSS extraction performed with user permission. Classified from the live source packet as The Child of the Call with Relational subcurrent because the post has an empty body and its only textual content is a direct intimate address in the title."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-07-11.hey-baby.phase-the-child-of-the-call.subcurrent-relational.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/hey-baby.source.txt."
+  }
+}

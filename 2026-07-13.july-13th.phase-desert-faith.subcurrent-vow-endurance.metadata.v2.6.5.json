@@ -1,0 +1,102 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:3673743d-332c-46cc-8fb8-69cc354ec6ba",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "July 13th",
+  "subtitle": "",
+  "description": "A faith-centered noticing artifact contrasting the excitement of sin with God's sustaining offer, then grounding divine plan beside the mortality and spectacle of sports culture.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/july-13th",
+  "slug": "july-13th",
+  "language": "en",
+  "dateCreated": "2026-07-13",
+  "datePublished": "2026-07-13",
+  "dateModified": "2026-07-13",
+  "timeFelt": {
+    "date": "2026-07-13",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "",
+    "subcurrent": "Vow (Endurance)",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "sin",
+    "God",
+    "sustaining offer",
+    "Gods plan",
+    "Craig Sager",
+    "Bruce Buffer",
+    "wild suits",
+    "faith endurance"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Building in Sin",
+      "meaning": "The opening frames compromised foundations as something that cannot be separated from what is built on them.",
+      "position": "opening"
+    },
+    {
+      "symbol": "God's Offer",
+      "meaning": "Faith appears not as excitement but as sustaining structure and endurance.",
+      "position": "middle"
+    },
+    {
+      "symbol": "Wild Suits After Sager",
+      "meaning": "The closing sports-culture observation sets mortality, inheritance, and spectacle beside the devotional claim.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "Building in sin means you build in sin. God's offer is less exciting, but it sustains.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "3df76afcd25491288a9c58569c1c447beaf41f971ad14d15bbb7a5072a2110b4"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-07-14T10:31:51-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/july-13th",
+      "work/live-run/july-13th.source.json",
+      "work/live-run/july-13th.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-07-14T10:31:51-07:00",
+        "editor": "Codex",
+        "notes": "Manual live RSS extraction performed with user permission. Classified from the actual post text as Desert Faith with Vow (Endurance) because the piece centers God's sustaining plan over excitement, treating faith as the durable structure beneath action and spectacle."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-07-13.july-13th.phase-desert-faith.subcurrent-vow-endurance.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/july-13th.source.txt."
+  }
+}
