@@ -5,7 +5,7 @@
   "artifactClass": "post",
   "title": "Hey Baby",
   "subtitle": "",
-  "description": "A title-only relational call whose empty body leaves address, intimacy, and invocation as the whole artifact.",
+  "description": "An image-centered relational call: the title addresses the viewer while the post body is a photograph of the author partly hidden behind a hand-drawn creature-like figure.",
   "author": {
     "name": "UNNAMED",
     "role": "author"
@@ -31,20 +31,28 @@
     "address",
     "baby",
     "relational call",
-    "empty body",
-    "invocation",
-    "minimal artifact"
+    "image post",
+    "self-concealment",
+    "drawing",
+    "creature figure",
+    "car interior",
+    "playful mask"
   ],
   "motifMap": [
     {
       "symbol": "Hey Baby",
-      "meaning": "The artifact consists entirely of an intimate address, making the call itself the content.",
-      "position": "complete"
+      "meaning": "The intimate title frames the image as a direct relational gesture rather than a captioned explanation.",
+      "position": "title"
     },
     {
-      "symbol": "Empty Body",
-      "meaning": "The absence of body text leaves relational contact unresolved rather than explained.",
-      "position": "complete"
+      "symbol": "Paper Creature Mask",
+      "meaning": "A hand-drawn creature-like figure held before the face turns self-presentation into playful concealment and address.",
+      "position": "image"
+    },
+    {
+      "symbol": "Car Interior",
+      "meaning": "The ordinary vehicle setting keeps the artifact grounded in a casual, immediate moment rather than a staged portrait.",
+      "position": "background"
     }
   ],
   "excerpt": "Hey Baby",
@@ -52,7 +60,16 @@
     "method": "sha256",
     "value": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
   },
-  "associatedMedia": [],
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Primary Substack image post: a photograph inside a car, with the author partly hidden behind a sheet of paper showing a hand-drawn creature-like figure.",
+      "contentUrl": "https://substack-post-media.s3.amazonaws.com/public/images/432c2ec1-1605-47bb-b79d-fbb53e8ed0d4_3088x2316.jpeg",
+      "credit": "",
+      "license": "",
+      "altText": "A person in a car holds up a white sheet of paper with a hand-drawn creature-like figure, partly covering their face."
+    }
+  ],
   "provenance": {
     "schemaBoundaryRef": {
       "file": "bloom.schema-demarcation.2026-01-26.json",
@@ -77,19 +94,25 @@
       "URL: https://wanderersburn.substack.com/p/hey-baby",
       "work/live-run/hey-baby.source.json",
       "work/live-run/hey-baby.source.txt",
-      "work/live-run/feed.xml"
+      "work/live-run/feed.xml",
+      "RSS enclosure image: https://substack-post-media.s3.amazonaws.com/public/images/432c2ec1-1605-47bb-b79d-fbb53e8ed0d4_3088x2316.jpeg"
     ],
     "editHistory": [
       {
         "timestamp": "2026-07-14T10:31:51-07:00",
         "editor": "Codex",
         "notes": "Manual live RSS extraction performed with user permission. Classified from the live source packet as The Child of the Call with Relational subcurrent because the post has an empty body and its only textual content is a direct intimate address in the title."
+      },
+      {
+        "timestamp": "2026-07-14T11:05:00-07:00",
+        "editor": "Codex",
+        "notes": "Corrected after user-provided screenshots showed the post is image-centered, not title-only. RSS feed contains an image enclosure and gallery payload; metadata now records the primary image in associatedMedia while preserving the empty text body fingerprint."
       }
     ]
   },
   "integrity": {
     "canonicalFieldOrder": true,
     "doNotRetroEditV1": true,
-    "notes": "Filename: 2026-07-11.hey-baby.phase-the-child-of-the-call.subcurrent-relational.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/hey-baby.source.txt."
+    "notes": "Filename: 2026-07-11.hey-baby.phase-the-child-of-the-call.subcurrent-relational.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/hey-baby.source.txt; text body is empty because the Substack artifact is image-centered, with the primary image recorded in associatedMedia from the RSS enclosure/gallery payload."
   }
 }
