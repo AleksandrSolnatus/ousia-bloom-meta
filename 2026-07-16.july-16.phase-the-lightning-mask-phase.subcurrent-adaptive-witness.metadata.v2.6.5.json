@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:4625e324-6267-48f0-b281-711c0287f470",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "July 16",
+  "subtitle": "",
+  "description": "A one-sentence devotional signal note registering frequent divine address without expanding it into explanation.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/july-16",
+  "slug": "july-16",
+  "language": "en",
+  "dateCreated": "2026-07-16",
+  "datePublished": "2026-07-16",
+  "dateModified": "2026-07-16",
+  "timeFelt": {
+    "date": "2026-07-16",
+    "time": "",
+    "phase": "The Lightning Mask Phase"
+  },
+  "phase": {
+    "name": "The Lightning Mask Phase",
+    "variant": "",
+    "subcurrent": "Adaptive Witness",
+    "family": "Relational / Discernment"
+  },
+  "keywords": [
+    "God",
+    "divine speech",
+    "signal",
+    "discernment",
+    "listening",
+    "short note",
+    "witness"
+  ],
+  "motifMap": [
+    {
+      "symbol": "God Talking",
+      "meaning": "Divine communication is presented as active and abundant, with no interpretive argument attached.",
+      "position": "complete"
+    },
+    {
+      "symbol": "A Lot",
+      "meaning": "The compression of the line makes frequency itself the noticed phenomenon.",
+      "position": "complete"
+    }
+  ],
+  "excerpt": "God is talking a lot.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "0cbf0d830027e7db36627a16c41d601a47d84250051a1150cbf03aad8051304d"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-07-17T20:39:01-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/july-16",
+      "work/live-run/july-16.source.json",
+      "work/live-run/july-16.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-07-17T20:39:01-07:00",
+        "editor": "Codex",
+        "notes": "Manual live RSS extraction performed with user permission. Classified from the actual post text as The Lightning Mask Phase with Adaptive Witness because the entire artifact is a charged discernment signal: divine speech is noticed as frequent, without forcing an explanation or conclusion."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-07-16.july-16.phase-the-lightning-mask-phase.subcurrent-adaptive-witness.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/july-16.source.txt."
+  }
+}

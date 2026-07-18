@@ -1,0 +1,96 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:af3744f0-fe60-4e2a-8e2f-01e6ae0c87a1",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "July 17",
+  "subtitle": "",
+  "description": "A compact epistemic note about hindsight inevitability and the felt improvement of ChatGPT.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/july-17",
+  "slug": "july-17",
+  "language": "en",
+  "dateCreated": "2026-07-18",
+  "datePublished": "2026-07-18",
+  "dateModified": "2026-07-18",
+  "timeFelt": {
+    "date": "2026-07-18",
+    "time": "",
+    "phase": "The Loom and the Horizon"
+  },
+  "phase": {
+    "name": "The Loom and the Horizon",
+    "variant": "",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Liminal / Cosmological Rooms"
+  },
+  "keywords": [
+    "results",
+    "hindsight",
+    "inevitability",
+    "after the fact",
+    "ChatGPT",
+    "AI improvement",
+    "epistemic noticing"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Inevitable After the Fact",
+      "meaning": "The opening catches hindsight bias as a way results become falsely obvious once they have happened.",
+      "position": "opening"
+    },
+    {
+      "symbol": "ChatGPT Has Gotten Very Good",
+      "meaning": "The second note places the same attention on model capability, registering a changed horizon of tool intelligence.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "Results are assumed inevitable after the fact.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "4cc266c145e190f1658a4ae5748883ec5cd5299652428539a1b3cda2a25bb589"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-07-17T20:39:01-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/july-17",
+      "work/live-run/july-17.source.json",
+      "work/live-run/july-17.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-07-17T20:39:01-07:00",
+        "editor": "Codex",
+        "notes": "Manual live RSS extraction performed with user permission. Classified from the actual post text as The Loom and the Horizon with Methodic Self-Watching because the post observes hindsight inevitability and changing AI capability as epistemic conditions rather than rushing them into a larger claim."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-07-18.july-17.phase-the-loom-and-the-horizon.subcurrent-methodic-self-watching.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/july-17.source.txt."
+  }
+}

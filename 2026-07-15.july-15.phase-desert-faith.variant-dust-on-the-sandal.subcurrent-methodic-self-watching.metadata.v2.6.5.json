@@ -1,0 +1,108 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:65bf8179-bfab-446d-8b82-f567905d4e96",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "July 15",
+  "subtitle": "",
+  "description": "A seasonal and civic-friction noticing artifact about summer, winter, Arizona heat, traffic as loading, and a sharp aside on identity talk.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/july-15",
+  "slug": "july-15",
+  "language": "en",
+  "dateCreated": "2026-07-15",
+  "datePublished": "2026-07-15",
+  "dateModified": "2026-07-15",
+  "timeFelt": {
+    "date": "2026-07-15",
+    "time": "",
+    "phase": "Desert Faith"
+  },
+  "phase": {
+    "name": "Desert Faith",
+    "variant": "Dust on the Sandal",
+    "subcurrent": "Methodic Self-Watching",
+    "family": "Desert Family"
+  },
+  "keywords": [
+    "summer",
+    "winter",
+    "Arizona heat",
+    "seasonal time",
+    "city traffic",
+    "loading",
+    "identity talk",
+    "irritation",
+    "place"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Summer and Winter",
+      "meaning": "The post notices seasons as both endless while present and vanished once past.",
+      "position": "opening"
+    },
+    {
+      "symbol": "Arizona Heat",
+      "meaning": "A place with less seasonal contrast still carries the same felt cycle of arrival, endurance, and disappearance.",
+      "position": "middle"
+    },
+    {
+      "symbol": "Traffic Loading",
+      "meaning": "Driving through the city becomes a stalled interface, a bodily patience problem.",
+      "position": "middle"
+    },
+    {
+      "symbol": "Not Interested",
+      "meaning": "The final line records an irritated boundary around identity-performance language.",
+      "position": "closing"
+    }
+  ],
+  "excerpt": "Living in a place with both summer and winter. Each felt as if it would never come, never end, and was gone in a flash.",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "33e7f4d755c633c241caaeb70596a641c3032e078fa665449fd308a59288d596"
+  },
+  "associatedMedia": [],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-07-17T20:39:01-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/july-15",
+      "work/live-run/july-15.source.json",
+      "work/live-run/july-15.source.txt",
+      "work/live-run/feed.xml"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-07-17T20:39:01-07:00",
+        "editor": "Codex",
+        "notes": "Manual live RSS extraction performed with user permission. Classified from the actual post text as Desert Faith with Dust on the Sandal and Methodic Self-Watching because the post moves through weather, Arizona heat, traffic friction, and an irritated self-observed boundary in ordinary life."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-07-15.july-15.phase-desert-faith.variant-dust-on-the-sandal.subcurrent-methodic-self-watching.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/july-15.source.txt."
+  }
+}

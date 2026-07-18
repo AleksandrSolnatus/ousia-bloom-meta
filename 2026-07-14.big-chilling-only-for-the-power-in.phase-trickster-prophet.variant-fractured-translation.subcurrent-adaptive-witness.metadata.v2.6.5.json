@@ -1,0 +1,115 @@
+{
+  "schemaVersion": "2.6.5",
+  "id": "urn:uuid:d5b897c7-18b8-4f3f-9a59-07782f240053",
+  "type": "bloomArtifact",
+  "artifactClass": "post",
+  "title": "Big Chilling only for the Power in your name",
+  "subtitle": "",
+  "description": "An image-centered artifact pairing a playful, power-in-the-name title with a photographed abstract pencil drawing on folded paper, laid over printed text.",
+  "author": {
+    "name": "UNNAMED",
+    "role": "author"
+  },
+  "canonicalUrl": "https://wanderersburn.substack.com/p/big-chilling-only-for-the-power-in",
+  "slug": "big-chilling-only-for-the-power-in",
+  "language": "en",
+  "dateCreated": "2026-07-14",
+  "datePublished": "2026-07-14",
+  "dateModified": "2026-07-14",
+  "timeFelt": {
+    "date": "2026-07-14",
+    "time": "",
+    "phase": "Trickster Prophet"
+  },
+  "phase": {
+    "name": "Trickster Prophet",
+    "variant": "Fractured Translation",
+    "subcurrent": "Adaptive Witness",
+    "family": "Ash Moon Family"
+  },
+  "keywords": [
+    "image post",
+    "abstract drawing",
+    "folded paper",
+    "printed text",
+    "power in your name",
+    "visual fragment",
+    "creature face",
+    "doodle",
+    "translation"
+  ],
+  "motifMap": [
+    {
+      "symbol": "Power in Your Name",
+      "meaning": "The title frames naming as a charged or playful source of force before the image supplies a nonverbal body.",
+      "position": "title"
+    },
+    {
+      "symbol": "Fragmented Pencil Creature",
+      "meaning": "The drawing gathers face-like, creature-like, and patterned marks into a visual language that resists literal reading.",
+      "position": "image"
+    },
+    {
+      "symbol": "Drawing Over Printed Text",
+      "meaning": "The image layers handmade mark-making over an already printed page, turning ordinary reading material into a field for translation and interruption.",
+      "position": "background"
+    }
+  ],
+  "excerpt": "Big Chilling only for the Power in your name",
+  "bodyFingerprint": {
+    "method": "sha256",
+    "value": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "associatedMedia": [
+    {
+      "type": "image",
+      "description": "Primary Substack image post: a photographed abstract pencil drawing on folded paper, laid over printed text, with a fragmented creature- or face-like form and patterned interior sections.",
+      "contentUrl": "https://substack-post-media.s3.amazonaws.com/public/images/6b0609db-4a81-4d62-99c7-9fbd82947b79_2316x3088.heic",
+      "credit": "",
+      "license": "",
+      "altText": "A folded sheet of paper with an abstract pencil drawing, partly creature-like or face-like, photographed on top of printed text."
+    }
+  ],
+  "provenance": {
+    "schemaBoundaryRef": {
+      "file": "bloom.schema-demarcation.2026-01-26.json",
+      "dateEstablished": "2026-01-26"
+    },
+    "phaseCanonRef": {
+      "file": "bloom.phase-canon.recompiled.2026-01-26.txt",
+      "version": "1.5",
+      "dateEstablished": "2026-01-26"
+    },
+    "legacyPolicy": "no-backfill",
+    "generatedBy": {
+      "agentName": "Codex",
+      "model": "GPT-5",
+      "provider": "OpenAI"
+    },
+    "generatedOn": "2026-07-17T20:39:01-07:00",
+    "generationMode": "ORACLE",
+    "sourceInputs": [
+      "ORACLE_DIRECTIVE_V2.6.5.txt",
+      "Phases Cannon 1.5 (01:26:26).txt",
+      "URL: https://wanderersburn.substack.com/p/big-chilling-only-for-the-power-in",
+      "work/live-run/big-chilling-only-for-the-power-in.source.json",
+      "work/live-run/big-chilling-only-for-the-power-in.source.txt",
+      "work/live-run/feed.xml",
+      "RSS enclosure image: https://substack-post-media.s3.amazonaws.com/public/images/6b0609db-4a81-4d62-99c7-9fbd82947b79_2316x3088.heic",
+      "work/live-run/big-chilling-only-for-the-power-in.image.heic",
+      "work/live-run/big-chilling-only-for-the-power-in.image.png"
+    ],
+    "editHistory": [
+      {
+        "timestamp": "2026-07-17T20:39:01-07:00",
+        "editor": "Codex",
+        "notes": "Manual live RSS extraction performed with user permission. Classified from the actual image post as Trickster Prophet with Fractured Translation and Adaptive Witness because the artifact translates a charged title into an abstract visual language of folded paper, layered text, and creature-like marks while preserving ambiguity rather than explaining it."
+      }
+    ]
+  },
+  "integrity": {
+    "canonicalFieldOrder": true,
+    "doNotRetroEditV1": true,
+    "notes": "Filename: 2026-07-14.big-chilling-only-for-the-power-in.phase-trickster-prophet.variant-fractured-translation.subcurrent-adaptive-witness.metadata.v2.6.5.json. Body fingerprint validates against work/live-run/big-chilling-only-for-the-power-in.source.txt; text body is empty because the Substack artifact is image-centered, with the primary image recorded in associatedMedia from the RSS enclosure/gallery payload."
+  }
+}
